@@ -1,0 +1,245 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	mpath.owl	dc11:description		
+ERROR	duplicate_label	systemic plasmacytosis [MPATH:853]	label [rdfs:label]	systemic plasmacytosis	
+ERROR	duplicate_label	systemic plasmacytosis [MPATH:876]	label [rdfs:label]	systemic plasmacytosis	
+ERROR	duplicate_label	sarcoma [MPATH:550]	label [rdfs:label]	sarcoma	
+ERROR	duplicate_label	sarcoma [MPATH:551]	label [rdfs:label]	sarcoma	
+ERROR	duplicate_label	plasmacytosis [MPATH:852]	label [rdfs:label]	plasmacytosis	
+ERROR	duplicate_label	plasmacytosis [MPATH:874]	label [rdfs:label]	plasmacytosis	
+ERROR	duplicate_label	odontogenic tumor [MPATH:379]	label [rdfs:label]	odontogenic tumor	
+ERROR	duplicate_label	odontogenic tumor [MPATH:386]	label [rdfs:label]	odontogenic tumor	
+ERROR	duplicate_label	nephroblastomatosis [MPATH:574]	label [rdfs:label]	nephroblastomatosis	
+ERROR	duplicate_label	nephroblastomatosis [MPATH:88]	label [rdfs:label]	nephroblastomatosis	
+ERROR	duplicate_label	histiocytic sarcoma [MPATH:414]	label [rdfs:label]	histiocytic sarcoma	
+ERROR	duplicate_label	histiocytic sarcoma [MPATH:506]	label [rdfs:label]	histiocytic sarcoma	
+ERROR	duplicate_label	granular cell tumor [MPATH:413]	label [rdfs:label]	granular cell tumor	
+ERROR	duplicate_label	granular cell tumor [MPATH:569]	label [rdfs:label]	granular cell tumor	
+ERROR	duplicate_label	developmental hypoplasia [MPATH:65]	label [rdfs:label]	developmental hypoplasia	
+ERROR	duplicate_label	developmental hypoplasia [MPATH:703]	label [rdfs:label]	developmental hypoplasia	
+ERROR	duplicate_label	cutaneous plasmacytosis [MPATH:854]	label [rdfs:label]	cutaneous plasmacytosis	
+ERROR	duplicate_label	cutaneous plasmacytosis [MPATH:875]	label [rdfs:label]	cutaneous plasmacytosis	
+ERROR	missing_ontology_license	mpath.owl	dc:license		
+ERROR	missing_ontology_title	mpath.owl	dc11:title		
+WARN	annotation_whitespace	embryonal rhabdomyosarcoma [MPATH:710]	hasExactSynonym [oboInOwl:hasExactSynonym]	Myosarcoma 	
+WARN	annotation_whitespace	embryonal rhabdomyosarcoma [MPATH:710]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	 Rhabdopoietic Sarcoma	
+WARN	annotation_whitespace	embryonal rhabdomyosarcoma [MPATH:710]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	 Sarcoma Botryoides [Soft Tissues]	
+WARN	annotation_whitespace	fibromatosis [MPATH:723]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	 Musculoaponeurotic Fibromatosis	
+WARN	missing_definition	autoimmune mediated disease [MPATH:346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blepharitis [MPATH:546]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epicarditis [MPATH:645]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chondroarthritis [MPATH:646]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interstitial nephritis [MPATH:647]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interstitial pancreatitis [MPATH:648]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	otitis media [MPATH:649]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	proliferative dermatitis [MPATH:650]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral glossitis [MPATH:651]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	langerhans cell histiocytosis [MPATH:653]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-Langerhans cell histiocytosis [MPATH:654]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lingual adenitis [MPATH:655]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rhinitis [MPATH:657]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foreign body rhinitis [MPATH:658]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foreign body dermatitis [MPATH:659]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastritis [MPATH:660]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foreign body gastritis [MPATH:661]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foreign body glossitis [MPATH:662]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peritonitis [MPATH:663]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granulomatous peritonitis [MPATH:664]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foreign body granulomatous peritonitis [MPATH:665]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	periodontitis [MPATH:666]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foreign body periodontitis [MPATH:667]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tracheitis [MPATH:668]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foreign body tracheitis [MPATH:669]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mastitis [MPATH:671]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mastocytosis [MPATH:672]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metritis [MPATH:673]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	osteomyelitis [MPATH:674]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	psoriasiform dermatitis [MPATH:675]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nephritis [MPATH:676]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyelonephritis [MPATH:677]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	septic nephritis [MPATH:678]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urocystitis [MPATH:679]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	septic urocystitis [MPATH:680]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	septicemia [MPATH:681]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arteritis [MPATH:682]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	degenerative arthritis [MPATH:683]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arthropathy [MPATH:684]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accessory organ [MPATH:685]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amputation [MPATH:686]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	autoamputation [MPATH:687]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortitis [MPATH:688]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lymphangitis [MPATH:689]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phlebitis [MPATH:690]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pustule [MPATH:691]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ulcerative blepharitis [MPATH:692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyometra [MPATH:693]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acidophilic anterior pituitary gland adenoma [MPATH:694]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spindle cell sarcoma [MPATH:695]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spindle cell hyperplasia [MPATH:696]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alopecia areata [MPATH:697]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exostosis [MPATH:698]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ankylosing exostosis [MPATH:699]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ascites [MPATH:700]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	developmental aspermia [MPATH:701]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acquired aspermia [MPATH:702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	developmental hypoplasia [MPATH:703]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thyroiditis [MPATH:704]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acinar atrophy [MPATH:705]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cryptorchidism [MPATH:706]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	angiolipoma [MPATH:707]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	situs ambiguus [MPATH:711]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heterotaxy [MPATH:712]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	situs ambiguus totalis [MPATH:713]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	situs inversus with levocardia [MPATH:714]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinusitis [MPATH:715]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ciliary motility defect [MPATH:716]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequestrum [MPATH:717]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bronchiectasia [MPATH:719]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	situs inversus [MPATH:720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chronic interstitial nephritis [MPATH:725]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemosiderosis [MPATH:726]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hepatic hemosiderosis [MPATH:727]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary hemosiderosis [MPATH:728]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	splenic melanosis [MPATH:729]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal tubular concretion [MPATH:730]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Leydig cell hyperplasia [MPATH:731]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tracheal gland ectasia [MPATH:732]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acute blepharitis [MPATH:734]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ovarian follicular cyst [MPATH:736]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retinal degeneration [MPATH:737]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uterine cystic endometrial hyperplasia [MPATH:738]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	<new term> [MPATH:778]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	focal pulmonary histiocytosis [MPATH:818]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	focal renal pelvic mineralisation. [MPATH:819]	IAO_0000115 [IAO:0000115]		
+WARN	invalid_xref	bronchioloalveolar adenoma [MPATH:272]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass	
+WARN	invalid_xref	bronchioloalveolar carcinoma [MPATH:273]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass	
+WARN	invalid_xref	melanoma [MPATH:359]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/skin_models/malignant_melanoma#melanoma_table	
+WARN	invalid_xref	small cell carcinoma [MPATH:371]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass	
+WARN	invalid_xref	prostate intra-epithelial neoplasia [MPATH:488]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/prostate_models/path_class_mouse	
+WARN	invalid_xref	Plasma cell neoplasms [MPATH:530]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/hema_models/hema_mouse_class	
+WARN	invalid_xref	plasmacytoma [MPATH:532]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/emice/mouse_models/organ_models/hema_models/hema_mouse_class	
+WARN	invalid_xref	Clara cell adenoma [MPATH:552]	hasDbXref [oboInOwl:hasDbXref]	URL: http://emice.nci.nih.gov/mouse_models/organ_models/lung_models/murinecancer/tumorclass	
+WARN	invalid_xref	situs ambiguus totalis [MPATH:713]	hasDbXref [oboInOwl:hasDbXref]	XX:<new dbxref>	
+WARN	invalid_xref	pseudocyesis [MPATH:759]	hasDbXref [oboInOwl:hasDbXref]	XX:<new xref>	
+WARN	missing_obsolete_label	epithelial dysplasia [MPATH:129]	label [rdfs:label]	epithelial dysplasia	
+WARN	missing_obsolete_label	general immunodeficiency disease [MPATH:203]	label [rdfs:label]	general immunodeficiency disease	
+WARN	missing_obsolete_label	chronic/recurrent inflammatory disease [MPATH:204]	label [rdfs:label]	chronic/recurrent inflammatory disease	
+WARN	missing_obsolete_label	immunodeficiency associated infection [MPATH:205]	label [rdfs:label]	immunodeficiency associated infection	
+WARN	missing_obsolete_label	ulcerative inflammation [MPATH:217]	label [rdfs:label]	ulcerative inflammation	
+WARN	missing_obsolete_label	hemangioendothelioma [MPATH:239]	label [rdfs:label]	hemangioendothelioma	
+WARN	missing_obsolete_label	ependymoma malignant [MPATH:248]	label [rdfs:label]	ependymoma malignant	
+WARN	missing_obsolete_label	intraductal carcinoma [MPATH:283]	label [rdfs:label]	intraductal carcinoma	
+WARN	missing_obsolete_label	androblastoma [MPATH:324]	label [rdfs:label]	androblastoma	
+WARN	missing_obsolete_label	fibrothecoma [MPATH:325]	label [rdfs:label]	fibrothecoma	
+WARN	missing_obsolete_label	gynandroblastoma [MPATH:327]	label [rdfs:label]	gynandroblastoma	
+WARN	missing_obsolete_label	sex cord tumor [MPATH:333]	label [rdfs:label]	sex cord tumor	
+WARN	missing_obsolete_label	leukaemia [MPATH:336]	label [rdfs:label]	leukaemia	
+WARN	missing_obsolete_label	granulocytic leukaemia [MPATH:338]	label [rdfs:label]	granulocytic leukaemia	
+WARN	missing_obsolete_label	lymphatic leukaemia [MPATH:339]	label [rdfs:label]	lymphatic leukaemia	
+WARN	missing_obsolete_label	lymphoma [MPATH:343]	label [rdfs:label]	lymphoma	
+WARN	missing_obsolete_label	follicle center cell lymphoma [MPATH:344]	label [rdfs:label]	follicle center cell lymphoma	
+WARN	missing_obsolete_label	immunoblastic lymphoma [MPATH:345]	label [rdfs:label]	immunoblastic lymphoma	
+WARN	missing_obsolete_label	small lymphocytic lymphoma [MPATH:347]	label [rdfs:label]	small lymphocytic lymphoma	
+WARN	missing_obsolete_label	thymic lymphoma [MPATH:348]	label [rdfs:label]	thymic lymphoma	
+WARN	missing_obsolete_label	mast cell tumor [MPATH:349]	label [rdfs:label]	mast cell tumor	
+WARN	missing_obsolete_label	mastocytoma [MPATH:350]	label [rdfs:label]	mastocytoma	
+WARN	missing_obsolete_label	mesothelial tumor [MPATH:364]	label [rdfs:label]	mesothelial tumor	
+WARN	missing_obsolete_label	endocrine adenocarcinoma [MPATH:368]	label [rdfs:label]	endocrine adenocarcinoma	
+WARN	missing_obsolete_label	endocrine adenoma [MPATH:369]	label [rdfs:label]	endocrine adenoma	
+WARN	missing_obsolete_label	odontogenic tumor [MPATH:386]	label [rdfs:label]	odontogenic tumor	
+WARN	missing_obsolete_label	chondroblastoma, malignant [MPATH:390]	label [rdfs:label]	chondroblastoma, malignant	
+WARN	missing_obsolete_label	glomus tumor [MPATH:402]	label [rdfs:label]	glomus tumor	
+WARN	missing_obsolete_label	granular cell tumor/alveolar sarcoma [MPATH:411]	label [rdfs:label]	granular cell tumor/alveolar sarcoma	
+WARN	missing_obsolete_label	histiocytic sarcoma [MPATH:414]	label [rdfs:label]	histiocytic sarcoma	
+WARN	missing_obsolete_label	myoblastoma [MPATH:427]	label [rdfs:label]	myoblastoma	
+WARN	missing_obsolete_label	neurilemmoma [MPATH:434]	label [rdfs:label]	neurilemmoma	
+WARN	missing_obsolete_label	synovioma [MPATH:441]	label [rdfs:label]	synovioma	
+WARN	missing_obsolete_label	normal [MPATH:458]	label [rdfs:label]	normal	
+WARN	missing_obsolete_label	pre-neoplastic lesions [MPATH:481]	label [rdfs:label]	pre-neoplastic lesions	
+WARN	missing_obsolete_label	atypical hyperplasia [MPATH:483]	label [rdfs:label]	atypical hyperplasia	
+WARN	missing_obsolete_label	carcinoma in situ [MPATH:485]	label [rdfs:label]	carcinoma in situ	
+WARN	missing_obsolete_label	B cell neoplasms [MPATH:514]	label [rdfs:label]	B cell neoplasms	
+WARN	missing_obsolete_label	sarcoma [MPATH:550]	label [rdfs:label]	sarcoma	
+WARN	missing_obsolete_label	Clara cell adenoma [MPATH:552]	label [rdfs:label]	Clara cell adenoma	
+WARN	missing_obsolete_label	aberrant crypt foci [MPATH:557]	label [rdfs:label]	aberrant crypt foci	
+WARN	missing_obsolete_label	granular cell tumor [MPATH:569]	label [rdfs:label]	granular cell tumor	
+WARN	missing_obsolete_label	Dysplasia [MPATH:588]	label [rdfs:label]	Dysplasia	
+WARN	missing_obsolete_label	Myeloma [MPATH:593]	label [rdfs:label]	Myeloma	
+WARN	missing_obsolete_label	degenerative entity [MPATH:598]	label [rdfs:label]	degenerative entity	
+WARN	missing_obsolete_label	Abscess [MPATH:612]	label [rdfs:label]	Abscess	
+WARN	missing_obsolete_label	developmental hypoplasia [MPATH:65]	label [rdfs:label]	developmental hypoplasia	
+WARN	missing_obsolete_label	ectopia [MPATH:69]	label [rdfs:label]	ectopia	
+WARN	missing_obsolete_label	nephroblastomatosis [MPATH:88]	label [rdfs:label]	nephroblastomatosis	
+INFO	lowercase_definition	epithelial dysplasia [MPATH:129]	IAO_0000115 [IAO:0000115]	epithelial dysplasia	
+INFO	lowercase_definition	nephrogenic metaplasia [MPATH:169]	IAO_0000115 [IAO:0000115]	.A rare benign neoplasm of the mucosa of the urinary bladder or the urethra, consisting of tubular structures resembling those of the nephron.	
+INFO	lowercase_definition	general immunodeficiency disease [MPATH:203]	IAO_0000115 [IAO:0000115]	general immunodeficiency disease	
+INFO	lowercase_definition	chronic/recurrent inflammatory disease [MPATH:204]	IAO_0000115 [IAO:0000115]	chronic/recurrent inflammatory disease	
+INFO	lowercase_definition	angiofibroma [MPATH:236]	IAO_0000115 [IAO:0000115]	.A benign neoplasm of fibrous tissue in which there are multiple large and small dilated vascular channels ( M9160/0).	
+INFO	lowercase_definition	hemangioendothelioma [MPATH:239]	IAO_0000115 [IAO:0000115]	hemangioendothelioma	
+INFO	lowercase_definition	ependymoma malignant [MPATH:248]	IAO_0000115 [IAO:0000115]	ependymoma malignant	
+INFO	lowercase_definition	meningioma [MPATH:251]	IAO_0000115 [IAO:0000115]	meningioma	
+INFO	lowercase_definition	androblastoma [MPATH:324]	IAO_0000115 [IAO:0000115]	obsolete use Sertoli cell tumor MPATH: 331.	
+INFO	lowercase_definition	fibrothecoma [MPATH:325]	IAO_0000115 [IAO:0000115]	obsolete use thecoma MPATH:334.	
+INFO	lowercase_definition	granulosa cell tumor [MPATH:326]	IAO_0000115 [IAO:0000115]	. Derived from sex cord stromal cells. In male thought to be Sertoli cells. (M- 8620/1).	
+INFO	lowercase_definition	gynandroblastoma [MPATH:327]	IAO_0000115 [IAO:0000115]	gynandroblastoma	
+INFO	lowercase_definition	sex cord tumor [MPATH:333]	IAO_0000115 [IAO:0000115]	sex cord tumor	
+INFO	lowercase_definition	leukaemia [MPATH:336]	IAO_0000115 [IAO:0000115]	leukaemia	
+INFO	lowercase_definition	granulocytic leukaemia [MPATH:338]	IAO_0000115 [IAO:0000115]	granulocytic leukaemia	
+INFO	lowercase_definition	lymphatic leukaemia [MPATH:339]	IAO_0000115 [IAO:0000115]	lymphatic leukaemia	
+INFO	lowercase_definition	lymphoma [MPATH:343]	IAO_0000115 [IAO:0000115]	lymphoma	
+INFO	lowercase_definition	follicle center cell lymphoma [MPATH:344]	IAO_0000115 [IAO:0000115]	follicle center cell lymphoma	
+INFO	lowercase_definition	immunoblastic lymphoma [MPATH:345]	IAO_0000115 [IAO:0000115]	immunoblastic lymphoma	
+INFO	lowercase_definition	small lymphocytic lymphoma [MPATH:347]	IAO_0000115 [IAO:0000115]	small lymphocytic lymphoma	
+INFO	lowercase_definition	thymic lymphoma [MPATH:348]	IAO_0000115 [IAO:0000115]	thymic lymphoma	
+INFO	lowercase_definition	mast cell tumor [MPATH:349]	IAO_0000115 [IAO:0000115]	mast cell tumor	
+INFO	lowercase_definition	mastocytoma [MPATH:350]	IAO_0000115 [IAO:0000115]	mastocytoma	
+INFO	lowercase_definition	mesothelial tumor [MPATH:364]	IAO_0000115 [IAO:0000115]	mesothelial tumor	
+INFO	lowercase_definition	endocrine adenocarcinoma [MPATH:368]	IAO_0000115 [IAO:0000115]	obsolete.	
+INFO	lowercase_definition	endocrine adenoma [MPATH:369]	IAO_0000115 [IAO:0000115]	endocrine adenoma	
+INFO	lowercase_definition	odontogenic tumor [MPATH:386]	IAO_0000115 [IAO:0000115]	odontogenic tumor	
+INFO	lowercase_definition	chondroblastoma, malignant [MPATH:390]	IAO_0000115 [IAO:0000115]	chondroblastoma, malignant	
+INFO	lowercase_definition	glomus tumor [MPATH:402]	IAO_0000115 [IAO:0000115]	glomus tumor	
+INFO	lowercase_definition	granular cell tumor/alveolar sarcoma [MPATH:411]	IAO_0000115 [IAO:0000115]	granular cell tumor/alveolar sarcoma	
+INFO	lowercase_definition	histiocytic sarcoma [MPATH:414]	IAO_0000115 [IAO:0000115]	histiocytic sarcoma	
+INFO	lowercase_definition	myoblastoma [MPATH:427]	IAO_0000115 [IAO:0000115]	myoblastoma	
+INFO	lowercase_definition	neurilemmoma [MPATH:434]	IAO_0000115 [IAO:0000115]	neurilemmoma	
+INFO	lowercase_definition	synovioma [MPATH:441]	IAO_0000115 [IAO:0000115]	synovioma	
+INFO	lowercase_definition	obsolete [MPATH:459]	IAO_0000115 [IAO:0000115]	obsolete	
+INFO	lowercase_definition	stomach, oesophagus and pancreatic intra-epithelial neoplasia [MPATH:489]	IAO_0000115 [IAO:0000115]	stomach, oesophagus and pancreatic intra-epithelial neoplasia	
+INFO	lowercase_definition	mucinous carcinoma [MPATH:563]	IAO_0000115 [IAO:0000115]	carcinoma derived from gastrointestinal epithelium with a high mucinous content. (M-8480/3).	
+INFO	lowercase_definition	tumors of the meninges [MPATH:566]	IAO_0000115 [IAO:0000115]	tumors of the meninges	
+INFO	lowercase_definition	granular cell tumor [MPATH:569]	IAO_0000115 [IAO:0000115]	granular cell tumor	
+INFO	lowercase_definition	degenerative entity [MPATH:598]	IAO_0000115 [IAO:0000115]	degenerative entity	
+INFO	lowercase_definition	developmental process abnormalities [MPATH:599]	IAO_0000115 [IAO:0000115]	developmental process abnormalities	
+INFO	lowercase_definition	ectopia [MPATH:69]	IAO_0000115 [IAO:0000115]	ectopia	
+INFO	lowercase_definition	barbered [MPATH:752]	IAO_0000115 [IAO:0000115]	loss of hair resulting from a behavioral abnormality in which the mouse, or more often other mice mice in the same box, remove hairs, initially vibrissae, from each other.	
+INFO	lowercase_definition	scoliosis [MPATH:799]	IAO_0000115 [IAO:0000115]	scoliosis is an abnormal curvature of the spine. The spine curves away from the middle or sideways.	
+INFO	lowercase_definition	macrovesicular lipidosis [MPATH:815]	IAO_0000115 [IAO:0000115]	subtype of steatosis with Hepatocytes containing a large well-defined single rounded vacuole within each cell, nucleus and cytoplasm displaced to the periphery,	
+INFO	lowercase_definition	granulomatous dermatitis [MPATH:826]	IAO_0000115 [IAO:0000115]	granulomatous inflammation of the skin	
+INFO	lowercase_definition	chronic dermatitis [MPATH:827]	IAO_0000115 [IAO:0000115]	chronic inflammation of the skin	
+INFO	lowercase_definition	focal dermatitis [MPATH:828]	IAO_0000115 [IAO:0000115]	locally demarcated region of inflammation in the skin	
+INFO	lowercase_definition	true hermaphrodite [MPATH:829]	IAO_0000115 [IAO:0000115]	possession of both ovary and testis due to primary sex determination defect	
+INFO	lowercase_definition	regeneration [MPATH:830]	IAO_0000115 [IAO:0000115]	repair, reproduction, or replacement of lost or injured cells, tissues, or organs.	
+INFO	lowercase_definition	multifocal muscle regeneration [MPATH:831]	IAO_0000115 [IAO:0000115]	multilocular sites of muscle regeneration with centrally located nuclei.	
+INFO	lowercase_definition	paraphimosis [MPATH:832]	IAO_0000115 [IAO:0000115]	persistent retraction of the prepuce behind the glans penis	
+INFO	lowercase_definition	subacute inflammation [MPATH:833]	IAO_0000115 [IAO:0000115]	transition between acute and chronic inflammation.	
+INFO	lowercase_definition	ovarian tubulostromal tumor [MPATH:834]	IAO_0000115 [IAO:0000115]	non-malignant neoplasia of the ovary.	
+INFO	lowercase_definition	acute septic inflammation [MPATH:835]	IAO_0000115 [IAO:0000115]	acute inflammation due to infection.	
+INFO	lowercase_definition	dermal fibrosis [MPATH:836]	IAO_0000115 [IAO:0000115]	fibrosis in the skin	
+INFO	lowercase_definition	anaplastic carcinoma [MPATH:838]	IAO_0000115 [IAO:0000115]	carcinoma with an absence of epithelial structural differentiation.	
+INFO	lowercase_definition	anaplastic hepatocellular carcinoma [MPATH:839]	IAO_0000115 [IAO:0000115]	anaplastic carcinoma of the liver.	
+INFO	lowercase_definition	granulomatous arthritis [MPATH:840]	IAO_0000115 [IAO:0000115]	arthitis involving extensive macrophage infiltration into the joint.	
+INFO	lowercase_definition	coccygeal hemivertebrae [MPATH:842]	IAO_0000115 [IAO:0000115]	abnormally shaped vertebral body often triangular as opposed to rectangular.	
+INFO	lowercase_definition	foreign body acute pododermatitis [MPATH:846]	IAO_0000115 [IAO:0000115]	acute inflammation of the footpad caused by foreign body.	
+INFO	lowercase_definition	anaplastic mammary adenocarcinoma [MPATH:849]	IAO_0000115 [IAO:0000115]	poorly differentiated adenocarcinoma of the mammary gland	
+INFO	lowercase_definition	auricular deformation [MPATH:851]	IAO_0000115 [IAO:0000115]	acquired dysmorphology of the external pinna following trauma or infection.	
+INFO	lowercase_definition	multifocal bullous emphysema [MPATH:857]	IAO_0000115 [IAO:0000115]	mutilocular bullous emphysema	
+INFO	lowercase_definition	cholecystitis [MPATH:860]	IAO_0000115 [IAO:0000115]	inflammation of the gall bladder	
+INFO	lowercase_definition	edematous cholecystitis [MPATH:861]	IAO_0000115 [IAO:0000115]	cholecystitis associated with edema	
+INFO	lowercase_definition	focal ulcerative dermatitis [MPATH:863]	IAO_0000115 [IAO:0000115]	circumscribed ulceration of the skin penetrating the basement membrane as part of  inflammation process.	
+INFO	lowercase_definition	junctional epidermolysis bullosa [MPATH:870]	IAO_0000115 [IAO:0000115]	severe type of the disorder generally apparent at birth.Junctional epidermolysis bullosa involves defects in hemidesmosomes. t	
+INFO	lowercase_definition	cutaneous plasmacytosis [MPATH:875]	IAO_0000115 [IAO:0000115]	cutaneous manifestation of plasmacytosis	
+INFO	lowercase_definition	systemic plasmacytosis [MPATH:876]	IAO_0000115 [IAO:0000115]	systemic manifestation of plasmacytosis. Disseminated in the circulation.	
+INFO	lowercase_definition	nephroblastomatosis [MPATH:88]	IAO_0000115 [IAO:0000115]	nephroblastomatosis	
+INFO	lowercase_definition	foreign body gingivitis [MPATH:880]	IAO_0000115 [IAO:0000115]	inflammation of the tooth gum caused by a foreign body.	
+INFO	lowercase_definition	metastatic tumor [MPATH:885]	IAO_0000115 [IAO:0000115]	metastatic tumour of unspecified origin	
+INFO	missing_superclass	pathological entity [MPATH:0]	rdfs:subClassOf		

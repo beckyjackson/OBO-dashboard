@@ -1,0 +1,453 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	MALDI Synapt G2 MS [MS:1001772]	IAO_0000115 [IAO:0000115]	Waters oa-ToF based MALDI Synapt G2 MS.	
+ERROR	duplicate_definition	MALDI Synapt G2-S HDMS [MS:1001773]	IAO_0000115 [IAO:0000115]	Waters oa-ToF based MALDI Synapt G2 MS.	
+ERROR	duplicate_definition	The allowed value-type for this CV term. [MS:1001690]	IAO_0000115 [IAO:0000115]	Uses c ions for spectrum matching with this relative factor.	
+ERROR	duplicate_definition	The allowed value-type for this CV term. [MS:1001691]	IAO_0000115 [IAO:0000115]	Uses c ions for spectrum matching with this relative factor.	
+ERROR	duplicate_definition	ProteomeDiscoverer:SEQUEST:Weight of v Ions [MS:1001692]	IAO_0000115 [IAO:0000115]	Uses c ions for spectrum matching with this relative factor.	
+ERROR	duplicate_definition	ProteomeDiscoverer:SEQUEST:Weight of w Ions [MS:1001693]	IAO_0000115 [IAO:0000115]	Uses c ions for spectrum matching with this relative factor.	
+ERROR	duplicate_definition	fragment neutral loss [MS:1001524]	IAO_0000115 [IAO:0000115]	This term can describe a neutral loss m/z value that is lost from an ion.	
+ERROR	duplicate_definition	precursor neutral loss [MS:1001525]	IAO_0000115 [IAO:0000115]	This term can describe a neutral loss m/z value that is lost from an ion.	
+ERROR	duplicate_definition	Q Exactive [MS:1001911]	IAO_0000115 [IAO:0000115]	Thermo Scientific Q Exactive.	
+ERROR	duplicate_definition	Q Exactive HF [MS:1002523]	IAO_0000115 [IAO:0000115]	Thermo Scientific Q Exactive.	
+ERROR	duplicate_definition	Xcalibur [MS:1000532]	IAO_0000115 [IAO:0000115]	Thermo Finnigan software for data acquisition and analysis.	
+ERROR	duplicate_definition	Thermo Finnigan software [MS:1000693]	IAO_0000115 [IAO:0000115]	Thermo Finnigan software for data acquisition and analysis.	
+ERROR	duplicate_definition	TopPIC:mod file [MS:1002925]	IAO_0000115 [IAO:0000115]	The text file containing the information of common PTMs.	
+ERROR	duplicate_definition	TopMG:mod file [MS:1002943]	IAO_0000115 [IAO:0000115]	The text file containing the information of common PTMs.	
+ERROR	duplicate_definition	count of identified clusters [MS:1002406]	IAO_0000115 [IAO:0000115]	The number of protein clusters that have been identified, which must match the number of clusters that pass the threshold in the file.	
+ERROR	duplicate_definition	number of distinct protein sequences [MS:1002408]	IAO_0000115 [IAO:0000115]	The number of protein clusters that have been identified, which must match the number of clusters that pass the threshold in the file.	
+ERROR	duplicate_definition	plasma desorption [MS:1000134]	IAO_0000115 [IAO:0000115]	The ionization of material in a solid sample by bombarding it with ionic or neutral atoms formed as a result of the fission of a suitable nuclide, typically 252Cf. Synonymous with fission fragment ionization.	
+ERROR	duplicate_definition	plasma desorption ionization [MS:1000400]	IAO_0000115 [IAO:0000115]	The ionization of material in a solid sample by bombarding it with ionic or neutral atoms formed as a result of the fission of a suitable nuclide, typically 252Cf. Synonymous with fission fragment ionization.	
+ERROR	duplicate_definition	accelerating voltage [MS:1000304]	IAO_0000115 [IAO:0000115]	The electrical potential used to impart kinetic energy to ions in a mass spectrometer.	
+ERROR	duplicate_definition	ion optics type [MS:1000597]	IAO_0000115 [IAO:0000115]	The electrical potential used to impart kinetic energy to ions in a mass spectrometer.	
+ERROR	duplicate_definition	TopPIC:spectral cutoff value [MS:1002920]	IAO_0000115 [IAO:0000115]	Spectrum-level cutoff value for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	TopMG:spectral cutoff value [MS:1002940]	IAO_0000115 [IAO:0000115]	Spectrum-level cutoff value for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	TopPIC:spectral cutoff type [MS:1002919]	IAO_0000115 [IAO:0000115]	Spectrum-level cutoff type for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	TopMG:spectral cutoff type [MS:1002939]	IAO_0000115 [IAO:0000115]	Spectrum-level cutoff type for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	Genespring MS [MS:1000684]	IAO_0000115 [IAO:0000115]	Software for quantitation and statistical analysis of TOF and Q-TOF LC/MS data.	
+ERROR	duplicate_definition	MassHunter Mass Profiler [MS:1000685]	IAO_0000115 [IAO:0000115]	Software for quantitation and statistical analysis of TOF and Q-TOF LC/MS data.	
+ERROR	duplicate_definition	ChromaTOF software [MS:1001799]	IAO_0000115 [IAO:0000115]	Software for acquisition, processing and analysis of data for LECO instruments.	
+ERROR	duplicate_definition	ChromaTOF HRT software [MS:1001877]	IAO_0000115 [IAO:0000115]	Software for acquisition, processing and analysis of data for LECO instruments.	
+ERROR	duplicate_definition	MALDI Solutions [MS:1001558]	IAO_0000115 [IAO:0000115]	Shimadzu Biotech software for data acquisition, processing, and analysis.	
+ERROR	duplicate_definition	MALDI Solutions Microbial Identification [MS:1001878]	IAO_0000115 [IAO:0000115]	Shimadzu Biotech software for data acquisition, processing, and analysis.	
+ERROR	duplicate_definition	4000 Series Explorer Software [MS:1000659]	IAO_0000115 [IAO:0000115]	SCIEX or Applied Biosystems software for data acquisition and analysis.	
+ERROR	duplicate_definition	GPS Explorer [MS:1000661]	IAO_0000115 [IAO:0000115]	SCIEX or Applied Biosystems software for data acquisition and analysis.	
+ERROR	duplicate_definition	SCIEX software [MS:1000690]	IAO_0000115 [IAO:0000115]	SCIEX or Applied Biosystems software for data acquisition and analysis.	
+ERROR	duplicate_definition	TopPIC:proteoform-level cutoff value [MS:1002922]	IAO_0000115 [IAO:0000115]	Proteoform-level cutoff value for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	TopMG:proteoform-level cutoff value [MS:1002942]	IAO_0000115 [IAO:0000115]	Proteoform-level cutoff value for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	The allowed value-type for this CV term. [MS:1002921]	IAO_0000115 [IAO:0000115]	Proteoform-level cutoff type for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	TopMG:proteoform-level cutoff type [MS:1002941]	IAO_0000115 [IAO:0000115]	Proteoform-level cutoff type for filtering identified proteoform spectrum matches.	
+ERROR	duplicate_definition	TopPIC:use TopFD feature [MS:1002927]	IAO_0000115 [IAO:0000115]	Proteoform identification using TopFD feature file.	
+ERROR	duplicate_definition	TopMG:use TopFD feature [MS:1002945]	IAO_0000115 [IAO:0000115]	Proteoform identification using TopFD feature file.	
+ERROR	duplicate_definition	ProteomeDiscoverer:Mascot:Number of attempts to submit the search [MS:1001650]	IAO_0000115 [IAO:0000115]	Number of attempts to submit the Mascot search.	
+ERROR	duplicate_definition	ProteomeDiscoverer:Mascot:X Static Modification [MS:1001651]	IAO_0000115 [IAO:0000115]	Number of attempts to submit the Mascot search.	
+ERROR	duplicate_definition	Bruker/Agilent YEP nativeID format [MS:1000771]	IAO_0000115 [IAO:0000115]	Native format defined by scan=xsd:nonNegativeInteger.	
+ERROR	duplicate_definition	Bruker BAF nativeID format [MS:1000772]	IAO_0000115 [IAO:0000115]	Native format defined by scan=xsd:nonNegativeInteger.	
+ERROR	duplicate_definition	scan number only nativeID format [MS:1000776]	IAO_0000115 [IAO:0000115]	Native format defined by scan=xsd:nonNegativeInteger.	
+ERROR	duplicate_definition	Shimadzu Biotech QTOF nativeID format [MS:1002898]	IAO_0000115 [IAO:0000115]	Native format defined by scan=xsd:nonNegativeInteger.	
+ERROR	duplicate_definition	Bruker FID nativeID format [MS:1000773]	IAO_0000115 [IAO:0000115]	Native format defined by file=xsd:IDREF.	
+ERROR	duplicate_definition	single peak list nativeID format [MS:1000775]	IAO_0000115 [IAO:0000115]	Native format defined by file=xsd:IDREF.	
+ERROR	duplicate_definition	SCIEX TOF/TOF T2D nativeID format [MS:1001559]	IAO_0000115 [IAO:0000115]	Native format defined by file=xsd:IDREF.	
+ERROR	duplicate_definition	spectrum from database integer nativeID format [MS:1001526]	IAO_0000115 [IAO:0000115]	Native format defined by databasekey=xsd:long.	
+ERROR	duplicate_definition	spectrum from ProteinScape database nativeID format [MS:1001531]	IAO_0000115 [IAO:0000115]	Native format defined by databasekey=xsd:long.	
+ERROR	duplicate_definition	TruTOF [MS:1001804]	IAO_0000115 [IAO:0000115]	LECO bench-top GC time-of-flight mass spectrometer.	
+ERROR	duplicate_definition	Pegasus BT [MS:1002719]	IAO_0000115 [IAO:0000115]	LECO bench-top GC time-of-flight mass spectrometer.	
+ERROR	duplicate_definition	TopPIC:error tolerance [MS:1002915]	IAO_0000115 [IAO:0000115]	Error tolerance for precursor and fragment masses in PPM.	
+ERROR	duplicate_definition	TopMG:error tolerance [MS:1002937]	IAO_0000115 [IAO:0000115]	Error tolerance for precursor and fragment masses in PPM.	
+ERROR	duplicate_definition	OpenXQuest [MS:1002673]	IAO_0000115 [IAO:0000115]	Cross-Linking MS search engine.	
+ERROR	duplicate_definition	OpenPepXL [MS:1003023]	IAO_0000115 [IAO:0000115]	Cross-Linking MS search engine.	
+ERROR	duplicate_definition	multiple peak list nativeID format, combined spectra [MS:1002653]	IAO_0000115 [IAO:0000115]	Comma separated list of spectra that have been combined prior to searching or interpretation.	
+ERROR	duplicate_definition	The allowed value-type for this CV term. [MS:1002654]	IAO_0000115 [IAO:0000115]	Comma separated list of spectra that have been combined prior to searching or interpretation.	
+ERROR	duplicate_definition	scan number only nativeID format, combined spectra [MS:1002655]	IAO_0000115 [IAO:0000115]	Comma separated list of spectra that have been combined prior to searching or interpretation.	
+ERROR	duplicate_definition	The allowed value-type for this CV term. [MS:1002656]	IAO_0000115 [IAO:0000115]	Comma separated list of spectra that have been combined prior to searching or interpretation.	
+ERROR	duplicate_definition	mzML unique identifier, combined spectra [MS:1002657]	IAO_0000115 [IAO:0000115]	Comma separated list of spectra that have been combined prior to searching or interpretation.	
+ERROR	duplicate_definition	FlexAnalysis [MS:1000535]	IAO_0000115 [IAO:0000115]	Bruker software for data analysis.	
+ERROR	duplicate_definition	BioTools [MS:1000707]	IAO_0000115 [IAO:0000115]	Bruker software for data analysis.	
+ERROR	duplicate_definition	DataAnalysis [MS:1000719]	IAO_0000115 [IAO:0000115]	Bruker software for data analysis.	
+ERROR	duplicate_definition	flexImaging [MS:1000722]	IAO_0000115 [IAO:0000115]	Bruker software for data analysis.	
+ERROR	duplicate_definition	ProfileAnalysis [MS:1000728]	IAO_0000115 [IAO:0000115]	Bruker software for data analysis.	
+ERROR	duplicate_definition	QuantAnalysis [MS:1000736]	IAO_0000115 [IAO:0000115]	Bruker software for data analysis.	
+ERROR	duplicate_definition	FlexControl [MS:1000540]	IAO_0000115 [IAO:0000115]	Bruker software for data acquisition.	
+ERROR	duplicate_definition	apexControl [MS:1000706]	IAO_0000115 [IAO:0000115]	Bruker software for data acquisition.	
+ERROR	duplicate_definition	dpControl [MS:1000720]	IAO_0000115 [IAO:0000115]	Bruker software for data acquisition.	
+ERROR	duplicate_definition	esquireControl [MS:1000721]	IAO_0000115 [IAO:0000115]	Bruker software for data acquisition.	
+ERROR	duplicate_definition	HCTcontrol [MS:1000725]	IAO_0000115 [IAO:0000115]	Bruker software for data acquisition.	
+ERROR	duplicate_definition	micrOTOFcontrol [MS:1000726]	IAO_0000115 [IAO:0000115]	Bruker software for data acquisition.	
+ERROR	duplicate_definition	spControl [MS:1000737]	IAO_0000115 [IAO:0000115]	Bruker software for data acquisition.	
+ERROR	duplicate_definition	raw files group attribute [MS:1001823]	IAO_0000115 [IAO:0000115]	Attribute describing, how raw files build a raw file group.	
+ERROR	duplicate_definition	merge of runs of 1D gel bands [MS:1001824]	IAO_0000115 [IAO:0000115]	Attribute describing, how raw files build a raw file group.	
+ERROR	duplicate_definition	MRMPilot Software [MS:1000666]	IAO_0000115 [IAO:0000115]	Applied Biosystems|MDS SCIEX software for MRM assay development.	
+ERROR	duplicate_definition	MIDAS Workflow Designer [MS:1000673]	IAO_0000115 [IAO:0000115]	Applied Biosystems|MDS SCIEX software for MRM assay development.	
+ERROR	duplicate_definition	Data Explorer [MS:1000536]	IAO_0000115 [IAO:0000115]	Applied Biosystems software for data acquisition and analysis.	
+ERROR	duplicate_definition	4700 Explorer [MS:1000537]	IAO_0000115 [IAO:0000115]	Applied Biosystems software for data acquisition and analysis.	
+ERROR	duplicate_definition	baseline [MS:1000085]	IAO_0000115 [IAO:0000115]	An attribute of resolution when recording the detector response in absence of the analyte.	
+ERROR	duplicate_definition	measurement method [MS:1000596]	IAO_0000115 [IAO:0000115]	An attribute of resolution when recording the detector response in absence of the analyte.	
+ERROR	missing_ontology_description	ms.owl	dc11:description		
+ERROR	duplicate_label	spectrum title [MS:1000796]	label [rdfs:label]	spectrum title	
+ERROR	duplicate_label	spectrum title [MS:1001416]	label [rdfs:label]	spectrum title	
+ERROR	duplicate_label	peak intensity [MS:1000042]	label [rdfs:label]	peak intensity	
+ERROR	duplicate_label	peak intensity [MS:1000232]	label [rdfs:label]	peak intensity	
+ERROR	duplicate_label	p-value [MS:1001191]	label [rdfs:label]	p-value	
+ERROR	duplicate_label	p-value [MS:1002072]	label [rdfs:label]	p-value	
+ERROR	duplicate_label	neutral loss [MS:1000336]	label [rdfs:label]	neutral loss	
+ERROR	duplicate_label	neutral loss [MS:1001061]	label [rdfs:label]	neutral loss	
+ERROR	duplicate_label	mass resolving power [MS:1000234]	label [rdfs:label]	mass resolving power	
+ERROR	duplicate_label	mass resolving power [MS:1000800]	label [rdfs:label]	mass resolving power	
+ERROR	duplicate_label	MaRiMba [MS:1000872]	label [rdfs:label]	MaRiMba	
+ERROR	duplicate_label	MaRiMba [MS:1000924]	label [rdfs:label]	MaRiMba	
+ERROR	duplicate_label	The allowed value-type for this CV term. [MS:1000218]	label [rdfs:label]	ionization efficiency	
+ERROR	duplicate_label	ionization efficiency [MS:1000392]	label [rdfs:label]	ionization efficiency	
+ERROR	duplicate_label	consecutive reaction monitoring [MS:1000244]	label [rdfs:label]	consecutive reaction monitoring	
+ERROR	duplicate_label	consecutive reaction monitoring [MS:1000327]	label [rdfs:label]	consecutive reaction monitoring	
+ERROR	duplicate_label	4000 QTRAP [MS:1000139]	label [rdfs:label]	4000 QTRAP	
+ERROR	duplicate_label	4000 QTRAP [MS:1000870]	label [rdfs:label]	4000 QTRAP	
+ERROR	missing_ontology_license	ms.owl	dc:license		
+ERROR	missing_ontology_title	ms.owl	dc11:title		
+WARN	missing_definition	SEQUEST:CleavesAt [MS:1001005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:NormalizeXCorrValues [MS:1001026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	The allowed value-type for this CV term. [MS:1001032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:ProcessAll [MS:1001095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:Chromatogram [MS:1001102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:InfoAndLog [MS:1001103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:Full [MS:1001111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:FormatAndLinks [MS:1001120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:Fast [MS:1001126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:SelectDefault [MS:1001144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein ambiguity group result details [MS:1001147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	param: y ion-H2O DEPRECATED [MS:1001152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:Uniq [MS:1001158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:Sequences [MS:1001372]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEQUEST:Sum [MS:1001374]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	search tolerance plus value [MS:1001412]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	search tolerance minus value [MS:1001413]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ProteinExtractor:MascotUseIdentityScore [MS:1001433]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	ionization mode [MS:1000009]	label [rdfs:label]	ionization mode	
+WARN	missing_obsolete_label	analyzer type [MS:1000010]	label [rdfs:label]	analyzer type	
+WARN	missing_obsolete_label	resolution type [MS:1000013]	label [rdfs:label]	resolution type	
+WARN	missing_obsolete_label	Scan Function [MS:1000017]	label [rdfs:label]	Scan Function	
+WARN	missing_obsolete_label	scanning method [MS:1000020]	label [rdfs:label]	scanning method	
+WARN	missing_obsolete_label	isolation width [MS:1000023]	label [rdfs:label]	isolation width	
+WARN	missing_obsolete_label	vendor [MS:1000030]	label [rdfs:label]	vendor	
+WARN	missing_obsolete_label	scan mode [MS:1000036]	label [rdfs:label]	scan mode	
+WARN	missing_obsolete_label	polarity [MS:1000037]	label [rdfs:label]	polarity	
+WARN	missing_obsolete_label	minute [MS:1000038]	label [rdfs:label]	minute	
+WARN	missing_obsolete_label	second [MS:1000039]	label [rdfs:label]	second	
+WARN	missing_obsolete_label	energy unit [MS:1000046]	label [rdfs:label]	energy unit	
+WARN	missing_obsolete_label	chromatography [MS:1000054]	label [rdfs:label]	chromatography	
+WARN	missing_obsolete_label	Electronic Ionization [MS:1000072]	label [rdfs:label]	Electronic Ionization	
+WARN	missing_obsolete_label	negative ion mode [MS:1000076]	label [rdfs:label]	negative ion mode	
+WARN	missing_obsolete_label	positive ion mode [MS:1000077]	label [rdfs:label]	positive ion mode	
+WARN	missing_obsolete_label	constant [MS:1000088]	label [rdfs:label]	constant	
+WARN	missing_obsolete_label	proportional [MS:1000089]	label [rdfs:label]	proportional	
+WARN	missing_obsolete_label	mass scan [MS:1000090]	label [rdfs:label]	mass scan	
+WARN	missing_obsolete_label	selected ion detection [MS:1000091]	label [rdfs:label]	selected ion detection	
+WARN	missing_obsolete_label	linear [MS:1000095]	label [rdfs:label]	linear	
+WARN	missing_obsolete_label	constant neutral mass loss [MS:1000097]	label [rdfs:label]	constant neutral mass loss	
+WARN	missing_obsolete_label	multiple ion monitoring [MS:1000098]	label [rdfs:label]	multiple ion monitoring	
+WARN	missing_obsolete_label	multiple reaction monitoring [MS:1000099]	label [rdfs:label]	multiple reaction monitoring	
+WARN	missing_obsolete_label	precursor ion scan [MS:1000100]	label [rdfs:label]	precursor ion scan	
+WARN	missing_obsolete_label	product ion scan [MS:1000101]	label [rdfs:label]	product ion scan	
+WARN	missing_obsolete_label	single ion monitoring [MS:1000102]	label [rdfs:label]	single ion monitoring	
+WARN	missing_obsolete_label	single reaction monitoring [MS:1000103]	label [rdfs:label]	single reaction monitoring	
+WARN	missing_obsolete_label	None ?? [MS:1000104]	label [rdfs:label]	None ??	
+WARN	missing_obsolete_label	electron volt [MS:1000137]	label [rdfs:label]	electron volt	
+WARN	missing_obsolete_label	ELEMENT2 [MS:1000155]	label [rdfs:label]	ELEMENT2	
+WARN	missing_obsolete_label	accurate mass [MS:1000207]	label [rdfs:label]	accurate mass	
+WARN	missing_obsolete_label	average mass [MS:1000208]	label [rdfs:label]	average mass	
+WARN	missing_obsolete_label	appearance energy [MS:1000209]	label [rdfs:label]	appearance energy	
+WARN	missing_obsolete_label	dalton [MS:1000212]	label [rdfs:label]	dalton	
+WARN	missing_obsolete_label	electron affinity [MS:1000213]	label [rdfs:label]	electron affinity	
+WARN	missing_obsolete_label	electron energy obsolete [MS:1000214]	label [rdfs:label]	electron energy obsolete	
+WARN	missing_obsolete_label	exact mass [MS:1000215]	label [rdfs:label]	exact mass	
+WARN	missing_obsolete_label	ionization cross section [MS:1000217]	label [rdfs:label]	ionization cross section	
+WARN	missing_obsolete_label	The allowed value-type for this CV term. [MS:1000218]	label [rdfs:label]	ionization efficiency	
+WARN	missing_obsolete_label	ionization energy [MS:1000219]	label [rdfs:label]	ionization energy	
+WARN	missing_obsolete_label	isotope dilution mass spectrometry [MS:1000220]	label [rdfs:label]	isotope dilution mass spectrometry	
+WARN	missing_obsolete_label	mass defect [MS:1000222]	label [rdfs:label]	mass defect	
+WARN	missing_obsolete_label	mass number [MS:1000223]	label [rdfs:label]	mass number	
+WARN	missing_obsolete_label	molecular mass [MS:1000224]	label [rdfs:label]	molecular mass	
+WARN	missing_obsolete_label	monoisotopic mass [MS:1000225]	label [rdfs:label]	monoisotopic mass	
+WARN	missing_obsolete_label	molecular beam mass spectrometry [MS:1000226]	label [rdfs:label]	molecular beam mass spectrometry	
+WARN	missing_obsolete_label	nitrogen rule [MS:1000228]	label [rdfs:label]	nitrogen rule	
+WARN	missing_obsolete_label	nominal mass [MS:1000229]	label [rdfs:label]	nominal mass	
+WARN	missing_obsolete_label	odd-electron rule [MS:1000230]	label [rdfs:label]	odd-electron rule	
+WARN	missing_obsolete_label	peak intensity [MS:1000232]	label [rdfs:label]	peak intensity	
+WARN	missing_obsolete_label	proton affinity [MS:1000233]	label [rdfs:label]	proton affinity	
+WARN	missing_obsolete_label	mass resolving power [MS:1000234]	label [rdfs:label]	mass resolving power	
+WARN	missing_obsolete_label	unified atomic mass unit [MS:1000237]	label [rdfs:label]	unified atomic mass unit	
+WARN	missing_obsolete_label	accelerator mass spectrometry [MS:1000238]	label [rdfs:label]	accelerator mass spectrometry	
+WARN	missing_obsolete_label	Atmostpheric Pressure Photoionization [MS:1000241]	label [rdfs:label]	Atmostpheric Pressure Photoionization	
+WARN	missing_obsolete_label	charge-remote fragmentation [MS:1000243]	label [rdfs:label]	charge-remote fragmentation	
+WARN	missing_obsolete_label	consecutive reaction monitoring [MS:1000244]	label [rdfs:label]	consecutive reaction monitoring	
+WARN	missing_obsolete_label	even-electron ion [MS:1000251]	label [rdfs:label]	even-electron ion	
+WARN	missing_obsolete_label	electron-induced excitation in organics [MS:1000252]	label [rdfs:label]	electron-induced excitation in organics	
+WARN	missing_obsolete_label	high-field asymmetric waveform ion mobility spectrometry [MS:1000256]	label [rdfs:label]	high-field asymmetric waveform ion mobility spectrometry	
+WARN	missing_obsolete_label	ion kinetic energy spectrometry [MS:1000260]	label [rdfs:label]	ion kinetic energy spectrometry	
+WARN	missing_obsolete_label	ion mobility spectrometry [MS:1000261]	label [rdfs:label]	ion mobility spectrometry	
+WARN	missing_obsolete_label	isotope ratio mass spectrometry [MS:1000263]	label [rdfs:label]	isotope ratio mass spectrometry	
+WARN	missing_obsolete_label	kinetic energy release distribution [MS:1000265]	label [rdfs:label]	kinetic energy release distribution	
+WARN	missing_obsolete_label	Laser Desorption [MS:1000266]	label [rdfs:label]	Laser Desorption	
+WARN	missing_obsolete_label	mass analyzed ion kinetic energy spectrometry [MS:1000267]	label [rdfs:label]	mass analyzed ion kinetic energy spectrometry	
+WARN	missing_obsolete_label	mass spectrometry [MS:1000268]	label [rdfs:label]	mass spectrometry	
+WARN	missing_obsolete_label	mass spectrometry/mass spectrometry [MS:1000269]	label [rdfs:label]	mass spectrometry/mass spectrometry	
+WARN	missing_obsolete_label	multiple stage mass spectrometry [MS:1000270]	label [rdfs:label]	multiple stage mass spectrometry	
+WARN	missing_obsolete_label	residual gas analyzer [MS:1000277]	label [rdfs:label]	residual gas analyzer	
+WARN	missing_obsolete_label	suface ionization [MS:1000280]	label [rdfs:label]	suface ionization	
+WARN	missing_obsolete_label	Spark Source Mass Spectrometry [MS:1000283]	label [rdfs:label]	Spark Source Mass Spectrometry	
+WARN	missing_obsolete_label	time-of-flight mass spectrometer [MS:1000287]	label [rdfs:label]	time-of-flight mass spectrometer	
+WARN	missing_obsolete_label	double-focusing mass spectrometer [MS:1000289]	label [rdfs:label]	double-focusing mass spectrometer	
+WARN	missing_obsolete_label	hybrid mass spectrometer [MS:1000290]	label [rdfs:label]	hybrid mass spectrometer	
+WARN	missing_obsolete_label	mass spectrograph obsolete [MS:1000292]	label [rdfs:label]	mass spectrograph obsolete	
+WARN	missing_obsolete_label	mass spectrometer [MS:1000293]	label [rdfs:label]	mass spectrometer	
+WARN	missing_obsolete_label	mattauch-herzog geometry [MS:1000295]	label [rdfs:label]	mattauch-herzog geometry	
+WARN	missing_obsolete_label	nier-johnson geometry [MS:1000296]	label [rdfs:label]	nier-johnson geometry	
+WARN	missing_obsolete_label	paul ion trap [MS:1000297]	label [rdfs:label]	paul ion trap	
+WARN	missing_obsolete_label	prolate traochoidal mass spectrometer [MS:1000298]	label [rdfs:label]	prolate traochoidal mass spectrometer	
+WARN	missing_obsolete_label	quistor [MS:1000299]	label [rdfs:label]	quistor	
+WARN	missing_obsolete_label	sector mass spectrometer [MS:1000301]	label [rdfs:label]	sector mass spectrometer	
+WARN	missing_obsolete_label	tandem mass spectrometer [MS:1000302]	label [rdfs:label]	tandem mass spectrometer	
+WARN	missing_obsolete_label	transmission quadrupole mass spectrometer [MS:1000303]	label [rdfs:label]	transmission quadrupole mass spectrometer	
+WARN	missing_obsolete_label	cyclotron motion [MS:1000305]	label [rdfs:label]	cyclotron motion	
+WARN	missing_obsolete_label	dynamic mass spectrometry [MS:1000306]	label [rdfs:label]	dynamic mass spectrometry	
+WARN	missing_obsolete_label	mass limit [MS:1000312]	label [rdfs:label]	mass limit	
+WARN	missing_obsolete_label	scan m/z range? [MS:1000313]	label [rdfs:label]	scan m/z range?	
+WARN	missing_obsolete_label	mass selective axial ejection [MS:1000314]	label [rdfs:label]	mass selective axial ejection	
+WARN	missing_obsolete_label	mass selective instability [MS:1000315]	label [rdfs:label]	mass selective instability	
+WARN	missing_obsolete_label	mathieu stability diagram [MS:1000316]	label [rdfs:label]	mathieu stability diagram	
+WARN	missing_obsolete_label	orthogonal extraction [MS:1000317]	label [rdfs:label]	orthogonal extraction	
+WARN	missing_obsolete_label	resonance ion ejection [MS:1000318]	label [rdfs:label]	resonance ion ejection	
+WARN	missing_obsolete_label	2E Mass Spectrum [MS:1000321]	label [rdfs:label]	2E Mass Spectrum	
+WARN	missing_obsolete_label	constant neutral loss scan [MS:1000323]	label [rdfs:label]	constant neutral loss scan	
+WARN	missing_obsolete_label	constant neutral gain scan [MS:1000324]	label [rdfs:label]	constant neutral gain scan	
+WARN	missing_obsolete_label	consecutive reaction monitoring [MS:1000327]	label [rdfs:label]	consecutive reaction monitoring	
+WARN	missing_obsolete_label	linked scan [MS:1000329]	label [rdfs:label]	linked scan	
+WARN	missing_obsolete_label	linked scan at constant b/e [MS:1000330]	label [rdfs:label]	linked scan at constant b/e	
+WARN	missing_obsolete_label	Linked Scan at Constant E2/V [MS:1000331]	label [rdfs:label]	Linked Scan at Constant E2/V	
+WARN	missing_obsolete_label	Linked Scan at Constant B2/E [MS:1000332]	label [rdfs:label]	Linked Scan at Constant B2/E	
+WARN	missing_obsolete_label	Linked Scan at Constant B[1-(E/E0)]^1/2 / E [MS:1000333]	label [rdfs:label]	Linked Scan at Constant B[1-(E/E0)]^1/2 / E	
+WARN	missing_obsolete_label	MS/MS in Time [MS:1000334]	label [rdfs:label]	MS/MS in Time	
+WARN	missing_obsolete_label	MS/MS in Space [MS:1000335]	label [rdfs:label]	MS/MS in Space	
+WARN	missing_obsolete_label	nth generation product ion [MS:1000337]	label [rdfs:label]	nth generation product ion	
+WARN	missing_obsolete_label	nth generation product ion scan [MS:1000338]	label [rdfs:label]	nth generation product ion scan	
+WARN	missing_obsolete_label	nth generation product ion spectrum [MS:1000339]	label [rdfs:label]	nth generation product ion spectrum	
+WARN	missing_obsolete_label	precursor ion [MS:1000340]	label [rdfs:label]	precursor ion	
+WARN	missing_obsolete_label	product ion [MS:1000342]	label [rdfs:label]	product ion	
+WARN	missing_obsolete_label	product ion spectrum [MS:1000343]	label [rdfs:label]	product ion spectrum	
+WARN	missing_obsolete_label	progeny ion [MS:1000344]	label [rdfs:label]	progeny ion	
+WARN	missing_obsolete_label	secondary electron [MS:1000352]	label [rdfs:label]	secondary electron	
+WARN	missing_obsolete_label	aromatic ion [MS:1000354]	label [rdfs:label]	aromatic ion	
+WARN	missing_obsolete_label	analog ion [MS:1000355]	label [rdfs:label]	analog ion	
+WARN	missing_obsolete_label	anti-aromatic ion [MS:1000356]	label [rdfs:label]	anti-aromatic ion	
+WARN	missing_obsolete_label	cationized molecule [MS:1000357]	label [rdfs:label]	cationized molecule	
+WARN	missing_obsolete_label	cluster ion [MS:1000358]	label [rdfs:label]	cluster ion	
+WARN	missing_obsolete_label	Conventional ion [MS:1000359]	label [rdfs:label]	Conventional ion	
+WARN	missing_obsolete_label	diagnostic ion [MS:1000360]	label [rdfs:label]	diagnostic ion	
+WARN	missing_obsolete_label	dimeric ion [MS:1000361]	label [rdfs:label]	dimeric ion	
+WARN	missing_obsolete_label	distonic ion [MS:1000362]	label [rdfs:label]	distonic ion	
+WARN	missing_obsolete_label	enium ion [MS:1000363]	label [rdfs:label]	enium ion	
+WARN	missing_obsolete_label	fragment ion [MS:1000364]	label [rdfs:label]	fragment ion	
+WARN	missing_obsolete_label	ion? [MS:1000365]	label [rdfs:label]	ion?	
+WARN	missing_obsolete_label	Isotopologue ion [MS:1000366]	label [rdfs:label]	Isotopologue ion	
+WARN	missing_obsolete_label	Isotopomeric ion [MS:1000367]	label [rdfs:label]	Isotopomeric ion	
+WARN	missing_obsolete_label	metastable ion [MS:1000368]	label [rdfs:label]	metastable ion	
+WARN	missing_obsolete_label	molecular ion [MS:1000369]	label [rdfs:label]	molecular ion	
+WARN	missing_obsolete_label	negative ion [MS:1000370]	label [rdfs:label]	negative ion	
+WARN	missing_obsolete_label	non-classical ion [MS:1000371]	label [rdfs:label]	non-classical ion	
+WARN	missing_obsolete_label	onium ion [MS:1000372]	label [rdfs:label]	onium ion	
+WARN	missing_obsolete_label	principal ion [MS:1000373]	label [rdfs:label]	principal ion	
+WARN	missing_obsolete_label	positive ion [MS:1000374]	label [rdfs:label]	positive ion	
+WARN	missing_obsolete_label	protonated molecule [MS:1000375]	label [rdfs:label]	protonated molecule	
+WARN	missing_obsolete_label	radical ion [MS:1000376]	label [rdfs:label]	radical ion	
+WARN	missing_obsolete_label	reference ion [MS:1000377]	label [rdfs:label]	reference ion	
+WARN	missing_obsolete_label	stable ion [MS:1000378]	label [rdfs:label]	stable ion	
+WARN	missing_obsolete_label	unstable ion [MS:1000379]	label [rdfs:label]	unstable ion	
+WARN	missing_obsolete_label	ion desolvation [MS:1000390]	label [rdfs:label]	ion desolvation	
+WARN	missing_obsolete_label	ion-pair formation [MS:1000391]	label [rdfs:label]	ion-pair formation	
+WARN	missing_obsolete_label	laser desorption ionization [MS:1000393]	label [rdfs:label]	laser desorption ionization	
+WARN	missing_obsolete_label	pre-ionization state [MS:1000401]	label [rdfs:label]	pre-ionization state	
+WARN	missing_obsolete_label	association reaction [MS:1000409]	label [rdfs:label]	association reaction	
+WARN	missing_obsolete_label	alpha-cleavage [MS:1000410]	label [rdfs:label]	alpha-cleavage	
+WARN	missing_obsolete_label	beta-cleavage [MS:1000411]	label [rdfs:label]	beta-cleavage	
+WARN	missing_obsolete_label	charge-induced fragmentation [MS:1000413]	label [rdfs:label]	charge-induced fragmentation	
+WARN	missing_obsolete_label	charge inversion reaction [MS:1000414]	label [rdfs:label]	charge inversion reaction	
+WARN	missing_obsolete_label	charge permutation reaction [MS:1000415]	label [rdfs:label]	charge permutation reaction	
+WARN	missing_obsolete_label	charge stripping reaction [MS:1000416]	label [rdfs:label]	charge stripping reaction	
+WARN	missing_obsolete_label	charge transfer reaction [MS:1000417]	label [rdfs:label]	charge transfer reaction	
+WARN	missing_obsolete_label	collisional excitation [MS:1000418]	label [rdfs:label]	collisional excitation	
+WARN	missing_obsolete_label	heterolytic cleavage [MS:1000420]	label [rdfs:label]	heterolytic cleavage	
+WARN	missing_obsolete_label	high energy collision [MS:1000421]	label [rdfs:label]	high energy collision	
+WARN	missing_obsolete_label	homolytic cleavage [MS:1000423]	label [rdfs:label]	homolytic cleavage	
+WARN	missing_obsolete_label	hydrogen/deuterium exchange [MS:1000424]	label [rdfs:label]	hydrogen/deuterium exchange	
+WARN	missing_obsolete_label	ion energy loss spectrum [MS:1000425]	label [rdfs:label]	ion energy loss spectrum	
+WARN	missing_obsolete_label	ionizing collision [MS:1000426]	label [rdfs:label]	ionizing collision	
+WARN	missing_obsolete_label	ion/molecule reaction [MS:1000427]	label [rdfs:label]	ion/molecule reaction	
+WARN	missing_obsolete_label	ion/neutral complex [MS:1000428]	label [rdfs:label]	ion/neutral complex	
+WARN	missing_obsolete_label	ion/neutral species reaction [MS:1000429]	label [rdfs:label]	ion/neutral species reaction	
+WARN	missing_obsolete_label	ion/neutral species exchange reaction [MS:1000430]	label [rdfs:label]	ion/neutral species exchange reaction	
+WARN	missing_obsolete_label	kinetic method [MS:1000431]	label [rdfs:label]	kinetic method	
+WARN	missing_obsolete_label	low energy collisions [MS:1000432]	label [rdfs:label]	low energy collisions	
+WARN	missing_obsolete_label	McLafferty Rearrangement [MS:1000434]	label [rdfs:label]	McLafferty Rearrangement	
+WARN	missing_obsolete_label	partial charge transfer reaction [MS:1000436]	label [rdfs:label]	partial charge transfer reaction	
+WARN	missing_obsolete_label	ion reaction [MS:1000437]	label [rdfs:label]	ion reaction	
+WARN	missing_obsolete_label	superelastic collision [MS:1000438]	label [rdfs:label]	superelastic collision	
+WARN	missing_obsolete_label	surface-induced reaction [MS:1000439]	label [rdfs:label]	surface-induced reaction	
+WARN	missing_obsolete_label	unimolecular dissociation [MS:1000440]	label [rdfs:label]	unimolecular dissociation	
+WARN	missing_obsolete_label	m/z Separation Method [MS:1000444]	label [rdfs:label]	m/z Separation Method	
+WARN	missing_obsolete_label	sequential m/z separation method [MS:1000445]	label [rdfs:label]	sequential m/z separation method	
+WARN	missing_obsolete_label	instrument additional description [MS:1000454]	label [rdfs:label]	instrument additional description	
+WARN	missing_obsolete_label	spectrum instrument description [MS:1000459]	label [rdfs:label]	spectrum instrument description	
+WARN	missing_obsolete_label	unit [MS:1000460]	label [rdfs:label]	unit	
+WARN	missing_obsolete_label	additional description [MS:1000461]	label [rdfs:label]	additional description	
+WARN	missing_obsolete_label	mass unit [MS:1000464]	label [rdfs:label]	mass unit	
+WARN	missing_obsolete_label	alternating [MS:1000466]	label [rdfs:label]	alternating	
+WARN	missing_obsolete_label	purgatory [MS:1000479]	label [rdfs:label]	purgatory	
+WARN	missing_obsolete_label	full scan [MS:1000498]	label [rdfs:label]	full scan	
+WARN	missing_obsolete_label	ion role [MS:1000506]	label [rdfs:label]	ion role	
+WARN	missing_obsolete_label	ion attribute [MS:1000507]	label [rdfs:label]	ion attribute	
+WARN	missing_obsolete_label	ion chemical type [MS:1000508]	label [rdfs:label]	ion chemical type	
+WARN	missing_obsolete_label	16-bit float [MS:1000520]	label [rdfs:label]	16-bit float	
+WARN	missing_obsolete_label	time unit [MS:1000550]	label [rdfs:label]	time unit	
+WARN	missing_obsolete_label	maldi spot identifier [MS:1000552]	label [rdfs:label]	maldi spot identifier	
+WARN	missing_obsolete_label	PDA spectrum [MS:1000620]	label [rdfs:label]	PDA spectrum	
+WARN	missing_obsolete_label	MapAligner [MS:1000760]	label [rdfs:label]	MapAligner	
+WARN	missing_obsolete_label	NoiseFilter [MS:1000762]	label [rdfs:label]	NoiseFilter	
+WARN	missing_obsolete_label	PeakPicker [MS:1000763]	label [rdfs:label]	PeakPicker	
+WARN	missing_obsolete_label	SpectraFilter [MS:1000765]	label [rdfs:label]	SpectraFilter	
+WARN	missing_obsolete_label	enhanced resolution scan [MS:1000791]	label [rdfs:label]	enhanced resolution scan	
+WARN	missing_obsolete_label	isolation window upper limit [MS:1000793]	label [rdfs:label]	isolation window upper limit	
+WARN	missing_obsolete_label	The allowed value-type for this CV term. [MS:1000794]	label [rdfs:label]	isolation window lower limit	
+WARN	missing_obsolete_label	wavelength [MS:1000843]	label [rdfs:label]	wavelength	
+WARN	missing_obsolete_label	4000 QTRAP [MS:1000870]	label [rdfs:label]	4000 QTRAP	
+WARN	missing_obsolete_label	MaRiMba [MS:1000924]	label [rdfs:label]	MaRiMba	
+WARN	missing_obsolete_label	database local file path [MS:1001014]	label [rdfs:label]	database local file path	
+WARN	missing_obsolete_label	database release date [MS:1001017]	label [rdfs:label]	database release date	
+WARN	missing_obsolete_label	date / time search performed [MS:1001035]	label [rdfs:label]	date / time search performed	
+WARN	missing_obsolete_label	multiple enzyme combination rules [MS:1001051]	label [rdfs:label]	multiple enzyme combination rules	
+WARN	missing_obsolete_label	tolerance on types [MS:1001057]	label [rdfs:label]	tolerance on types	
+WARN	missing_obsolete_label	neutral loss [MS:1001061]	label [rdfs:label]	neutral loss	
+WARN	missing_obsolete_label	TODOscoring model [MS:1001065]	label [rdfs:label]	TODOscoring model	
+WARN	missing_obsolete_label	taxonomy nomenclature [MS:1001090]	label [rdfs:label]	taxonomy nomenclature	
+WARN	missing_obsolete_label	NoEnzyme [MS:1001091]	label [rdfs:label]	NoEnzyme	
+WARN	missing_obsolete_label	retention time(s) [MS:1001114]	label [rdfs:label]	retention time(s)	
+WARN	missing_obsolete_label	scan number(s) [MS:1001115]	label [rdfs:label]	scan number(s)	
+WARN	missing_obsolete_label	peptide raw area [MS:1001130]	label [rdfs:label]	peptide raw area	
+WARN	missing_obsolete_label	p-value (protein diff from 1 randomly) [MS:1001136]	label [rdfs:label]	p-value (protein diff from 1 randomly)	
+WARN	missing_obsolete_label	quantitation software version [MS:1001140]	label [rdfs:label]	quantitation software version	
+WARN	missing_obsolete_label	p-value [MS:1001191]	label [rdfs:label]	p-value	
+WARN	missing_obsolete_label	search result details [MS:1001213]	label [rdfs:label]	search result details	
+WARN	missing_obsolete_label	decoy DB derived from [MS:1001284]	label [rdfs:label]	decoy DB derived from	
+WARN	missing_obsolete_label	decoy DB from nr [MS:1001291]	label [rdfs:label]	decoy DB from nr	
+WARN	missing_obsolete_label	decoy DB from IPI_rat [MS:1001292]	label [rdfs:label]	decoy DB from IPI_rat	
+WARN	missing_obsolete_label	decoy DB from IPI_mouse [MS:1001293]	label [rdfs:label]	decoy DB from IPI_mouse	
+WARN	missing_obsolete_label	decoy DB from IPI_arabidopsis [MS:1001294]	label [rdfs:label]	decoy DB from IPI_arabidopsis	
+WARN	missing_obsolete_label	decoy DB from EST [MS:1001295]	label [rdfs:label]	decoy DB from EST	
+WARN	missing_obsolete_label	decoy DB from IPI_zebrafish [MS:1001296]	label [rdfs:label]	decoy DB from IPI_zebrafish	
+WARN	missing_obsolete_label	decoy DB from UniProtKB/Swiss-Prot [MS:1001297]	label [rdfs:label]	decoy DB from UniProtKB/Swiss-Prot	
+WARN	missing_obsolete_label	decoy DB from IPI_chicken [MS:1001298]	label [rdfs:label]	decoy DB from IPI_chicken	
+WARN	missing_obsolete_label	decoy DB from IPI_cow [MS:1001299]	label [rdfs:label]	decoy DB from IPI_cow	
+WARN	missing_obsolete_label	decoy DB from IPI_human [MS:1001300]	label [rdfs:label]	decoy DB from IPI_human	
+WARN	missing_obsolete_label	add_others [MS:1001326]	label [rdfs:label]	add_others	
+WARN	missing_obsolete_label	MGF scans [MS:1001414]	label [rdfs:label]	MGF scans	
+WARN	missing_obsolete_label	MGF raw scans [MS:1001415]	label [rdfs:label]	MGF raw scans	
+WARN	missing_obsolete_label	spectrum title [MS:1001416]	label [rdfs:label]	spectrum title	
+WARN	missing_obsolete_label	consecutive reaction monitoring chromatogram [MS:1001474]	label [rdfs:label]	consecutive reaction monitoring chromatogram	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Spectrum Files:Raw File names [MS:1001601]	label [rdfs:label]	ProteomeDiscoverer:Spectrum Files:Raw File names	
+WARN	missing_obsolete_label	ProteomeDiscoverer:SRF File Selector:SRF File Path [MS:1001602]	label [rdfs:label]	ProteomeDiscoverer:SRF File Selector:SRF File Path	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Spectrum Selector:Ionization Source [MS:1001603]	label [rdfs:label]	ProteomeDiscoverer:Spectrum Selector:Ionization Source	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Activation Type [MS:1001604]	label [rdfs:label]	ProteomeDiscoverer:Activation Type	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Mass Analyzer [MS:1001606]	label [rdfs:label]	ProteomeDiscoverer:Mass Analyzer	
+WARN	missing_obsolete_label	ProteomeDiscoverer:MS Order [MS:1001610]	label [rdfs:label]	ProteomeDiscoverer:MS Order	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Polarity Mode [MS:1001611]	label [rdfs:label]	ProteomeDiscoverer:Polarity Mode	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Scan Type [MS:1001614]	label [rdfs:label]	ProteomeDiscoverer:Scan Type	
+WARN	missing_obsolete_label	The allowed value-type for this CV term. [MS:1001631]	label [rdfs:label]	ProteomeDiscoverer:Spectrum Grouper:Max RT Difference	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Xtract:Highest MZ [MS:1001634]	label [rdfs:label]	ProteomeDiscoverer:Xtract:Highest MZ	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Xtract:Lowest MZ [MS:1001636]	label [rdfs:label]	ProteomeDiscoverer:Xtract:Lowest MZ	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Mascot:Decoy Search [MS:1001646]	label [rdfs:label]	ProteomeDiscoverer:Mascot:Decoy Search	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Mascot:User Name [MS:1001652]	label [rdfs:label]	ProteomeDiscoverer:Mascot:User Name	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Enzyme Name [MS:1001654]	label [rdfs:label]	ProteomeDiscoverer:Enzyme Name	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Fragment Mass Tolerance [MS:1001655]	label [rdfs:label]	ProteomeDiscoverer:Fragment Mass Tolerance	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Precursor Mass Tolerance [MS:1001659]	label [rdfs:label]	ProteomeDiscoverer:Precursor Mass Tolerance	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Protein Database [MS:1001661]	label [rdfs:label]	ProteomeDiscoverer:Protein Database	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Mascot:Taxonomy [MS:1001665]	label [rdfs:label]	ProteomeDiscoverer:Mascot:Taxonomy	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Use Average Precursor Mass [MS:1001666]	label [rdfs:label]	ProteomeDiscoverer:Use Average Precursor Mass	
+WARN	missing_obsolete_label	Mascot:use MudPIT scoring [MS:1001667]	label [rdfs:label]	Mascot:use MudPIT scoring	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Search Against Decoy Database [MS:1001682]	label [rdfs:label]	ProteomeDiscoverer:Search Against Decoy Database	
+WARN	missing_obsolete_label	The allowed value-type for this CV term. [MS:1001701]	label [rdfs:label]	ProteomeDiscoverer:Spectrum Exporter:Export Format	
+WARN	missing_obsolete_label	ProteomeDiscoverer:1. Dynamic Modification [MS:1001720]	label [rdfs:label]	ProteomeDiscoverer:1. Dynamic Modification	
+WARN	missing_obsolete_label	ProteomeDiscoverer:2. Dynamic Modification [MS:1001721]	label [rdfs:label]	ProteomeDiscoverer:2. Dynamic Modification	
+WARN	missing_obsolete_label	ProteomeDiscoverer:3. Dynamic Modification [MS:1001722]	label [rdfs:label]	ProteomeDiscoverer:3. Dynamic Modification	
+WARN	missing_obsolete_label	ProteomeDiscoverer:4. Dynamic Modification [MS:1001723]	label [rdfs:label]	ProteomeDiscoverer:4. Dynamic Modification	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Organism [MS:1001734]	label [rdfs:label]	ProteomeDiscoverer:Organism	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Reference Database [MS:1001735]	label [rdfs:label]	ProteomeDiscoverer:Reference Database	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Source file extension [MS:1001737]	label [rdfs:label]	ProteomeDiscoverer:Source file extension	
+WARN	missing_obsolete_label	The allowed value-type for this CV term. [MS:1001738]	label [rdfs:label]	ProteomeDiscoverer:Source Files	
+WARN	missing_obsolete_label	ProteomeDiscoverer:Source Files old [MS:1001739]	label [rdfs:label]	ProteomeDiscoverer:Source Files old	
+WARN	missing_obsolete_label	travelling wave ion mobility mass spectrometer [MS:1001797]	label [rdfs:label]	travelling wave ion mobility mass spectrometer	
+WARN	missing_obsolete_label	The allowed value-type for this CV term. [MS:1001845]	label [rdfs:label]	peak area	
+WARN	missing_obsolete_label	sum of MatchedFeature values [MS:1001849]	label [rdfs:label]	sum of MatchedFeature values	
+WARN	missing_obsolete_label	The allowed value-type for this CV term. [MS:1001874]	label [rdfs:label]	FDRScore	
+WARN	missing_obsolete_label	product ion drift time [MS:1001967]	label [rdfs:label]	product ion drift time	
+WARN	missing_obsolete_label	decoy DB from UniProtKB/TrEMBL [MS:1002061]	label [rdfs:label]	decoy DB from UniProtKB/TrEMBL	
+WARN	missing_obsolete_label	ProteomeDiscoverer:1. Static Modification [MS:1002078]	label [rdfs:label]	ProteomeDiscoverer:1. Static Modification	
+WARN	missing_obsolete_label	ProteomeDiscoverer:2. Static Modification [MS:1002079]	label [rdfs:label]	ProteomeDiscoverer:2. Static Modification	
+WARN	missing_obsolete_label	combined FDRScore [MS:1002125]	label [rdfs:label]	combined FDRScore	
+WARN	missing_obsolete_label	ProteomeDiscoverer:3. Static Modification [MS:1002330]	label [rdfs:label]	ProteomeDiscoverer:3. Static Modification	
+WARN	missing_obsolete_label	ProteomeDiscoverer:5. Dynamic Modification [MS:1002331]	label [rdfs:label]	ProteomeDiscoverer:5. Dynamic Modification	
+WARN	missing_obsolete_label	ion stability type [MS:1002343]	label [rdfs:label]	ion stability type	
+WARN	missing_obsolete_label	H2O neutral loss [MS:1002455]	label [rdfs:label]	H2O neutral loss	
+WARN	missing_obsolete_label	NH3 neutral loss [MS:1002456]	label [rdfs:label]	NH3 neutral loss	
+WARN	missing_obsolete_label	H3PO4 neutral loss [MS:1002457]	label [rdfs:label]	H3PO4 neutral loss	
+WARN	missing_obsolete_label	peptide level score [MS:1002499]	label [rdfs:label]	peptide level score	
+WARN	missing_obsolete_label	peptide start on chromosome [MS:1002639]	label [rdfs:label]	peptide start on chromosome	
+WARN	missing_obsolete_label	isotopomer peak [MS:1002897]	label [rdfs:label]	isotopomer peak	
+INFO	lowercase_definition	32-bit float [MS:1000521]	IAO_0000115 [IAO:0000115]	32-bit precision little-endian floating point conforming to IEEE-754.	
+INFO	lowercase_definition	64-bit float [MS:1000523]	IAO_0000115 [IAO:0000115]	64-bit precision little-endian floating point conforming to IEEE-754.	
+INFO	lowercase_definition	mz5 format [MS:1001881]	IAO_0000115 [IAO:0000115]	mz5 file format, modelled after mzML.	
+INFO	lowercase_definition	The allowed value-type for this CV term. [MS:1001969]	IAO_0000115 [IAO:0000115]	phosphoRS score for PTM site location at the PSM-level.	
+INFO	lowercase_definition	regular expressions for a GUID [MS:1002231]	IAO_0000115 [IAO:0000115]	([A-Fa-f0-9]{8}-([A-Fa-f0-9]{4}-){3}[A-Fa-f0-9]{12}).	
+INFO	lowercase_definition	The allowed value-type for this CV term. [MS:1002355]	IAO_0000115 [IAO:0000115]	mzidLibrary FDRScore for peptide spectrum matches.	
+INFO	lowercase_definition	PSM-level combined FDRScore [MS:1002356]	IAO_0000115 [IAO:0000115]	mzidLibrary Combined FDRScore for peptide spectrum matches specifically obtained for distinct combinations of single, pairs or triplets of search engines making a given PSM, used for integrating results from these distinct pools.	
+INFO	lowercase_definition	protein group-level FDRScore [MS:1002374]	IAO_0000115 [IAO:0000115]	mzidLibrary FDRScore for protein groups.	
+INFO	lowercase_definition	protein group-level combined FDRScore [MS:1002375]	IAO_0000115 [IAO:0000115]	mzidLibrary Combined FDRScore for proteins specifically obtained for distinct combinations of single, pairs or triplets of search engines making a given PSM, used for integrating results from these distinct pools.	
+INFO	lowercase_definition	regular expression for a digital object identifier (DOI) [MS:1002480]	IAO_0000115 [IAO:0000115]	(10[.][0-9]{4,}(?:[.][0-9]+)*/(?:(?![\"&'<>])[^     \r    \v\f])+).	
+INFO	lowercase_definition	regular expression for modification localization scoring [MS:1002505]	IAO_0000115 [IAO:0000115]	([:digit:]+:[0|1]{1}.[:digit:]+[Ee]{0,1}[+-]{0,1}[:digit:]*:[:digit:]+[|]{1}[:digit:]+:(true|false){1}).	
+INFO	lowercase_definition	peptide:phosphoRS score [MS:1002550]	IAO_0000115 [IAO:0000115]	phosphoRS score for PTM site location at the peptide-level.	
+INFO	lowercase_definition	regular expression for interaction scores derived from cross-linking [MS:1002665]	IAO_0000115 [IAO:0000115]	([:digit:]+[.][a|b]:([:digit:]+|null):[:digit:]+[.][:digit:]+([Ee][+-][0-9]+)*:(true|false]{1})).	
+INFO	lowercase_definition	Regular expression for adduct ion formula [MS:1002812]	IAO_0000115 [IAO:0000115]	([[:digit:]{0,1}M([+][:digit:]{0,1}(H|K|(Na)|(Li)|(Cl)|(Br)|(NH3)|(NH4)|(CH3OH)|(IsoProp)|(DMSO)|(FA)|(Hac)|(TFA)|(NaCOOH)|(HCOOH)|(CF3COOH)|(ACN))){0,}([-][:digit:]{0,1}(H|(H2O)|(CH2)|(CH4)|(NH3)|(CO)|(CO2)|(COCH2)|(HCOOH)|(C2H4)|(C4H8)|(C3H2O3)|(C5H8O4)|(C6H10O4)|(C6H10O5)|(C6H8O6))){0,}][:digit:]{0,1}[+-]).	
+INFO	lowercase_definition	mzMLb format [MS:1002838]	IAO_0000115 [IAO:0000115]	mzMLb file format, mzML encapsulated within HDF5.	
+INFO	lowercase_definition	msalign format [MS:1002899]	IAO_0000115 [IAO:0000115]	msalign file format.	
+INFO	lowercase_definition	pNovo [MS:1002983]	IAO_0000115 [IAO:0000115]	pNovo tool for de novo peptide sequencing and identification using HCD spectra.	
+INFO	lowercase_definition	ms_deisotope [MS:1002990]	IAO_0000115 [IAO:0000115]	ms_deisotope, a library for deisotoping and charge state deconvolution of mass spectra.	
+INFO	lowercase_definition	python-psims [MS:1002991]	IAO_0000115 [IAO:0000115]	python-psims, a library for generating mzML and mzIdentML.	
+INFO	lowercase_definition	i3tms [MS:1003013]	IAO_0000115 [IAO:0000115]	i3-tms search engine and data-analysis software.	
+INFO	missing_superclass	Proteomics Standards Initiative Mass Spectrometry Vocabularies [MS:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000000 [UO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000002 [UO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000008 [UO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000010 [UO:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000012 [UO:0000012]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000017 [UO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000018 [UO:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000021 [UO:0000021]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000027 [UO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000028 [UO:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000031 [UO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000098 [UO:0000098]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000106 [UO:0000106]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000110 [UO:0000110]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000112 [UO:0000112]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000150 [UO:0000150]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000166 [UO:0000166]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000169 [UO:0000169]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000175 [UO:0000175]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000185 [UO:0000185]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000187 [UO:0000187]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000189 [UO:0000189]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000218 [UO:0000218]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000221 [UO:0000221]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000222 [UO:0000222]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000228 [UO:0000228]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000266 [UO:0000266]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000268 [UO:0000268]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000269 [UO:0000269]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000271 [UO:0000271]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000324 [UO:0000324]	rdfs:subClassOf		

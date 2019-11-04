@@ -1,0 +1,101 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	genetic susceptibility to vaccine adverse event [OGSF:0000010]	IAO_0000115 [IAO:0000115]	a genetic susceptibility to adverse event that is proceded by a vaccination process.@en	
+ERROR	duplicate_definition	genetic susceptibility to adverse event following Pandemix vaccination [OGSF:0001039]	IAO_0000115 [IAO:0000115]	a genetic susceptibility to adverse event that is proceded by a vaccination process.@en	
+ERROR	duplicate_definition	genetic susceptibility to multiple scelorosis AE following Pandemix vaccination [OGSF:0001040]	IAO_0000115 [IAO:0000115]	a genetic susceptibility to adverse event that is proceded by a vaccination process.@en	
+ERROR	missing_ontology_description	ogsf-merged.owl	dc11:description		
+ERROR	duplicate_label	susceptibility gene [OGSF:0000005]	label [rdfs:label]	susceptibility gene@en	
+ERROR	duplicate_label	susceptibility gene [OGSF:0000011]	label [rdfs:label]	susceptibility gene@en	
+ERROR	multiple_definitions	is_allele_of_gene [OGSF:0000013]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	multiple_definitions	is_allele_of_gene [OGSF:0000013]	IAO_0000115 [IAO:0000115]	allele of is a relation to link an allele with its original form@en	
+ERROR	missing_ontology_license	ogsf-merged.owl	dc:license		
+ERROR	missing_ontology_title	ogsf-merged.owl	dc11:title		
+ERROR	label_whitespace	positive conclusion of genetic susceptibility_1  [OGSF:0001002]	label [rdfs:label]	positive conclusion of genetic susceptibility_1 @en	
+WARN	annotation_whitespace	negative conclusion of genetic susceptibility [OGSF:0000032]	IAO_0000115 [IAO:0000115]	The textual conclusion from the paper that mentioned the genetic susceptibility of a genetic susceptibility factors that is denied by statistical calculation. @en	
+WARN	annotation_whitespace	ogsf-merged.owl	IAO_0000115 [IAO:0000115]	Ontology of Genetic Susceptibility Factor (OGSF) is an application ontology to model/represent the notion of genetic susceptibility to a specific disease or an adverse event or a biological process. @en	
+WARN	missing_definition	susceptibility gene [OGSF:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	textual conclusion of genetic susceptibility [OGSF:0000012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	susceptibility interactive gene group [OGSF:0000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human study subject [OGSF:0000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human study subject group [OGSF:0000021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human case group [OGSF:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human control group [OGSF:0000023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hasSize [OGSF:0000024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human study subject group size [OGSF:0000025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	odds ratio measurement [OGSF:0000026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	logistic regression measurement [OGSF:0000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	odds ratio [OGSF:0000028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human gene [OGSF:0000030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	susceptibility SNP [OGSF:0000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic association with adverse event clinical trail [OGSF:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	two dimentional structure of genetic interval [OGSF:0000103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	three dimention structure of genetic interval [OGSF:0000104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multiple sclerosis AE patient [OGSF:0001000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	HLA DBR1 gene [OGSF:0001004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pandemrix vaccination [OGSF:0001007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is positive supporting statistical evidence of [OGSF:0001008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is negative statistical  evidence of [OGSF:0001009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	T allele of rs2070874 SNP [OGSF:0001013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	C allele of  rs2243268 SNP [OGSF:0001014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	A allele of rs2243290 SNP [OGSF:0001015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MTHFR gene [OGSF:0001016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	IRF1 gene [OGSF:0001017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	IL4 gene [OGSF:0001018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human vaccinee [OGSF:0001021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human vaccinee experiencing systematic adverse event [OGSF:0001022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hasOddsRatio [OGSF:0001031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hasPvalue [OGSF:0001032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	smallpox vaccination [OGSF:0001041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wheezing AE after influenza vaccination [OGSF:0001042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	influenza vaccination [OGSF:0001043]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	genetic susceptibility [OGSF:0000000]	IAO_0000115 [IAO:0000115]	a disposition that is physically based on some genetic material, such as one or more gene mutations or variant, such that if the genome of an organism has the genetic material as its part, the organism may have an increased likelihood or chance to develop: 1) a particular disease; 2) a peculiar biological/bodily process.@en	
+INFO	lowercase_definition	genetic susceptibility to pathological bodily process [OGSF:0000001]	IAO_0000115 [IAO:0000115]	a genetic susceptibility that lead to the increased possibilities to initiate a patholoical bodily process in the organism, whose genome has related genetic susceptibility factor (he physical basis of this genetic susceptibility) as its part.@en	
+INFO	lowercase_definition	genetic susceptibility to biological process [OGSF:0000002]	IAO_0000115 [IAO:0000115]	a genetic susceptibility that lead to the increased possibilities to initiate a biological process in an organism, whose genome has related genetic susceptibility factor (he physical basis of this genetic susceptibility) as its part.@en	
+INFO	lowercase_definition	genetic susceptibility to adverse event [OGSF:0000003]	IAO_0000115 [IAO:0000115]	a genetic susceptibility that lead to the increased possibilities to initiate adverse event in an organism, whose genome has related genetic susceptibility factor (he physical basis of this genetic susceptibility) as its part.@en	
+INFO	lowercase_definition	genetic susceptibility factor [OGSF:0000004]	IAO_0000115 [IAO:0000115]	a genetic material that is the material base of genetic susceptibility@en	
+INFO	lowercase_definition	susceptibility gene [OGSF:0000005]	IAO_0000115 [IAO:0000115]	genetic susceptibility factor that is a gene@en	
+INFO	lowercase_definition	susceptibility haplotype [OGSF:0000006]	IAO_0000115 [IAO:0000115]	genetic susceptibility factor that is a haplotype@en	
+INFO	lowercase_definition	susceptibility allele of SNP [OGSF:0000007]	IAO_0000115 [IAO:0000115]	genetic susceptibility factor that is a Simple Nucleotide Polymorphism (SNP).@en	
+INFO	lowercase_definition	susceptibility genotype [OGSF:0000008]	IAO_0000115 [IAO:0000115]	genetic susceptibility factor that is a genotype@en	
+INFO	lowercase_definition	susceptibility allele [OGSF:0000009]	IAO_0000115 [IAO:0000115]	genetic susceptibility factor that is an allele@en	
+INFO	lowercase_definition	genetic susceptibility to vaccine adverse event [OGSF:0000010]	IAO_0000115 [IAO:0000115]	a genetic susceptibility to adverse event that is proceded by a vaccination process.@en	
+INFO	lowercase_definition	is_allele_of_gene [OGSF:0000013]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	is_allele_of_gene [OGSF:0000013]	IAO_0000115 [IAO:0000115]	allele of is a relation to link an allele with its original form@en	
+INFO	lowercase_definition	genetic susceptibility to drug adverse event [OGSF:0000015]	IAO_0000115 [IAO:0000115]	a genetic susceptibility to adverse event that is proceded by a drug administration@en	
+INFO	lowercase_definition	genetic association investigation [OGSF:0000016]	IAO_0000115 [IAO:0000115]	investigation that aims to test whether single-locus alleles or genotype frequencies (or more generally, multilocus haplotype frequencies) differ between two groups of individuals (usually diseased subjects and healthy controls). Genetic association studies are based on the principle that genotypes can be compared \"directly\", i.e. with the sequences of the actual genomes.@en	
+INFO	lowercase_definition	replicate GWAS study [OGSF:0000019]	IAO_0000115 [IAO:0000115]	the GWAS study that intend to repeat initial GWAS study's observation over a different population using a different design and methods by different investigation teams.@en	
+INFO	lowercase_definition	genetic susceptibility to adverse event following Pandemix vaccination [OGSF:0001039]	IAO_0000115 [IAO:0000115]	a genetic susceptibility to adverse event that is proceded by a vaccination process.@en	
+INFO	lowercase_definition	genetic susceptibility to multiple scelorosis AE following Pandemix vaccination [OGSF:0001040]	IAO_0000115 [IAO:0000115]	a genetic susceptibility to adverse event that is proceded by a vaccination process.@en	
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000027 [BFO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0000016 [ERO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0000019 [ERO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0000348 [ERO:0000348]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000144 [IAO:0000144]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000312 [IAO:0000312]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0000001 [OAE:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0000053 [OAE:0000053]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0000063 [OAE:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0000481 [OAE:0000481]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000066 [OBI:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000097 [OBI:0000097]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0200000 [OBI:0200000]	rdfs:subClassOf		
+INFO	missing_superclass	OGI.owl_0000014 [OGI.owl:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000004 [OGI:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000008 [OGI:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000015 [OGI:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000033 [OGI:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000035 [OGI:0000035]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000043 [OGI:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000062 [OGI:0000062]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000082 [OGI:0000082]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000090 [OGI:0000090]	rdfs:subClassOf		
+INFO	missing_superclass	OGI_0000102 [OGI:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000061 [OGMS:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	VO_0000002 [VO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	VO_0000410 [VO:0000410]	rdfs:subClassOf		
+INFO	missing_superclass	VO_0000651 [VO:0000651]	rdfs:subClassOf		
+INFO	missing_superclass	VO_0001374 [VO:0001374]	rdfs:subClassOf		

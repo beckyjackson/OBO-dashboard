@@ -1,0 +1,267 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	Meloidogyne arenaria exposure [PECO:0007320]	IAO_0000115 [IAO:0000115]	The treatment involving exposure of plant to the pest Meloidogyne oryzae. It is a causal agent for rice root knot nematode disease.	
+ERROR	duplicate_definition	Meloidogyne oryzae exposure [PECO:0007370]	IAO_0000115 [IAO:0000115]	The treatment involving exposure of plant to the pest Meloidogyne oryzae. It is a causal agent for rice root knot nematode disease.	
+ERROR	duplicate_definition	Meloidogyne javanica exposure [PECO:0007371]	IAO_0000115 [IAO:0000115]	The treatment involving exposure of plant to the pest Meloidogyne oryzae. It is a causal agent for rice root knot nematode disease.	
+ERROR	duplicate_definition	Meloidogyne incognita exposure [PECO:0007372]	IAO_0000115 [IAO:0000115]	The treatment involving exposure of plant to the pest Meloidogyne oryzae. It is a causal agent for rice root knot nematode disease.	
+ERROR	duplicate_definition	Meloidogyne graminicola exposure [PECO:0007375]	IAO_0000115 [IAO:0000115]	The treatment involving exposure of plant to the pest Meloidogyne oryzae. It is a causal agent for rice root knot nematode disease.	
+ERROR	duplicate_definition	Hirschmaniella imamuri exposure [PECO:0007324]	IAO_0000115 [IAO:0000115]	The treatment involving exposure of plant to the pest Hirschmaniella imamuri. It is a causal agent for rice root nematode disease.	
+ERROR	duplicate_definition	Hirschmaniella caudacrena exposure [PECO:0007325]	IAO_0000115 [IAO:0000115]	The treatment involving exposure of plant to the pest Hirschmaniella imamuri. It is a causal agent for rice root nematode disease.	
+ERROR	missing_ontology_description	peco.owl	dc11:description		
+ERROR	missing_ontology_license	peco.owl	dc:license		
+ERROR	missing_ontology_title	peco.owl	dc11:title		
+WARN	missing_definition	loam content exposure [PECO:0007004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	high light intensity exposure [PECO:0007075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	moderate light intensity exposure [PECO:0007076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	river bank region exposure [PECO:0007081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sea coast region exposure [PECO:0007082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bone meal exposure [PECO:0007089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seaweed extract exposure [PECO:0007091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wood ash exposure [PECO:0007092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fish meal exposure [PECO:0007093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clay soil exposure [PECO:0007156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	loam soil exposure [PECO:0007157]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sandy soil exposure [PECO:0007158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sandy loam soil exposure [PECO:0007159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	day light intensity exposure [PECO:0007193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	low light intensity exposure [PECO:0007271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mechanical damage exposure [PECO:0007373]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	river delta region exposure [PECO:0007395]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	drought environment exposure [PECO:0007404]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Hoagland solution exposure [PECO:0007405]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrate exposure [PECO:0007406]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-H exposure [PECO:0007610]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-H-deoxycytidine exposure [PECO:0007611]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-H-thymidine exposure [PECO:0007612]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	32-P exposure [PECO:0007613]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agr ray exposure [PECO:0007614]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Bevatron irradiation exposure [PECO:0007615]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	deuteron irradiation exposure [PECO:0007616]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ggr ray exposure [PECO:0007617]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	137-Cs or ggr ray exposure [PECO:0007618]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	226-Ra or agr ray exposure [PECO:0007619]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	60-Co or ggr ray exposure [PECO:0007620]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	magnetic field exposure [PECO:0007621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neutrons exposure [PECO:0007622]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	252-Cf fission neutrons exposure [PECO:0007623]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	radio wave exposure [PECO:0007624]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratosphere exposure [PECO:0007625]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supersonic exposure [PECO:0007626]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	plant growth environment [PECO:0001002]	label [rdfs:label]	plant growth environment	
+WARN	missing_obsolete_label	monocot mixed crop neighbor [PECO:0007006]	label [rdfs:label]	monocot mixed crop neighbor	
+WARN	missing_obsolete_label	monocot weed plant neighbor [PECO:0007007]	label [rdfs:label]	monocot weed plant neighbor	
+WARN	missing_obsolete_label	dicot weed plant neighbor [PECO:0007039]	label [rdfs:label]	dicot weed plant neighbor	
+WARN	missing_obsolete_label	dicot mixed crop neighbor [PECO:0007040]	label [rdfs:label]	dicot mixed crop neighbor	
+WARN	missing_obsolete_label	soil flora [PECO:0007056]	label [rdfs:label]	soil flora	
+WARN	missing_obsolete_label	soil fauna [PECO:0007057]	label [rdfs:label]	soil fauna	
+WARN	missing_obsolete_label	Proteobacterial plant exposure [PECO:0007108]	label [rdfs:label]	Proteobacterial plant exposure	
+WARN	missing_obsolete_label	pest/pathogen/animal/plant environment [PECO:0007124]	label [rdfs:label]	pest/pathogen/animal/plant environment	
+WARN	missing_obsolete_label	genetic environment [PECO:0007125]	label [rdfs:label]	genetic environment	
+WARN	missing_obsolete_label	facultative anaerobic environment [PECO:0007150]	label [rdfs:label]	facultative anaerobic environment	
+WARN	missing_obsolete_label	normal temperature regimen [PECO:0007237]	label [rdfs:label]	normal temperature regimen	
+WARN	missing_obsolete_label	optimal temperature regimen [PECO:0007238]	label [rdfs:label]	optimal temperature regimen	
+WARN	missing_obsolete_label	genetic background [PECO:0007351]	label [rdfs:label]	genetic background	
+WARN	missing_obsolete_label	germplasm [PECO:0007353]	label [rdfs:label]	germplasm	
+WARN	missing_obsolete_label	genotype [PECO:0007355]	label [rdfs:label]	genotype	
+WARN	missing_obsolete_label	cytoplasmic genetic background [PECO:0007380]	label [rdfs:label]	cytoplasmic genetic background	
+WARN	missing_obsolete_label	nuclear genetic background [PECO:0007381]	label [rdfs:label]	nuclear genetic background	
+WARN	missing_obsolete_label	sub-sahara region [PECO:0007393]	label [rdfs:label]	sub-sahara region	
+INFO	missing_superclass	CHEBI_116509 [CHEBI:116509]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15929 [CHEBI:15929]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16189 [CHEBI:16189]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16199 [CHEBI:16199]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16240 [CHEBI:16240]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16411 [CHEBI:16411]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16526 [CHEBI:16526]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16646 [CHEBI:16646]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16842 [CHEBI:16842]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16914 [CHEBI:16914]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16991 [CHEBI:16991]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17234 [CHEBI:17234]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17632 [CHEBI:17632]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17967 [CHEBI:17967]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17992 [CHEBI:17992]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18133 [CHEBI:18133]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18292 [CHEBI:18292]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18934 [CHEBI:18934]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18935 [CHEBI:18935]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18953 [CHEBI:18953]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18954 [CHEBI:18954]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_19024 [CHEBI:19024]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_19032 [CHEBI:19032]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_19351 [CHEBI:19351]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_19363 [CHEBI:19363]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_19371 [CHEBI:19371]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_19508 [CHEBI:19508]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_19579 [CHEBI:19579]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_20552 [CHEBI:20552]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_20553 [CHEBI:20553]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_21183 [CHEBI:21183]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_21184 [CHEBI:21184]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_21759 [CHEBI:21759]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22025 [CHEBI:22025]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22152 [CHEBI:22152]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22526 [CHEBI:22526]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22676 [CHEBI:22676]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22921 [CHEBI:22921]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23359 [CHEBI:23359]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23414 [CHEBI:23414]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23530 [CHEBI:23530]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23704 [CHEBI:23704]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23994 [CHEBI:23994]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23995 [CHEBI:23995]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24127 [CHEBI:24127]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24431 [CHEBI:24431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24527 [CHEBI:24527]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24564 [CHEBI:24564]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24565 [CHEBI:24565]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24753 [CHEBI:24753]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24781 [CHEBI:24781]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24834 [CHEBI:24834]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24852 [CHEBI:24852]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24866 [CHEBI:24866]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25234 [CHEBI:25234]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25255 [CHEBI:25255]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25434 [CHEBI:25434]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25516 [CHEBI:25516]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25805 [CHEBI:25805]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25812 [CHEBI:25812]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25813 [CHEBI:25813]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25814 [CHEBI:25814]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25816 [CHEBI:25816]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25818 [CHEBI:25818]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25829 [CHEBI:25829]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25944 [CHEBI:25944]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26020 [CHEBI:26020]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26491 [CHEBI:26491]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26709 [CHEBI:26709]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26710 [CHEBI:26710]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26800 [CHEBI:26800]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27027 [CHEBI:27027]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27090 [CHEBI:27090]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27292 [CHEBI:27292]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27407 [CHEBI:27407]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27504 [CHEBI:27504]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27561 [CHEBI:27561]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27666 [CHEBI:27666]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27732 [CHEBI:27732]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27789 [CHEBI:27789]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27899 [CHEBI:27899]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27919 [CHEBI:27919]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28262 [CHEBI:28262]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28534 [CHEBI:28534]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28741 [CHEBI:28741]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28830 [CHEBI:28830]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28876 [CHEBI:28876]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28901 [CHEBI:28901]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28938 [CHEBI:28938]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28954 [CHEBI:28954]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29022 [CHEBI:29022]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29238 [CHEBI:29238]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29362 [CHEBI:29362]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30212 [CHEBI:30212]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30969 [CHEBI:30969]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32036 [CHEBI:32036]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32145 [CHEBI:32145]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32918 [CHEBI:32918]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33116 [CHEBI:33116]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33118 [CHEBI:33118]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33281 [CHEBI:33281]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33287 [CHEBI:33287]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33325 [CHEBI:33325]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_34699 [CHEBI:34699]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35176 [CHEBI:35176]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35299 [CHEBI:35299]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35381 [CHEBI:35381]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35456 [CHEBI:35456]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35702 [CHEBI:35702]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35807 [CHEBI:35807]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35889 [CHEBI:35889]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36233 [CHEBI:36233]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36915 [CHEBI:36915]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37598 [CHEBI:37598]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37845 [CHEBI:37845]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_44785 [CHEBI:44785]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46662 [CHEBI:46662]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46790 [CHEBI:46790]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46793 [CHEBI:46793]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48864 [CHEBI:48864]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49637 [CHEBI:49637]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50102 [CHEBI:50102]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51052 [CHEBI:51052]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_52524 [CHEBI:52524]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_62946 [CHEBI:62946]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63005 [CHEBI:63005]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63038 [CHEBI:63038]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63043 [CHEBI:63043]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63063 [CHEBI:63063]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_64205 [CHEBI:64205]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_75832 [CHEBI:75832]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_86360 [CHEBI:86360]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_86644 [CHEBI:86644]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000097 [ENVO:00000097]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002229 [ENVO:00002229]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002262 [ENVO:00002262]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_01000552 [ENVO:01000552]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_01000830 [ENVO:01000830]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_02000054 [ENVO:02000054]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_02500002 [ENVO:02500002]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_09200001 [ENVO:09200001]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_101162 [NCBITaxon:101162]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_107832 [NCBITaxon:107832]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10991 [NCBITaxon:10991]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_112027 [NCBITaxon:112027]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1159556 [NCBITaxon:1159556]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_117187 [NCBITaxon:117187]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_12037 [NCBITaxon:12037]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_12331 [NCBITaxon:12331]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_12332 [NCBITaxon:12332]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_148305 [NCBITaxon:148305]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_157178 [NCBITaxon:157178]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_162130 [NCBITaxon:162130]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_165778 [NCBITaxon:165778]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_189291 [NCBITaxon:189291]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2 [NCBITaxon:2]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_269767 [NCBITaxon:269767]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_284135 [NCBITaxon:284135]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_294 [NCBITaxon:294]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_29850 [NCBITaxon:29850]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_31744 [NCBITaxon:31744]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33208 [NCBITaxon:33208]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33634 [NCBITaxon:33634]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_337 [NCBITaxon:337]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_344380 [NCBITaxon:344380]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_347 [NCBITaxon:347]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_35325 [NCBITaxon:35325]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_362338 [NCBITaxon:362338]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_36331 [NCBITaxon:36331]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_39291 [NCBITaxon:39291]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_40624 [NCBITaxon:40624]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_40674 [NCBITaxon:40674]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_4447 [NCBITaxon:4447]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_459364 [NCBITaxon:459364]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_467176 [NCBITaxon:467176]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_4767 [NCBITaxon:4767]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_4890 [NCBITaxon:4890]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_50340 [NCBITaxon:50340]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_50557 [NCBITaxon:50557]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5204 [NCBITaxon:5204]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_549 [NCBITaxon:549]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5503 [NCBITaxon:5503]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5506 [NCBITaxon:5506]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5518 [NCBITaxon:5518]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_556 [NCBITaxon:556]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6231 [NCBITaxon:6231]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6303 [NCBITaxon:6303]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6304 [NCBITaxon:6304]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6306 [NCBITaxon:6306]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_63189 [NCBITaxon:63189]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_66266 [NCBITaxon:66266]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_706553 [NCBITaxon:706553]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_714880 [NCBITaxon:714880]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_749593 [NCBITaxon:749593]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_80867 [NCBITaxon:80867]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_82932 [NCBITaxon:82932]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_82936 [NCBITaxon:82936]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_82937 [NCBITaxon:82937]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_82941 [NCBITaxon:82941]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_82948 [NCBITaxon:82948]	rdfs:subClassOf		

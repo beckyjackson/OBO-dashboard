@@ -1,0 +1,84 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	fbdv.owl	dc11:description		
+ERROR	missing_ontology_license	fbdv.owl	dc:license		
+ERROR	missing_ontology_title	fbdv.owl	dc11:title		
+WARN	missing_definition	oogenesis [FBdv:00004886]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unfertilized egg stage [FBdv:00005287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fertilized egg stage [FBdv:00005288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spermatogenesis [FBdv:00007000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	developmental process [FBdv:00007009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biological process [FBdv:00007024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	substage of [FBdv:00018001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	syncytial blastoderm stage [FBdv:00005305]	label [rdfs:label]	syncytial blastoderm stage	
+WARN	missing_obsolete_label	cellular blastoderm stage [FBdv:00005310]	label [rdfs:label]	cellular blastoderm stage	
+WARN	missing_obsolete_label	germ band stage [FBdv:00005320]	label [rdfs:label]	germ band stage	
+WARN	missing_obsolete_label	contracted germ band stage [FBdv:00005326]	label [rdfs:label]	contracted germ band stage	
+WARN	missing_obsolete_label	head involution stage [FBdv:00005329]	label [rdfs:label]	head involution stage	
+WARN	missing_obsolete_label	gamete [FBdv:00005412]	label [rdfs:label]	gamete	
+WARN	missing_obsolete_label	occurrent [FBdv:00007008]	label [rdfs:label]	occurrent	
+INFO	lowercase_definition	day 1 of adulthood [FBdv:00007076]	IAO_0000115 [IAO:0000115]	1st day after eclosion.	
+INFO	lowercase_definition	day 2 of adulthood [FBdv:00007077]	IAO_0000115 [IAO:0000115]	2nd day after eclosion.	
+INFO	lowercase_definition	day 3 of adulthood [FBdv:00007078]	IAO_0000115 [IAO:0000115]	3rd day after eclosion.	
+INFO	lowercase_definition	day 4 of adulthood [FBdv:00007079]	IAO_0000115 [IAO:0000115]	4th day after eclosion.	
+INFO	lowercase_definition	day 5 of adulthood [FBdv:00007080]	IAO_0000115 [IAO:0000115]	5th day after eclosion.	
+INFO	lowercase_definition	day 6 of adulthood [FBdv:00007081]	IAO_0000115 [IAO:0000115]	6th day after eclosion.	
+INFO	lowercase_definition	day 7 of adulthood [FBdv:00007082]	IAO_0000115 [IAO:0000115]	7th day after eclosion.	
+INFO	lowercase_definition	day 8 of adulthood [FBdv:00007083]	IAO_0000115 [IAO:0000115]	8th day after eclosion.	
+INFO	lowercase_definition	day 9 of adulthood [FBdv:00007084]	IAO_0000115 [IAO:0000115]	9th day after eclosion.	
+INFO	lowercase_definition	day 10 of adulthood [FBdv:00007085]	IAO_0000115 [IAO:0000115]	10th day after eclosion.	
+INFO	lowercase_definition	day 11 of adulthood [FBdv:00007086]	IAO_0000115 [IAO:0000115]	11th day after eclosion.	
+INFO	lowercase_definition	day 12 of adulthood [FBdv:00007087]	IAO_0000115 [IAO:0000115]	12th day after eclosion.	
+INFO	lowercase_definition	day 13 of adulthood [FBdv:00007088]	IAO_0000115 [IAO:0000115]	13th day after eclosion.	
+INFO	lowercase_definition	day 14 of adulthood [FBdv:00007089]	IAO_0000115 [IAO:0000115]	14th day after eclosion.	
+INFO	lowercase_definition	day 15 of adulthood [FBdv:00007090]	IAO_0000115 [IAO:0000115]	15th day after eclosion.	
+INFO	lowercase_definition	day 16 of adulthood [FBdv:00007091]	IAO_0000115 [IAO:0000115]	16th day after eclosion.	
+INFO	lowercase_definition	day 17 of adulthood [FBdv:00007092]	IAO_0000115 [IAO:0000115]	17th day after eclosion.	
+INFO	lowercase_definition	day 18 of adulthood [FBdv:00007093]	IAO_0000115 [IAO:0000115]	18th day after eclosion.	
+INFO	lowercase_definition	day 19 of adulthood [FBdv:00007094]	IAO_0000115 [IAO:0000115]	19th day after eclosion.	
+INFO	lowercase_definition	day 20 of adulthood [FBdv:00007095]	IAO_0000115 [IAO:0000115]	20th day after eclosion.	
+INFO	lowercase_definition	day 21 of adulthood [FBdv:00007096]	IAO_0000115 [IAO:0000115]	21st day after eclosion.	
+INFO	lowercase_definition	day 22 of adulthood [FBdv:00007097]	IAO_0000115 [IAO:0000115]	22nd day after eclosion.	
+INFO	lowercase_definition	day 23 of adulthood [FBdv:00007098]	IAO_0000115 [IAO:0000115]	23rd day after eclosion.	
+INFO	lowercase_definition	day 24 of adulthood [FBdv:00007099]	IAO_0000115 [IAO:0000115]	24th day after eclosion.	
+INFO	lowercase_definition	day 25 of adulthood [FBdv:00007100]	IAO_0000115 [IAO:0000115]	25th day after eclosion.	
+INFO	lowercase_definition	day 26 of adulthood [FBdv:00007101]	IAO_0000115 [IAO:0000115]	26th day after eclosion.	
+INFO	lowercase_definition	day 27 of adulthood [FBdv:00007102]	IAO_0000115 [IAO:0000115]	27th day after eclosion.	
+INFO	lowercase_definition	day 28 of adulthood [FBdv:00007103]	IAO_0000115 [IAO:0000115]	28th day after eclosion.	
+INFO	lowercase_definition	day 29 of adulthood [FBdv:00007104]	IAO_0000115 [IAO:0000115]	29th day after eclosion.	
+INFO	lowercase_definition	day 30 of adulthood [FBdv:00007105]	IAO_0000115 [IAO:0000115]	30th day after eclosion.	
+INFO	lowercase_definition	day 31 of adulthood [FBdv:00007106]	IAO_0000115 [IAO:0000115]	31st day after eclosion.	
+INFO	lowercase_definition	day 32 of adulthood [FBdv:00007107]	IAO_0000115 [IAO:0000115]	32nd day after eclosion.	
+INFO	lowercase_definition	day 33 of adulthood [FBdv:00007108]	IAO_0000115 [IAO:0000115]	33rd day after eclosion.	
+INFO	lowercase_definition	day 34 of adulthood [FBdv:00007109]	IAO_0000115 [IAO:0000115]	34th day after eclosion.	
+INFO	lowercase_definition	day 35 of adulthood [FBdv:00007110]	IAO_0000115 [IAO:0000115]	35th day after eclosion.	
+INFO	lowercase_definition	day 36 of adulthood [FBdv:00007111]	IAO_0000115 [IAO:0000115]	36th day after eclosion.	
+INFO	lowercase_definition	day 37 of adulthood [FBdv:00007112]	IAO_0000115 [IAO:0000115]	37th day after eclosion.	
+INFO	lowercase_definition	day 38 of adulthood [FBdv:00007113]	IAO_0000115 [IAO:0000115]	38th day after eclosion.	
+INFO	lowercase_definition	day 39 of adulthood [FBdv:00007114]	IAO_0000115 [IAO:0000115]	39th day after eclosion.	
+INFO	lowercase_definition	day 40 of adulthood [FBdv:00007115]	IAO_0000115 [IAO:0000115]	40th day after eclosion.	
+INFO	lowercase_definition	day 41 of adulthood [FBdv:00007116]	IAO_0000115 [IAO:0000115]	41st day after eclosion.	
+INFO	lowercase_definition	day 42 of adulthood [FBdv:00007117]	IAO_0000115 [IAO:0000115]	42nd day after eclosion.	
+INFO	lowercase_definition	day 43 of adulthood [FBdv:00007118]	IAO_0000115 [IAO:0000115]	43rd day after eclosion.	
+INFO	lowercase_definition	day 44 of adulthood [FBdv:00007119]	IAO_0000115 [IAO:0000115]	44th day after eclosion.	
+INFO	lowercase_definition	day 45 of adulthood [FBdv:00007120]	IAO_0000115 [IAO:0000115]	45th day after eclosion.	
+INFO	lowercase_definition	day 46 of adulthood [FBdv:00007121]	IAO_0000115 [IAO:0000115]	46th day after eclosion.	
+INFO	lowercase_definition	day 47 of adulthood [FBdv:00007122]	IAO_0000115 [IAO:0000115]	47th day after eclosion.	
+INFO	lowercase_definition	day 48 of adulthood [FBdv:00007123]	IAO_0000115 [IAO:0000115]	48th day after eclosion.	
+INFO	lowercase_definition	day 49 of adulthood [FBdv:00007124]	IAO_0000115 [IAO:0000115]	49th day after eclosion.	
+INFO	lowercase_definition	day 50 of adulthood [FBdv:00007125]	IAO_0000115 [IAO:0000115]	50th day after eclosion.	
+INFO	lowercase_definition	day 51 of adulthood [FBdv:00007126]	IAO_0000115 [IAO:0000115]	51st day after eclosion.	
+INFO	lowercase_definition	day 52 of adulthood [FBdv:00007127]	IAO_0000115 [IAO:0000115]	52nd day after eclosion.	
+INFO	lowercase_definition	day 53 of adulthood [FBdv:00007128]	IAO_0000115 [IAO:0000115]	53rd day after eclosion.	
+INFO	lowercase_definition	day 54 of adulthood [FBdv:00007129]	IAO_0000115 [IAO:0000115]	54th day after eclosion.	
+INFO	lowercase_definition	day 55 of adulthood [FBdv:00007130]	IAO_0000115 [IAO:0000115]	55th day after eclosion.	
+INFO	lowercase_definition	day 56 of adulthood [FBdv:00007131]	IAO_0000115 [IAO:0000115]	56th day after eclosion.	
+INFO	lowercase_definition	day 57 of adulthood [FBdv:00007132]	IAO_0000115 [IAO:0000115]	57th day after eclosion.	
+INFO	lowercase_definition	day 58 of adulthood [FBdv:00007133]	IAO_0000115 [IAO:0000115]	58th day after eclosion.	
+INFO	lowercase_definition	day 59 of adulthood [FBdv:00007134]	IAO_0000115 [IAO:0000115]	59th day after eclosion.	
+INFO	lowercase_definition	day 60 of adulthood [FBdv:00007135]	IAO_0000115 [IAO:0000115]	60th day after eclosion.	
+INFO	missing_superclass	BFO_0000003 [BFO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000087 [GO:0000087]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000279 [GO:0000279]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045448 [GO:0045448]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051325 [GO:0051325]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051329 [GO:0051329]	rdfs:subClassOf		

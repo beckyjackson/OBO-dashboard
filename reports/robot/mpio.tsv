@@ -1,0 +1,21 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	mpio.owl	dc11:description		
+ERROR	missing_ontology_license	mpio.owl	dc:license		
+ERROR	missing_ontology_title	mpio.owl	dc11:title		
+WARN	missing_definition	MPIO user-centered definition [MPIO:0000001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	severity information [MPIO:0000010]	label [rdfs:label]	severity information@en	
+INFO	missing_superclass	APOLLO_SV_00000032 [APOLLO:SV:00000032]	rdfs:subClassOf		
+INFO	missing_superclass	APOLLO_SV_00000033 [APOLLO:SV:00000033]	rdfs:subClassOf		
+INFO	missing_superclass	DIDEO_00000000 [DIDEO:00000000]	rdfs:subClassOf		
+INFO	missing_superclass	DIDEO_00000020 [DIDEO:00000020]	rdfs:subClassOf		
+INFO	missing_superclass	DIDEO_00000053 [DIDEO:00000053]	rdfs:subClassOf		
+INFO	missing_superclass	DIDEO_00000125 [DIDEO:00000125]	rdfs:subClassOf		
+INFO	missing_superclass	DINTO_000003 [DINTO:000003]	rdfs:subClassOf		
+INFO	missing_superclass	DINTO_000027 [DINTO:000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000104 [IAO:0000104]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000252 [OBI:0000252]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000015 [OGMS:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000000 [PCO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

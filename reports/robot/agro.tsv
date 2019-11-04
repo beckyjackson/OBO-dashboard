@@ -1,0 +1,93 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	multiple_equivalent_classes	percent of experiment area damaged [AGRO:00000348]	owl:equivalentClass	blank node <610e79f557b49861725ae044ea8b0a56>	
+ERROR	multiple_equivalent_classes	percent of experiment area damaged [AGRO:00000348]	owl:equivalentClass	blank node <eceb2eed6d856d921d6b6cc99781fb3b>	
+ERROR	missing_ontology_description	agro-edit.owl	description [dc11:description]		
+ERROR	multiple_definitions	experiment manager [AGRO:00000381]	IAO_0000115 [IAO:0000115]	A person that has a role of managing the experiment.@en	
+ERROR	multiple_definitions	experiment manager [AGRO:00000381]	IAO_0000115 [IAO:0000115]	Need a better definiton that highlights the differences with the principal investigator.@en	
+ERROR	multiple_definitions	soil mulch coverage [AGRO:00000439]	IAO_0000115 [IAO:0000115]	Area of soil covered with mulch.@en	
+ERROR	multiple_definitions	soil mulch coverage [AGRO:00000439]	IAO_0000115 [IAO:0000115]	mulch coverage@en	
+ERROR	missing_ontology_license	agro-edit.owl	dc:license		
+WARN	annotation_whitespace	irrigation process [AGRO:00000006]	IAO_0000115 [IAO:0000115]	A planned process in which water is artificially supplied to plant or soil to sustain plants. @en	
+WARN	missing_definition	subsurface textile irrigation process [AGRO:00000059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mechanical pest removal process [AGRO:00000110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	horse [AGRO:00000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	donkey [AGRO:00000118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bull [AGRO:00000119]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	camel [AGRO:00000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mule [AGRO:00000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	buffalo [AGRO:00000122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	elephant [AGRO:00000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has method [AGRO:00000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crop residue [AGRO:00000154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	measurement method of [AGRO:00000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	weight loss on ignition method [AGRO:00000276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has model [AGRO:00000411]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has brand [AGRO:00000414]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has notes [AGRO:00000415]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural implement [AGRO:00000416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has start date [AGRO:00000417]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has end date [AGRO:00000418]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	soil profile altitude [AGRO:00000424]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	limbing process [AGRO:00000460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	haymaking process [AGRO:00000462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	windrowing [AGRO:00000463]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	baling process [AGRO:00000464]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trussing process [AGRO:00000465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	storage process [AGRO:00000466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cutting process [AGRO:00000467]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crop yield experiment [AGRO:01000019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural experimental multiplot [AGRO:01000021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	preferred fieldbook label [AGRO:01000022]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	single-axle tractor [AGRO:00000125]	IAO_0000600 [IAO:0000600]	two-wheel tractor@en	
+INFO	lowercase_definition	row [AGRO:00000155]	IAO_0000115 [IAO:0000115]	two or more crop plants planted in a line.@en	
+INFO	lowercase_definition	moisture concentration measurement protocol [AGRO:00000251]	IAO_0000115 [IAO:0000115]	1.Weight a sample of the material. 2.Dry this sample. 3.Weight the dry sample. Moisture concentration = ((Ww-Wd)/Ww) x 100 in which : WW = wet weight of the sample, and Wd = weight of the sample after drying.@en	
+INFO	lowercase_definition	soil mulch coverage [AGRO:00000439]	IAO_0000115 [IAO:0000115]	mulch coverage@en	
+INFO	lowercase_definition	tillage [AGRO:01000015]	IAO_0000115 [IAO:0000115]	group together tillage and no-till processes	
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000030 [BFO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15377 [CHEBI:15377]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33287 [CHEBI:33287]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000026 [ENVO:00000026]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000063 [ENVO:00000063]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000077 [ENVO:00000077]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000078 [ENVO:00000078]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000083 [ENVO:00000083]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000114 [ENVO:00000114]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000191 [ENVO:00000191]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00001998 [ENVO:00001998]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002000 [ENVO:00002000]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002006 [ENVO:00002006]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002170 [ENVO:00002170]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002297 [ENVO:00002297]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002869 [ENVO:00002869]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00010483 [ENVO:00010483]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_0010003 [ENVO:0010003]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_01000352 [ENVO:01000352]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_01000408 [ENVO:01000408]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_02500031 [ENVO:02500031]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000104 [IAO:0000104]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000272 [OBI:0000272]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500000 [OBI:0500000]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000008 [PATO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000040 [PATO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000052 [PATO:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000070 [PATO:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000119 [PATO:0000119]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000122 [PATO:0000122]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000133 [PATO:0000133]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000915 [PATO:0000915]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000918 [PATO:0000918]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000921 [PATO:0000921]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001300 [PATO:0001300]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001323 [PATO:0001323]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001351 [PATO:0001351]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001470 [PATO:0001470]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001687 [PATO:0001687]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000003 [PO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0004545 [PO:0004545]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009010 [PO:0009010]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025131 [PO:0025131]	rdfs:subClassOf		
+INFO	missing_superclass	XCO_0000000 [XCO:0000000]	rdfs:subClassOf		

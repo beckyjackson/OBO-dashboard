@@ -1,0 +1,83 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	nuclear transport [APO:0000077]	IAO_0000115 [IAO:0000115]	Transport of proteins or RNAs into or out of the nucleus.	
+ERROR	duplicate_definition	nuclear import [APO:0000126]	IAO_0000115 [IAO:0000115]	Transport of proteins or RNAs into or out of the nucleus.	
+ERROR	missing_ontology_description	apo.owl	dc11:description		
+ERROR	duplicate_label	homozygous diploid [APO:0000207]	label [rdfs:label]	homozygous diploid	
+ERROR	duplicate_label	homozygous diploid [APO:0000229]	label [rdfs:label]	homozygous diploid	
+ERROR	duplicate_label	heterozygous diploid [APO:0000206]	label [rdfs:label]	heterozygous diploid	
+ERROR	duplicate_label	heterozygous diploid [APO:0000230]	label [rdfs:label]	heterozygous diploid	
+ERROR	missing_ontology_license	apo.owl	dc:license		
+ERROR	missing_ontology_title	apo.owl	dc11:title		
+WARN	missing_definition	hyphal growth [APO:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Affinity Capture-MS [APO:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Affinity Capture-RNA [APO:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interactions [APO:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Affinity Capture-Western [APO:0000165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Biochemical Activity [APO:0000166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Co-crystal Structure [APO:0000167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Co-fractionation [APO:0000168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Co-localization [APO:0000169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Co-purification [APO:0000170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dosage Growth Defect [APO:0000171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dosage Lethality [APO:0000172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dosage Rescue [APO:0000173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Epistatic MiniArray Profile [APO:0000174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	FRET [APO:0000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Far Western [APO:0000176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Phenotypic Enhancement [APO:0000177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Phenotypic Suppression [APO:0000178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Protein-RNA [APO:0000179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Protein-peptide [APO:0000180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Reconstituted Complex [APO:0000181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Synthetic Growth Defect [APO:0000182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Synthetic Lethality [APO:0000183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Synthetic Rescue [APO:0000184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Two-hybrid [APO:0000185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic interactions [APO:0000186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physical interactions [APO:0000187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Affinity Chromatography [APO:0000188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Affinity Precipitation [APO:0000189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Biochemical Assay [APO:0000190]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Purified Complex [APO:0000191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phenotype assays [APO:0000192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PCA [APO:0000244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Synthetic Haploinsufficiency [APO:0000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Negative Genetic [APO:0000322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Positive Genetic [APO:0000323]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	not yet recorded [APO:0000016]	label [rdfs:label]	not yet recorded	
+WARN	missing_obsolete_label	systematic null mutation set [APO:0000019]	label [rdfs:label]	systematic null mutation set	
+WARN	missing_obsolete_label	cell cycle arrest in G1 phase [APO:0000067]	label [rdfs:label]	cell cycle arrest in G1 phase	
+WARN	missing_obsolete_label	cell cycle arrest at G2 phase [APO:0000068]	label [rdfs:label]	cell cycle arrest at G2 phase	
+WARN	missing_obsolete_label	cell cycle arrest at START [APO:0000069]	label [rdfs:label]	cell cycle arrest at START	
+WARN	missing_obsolete_label	cell cycle arrest [APO:0000070]	label [rdfs:label]	cell cycle arrest	
+WARN	missing_obsolete_label	drug resistance [APO:0000088]	label [rdfs:label]	drug resistance	
+WARN	missing_obsolete_label	respiratory growth rate [APO:0000103]	label [rdfs:label]	respiratory growth rate	
+WARN	missing_obsolete_label	growth rate in exponential phase [APO:0000107]	label [rdfs:label]	growth rate in exponential phase	
+WARN	missing_obsolete_label	growth rate in post-diauxic phase [APO:0000108]	label [rdfs:label]	growth rate in post-diauxic phase	
+WARN	missing_obsolete_label	other method [APO:0000115]	label [rdfs:label]	other method	
+WARN	missing_obsolete_label	other mutant type [APO:0000116]	label [rdfs:label]	other mutant type	
+WARN	missing_obsolete_label	bud direction [APO:0000121]	label [rdfs:label]	bud direction	
+WARN	missing_obsolete_label	cell cycle arrest in M phase [APO:0000122]	label [rdfs:label]	cell cycle arrest in M phase	
+WARN	missing_obsolete_label	cell cycle arrest in metaphase [APO:0000133]	label [rdfs:label]	cell cycle arrest in metaphase	
+WARN	missing_obsolete_label	cell cycle arrest at the metaphase - anaphase transition [APO:0000134]	label [rdfs:label]	cell cycle arrest at the metaphase - anaphase transition	
+WARN	missing_obsolete_label	cell cycle arrest in anaphase [APO:0000135]	label [rdfs:label]	cell cycle arrest in anaphase	
+WARN	missing_obsolete_label	cell cycle arrest in early anaphase [APO:0000136]	label [rdfs:label]	cell cycle arrest in early anaphase	
+WARN	missing_obsolete_label	cell cycle arrest in mid anaphase [APO:0000137]	label [rdfs:label]	cell cycle arrest in mid anaphase	
+WARN	missing_obsolete_label	cell cycle arrest in late anaphase [APO:0000138]	label [rdfs:label]	cell cycle arrest in late anaphase	
+WARN	missing_obsolete_label	cell cycle arrest in telophase [APO:0000139]	label [rdfs:label]	cell cycle arrest in telophase	
+WARN	missing_obsolete_label	cell cycle arrest in G0 (stationary phase) [APO:0000140]	label [rdfs:label]	cell cycle arrest in G0 (stationary phase)	
+WARN	missing_obsolete_label	systematic repressible mutation set [APO:0000146]	label [rdfs:label]	systematic repressible mutation set	
+WARN	missing_obsolete_label	null homozygous diploid [APO:0000150]	label [rdfs:label]	null homozygous diploid	
+WARN	missing_obsolete_label	null heterozygous diploid [APO:0000151]	label [rdfs:label]	null heterozygous diploid	
+WARN	missing_obsolete_label	fermentative growth rate [APO:0000156]	label [rdfs:label]	fermentative growth rate	
+WARN	missing_obsolete_label	multiple [APO:0000161]	label [rdfs:label]	multiple	
+WARN	missing_obsolete_label	heterozygous diploid [APO:0000206]	label [rdfs:label]	heterozygous diploid	
+WARN	missing_obsolete_label	homozygous diploid [APO:0000207]	label [rdfs:label]	homozygous diploid	
+WARN	missing_obsolete_label	anaerobic growth rate [APO:0000211]	label [rdfs:label]	anaerobic growth rate	
+WARN	missing_obsolete_label	cell cycle arrest in S phase [APO:0000227]	label [rdfs:label]	cell cycle arrest in S phase	
+WARN	missing_obsolete_label	cell cycle arrest at the G2/M phase transition [APO:0000238]	label [rdfs:label]	cell cycle arrest at the G2/M phase transition	
+WARN	missing_obsolete_label	allergy induction [APO:0000290]	label [rdfs:label]	allergy induction	
+INFO	missing_superclass	qualifier [APO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	mutant_type [APO:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	observable [APO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	experiment_type [APO:0000018]	rdfs:subClassOf		

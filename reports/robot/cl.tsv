@@ -1,0 +1,1446 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	mature Vgamma2-positive fetal thymocyte [CL:0002403]	IAO_0000115 [IAO:0000115]	A thymocyte that has a T cell receptor consisting of a gamma chain containing Vgamma2 segment, and a delta chain. This cell type is CD4- negative, CD8-negative and CD24-negative. This cell-type is found in the fetal thymus.	
+ERROR	duplicate_definition	mature Vgamma2-positive thymocyte [CL:0002407]	IAO_0000115 [IAO:0000115]	A thymocyte that has a T cell receptor consisting of a gamma chain containing Vgamma2 segment, and a delta chain. This cell type is CD4- negative, CD8-negative and CD24-negative. This cell-type is found in the fetal thymus.	
+ERROR	duplicate_definition	mature Vgamma2-negative thymocyte [CL:0002409]	IAO_0000115 [IAO:0000115]	A thymocyte that has a T cell receptor consisting of a gamma chain containing Vgamma2 segment, and a delta chain. This cell type is CD4- negative, CD8-negative and CD24-negative. This cell-type is found in the fetal thymus.	
+ERROR	duplicate_definition	cold sensing thermoreceptor cell [CL:0000587]	IAO_0000115 [IAO:0000115]	A thermoreceptor cell that detects reduced temperatures.	
+ERROR	duplicate_definition	warmth sensing thermoreceptor cell [CL:0000591]	IAO_0000115 [IAO:0000115]	A thermoreceptor cell that detects reduced temperatures.	
+ERROR	duplicate_definition	cholecystokin stimulating hormone secreting cell [CL:0000481]	IAO_0000115 [IAO:0000115]	A peptide hormone secreting cell that secretes cholecystokin stimulating hormone	
+ERROR	duplicate_definition	bombesin stimulating hormone secreting cell [CL:0000483]	IAO_0000115 [IAO:0000115]	A peptide hormone secreting cell that secretes cholecystokin stimulating hormone	
+ERROR	duplicate_definition	CD56-positive, CD161-positive immature natural killer cell [CL:0002338]	IAO_0000115 [IAO:0000115]	A natural killer cell that is developmentally immature, has the phenotype CD34-negative, CD56-negative, CD117-positive, CD122-positive,and CD161-positive.	
+ERROR	duplicate_definition	CD56-negative, CD161-positive immature natural killer cell [CL:0002344]	IAO_0000115 [IAO:0000115]	A natural killer cell that is developmentally immature, has the phenotype CD34-negative, CD56-negative, CD117-positive, CD122-positive,and CD161-positive.	
+ERROR	duplicate_definition	hematopoietic oligopotent progenitor cell, lineage-negative [CL:0001060]	IAO_0000115 [IAO:0000115]	A hematopoietic oligopotent progenitor cell that has the ability to differentiate into limited cell types but lacks lineage cell markers and self renewal capabilities. Cell lacks hematopoeitic lineage markers.	
+ERROR	duplicate_definition	hematopoietic oligopotent progenitor cell [CL:0002032]	IAO_0000115 [IAO:0000115]	A hematopoietic oligopotent progenitor cell that has the ability to differentiate into limited cell types but lacks lineage cell markers and self renewal capabilities. Cell lacks hematopoeitic lineage markers.	
+ERROR	duplicate_definition	CD4-intermediate, CD8-positive double-positive thymocyte [CL:0002430]	IAO_0000115 [IAO:0000115]	A double-positive thymocyte that is undergoing positive selection, has high expression of the alpha-beta T cell receptor, is CD69-positive, and is in the process of down regulating the CD4 co-receptor.	
+ERROR	duplicate_definition	CD4-positive, CD8-intermediate double-positive thymocyte [CL:0002431]	IAO_0000115 [IAO:0000115]	A double-positive thymocyte that is undergoing positive selection, has high expression of the alpha-beta T cell receptor, is CD69-positive, and is in the process of down regulating the CD4 co-receptor.	
+ERROR	duplicate_definition	immature Vgamma2-positive thymocyte [CL:0002406]	IAO_0000115 [IAO:0000115]	A double negative post-natal thymocyte that has a T cell receptor consisting of a gamma chain containing a Vgamma2 segment, and a delta chain. This cell type is CD4- negative, CD8-negative and CD24-positive.	
+ERROR	duplicate_definition	immature Vgamma2-negative thymocyte [CL:0002408]	IAO_0000115 [IAO:0000115]	A double negative post-natal thymocyte that has a T cell receptor consisting of a gamma chain containing a Vgamma2 segment, and a delta chain. This cell type is CD4- negative, CD8-negative and CD24-positive.	
+ERROR	duplicate_definition	CD69-positive, CD4-positive single-positive thymocyte [CL:0002433]	IAO_0000115 [IAO:0000115]	A CD4-positive, CD8-negative thymocyte that expresses high levels of the alpha-beta T cell receptor and is CD69-positive.	
+ERROR	duplicate_definition	CD69-positive, CD8-positive single-positive thymocyte [CL:0002435]	IAO_0000115 [IAO:0000115]	A CD4-positive, CD8-negative thymocyte that expresses high levels of the alpha-beta T cell receptor and is CD69-positive.	
+ERROR	missing_ontology_description	cl.owl	dc11:description		
+ERROR	missing_ontology_license	cl.owl	dc:license		
+ERROR	missing_ontology_title	cl.owl	dc11:title		
+ERROR	multiple_labels	cell [CL:0000000]	label [rdfs:label]	cell	
+ERROR	multiple_labels	cell [CL:0000000]	label [rdfs:label]	cell@en	
+ERROR	multiple_labels	neuron [CL:0000540]	label [rdfs:label]	neuron	
+ERROR	multiple_labels	neuron [CL:0000540]	label [rdfs:label]	neuron@en	
+WARN	equivalent_pair	cell [CL:0000000]	owl:equivalentClass	GO_0005623 [GO:0005623]	
+WARN	missing_definition	fibroblast neural crest derived [CL:0000005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuronal receptor cell [CL:0000006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	migratory cranial neural crest cell [CL:0000008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	migratory trunk neural crest cell [CL:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	germ line stem cell [CL:0000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	male germ cell [CL:0000015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	male germ line stem cell [CL:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	female germ line stem cell [CL:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	smooth muscle cell neural crest derived [CL:0000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS neuron (sensu Nematoda and Protostomia) [CL:0000028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuron neural crest derived [CL:0000029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glioblast [CL:0000030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial fate stem cell [CL:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bone matrix secreting cell [CL:0000054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	duct epithelial cell [CL:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	branched duct epithelial cell [CL:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-branched duct epithelial cell [CL:0000072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	barrier epithelial cell [CL:0000073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	columnar/cuboidal epithelial cell [CL:0000075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	squamous epithelial cell [CL:0000076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peridermal cell [CL:0000078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified epithelial cell [CL:0000079]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial cell of lung [CL:0000082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	germ line stem cell (sensu Vertebrata) [CL:0000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	germ line stem cell (sensu Nematoda and Protostomia) [CL:0000086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	male germ line stem cell (sensu Nematoda and Protostomia) [CL:0000087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	female germ line stem cell (sensu Nematoda and Protostomia) [CL:0000088]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	male germ line stem cell (sensu Vertebrata) [CL:0000089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	female germ line stem cell (sensu Vertebrata) [CL:0000090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuron associated cell [CL:0000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polymodal neuron [CL:0000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adrenergic neuron [CL:0000109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptidergic neuron [CL:0000110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	columnar neuron [CL:0000112]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surface ectodermal cell [CL:0000114]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS neuron (sensu Vertebrata) [CL:0000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basket cell [CL:0000118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granule cell [CL:0000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stellate neuron [CL:0000122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuron associated cell (sensu Vertebrata) [CL:0000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glial cell (sensu Nematoda and Protostomia) [CL:0000124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuron associated cell (sensu Nematoda and Protostomia) [CL:0000130]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gut endothelial cell [CL:0000131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	guidepost cell [CL:0000143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	simple columnar epithelial cell [CL:0000146]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visual pigment cell [CL:0000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein secreting cell [CL:0000154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seromucus secreting cell [CL:0000159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acid secreting cell [CL:0000161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptide hormone secreting cell [CL:0000167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insulin secreting cell [CL:0000168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	somatostatin secreting cell [CL:0000172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	steroid hormone secreting cell [CL:0000174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ecdysteroid secreting cell [CL:0000176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	testosterone secreting cell [CL:0000177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	progesterone secreting cell [CL:0000179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	estradiol secreting cell [CL:0000180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flight muscle cell [CL:0000196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	receptor cell [CL:0000197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	touch receptor cell [CL:0000200]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gravity sensitive cell [CL:0000203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acceleration receptive cell [CL:0000204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory receptor cell [CL:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH receptor cell [CL:0000208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insulating cell [CL:0000217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	binucleate cell [CL:0000227]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	keratinizing barrier epithelial cell [CL:0000237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non keratinizing barrier epithelial cell [CL:0000238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	brush border epithelial cell [CL:0000239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified squamous epithelial cell [CL:0000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified cuboidal epithelial cell [CL:0000241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mauthner neuron [CL:0000246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hatching gland cell [CL:0000249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	extramedullary cell [CL:0000251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eurydendroid cell [CL:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eukaryotic cell [CL:0000255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uric acid accumulating cell [CL:0000256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mycetozoan cell [CL:0000257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eye photoreceptor cell [CL:0000287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pole cell [CL:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crystallin accumulating cell [CL:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metal ion accumulating cell [CL:0000308]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	copper accumulating cell [CL:0000309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron accumulating cell [CL:0000310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	keratin accumulating cell [CL:0000311]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	milk secreting cell [CL:0000314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mucus secreting cell [CL:0000319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seminal fluid secreting cell [CL:0000321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lysozyme secreting cell [CL:0000323]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metanephric mesenchyme stem cell [CL:0000324]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycogen accumulating cell [CL:0000326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	extracellular matrix secreting cell [CL:0000327]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myelin accumulating cell [CL:0000328]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oxygen accumulating cell [CL:0000329]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vegetative cell (sensu Fungi) [CL:0000334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroblast (sensu Nematoda and Protostomia) [CL:0000338]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glioblast (sensu Nematoda and Protostomia) [CL:0000340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pigment cell (sensu Nematoda and Protostomia) [CL:0000341]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	extraembryonic cell [CL:0000349]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amnioserosal cell [CL:0000350]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blastemal cell [CL:0000354]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hair matrix stem cell [CL:0000356]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified epithelial stem cell [CL:0000357]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sheath cell (sensu Nematoda) [CL:0000367]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	histoblast [CL:0000373]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	humidity receptor cell [CL:0000376]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tracheoblast [CL:0000377]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	support cell (sensu Nematoda and Protostomia) [CL:0000378]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory processing neuron [CL:0000379]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurosecretory neuron [CL:0000381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scolopale cell [CL:0000382]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nephrogenic mesenchyme stem cell [CL:0000383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ligament cell [CL:0000384]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	prohemocyte (sensu Nematoda and Protostomia) [CL:0000385]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	attachment cell [CL:0000386]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemocyte (sensu Nematoda and Protostomia) [CL:0000387]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	socket cell (sensu Nematoda) [CL:0000389]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood cell (sensu Nematoda and Protostomia) [CL:0000390]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crystal cell [CL:0000392]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmatocyte [CL:0000394]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	procrystal cell [CL:0000395]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lamellocyte [CL:0000396]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ganglion interneuron [CL:0000397]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polygonal cell [CL:0000398]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macrophage (sensu Diptera) [CL:0000401]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS interneuron [CL:0000402]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroepidermoblast [CL:0000405]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS short range interneuron [CL:0000406]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scolopidial ligament cell [CL:0000407]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	male gamete [CL:0000408]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scolopidial sheath cell [CL:0000409]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS long range interneuron [CL:0000410]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polytene cell [CL:0000416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endopolyploid cell [CL:0000417]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	syncytial epithelial cell [CL:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tip cell [CL:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scaffold cell [CL:0000426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yolk cell [CL:0000428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	imaginal disc cell [CL:0000429]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alkali secreting cell [CL:0000435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vaginal lubricant secreting cell [CL:0000436]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	follicle stem cell [CL:0000441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcitonin secreting cell [CL:0000443]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	apoptosis fated cell [CL:0000445]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carbohydrate secreting cell [CL:0000447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thyroid hormone secreting cell [CL:0000452]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mineralocorticoid secreting cell [CL:0000456]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biogenic amine secreting cell [CL:0000457]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucocorticoid secreting cell [CL:0000460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adepithelial cell [CL:0000462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardioblast (sensu Arthropoda) [CL:0000465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroglioblast [CL:0000468]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ganglion mother cell [CL:0000469]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	digestive enzyme secreting cell [CL:0000470]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	follicle cell [CL:0000477]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scotopic photoreceptor cell [CL:0000489]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	photopic photoreceptor cell [CL:0000490]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	follicular epithelial cell [CL:0000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	prokaryotic cell [CL:0000520]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fungal cell [CL:0000521]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pigmented epithelial cell [CL:0000529]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary neuron [CL:0000530]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary sensory neuron [CL:0000531]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CAP motoneuron [CL:0000532]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary motor neuron [CL:0000533]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary interneuron [CL:0000534]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary neuron [CL:0000535]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary motor neuron [CL:0000536]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slowly adapting mechanoreceptor cell [CL:0000544]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal cell [CL:0000548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unimodal nocireceptor [CL:0000551]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuronal brush cell [CL:0000555]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polymodal nocireceptor [CL:0000567]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	border follicle cell [CL:0000579]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eosinophil progenitor cell [CL:0000611]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sheath cell [CL:0000618]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	support cell (sensu Nematoda) [CL:0000619]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mueller cell [CL:0000636]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	distal tip cell (sensu Nematoda) [CL:0000661]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroglioblast (sensu Nematoda) [CL:0000662]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	valve cell [CL:0000663]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	closable valve cell [CL:0000664]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	permanently open valve cell [CL:0000665]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fenestrated cell [CL:0000666]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	centripetally migrating follicle cell [CL:0000671]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Kenyon cell [CL:0000673]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interfollicle cell [CL:0000674]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cap cell [CL:0000676]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	commissural neuron [CL:0000678]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamatergic neuron [CL:0000679]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	littoral cell of liver [CL:0000684]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R1 photoreceptor cell [CL:0000687]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R2 photoreceptor cell [CL:0000690]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stellate interneuron [CL:0000691]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R3 photoreceptor cell [CL:0000694]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R4 photoreceptor cell [CL:0000697]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R5 photoreceptor cell [CL:0000702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R6 photoreceptor cell [CL:0000705]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R7 photoreceptor cell [CL:0000707]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R8 photoreceptor cell [CL:0000709]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratum granulosum cell [CL:0000712]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	corona radiata cell [CL:0000713]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	embryonic crystal cell [CL:0000715]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lymph gland crystal cell [CL:0000716]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	compound eye cone cell [CL:0000718]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior cone cell (sensu Endopterygota) [CL:0000719]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior cone cell (sensu Endopterygota) [CL:0000720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	equatorial cone cell (sensu Endopterygota) [CL:0000721]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cystoblast [CL:0000722]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrogen fixing cell [CL:0000725]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary pigment cell [CL:0000727]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary pigment cell [CL:0000728]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tertiary pigment cell [CL:0000729]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amoeboid cell [CL:0000732]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lymph gland plasmatocyte [CL:0000733]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	embryonic gland plasmatocyte [CL:0000734]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lymph gland hemocyte [CL:0000735]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	embryonic gland hemocyte [CL:0000736]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CD34-positive, CD38-positive common myeloid progenitor OR CD34-positive, CD38-positive common lymphoid progenitor [CL:0000995]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CD7-negative lymphoid progenitor OR granulocyte monocyte progenitor [CL:0001012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CD115-positive monocyte OR common dendritic progenitor [CL:0001019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CD117-positive common myeloid progenitor OR CD217-positive common lymphoid progenitor [CL:0001030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visual pigment cell (sensu Nematoda and Protostomia) [CL:0001658]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fibroblast of dermis [CL:0002551]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fibroblast of gingiva [CL:0002552]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	omentum preadipocyte [CL:0002579]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	perirenal preadipocyte [CL:0002581]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bronchial smooth muscle cell [CL:0002598]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	annulus pulposus cell [CL:0002602]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	astrocyte of the hippocampus [CL:0002604]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gingival epithelial cell [CL:0002621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial cell of upper respiratory tract [CL:0002631]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial cell of lower respiratory tract [CL:0002632]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortical cell [CL:0002681]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epidermal mucus secreting cell [CL:0007019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior lateral line ganglion neuron [CL:0008021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visual system neuron [CL:0008028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inhibitory neuron [CL:0008029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	excitatory neuron [CL:0008030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cortical interneuron [CL:0008031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rosehip neuron [CL:0008032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac blood vessel endothelial cell [CL:0010006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	His-Purkinje system cell [CL:0010007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac endothelial cell [CL:0010008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	camera-type eye photoreceptor cell [CL:0010009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cerebellar stellate cell [CL:0010010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	type I pinealocyte [CL:0010013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	type II pinealocyte [CL:0010014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac glial cell [CL:0010020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac myoblast [CL:0010021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac neuron [CL:0010022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain radial glial cell [CL:0013000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retrotrapezoid nucleus neuron [CL:1000001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesonephric nephron tubule epithelial cell [CL:1000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain neuroblast [CL:1000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral line nerve glial cell [CL:1000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal cord radial glial cell [CL:1000073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stretch receptor cell [CL:1000082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified keratinized epithelial stem cell [CL:1000083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified non keratinized epithelial stem cell [CL:1000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric nephron tubule epithelial cell [CL:1000090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metanephric nephron tubule epithelial cell [CL:1000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lung goblet cell [CL:1000143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve cell [CL:1000147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	malpighian tubule tip cell [CL:1000182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth plate cartilage chondrocyte [CL:1000217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stomach neuroendocrine cell [CL:1000222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lung neuroendocrine cell [CL:1000223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior lateral line nerve glial cell [CL:1000236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior lateral line nerve glial cell [CL:1000239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior lateral line ganglion neuron [CL:1000245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lung ciliated cell [CL:1000271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lung secretory cell [CL:1000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trophectodermal cell [CL:1000274]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cell [CL:1000497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney interstitial cell [CL:1000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney medulla cell [CL:1000504]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney pelvis cell [CL:1000505]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney tubule cell [CL:1000507]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney glomerular epithelial cell [CL:1000510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney medulla collecting duct epithelial cell [CL:1000546]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney inner medulla collecting duct epithelial cell [CL:1000547]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney outer medulla collecting duct epithelial cell [CL:1000548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex collecting duct epithelial cell [CL:1000549]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney papillary duct principal epithelial cell [CL:1000550]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner renal cortex cell [CL:1000596]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	papillary tips cell [CL:1000597]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lower urinary tract cell [CL:1000600]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ureteral cell [CL:1000601]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney nerve cell [CL:1000606]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney corpuscule cell [CL:1000612]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex tubule cell [CL:1000615]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney outer medulla cell [CL:1000616]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney inner medulla cell [CL:1000617]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	juxtaglomerular complex cell [CL:1000618]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex interstitial cell [CL:1000681]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney medulla interstitial cell [CL:1000682]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney interstitial myofibroblast [CL:1000691]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney interstitial fibroblast [CL:1000692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney interstitial fibrocyte [CL:1000693]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney interstitial alternatively activated macrophage [CL:1000695]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney interstitial inflammatory macrophage [CL:1000696]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney interstitial suppressor macrophage [CL:1000697]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney resident macrophage [CL:1000698]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney resident dendritic cell [CL:1000699]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney pelvis smooth muscle cell [CL:1000702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney pelvis urothelial cell [CL:1000703]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ureter urothelial cell [CL:1000706]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ureter adventitial cell [CL:1000708]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex collecting duct principal cell [CL:1000714]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex collecting duct intercalated cell [CL:1000715]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney outer medulla collecting duct principal cell [CL:1000716]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney outer medulla collecting duct intercalated cell [CL:1000717]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney inner medulla collecting duct principal cell [CL:1000718]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney inner medulla collecting duct intercalated cell [CL:1000719]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney papillary duct intercalated cell [CL:1000720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney papillary duct principal cell [CL:1000721]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glomerular cell [CL:1000746]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney connecting tubule epithelial cell [CL:1000768]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney inner medulla interstitial cell [CL:1000803]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney outer medulla interstitial cell [CL:1000804]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney proximal convoluted tubule epithelial cell [CL:1000838]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney proximal straight tubule epithelial cell [CL:1000839]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney distal convoluted tubule epithelial cell [CL:1000849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macula densa epithelial cell [CL:1000850]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney blood vessel cell [CL:1000854]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney arterial blood vessel cell [CL:1000891]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney capillary endothelial cell [CL:1000892]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney venous blood vessel cell [CL:1000893]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle epithelial cell [CL:1000909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ureter smooth muscle cell [CL:1000979]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glomerular capillary endothelial cell [CL:1001005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney afferent arteriole cell [CL:1001006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney efferent arteriole cell [CL:1001009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle ascending limb epithelial cell [CL:1001016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle descending limb epithelial cell [CL:1001021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peritubular capillary endothelial cell [CL:1001033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vasa recta cell [CL:1001036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex artery cell [CL:1001045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex vein cell [CL:1001052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney artery smooth muscle cell [CL:1001064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney arteriole smooth muscle cell [CL:1001066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney venous system smooth muscle cell [CL:1001068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney afferent arteriole endothelial cell [CL:1001096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney afferent arteriole smooth muscle cell [CL:1001097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney efferent arteriole endothelial cell [CL:1001099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney efferent arteriole smooth muscle cell [CL:1001100]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle thick ascending limb epithelial cell [CL:1001106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle thin ascending limb epithelial cell [CL:1001107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle medullary thick ascending limb epithelial cell [CL:1001108]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle cortical thick ascending limb epithelial cell [CL:1001109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney loop of Henle thin descending limb epithelial cell [CL:1001111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney outer medulla peritubular capillary cell [CL:1001123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney cortex peritubular capillary cell [CL:1001124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner renal medulla vasa recta cell [CL:1001126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outer renal medulla vasa recta cell [CL:1001127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vasa recta ascending limb cell [CL:1001131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcuate artery cell [CL:1001135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interlobular artery cell [CL:1001138]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcuate vein cell [CL:1001142]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interlobular vein cell [CL:1001145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner medulla vasa recta ascending limb cell [CL:1001209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outer medulla vasa recta ascending limb cell [CL:1001210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcuate artery endothelial cell [CL:1001213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcuate artery smooth muscle cell [CL:1001214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interlobulary artery endothelial cell [CL:1001216]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interlobulary artery smooth muscle cell [CL:1001217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcuate vein endothelial cell [CL:1001220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcuate vein smooth muscle cell [CL:1001221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interlobulary vein endothelial cell [CL:1001223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interlobulary vein smooth muscle cell [CL:1001224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney collecting duct cell [CL:1001225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vasa recta descending limb cell [CL:1001285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner medulla vasa recta descending limb cell [CL:1001286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outer medulla vasa recta descending limb cell [CL:1001287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal interstitial pericyte [CL:1001318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bladder cell [CL:1001319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urethra cell [CL:1001320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bladder urothelial cell [CL:1001428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urethra urothelial cell [CL:1001430]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney collecting duct principal cell [CL:1001431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney collecting duct intercalated cell [CL:1001432]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lung endothelial cell [CL:1001567]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary artery endothelial cell [CL:1001568]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	anterior cell [CL:0000261]	label [rdfs:label]	anterior cell	
+WARN	missing_obsolete_label	cardiac fibroblast [CL:0008023]	label [rdfs:label]	cardiac fibroblast	
+INFO	lowercase_definition	pericardial nephrocyte [CL:0000474]	IAO_0000115 [IAO:0000115]	an insect renal cell that filters hemolymph and is found with other pericardial nephrocytes in two rows flanking the dorsal vessel.	
+INFO	lowercase_definition	stromal cell of bone marrow [CL:0010001]	IAO_0000115 [IAO:0000115]	a stromal cell that is part_of a bone marrow	
+INFO	lowercase_definition	epithelial cell of umbilical artery [CL:0010002]	IAO_0000115 [IAO:0000115]	a epithelial cell that is part_of a umbilical artery	
+INFO	lowercase_definition	epithelial cell of alveolus of lung [CL:0010003]	IAO_0000115 [IAO:0000115]	a epithelial cell that is part_of a alveolus of lung	
+INFO	lowercase_definition	mononuclear cell of bone marrow [CL:0010004]	IAO_0000115 [IAO:0000115]	a mononuclear cell that is part_of a bone marrow	
+INFO	lowercase_definition	cerebral cortex neuron [CL:0010012]	IAO_0000115 [IAO:0000115]	a neuron that is part_of a cerebral cortex	
+INFO	lowercase_definition	periglomerular cell [CL:1001435]	IAO_0000115 [IAO:0000115]	the small neuron in the glomerular layer of the olfactory bulb whose dendrites arborize within a glomerulus, where it receives synaptic input from olfactory receptor cell axon terminals, and also engages in dendrodendritic interactions with mitral and tufted cell dendrites; uses both GABA and dopamine as a neurotransmitter	
+INFO	lowercase_definition	hair-tylotrich neuron [CL:1001436]	IAO_0000115 [IAO:0000115]	the subcutaneous mechanoreceptors that innervate tylotrich hair follicles	
+INFO	lowercase_definition	hair-down neuron [CL:1001437]	IAO_0000115 [IAO:0000115]	the subcutaneous mechanoreceptors that innervate vellus hairs	
+INFO	lowercase_definition	medium spiny neuron [CL:1001474]	IAO_0000115 [IAO:0000115]	the inhibitory projection neurons located in the striatum that integrate glutamatergic signals arising from the cerebral cortex and thalamus	
+INFO	lowercase_definition	mitral cell [CL:1001502]	IAO_0000115 [IAO:0000115]	the large glutaminergic nerve cells whose dendrites synapse with axons of the olfactory receptor neurons in the glomerular layer of the olfactory bulb, and whose axons pass centrally in the olfactory tract to the olfactory cortex	
+INFO	lowercase_definition	olfactory bulb tufted cell [CL:1001503]	IAO_0000115 [IAO:0000115]	the principal glutaminergic neuron located in the outer third of the external plexiform layer of the olfactory bulb; a single short primary dendrite traverses the outer external plexiform layer and terminates within an olfactory glomerulus in a tuft of branches, where it receives the input from olfactory receptor neuron axon terminals; axons of the tufted cells transfer information to a number of areas in the brain, including the piriform cortex, entorhinal cortex, olfactory tubercle, and amygdala	
+INFO	lowercase_definition	parvocellular neurosecretory cell [CL:1001505]	IAO_0000115 [IAO:0000115]	the secretory neurons of the paraventricular nucleus that synthesize and secrete vasopressin, corticotropin-releasing factor (CRF) and thyrotropin-releasing hormone (TRH) into blood vessels in the hypothalamo-pituitary portal system	
+INFO	lowercase_definition	glycinergic neuron [CL:1001509]	IAO_0000115 [IAO:0000115]	the neurons that utilize glycine as a neurotransmitter	
+INFO	lowercase_definition	intestinal enteroendocrine cell [CL:1001516]	IAO_0000115 [IAO:0000115]	the various hormone- or neurotransmitter-secreting cells present throughout the mucosa of the intestinal tract	
+INFO	lowercase_definition	stomach enteroendocrine cell [CL:1001517]	IAO_0000115 [IAO:0000115]	the various hormone- or neurotransmitter-secreting cells present throughout the mucosa of the stomach	
+INFO	lowercase_definition	vomeronasal sensory neuron [CL:1001561]	IAO_0000115 [IAO:0000115]	chemosensitive cells that innervate the vomernasal organ epithelium and are responsible for receiving and transmitting pheromone signals	
+INFO	lowercase_definition	bronchioalveolar stem cells [CL:1001566]	IAO_0000115 [IAO:0000115]	a respiratory stem cell found at the junction of the terminal (conductive) bronchiole and the respiratory bronchiole, which gives rise to alveolar cell types and club cells in response to lung injury.	
+INFO	missing_superclass	CARO_0001001 [CARO:0001001]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25179 [CHEBI:25179]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000000 [CP:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000025 [CP:0000025]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000027 [CP:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000028 [CP:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000035 [CP:0000035]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000037 [CP:0000037]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000039 [CP:0000039]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000040 [CP:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CP_0000043 [CP:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	D96882F1-8709-49AB-BCA9-772A67EA6C33 [D96882F1-8709-49AB-BCA9-772A67EA6C33]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000278 [GO:0000278]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000791 [GO:0000791]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000792 [GO:0000792]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001649 [GO:0001649]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001667 [GO:0001667]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001675 [GO:0001675]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001816 [GO:0001816]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001820 [GO:0001820]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001821 [GO:0001821]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001909 [GO:0001909]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001913 [GO:0001913]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001974 [GO:0001974]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002001 [GO:0002001]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002215 [GO:0002215]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002227 [GO:0002227]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002228 [GO:0002228]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002244 [GO:0002244]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002288 [GO:0002288]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002314 [GO:0002314]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002335 [GO:0002335]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002344 [GO:0002344]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002349 [GO:0002349]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002351 [GO:0002351]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002369 [GO:0002369]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002385 [GO:0002385]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002387 [GO:0002387]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002395 [GO:0002395]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002432 [GO:0002432]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002456 [GO:0002456]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002474 [GO:0002474]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002495 [GO:0002495]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002504 [GO:0002504]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002515 [GO:0002515]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002536 [GO:0002536]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002537 [GO:0002537]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002539 [GO:0002539]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002540 [GO:0002540]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002544 [GO:0002544]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002548 [GO:0002548]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002573 [GO:0002573]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002574 [GO:0002574]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002634 [GO:0002634]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002660 [GO:0002660]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002690 [GO:0002690]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002775 [GO:0002775]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002776 [GO:0002776]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002790 [GO:0002790]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002827 [GO:0002827]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002828 [GO:0002828]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002830 [GO:0002830]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002905 [GO:0002905]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005044 [GO:0005044]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005623 [GO:0005623]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005634 [GO:0005634]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005730 [GO:0005730]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005794 [GO:0005794]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005840 [GO:0005840]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005902 [GO:0005902]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005929 [GO:0005929]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006699 [GO:0006699]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006909 [GO:0006909]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006954 [GO:0006954]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006955 [GO:0006955]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007113 [GO:0007113]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007140 [GO:0007140]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007142 [GO:0007142]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007143 [GO:0007143]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007147 [GO:0007147]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007269 [GO:0007269]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007283 [GO:0007283]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007288 [GO:0007288]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007289 [GO:0007289]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007585 [GO:0007585]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007596 [GO:0007596]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007601 [GO:0007601]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008015 [GO:0008015]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008283 [GO:0008283]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009306 [GO:0009306]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009399 [GO:0009399]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009566 [GO:0009566]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009584 [GO:0009584]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009589 [GO:0009589]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0014046 [GO:0014046]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0014055 [GO:0014055]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0015106 [GO:0015106]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0015671 [GO:0015671]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016446 [GO:0016446]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016477 [GO:0016477]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0017145 [GO:0017145]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019226 [GO:0019226]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019724 [GO:0019724]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019814 [GO:0019814]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019815 [GO:0019815]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019882 [GO:0019882]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0022414 [GO:0022414]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030017 [GO:0030017]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030072 [GO:0030072]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030073 [GO:0030073]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030098 [GO:0030098]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030099 [GO:0030099]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030103 [GO:0030103]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030141 [GO:0030141]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030154 [GO:0030154]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030182 [GO:0030182]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030187 [GO:0030187]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030210 [GO:0030210]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030217 [GO:0030217]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030218 [GO:0030218]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030219 [GO:0030219]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030221 [GO:0030221]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030222 [GO:0030222]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030223 [GO:0030223]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030224 [GO:0030224]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030225 [GO:0030225]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030252 [GO:0030252]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030263 [GO:0030263]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030316 [GO:0030316]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030317 [GO:0030317]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030851 [GO:0030851]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030855 [GO:0030855]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031268 [GO:0031268]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031294 [GO:0031294]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032274 [GO:0032274]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032275 [GO:0032275]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032394 [GO:0032394]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032606 [GO:0032606]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032609 [GO:0032609]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032611 [GO:0032611]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032613 [GO:0032613]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032616 [GO:0032616]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032620 [GO:0032620]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032623 [GO:0032623]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032626 [GO:0032626]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032633 [GO:0032633]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032634 [GO:0032634]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032635 [GO:0032635]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032637 [GO:0032637]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032638 [GO:0032638]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032640 [GO:0032640]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032689 [GO:0032689]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032782 [GO:0032782]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032816 [GO:0032816]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032940 [GO:0032940]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0033001 [GO:0033001]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0033152 [GO:0033152]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0033326 [GO:0033326]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0033380 [GO:0033380]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0034102 [GO:0034102]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035010 [GO:0035010]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035369 [GO:0035369]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035929 [GO:0035929]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035931 [GO:0035931]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035933 [GO:0035933]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035935 [GO:0035935]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035936 [GO:0035936]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035938 [GO:0035938]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036160 [GO:0036160]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036161 [GO:0036161]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036321 [GO:0036321]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042101 [GO:0042101]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042105 [GO:0042105]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042106 [GO:0042106]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042113 [GO:0042113]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042130 [GO:0042130]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042267 [GO:0042267]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042470 [GO:0042470]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042483 [GO:0042483]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042492 [GO:0042492]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042554 [GO:0042554]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042571 [GO:0042571]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042582 [GO:0042582]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042589 [GO:0042589]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042590 [GO:0042590]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042611 [GO:0042611]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042613 [GO:0042613]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042701 [GO:0042701]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042742 [GO:0042742]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043011 [GO:0043011]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043129 [GO:0043129]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043134 [GO:0043134]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043208 [GO:0043208]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043277 [GO:0043277]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043368 [GO:0043368]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043370 [GO:0043370]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043384 [GO:0043384]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045058 [GO:0045058]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045087 [GO:0045087]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045190 [GO:0045190]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045191 [GO:0045191]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045443 [GO:0045443]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045444 [GO:0045444]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045453 [GO:0045453]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045457 [GO:0045457]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045580 [GO:0045580]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045627 [GO:0045627]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045630 [GO:0045630]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045730 [GO:0045730]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045766 [GO:0045766]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045830 [GO:0045830]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0046651 [GO:0046651]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0046717 [GO:0046717]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0046879 [GO:0046879]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048103 [GO:0048103]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048137 [GO:0048137]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048240 [GO:0048240]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048242 [GO:0048242]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048243 [GO:0048243]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048295 [GO:0048295]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048477 [GO:0048477]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048609 [GO:0048609]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048771 [GO:0048771]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048870 [GO:0048870]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050728 [GO:0050728]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050729 [GO:0050729]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050776 [GO:0050776]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050777 [GO:0050777]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050906 [GO:0050906]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050907 [GO:0050907]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050908 [GO:0050908]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050910 [GO:0050910]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050911 [GO:0050911]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050912 [GO:0050912]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050960 [GO:0050960]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050962 [GO:0050962]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050974 [GO:0050974]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050976 [GO:0050976]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051024 [GO:0051024]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051321 [GO:0051321]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051458 [GO:0051458]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051767 [GO:0051767]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0055007 [GO:0055007]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060047 [GO:0060047]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060054 [GO:0060054]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060096 [GO:0060096]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060374 [GO:0060374]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060591 [GO:0060591]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060986 [GO:0060986]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061527 [GO:0061527]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061533 [GO:0061533]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061534 [GO:0061534]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061535 [GO:0061535]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061537 [GO:0061537]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061538 [GO:0061538]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061585 [GO:0061585]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070091 [GO:0070091]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070253 [GO:0070253]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070254 [GO:0070254]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070278 [GO:0070278]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070459 [GO:0070459]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070460 [GO:0070460]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070820 [GO:0070820]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070999 [GO:0070999]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071707 [GO:0071707]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071708 [GO:0071708]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071735 [GO:0071735]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071736 [GO:0071736]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071738 [GO:0071738]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071739 [GO:0071739]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071742 [GO:0071742]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071743 [GO:0071743]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071745 [GO:0071745]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071746 [GO:0071746]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071753 [GO:0071753]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071754 [GO:0071754]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071971 [GO:0071971]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0090023 [GO:0090023]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0097186 [GO:0097186]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0098754 [GO:0098754]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0098976 [GO:0098976]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0098977 [GO:0098977]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000460 [PATO:0000460]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000586 [PATO:0000586]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000587 [PATO:0000587]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001375 [PATO:0001375]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001393 [PATO:0001393]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001394 [PATO:0001394]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001400 [PATO:0001400]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001401 [PATO:0001401]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001402 [PATO:0001402]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001405 [PATO:0001405]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001406 [PATO:0001406]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001407 [PATO:0001407]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001410 [PATO:0001410]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001501 [PATO:0001501]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001604 [PATO:0001604]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001789 [PATO:0001789]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001874 [PATO:0001874]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001908 [PATO:0001908]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002011 [PATO:0002011]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002039 [PATO:0002039]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002097 [PATO:0002097]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002478 [PATO:0002478]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002479 [PATO:0002479]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001002 [PR:000001002]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001003 [PR:000001003]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001004 [PR:000001004]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001006 [PR:000001006]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001008 [PR:000001008]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001010 [PR:000001010]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001012 [PR:000001012]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001013 [PR:000001013]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001014 [PR:000001014]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001015 [PR:000001015]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001017 [PR:000001017]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001020 [PR:000001020]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001024 [PR:000001024]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001026 [PR:000001026]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001083 [PR:000001083]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001084 [PR:000001084]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001199 [PR:000001199]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001200 [PR:000001200]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001201 [PR:000001201]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001202 [PR:000001202]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001203 [PR:000001203]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001206 [PR:000001206]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001207 [PR:000001207]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001208 [PR:000001208]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001209 [PR:000001209]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001254 [PR:000001254]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001255 [PR:000001255]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001256 [PR:000001256]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001257 [PR:000001257]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001288 [PR:000001288]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001289 [PR:000001289]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001292 [PR:000001292]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001293 [PR:000001293]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001300 [PR:000001300]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001307 [PR:000001307]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001308 [PR:000001308]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001310 [PR:000001310]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001318 [PR:000001318]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001319 [PR:000001319]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001326 [PR:000001326]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001332 [PR:000001332]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001337 [PR:000001337]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001338 [PR:000001338]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001343 [PR:000001343]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001344 [PR:000001344]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001345 [PR:000001345]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001350 [PR:000001350]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001380 [PR:000001380]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001381 [PR:000001381]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001398 [PR:000001398]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001402 [PR:000001402]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001408 [PR:000001408]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001412 [PR:000001412]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001438 [PR:000001438]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001444 [PR:000001444]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001447 [PR:000001447]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001456 [PR:000001456]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001460 [PR:000001460]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001465 [PR:000001465]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001479 [PR:000001479]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001481 [PR:000001481]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001483 [PR:000001483]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001580 [PR:000001580]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001786 [PR:000001786]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001800 [PR:000001800]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001806 [PR:000001806]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001807 [PR:000001807]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001809 [PR:000001809]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001813 [PR:000001813]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001833 [PR:000001833]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001835 [PR:000001835]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001836 [PR:000001836]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001839 [PR:000001839]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001841 [PR:000001841]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001843 [PR:000001843]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001844 [PR:000001844]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001850 [PR:000001850]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001852 [PR:000001852]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001858 [PR:000001858]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001859 [PR:000001859]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001860 [PR:000001860]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001865 [PR:000001865]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001867 [PR:000001867]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001869 [PR:000001869]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001874 [PR:000001874]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001879 [PR:000001879]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001880 [PR:000001880]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001884 [PR:000001884]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001885 [PR:000001885]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001889 [PR:000001889]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001892 [PR:000001892]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001893 [PR:000001893]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001896 [PR:000001896]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001898 [PR:000001898]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001903 [PR:000001903]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001905 [PR:000001905]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001907 [PR:000001907]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001919 [PR:000001919]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001925 [PR:000001925]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001927 [PR:000001927]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001931 [PR:000001931]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001932 [PR:000001932]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001935 [PR:000001935]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001937 [PR:000001937]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001941 [PR:000001941]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001944 [PR:000001944]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001945 [PR:000001945]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001950 [PR:000001950]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001954 [PR:000001954]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001963 [PR:000001963]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001968 [PR:000001968]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001969 [PR:000001969]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002001 [PR:000002001]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002015 [PR:000002015]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002023 [PR:000002023]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002025 [PR:000002025]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002027 [PR:000002027]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002028 [PR:000002028]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002031 [PR:000002031]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002037 [PR:000002037]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002039 [PR:000002039]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002062 [PR:000002062]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002064 [PR:000002064]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002065 [PR:000002065]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002105 [PR:000002105]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002112 [PR:000002112]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002972 [PR:000002972]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002977 [PR:000002977]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002978 [PR:000002978]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002979 [PR:000002979]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002980 [PR:000002980]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000002981 [PR:000002981]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003450 [PR:000003450]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003455 [PR:000003455]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003457 [PR:000003457]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003460 [PR:000003460]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003463 [PR:000003463]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003466 [PR:000003466]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003469 [PR:000003469]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003499 [PR:000003499]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000003516 [PR:000003516]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000005178 [PR:000005178]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000005307 [PR:000005307]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000005310 [PR:000005310]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000006169 [PR:000006169]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000006172 [PR:000006172]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000006611 [PR:000006611]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000007152 [PR:000007152]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000007431 [PR:000007431]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000007597 [PR:000007597]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000007857 [PR:000007857]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000007858 [PR:000007858]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000007939 [PR:000007939]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000008467 [PR:000008467]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000008857 [PR:000008857]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000008982 [PR:000008982]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000008994 [PR:000008994]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009127 [PR:000009127]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009129 [PR:000009129]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009143 [PR:000009143]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009616 [PR:000009616]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009618 [PR:000009618]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009619 [PR:000009619]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009623 [PR:000009623]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009725 [PR:000009725]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009766 [PR:000009766]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000009978 [PR:000009978]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000010329 [PR:000010329]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000010543 [PR:000010543]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000010799 [PR:000010799]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000011178 [PR:000011178]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000014046 [PR:000014046]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000014047 [PR:000014047]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000014362 [PR:000014362]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000016043 [PR:000016043]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000016401 [PR:000016401]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000022006 [PR:000022006]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000025402 [PR:000025402]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000025403 [PR:000025403]	rdfs:subClassOf		
+INFO	missing_superclass	PR_P05532 [PR:P05532]	rdfs:subClassOf		
+INFO	missing_superclass	PR_P50481 [PR:P50481]	rdfs:subClassOf		
+INFO	missing_superclass	PR_Q8R4G0 [PR:Q8R4G0]	rdfs:subClassOf		
+INFO	missing_superclass	PR_Q8R4I7 [PR:Q8R4I7]	rdfs:subClassOf		
+INFO	missing_superclass	PR_Q9ER75 [PR:Q9ER75]	rdfs:subClassOf		
+INFO	missing_superclass	PR_Q9QZC1 [PR:Q9QZC1]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000002 [UBERON:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000006 [UBERON:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000007 [UBERON:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000010 [UBERON:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000017 [UBERON:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000018 [UBERON:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000019 [UBERON:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000029 [UBERON:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000043 [UBERON:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000044 [UBERON:0000044]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000045 [UBERON:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000054 [UBERON:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000056 [UBERON:0000056]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000057 [UBERON:0000057]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000058 [UBERON:0000058]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000059 [UBERON:0000059]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000065 [UBERON:0000065]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000074 [UBERON:0000074]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000080 [UBERON:0000080]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000081 [UBERON:0000081]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000085 [UBERON:0000085]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000087 [UBERON:0000087]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000095 [UBERON:0000095]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000102 [UBERON:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000115 [UBERON:0000115]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000121 [UBERON:0000121]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000159 [UBERON:0000159]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000160 [UBERON:0000160]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000173 [UBERON:0000173]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000178 [UBERON:0000178]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000179 [UBERON:0000179]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000305 [UBERON:0000305]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000310 [UBERON:0000310]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000325 [UBERON:0000325]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000358 [UBERON:0000358]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000362 [UBERON:0000362]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000365 [UBERON:0000365]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000369 [UBERON:0000369]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000376 [UBERON:0000376]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000378 [UBERON:0000378]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000395 [UBERON:0000395]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000397 [UBERON:0000397]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000403 [UBERON:0000403]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000412 [UBERON:0000412]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000423 [UBERON:0000423]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000458 [UBERON:0000458]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000473 [UBERON:0000473]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000478 [UBERON:0000478]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000479 [UBERON:0000479]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000483 [UBERON:0000483]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000916 [UBERON:0000916]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000922 [UBERON:0000922]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000924 [UBERON:0000924]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000925 [UBERON:0000925]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000926 [UBERON:0000926]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000945 [UBERON:0000945]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000948 [UBERON:0000948]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000955 [UBERON:0000955]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000956 [UBERON:0000956]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000964 [UBERON:0000964]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000965 [UBERON:0000965]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000966 [UBERON:0000966]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000970 [UBERON:0000970]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000977 [UBERON:0000977]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000981 [UBERON:0000981]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000992 [UBERON:0000992]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000993 [UBERON:0000993]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000995 [UBERON:0000995]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000996 [UBERON:0000996]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000998 [UBERON:0000998]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001003 [UBERON:0001003]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001004 [UBERON:0001004]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001008 [UBERON:0001008]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001013 [UBERON:0001013]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001016 [UBERON:0001016]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001017 [UBERON:0001017]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001040 [UBERON:0001040]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001043 [UBERON:0001043]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001044 [UBERON:0001044]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001052 [UBERON:0001052]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001054 [UBERON:0001054]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001064 [UBERON:0001064]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001132 [UBERON:0001132]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001133 [UBERON:0001133]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001134 [UBERON:0001134]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001140 [UBERON:0001140]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001153 [UBERON:0001153]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001154 [UBERON:0001154]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001155 [UBERON:0001155]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001156 [UBERON:0001156]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001157 [UBERON:0001157]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001158 [UBERON:0001158]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001159 [UBERON:0001159]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001160 [UBERON:0001160]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001178 [UBERON:0001178]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001179 [UBERON:0001179]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001199 [UBERON:0001199]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001211 [UBERON:0001211]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001212 [UBERON:0001212]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001213 [UBERON:0001213]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001224 [UBERON:0001224]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001225 [UBERON:0001225]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001229 [UBERON:0001229]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001230 [UBERON:0001230]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001231 [UBERON:0001231]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001232 [UBERON:0001232]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001235 [UBERON:0001235]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001236 [UBERON:0001236]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001237 [UBERON:0001237]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001238 [UBERON:0001238]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001242 [UBERON:0001242]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001249 [UBERON:0001249]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001250 [UBERON:0001250]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001251 [UBERON:0001251]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001252 [UBERON:0001252]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001254 [UBERON:0001254]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001255 [UBERON:0001255]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001257 [UBERON:0001257]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001263 [UBERON:0001263]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001264 [UBERON:0001264]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001266 [UBERON:0001266]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001276 [UBERON:0001276]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001277 [UBERON:0001277]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001278 [UBERON:0001278]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001281 [UBERON:0001281]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001285 [UBERON:0001285]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001287 [UBERON:0001287]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001288 [UBERON:0001288]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001289 [UBERON:0001289]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001290 [UBERON:0001290]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001291 [UBERON:0001291]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001292 [UBERON:0001292]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001293 [UBERON:0001293]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001294 [UBERON:0001294]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001295 [UBERON:0001295]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001296 [UBERON:0001296]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001301 [UBERON:0001301]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001305 [UBERON:0001305]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001310 [UBERON:0001310]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001332 [UBERON:0001332]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001334 [UBERON:0001334]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001343 [UBERON:0001343]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001344 [UBERON:0001344]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001347 [UBERON:0001347]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001348 [UBERON:0001348]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001351 [UBERON:0001351]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001352 [UBERON:0001352]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001366 [UBERON:0001366]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001384 [UBERON:0001384]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001416 [UBERON:0001416]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001460 [UBERON:0001460]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001471 [UBERON:0001471]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001473 [UBERON:0001473]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001474 [UBERON:0001474]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001485 [UBERON:0001485]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001515 [UBERON:0001515]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001529 [UBERON:0001529]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001533 [UBERON:0001533]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001552 [UBERON:0001552]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001555 [UBERON:0001555]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001556 [UBERON:0001556]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001557 [UBERON:0001557]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001558 [UBERON:0001558]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001607 [UBERON:0001607]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001608 [UBERON:0001608]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001621 [UBERON:0001621]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001630 [UBERON:0001630]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001637 [UBERON:0001637]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001638 [UBERON:0001638]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001711 [UBERON:0001711]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001728 [UBERON:0001728]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001745 [UBERON:0001745]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001747 [UBERON:0001747]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001751 [UBERON:0001751]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001752 [UBERON:0001752]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001753 [UBERON:0001753]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001754 [UBERON:0001754]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001758 [UBERON:0001758]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001763 [UBERON:0001763]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001765 [UBERON:0001765]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001766 [UBERON:0001766]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001770 [UBERON:0001770]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001773 [UBERON:0001773]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001775 [UBERON:0001775]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001776 [UBERON:0001776]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001777 [UBERON:0001777]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001780 [UBERON:0001780]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001782 [UBERON:0001782]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001791 [UBERON:0001791]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001803 [UBERON:0001803]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001811 [UBERON:0001811]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001820 [UBERON:0001820]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001821 [UBERON:0001821]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001826 [UBERON:0001826]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001828 [UBERON:0001828]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001844 [UBERON:0001844]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001850 [UBERON:0001850]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001851 [UBERON:0001851]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001862 [UBERON:0001862]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001885 [UBERON:0001885]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001886 [UBERON:0001886]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001890 [UBERON:0001890]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001891 [UBERON:0001891]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001898 [UBERON:0001898]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001901 [UBERON:0001901]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001902 [UBERON:0001902]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001905 [UBERON:0001905]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001911 [UBERON:0001911]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001912 [UBERON:0001912]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001915 [UBERON:0001915]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001917 [UBERON:0001917]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001930 [UBERON:0001930]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001949 [UBERON:0001949]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001950 [UBERON:0001950]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001951 [UBERON:0001951]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001954 [UBERON:0001954]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001955 [UBERON:0001955]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001958 [UBERON:0001958]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001959 [UBERON:0001959]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001961 [UBERON:0001961]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001962 [UBERON:0001962]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001963 [UBERON:0001963]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001976 [UBERON:0001976]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001979 [UBERON:0001979]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001980 [UBERON:0001980]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001981 [UBERON:0001981]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001983 [UBERON:0001983]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001987 [UBERON:0001987]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001992 [UBERON:0001992]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001993 [UBERON:0001993]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001997 [UBERON:0001997]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002005 [UBERON:0002005]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002006 [UBERON:0002006]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002012 [UBERON:0002012]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002018 [UBERON:0002018]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002025 [UBERON:0002025]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002026 [UBERON:0002026]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002027 [UBERON:0002027]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002028 [UBERON:0002028]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002029 [UBERON:0002029]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002031 [UBERON:0002031]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002037 [UBERON:0002037]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002038 [UBERON:0002038]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002046 [UBERON:0002046]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002048 [UBERON:0002048]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002049 [UBERON:0002049]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002051 [UBERON:0002051]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002053 [UBERON:0002053]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002062 [UBERON:0002062]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002066 [UBERON:0002066]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002067 [UBERON:0002067]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002069 [UBERON:0002069]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002072 [UBERON:0002072]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002073 [UBERON:0002073]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002080 [UBERON:0002080]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002081 [UBERON:0002081]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002082 [UBERON:0002082]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002084 [UBERON:0002084]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002085 [UBERON:0002085]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002094 [UBERON:0002094]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002095 [UBERON:0002095]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002097 [UBERON:0002097]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002099 [UBERON:0002099]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002101 [UBERON:0002101]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002106 [UBERON:0002106]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002107 [UBERON:0002107]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002108 [UBERON:0002108]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002110 [UBERON:0002110]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002113 [UBERON:0002113]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002114 [UBERON:0002114]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002115 [UBERON:0002115]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002116 [UBERON:0002116]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002118 [UBERON:0002118]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002119 [UBERON:0002119]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002123 [UBERON:0002123]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002124 [UBERON:0002124]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002129 [UBERON:0002129]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002165 [UBERON:0002165]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002185 [UBERON:0002185]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002190 [UBERON:0002190]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002194 [UBERON:0002194]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002196 [UBERON:0002196]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002212 [UBERON:0002212]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002214 [UBERON:0002214]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002227 [UBERON:0002227]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002240 [UBERON:0002240]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002242 [UBERON:0002242]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002255 [UBERON:0002255]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002256 [UBERON:0002256]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002257 [UBERON:0002257]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002264 [UBERON:0002264]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002276 [UBERON:0002276]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002282 [UBERON:0002282]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002285 [UBERON:0002285]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002298 [UBERON:0002298]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002299 [UBERON:0002299]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002303 [UBERON:0002303]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002313 [UBERON:0002313]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002320 [UBERON:0002320]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002321 [UBERON:0002321]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002328 [UBERON:0002328]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002331 [UBERON:0002331]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002335 [UBERON:0002335]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002342 [UBERON:0002342]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002348 [UBERON:0002348]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002351 [UBERON:0002351]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002352 [UBERON:0002352]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002353 [UBERON:0002353]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002358 [UBERON:0002358]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002360 [UBERON:0002360]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002363 [UBERON:0002363]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002364 [UBERON:0002364]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002365 [UBERON:0002365]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002367 [UBERON:0002367]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002368 [UBERON:0002368]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002369 [UBERON:0002369]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002370 [UBERON:0002370]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002371 [UBERON:0002371]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002372 [UBERON:0002372]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002384 [UBERON:0002384]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002392 [UBERON:0002392]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002394 [UBERON:0002394]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002400 [UBERON:0002400]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002401 [UBERON:0002401]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002405 [UBERON:0002405]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002407 [UBERON:0002407]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002410 [UBERON:0002410]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002412 [UBERON:0002412]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002418 [UBERON:0002418]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002419 [UBERON:0002419]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002424 [UBERON:0002424]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002435 [UBERON:0002435]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002450 [UBERON:0002450]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002456 [UBERON:0002456]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002481 [UBERON:0002481]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002485 [UBERON:0002485]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002506 [UBERON:0002506]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002512 [UBERON:0002512]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002521 [UBERON:0002521]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003059 [UBERON:0003059]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003104 [UBERON:0003104]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003124 [UBERON:0003124]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003126 [UBERON:0003126]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003127 [UBERON:0003127]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003129 [UBERON:0003129]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003210 [UBERON:0003210]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003214 [UBERON:0003214]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003241 [UBERON:0003241]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003242 [UBERON:0003242]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003244 [UBERON:0003244]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003354 [UBERON:0003354]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003367 [UBERON:0003367]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003422 [UBERON:0003422]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003454 [UBERON:0003454]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003487 [UBERON:0003487]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003517 [UBERON:0003517]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003527 [UBERON:0003527]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003530 [UBERON:0003530]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003644 [UBERON:0003644]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003688 [UBERON:0003688]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003729 [UBERON:0003729]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003902 [UBERON:0003902]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003909 [UBERON:0003909]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003929 [UBERON:0003929]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004044 [UBERON:0004044]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004059 [UBERON:0004059]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004129 [UBERON:0004129]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004134 [UBERON:0004134]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004135 [UBERON:0004135]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004136 [UBERON:0004136]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004146 [UBERON:0004146]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004164 [UBERON:0004164]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004178 [UBERON:0004178]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004179 [UBERON:0004179]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004186 [UBERON:0004186]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004188 [UBERON:0004188]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004193 [UBERON:0004193]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004203 [UBERON:0004203]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004204 [UBERON:0004204]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004205 [UBERON:0004205]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004227 [UBERON:0004227]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004262 [UBERON:0004262]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004294 [UBERON:0004294]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004510 [UBERON:0004510]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004536 [UBERON:0004536]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004544 [UBERON:0004544]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004590 [UBERON:0004590]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004638 [UBERON:0004638]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004639 [UBERON:0004639]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004640 [UBERON:0004640]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004645 [UBERON:0004645]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004664 [UBERON:0004664]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004684 [UBERON:0004684]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004715 [UBERON:0004715]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004719 [UBERON:0004719]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004723 [UBERON:0004723]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004726 [UBERON:0004726]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004734 [UBERON:0004734]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004775 [UBERON:0004775]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004776 [UBERON:0004776]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004786 [UBERON:0004786]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004787 [UBERON:0004787]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004788 [UBERON:0004788]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004801 [UBERON:0004801]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004802 [UBERON:0004802]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004804 [UBERON:0004804]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004805 [UBERON:0004805]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004809 [UBERON:0004809]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004810 [UBERON:0004810]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004813 [UBERON:0004813]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004821 [UBERON:0004821]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004823 [UBERON:0004823]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004880 [UBERON:0004880]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004997 [UBERON:0004997]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005096 [UBERON:0005096]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005097 [UBERON:0005097]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005146 [UBERON:0005146]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005164 [UBERON:0005164]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005167 [UBERON:0005167]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005168 [UBERON:0005168]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005169 [UBERON:0005169]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005176 [UBERON:0005176]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005185 [UBERON:0005185]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005211 [UBERON:0005211]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005212 [UBERON:0005212]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005213 [UBERON:0005213]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005214 [UBERON:0005214]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005215 [UBERON:0005215]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005268 [UBERON:0005268]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005269 [UBERON:0005269]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005270 [UBERON:0005270]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005271 [UBERON:0005271]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005272 [UBERON:0005272]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005310 [UBERON:0005310]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005317 [UBERON:0005317]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005329 [UBERON:0005329]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005375 [UBERON:0005375]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005376 [UBERON:0005376]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005377 [UBERON:0005377]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005384 [UBERON:0005384]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005385 [UBERON:0005385]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005388 [UBERON:0005388]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005390 [UBERON:0005390]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005396 [UBERON:0005396]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005406 [UBERON:0005406]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005725 [UBERON:0005725]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005734 [UBERON:0005734]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005742 [UBERON:0005742]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005750 [UBERON:0005750]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005751 [UBERON:0005751]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005911 [UBERON:0005911]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005933 [UBERON:0005933]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005941 [UBERON:0005941]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005942 [UBERON:0005942]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005969 [UBERON:0005969]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005986 [UBERON:0005986]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005987 [UBERON:0005987]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006004 [UBERON:0006004]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006334 [UBERON:0006334]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006341 [UBERON:0006341]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006376 [UBERON:0006376]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006725 [UBERON:0006725]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006799 [UBERON:0006799]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006815 [UBERON:0006815]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006851 [UBERON:0006851]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006853 [UBERON:0006853]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006854 [UBERON:0006854]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006855 [UBERON:0006855]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006935 [UBERON:0006935]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006964 [UBERON:0006964]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0007100 [UBERON:0007100]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0007196 [UBERON:0007196]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0007376 [UBERON:0007376]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0007846 [UBERON:0007846]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008266 [UBERON:0008266]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008339 [UBERON:0008339]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008346 [UBERON:0008346]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008859 [UBERON:0008859]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008861 [UBERON:0008861]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008883 [UBERON:0008883]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008904 [UBERON:0008904]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008906 [UBERON:0008906]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008922 [UBERON:0008922]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008923 [UBERON:0008923]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008924 [UBERON:0008924]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008925 [UBERON:0008925]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008926 [UBERON:0008926]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009089 [UBERON:0009089]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009090 [UBERON:0009090]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009091 [UBERON:0009091]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009092 [UBERON:0009092]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009093 [UBERON:0009093]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009095 [UBERON:0009095]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009202 [UBERON:0009202]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009697 [UBERON:0009697]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009842 [UBERON:0009842]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009859 [UBERON:0009859]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009882 [UBERON:0009882]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009918 [UBERON:0009918]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009966 [UBERON:0009966]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009967 [UBERON:0009967]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009969 [UBERON:0009969]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009970 [UBERON:0009970]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0009971 [UBERON:0009971]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0010302 [UBERON:0010302]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0010996 [UBERON:0010996]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0011197 [UBERON:0011197]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0011595 [UBERON:0011595]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0012168 [UBERON:0012168]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0012279 [UBERON:0012279]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0012429 [UBERON:0012429]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0013192 [UBERON:0013192]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0013636 [UBERON:0013636]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0013694 [UBERON:0013694]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0013695 [UBERON:0013695]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0013696 [UBERON:0013696]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0013697 [UBERON:0013697]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0014892 [UBERON:0014892]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0015172 [UBERON:0015172]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_1000021 [UBERON:1000021]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_2000120 [UBERON:2000120]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_2000175 [UBERON:2000175]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_2000425 [UBERON:2000425]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_2001314 [UBERON:2001314]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_2001391 [UBERON:2001391]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_2001470 [UBERON:2001470]	rdfs:subClassOf		

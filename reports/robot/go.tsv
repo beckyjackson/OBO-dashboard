@@ -1,0 +1,28 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	go.owl	dc11:description		
+ERROR	duplicate_label	obsolete vesicle transport [GO:0005480]	label [rdfs:label]	obsolete vesicle transport	
+ERROR	duplicate_label	obsolete vesicle transport [GO:0006905]	label [rdfs:label]	obsolete vesicle transport	
+ERROR	duplicate_label	obsolete small nucleolar RNA [GO:0005569]	label [rdfs:label]	obsolete small nucleolar RNA	
+ERROR	duplicate_label	obsolete small nucleolar RNA [GO:0005733]	label [rdfs:label]	obsolete small nucleolar RNA	
+ERROR	duplicate_label	obsolete positive regulation of pyrimidine-containing compound salvage by positive regulation of transcription from RNA polymerase II promoter [GO:1904001]	label [rdfs:label]	obsolete positive regulation of pyrimidine-containing compound salvage by positive regulation of transcription from RNA polymerase II promoter	
+ERROR	duplicate_label	obsolete positive regulation of pyrimidine-containing compound salvage by positive regulation of transcription from RNA polymerase II promoter [GO:1990652]	label [rdfs:label]	obsolete positive regulation of pyrimidine-containing compound salvage by positive regulation of transcription from RNA polymerase II promoter	
+ERROR	duplicate_label	obsolete murein sacculus [GO:0009278]	label [rdfs:label]	obsolete murein sacculus	
+ERROR	duplicate_label	obsolete murein sacculus [GO:0030063]	label [rdfs:label]	obsolete murein sacculus	
+ERROR	duplicate_label	obsolete invasive growth [GO:0001404]	label [rdfs:label]	obsolete invasive growth	
+ERROR	duplicate_label	obsolete invasive growth [GO:0007125]	label [rdfs:label]	obsolete invasive growth	
+ERROR	duplicate_label	obsolete holin [GO:0015176]	label [rdfs:label]	obsolete holin	
+ERROR	duplicate_label	obsolete holin [GO:0015832]	label [rdfs:label]	obsolete holin	
+ERROR	duplicate_label	obsolete elastin [GO:0001528]	label [rdfs:label]	obsolete elastin	
+ERROR	duplicate_label	obsolete elastin [GO:0001529]	label [rdfs:label]	obsolete elastin	
+ERROR	duplicate_label	obsolete cell wall inner membrane [GO:0009280]	label [rdfs:label]	obsolete cell wall inner membrane	
+ERROR	duplicate_label	obsolete cell wall inner membrane [GO:0030064]	label [rdfs:label]	obsolete cell wall inner membrane	
+ERROR	missing_ontology_license	go.owl	dc:license		
+ERROR	missing_ontology_title	go.owl	dc11:title		
+INFO	lowercase_definition	sheet-forming collagen trimer [GO:0030935]	IAO_0000115 [IAO:0000115]	sheet-forming collagen trimer	
+INFO	lowercase_definition	protein-phosphocysteine-N-acetylglucosamine phosphotransferase system transporter activity [GO:0090586]	IAO_0000115 [IAO:0000115]	: Catalysis of the PEP-dependent, phosphoryl transfer-driven transport of substances across a membrane. The transport happens by catalysis of the reaction: protein S-phosphocysteine + N-acetylglucosamine (out) = protein cysteine + N-acetylglucosamine-6-phosphate (in).	
+INFO	lowercase_definition	CNBH domain intrinsic ligand binding [GO:0106151]	IAO_0000115 [IAO:0000115]	nteracting selectivity and noncovalently with a cyclic nucleotide mimicking protein motif that is part of the same protein. The CNBHD is a domain on KCNH channels that creates a binding pocket on the KCNH channel that resembles the cyclic nucleotide- binding domain on other ion channels. It binds to a peptide motif that is part of the same protein rather than a cyclic nucleotide.	
+INFO	lowercase_definition	catalytic activity, acting on a glycoprotein [GO:0140103]	IAO_0000115 [IAO:0000115]	catalytic activity, acting on a glycosylated protein	
+INFO	lowercase_definition	cellular response to angiotensin [GO:1904385]	IAO_0000115 [IAO:0000115]	\"Any process that results in a change in state or activity of a cell (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of an angiotensin stimulus. Angiotensin is any of three physiologically active peptides (angiotensin II, III, or IV) processed from angiotensinogen.\"	
+INFO	missing_superclass	molecular_function [GO:0003674]	rdfs:subClassOf		
+INFO	missing_superclass	cellular_component [GO:0005575]	rdfs:subClassOf		
+INFO	missing_superclass	biological_process [GO:0008150]	rdfs:subClassOf		

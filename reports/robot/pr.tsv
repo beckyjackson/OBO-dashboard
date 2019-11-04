@@ -1,0 +1,10 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	https://www.araport.org/locus/AT1G10970	IAO:0000115	A protein coding gene ZIP4 in Arabidopsis thaliana.	
+ERROR	multiple_equivalent_classes	PR:000027496	owl:equivalentClass	55a7cb58-a60b-4776-b996-345e1075fb54	
+ERROR	missing_ontology_description	pr.owl	dc11:description		
+ERROR	duplicate_label	https://www.araport.org/locus/AT1G10970	rdfs:label	ZIP4 (Arabidopsis thaliana)	
+ERROR	missing_ontology_title	pr.owl	dc11:title		
+WARN	duplicate_exact_synonym	PR:000034553	oboInOwl:hasExactSynonym	yfjP	
+WARN	equivalent_pair	PR:000050113	owl:equivalentClass	PR:000050120	
+WARN	missing_definition	BFO:0000015	IAO:0000115		
+INFO	missing_superclass	BFO:0000015	rdfs:subClassOf		

@@ -1,0 +1,258 @@
+Level	Rule Name	Subject	Property	Value
+WARN	missing_definition	uses [ECO:9000001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	nucleic acid hybridization evidence [ECO:0000026]	label [rdfs:label]	nucleic acid hybridization evidence	
+WARN	missing_obsolete_label	not_recorded [ECO:0000037]	label [rdfs:label]	not_recorded	
+WARN	missing_obsolete_label	protein assay evidence [ECO:0000039]	label [rdfs:label]	protein assay evidence	
+WARN	missing_obsolete_label	array experiment evidence [ECO:0000055]	label [rdfs:label]	array experiment evidence	
+WARN	missing_obsolete_label	Sos-recruitment assay evidence [ECO:0000072]	label [rdfs:label]	Sos-recruitment assay evidence	
+WARN	missing_obsolete_label	experimental genomic evidence [ECO:0000073]	label [rdfs:label]	experimental genomic evidence	
+WARN	missing_obsolete_label	polymerase chain reaction evidence [ECO:0000082]	label [rdfs:label]	polymerase chain reaction evidence	
+WARN	missing_obsolete_label	biological assay evidence [ECO:0000094]	label [rdfs:label]	biological assay evidence	
+WARN	missing_obsolete_label	in vitro binding evidence [ECO:0000148]	label [rdfs:label]	in vitro binding evidence	
+WARN	missing_obsolete_label	in vitro culture assay evidence [ECO:0000182]	label [rdfs:label]	in vitro culture assay evidence	
+WARN	missing_obsolete_label	chromosome conformation capture-PCR evidence [ECO:0000236]	label [rdfs:label]	chromosome conformation capture-PCR evidence	
+WARN	missing_obsolete_label	computational combinatorial evidence used in automatic assertion [ECO:0000246]	label [rdfs:label]	computational combinatorial evidence used in automatic assertion	
+WARN	missing_obsolete_label	array experiment evidence used in manual assertion [ECO:0000271]	label [rdfs:label]	array experiment evidence used in manual assertion	
+WARN	missing_obsolete_label	RNA sequencing assay evidence [ECO:0001821]	label [rdfs:label]	RNA sequencing assay evidence	
+WARN	missing_obsolete_label	in vitro cell based assay evidence [ECO:0005014]	label [rdfs:label]	in vitro cell based assay evidence	
+WARN	missing_obsolete_label	computationally derived logical inference [ECO:0005538]	label [rdfs:label]	computationally derived logical inference	
+WARN	missing_obsolete_label	computationally derived logical inference used in automatic assertion [ECO:0005539]	label [rdfs:label]	computationally derived logical inference used in automatic assertion	
+WARN	missing_obsolete_label	computationally derived logical inference from automatic assertion used in automatic assertion [ECO:0005540]	label [rdfs:label]	computationally derived logical inference from automatic assertion used in automatic assertion	
+WARN	missing_obsolete_label	computationally derived logical inference from manual assertion used in automatic assertion [ECO:0005541]	label [rdfs:label]	computationally derived logical inference from manual assertion used in automatic assertion	
+WARN	missing_obsolete_label	single channel conductance evidence [ECO:0005565]	label [rdfs:label]	single channel conductance evidence	
+WARN	missing_obsolete_label	steady state activation curve evidence [ECO:0005567]	label [rdfs:label]	steady state activation curve evidence	
+WARN	missing_obsolete_label	steady state inactivation curve evidence [ECO:0005568]	label [rdfs:label]	steady state inactivation curve evidence	
+WARN	missing_obsolete_label	window current trace evidence [ECO:0005569]	label [rdfs:label]	window current trace evidence	
+WARN	missing_obsolete_label	inference from experimental data evidence [ECO:0005611]	label [rdfs:label]	inference from experimental data evidence	
+WARN	missing_obsolete_label	inference from phenotype manipulation evidence [ECO:0005612]	label [rdfs:label]	inference from phenotype manipulation evidence	
+WARN	missing_obsolete_label	RNA sequencing assay evidence used in manual assertion [ECO:0005664]	label [rdfs:label]	RNA sequencing assay evidence used in manual assertion	
+WARN	missing_obsolete_label	RNA sequencing assay evidence used in automatic assertion [ECO:0005665]	label [rdfs:label]	RNA sequencing assay evidence used in automatic assertion	
+WARN	missing_obsolete_label	in vitro cell based assay evidence used in manual assertion [ECO:0006065]	label [rdfs:label]	in vitro cell based assay evidence used in manual assertion	
+WARN	missing_obsolete_label	visual sequence inspection evidence used in manual assertion [ECO:0007158]	label [rdfs:label]	visual sequence inspection evidence used in manual assertion	
+WARN	missing_obsolete_label	inference from experimental data evidence used in manual assertion [ECO:0007189]	label [rdfs:label]	inference from experimental data evidence used in manual assertion	
+WARN	missing_obsolete_label	inference from phenotype manipulation evidence used in manual assertion [ECO:0007190]	label [rdfs:label]	inference from phenotype manipulation evidence used in manual assertion	
+WARN	missing_obsolete_label	visual sequence inspection evidence used in automatic assertion [ECO:0007262]	label [rdfs:label]	visual sequence inspection evidence used in automatic assertion	
+WARN	missing_obsolete_label	inference from experimental data evidence used in automatic assertion [ECO:0007293]	label [rdfs:label]	inference from experimental data evidence used in automatic assertion	
+WARN	missing_obsolete_label	inference from phenotype manipulation evidence used in automatic assertion [ECO:0007294]	label [rdfs:label]	inference from phenotype manipulation evidence used in automatic assertion	
+WARN	missing_obsolete_label	protein assay evidence used in manual assertion [ECO:0007705]	label [rdfs:label]	protein assay evidence used in manual assertion	
+WARN	missing_obsolete_label	protein assay evidence used in automatic assertion [ECO:0007784]	label [rdfs:label]	protein assay evidence used in automatic assertion	
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16991 [CHEBI:16991]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_472552 [CHEBI:472552]	rdfs:subClassOf		
+INFO	missing_superclass	CHMO_0000087 [CHMO:0000087]	rdfs:subClassOf		
+INFO	missing_superclass	CHMO_0000102 [CHMO:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000542 [CL:0000542]	rdfs:subClassOf		
+INFO	missing_superclass	evidence [ECO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	assertion method [ECO:0000217]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001047 [GO:0001047]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001508 [GO:0001508]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001906 [GO:0001906]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003676 [GO:0003676]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003823 [GO:0003823]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003824 [GO:0003824]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005216 [GO:0005216]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005488 [GO:0005488]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006276 [GO:0006276]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006306 [GO:0006306]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006309 [GO:0006309]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006412 [GO:0006412]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006915 [GO:0006915]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006935 [GO:0006935]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006974 [GO:0006974]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007576 [GO:0007576]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008104 [GO:0008104]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008152 [GO:0008152]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008283 [GO:0008283]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009058 [GO:0009058]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009300 [GO:0009300]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009607 [GO:0009607]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009636 [GO:0009636]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009987 [GO:0009987]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0010467 [GO:0010467]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0015031 [GO:0015031]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016049 [GO:0016049]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0033036 [GO:0033036]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0034708 [GO:0034708]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042060 [GO:0042060]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042221 [GO:0042221]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042710 [GO:0042710]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043565 [GO:0043565]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0044030 [GO:0044030]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0046677 [GO:0046677]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048532 [GO:0048532]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050482 [GO:0050482]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050789 [GO:0050789]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0050896 [GO:0050896]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051276 [GO:0051276]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060326 [GO:0060326]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070549 [GO:0070549]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0072749 [GO:0072749]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0090592 [GO:0090592]	rdfs:subClassOf		
+INFO	missing_superclass	GO_1990774 [GO:1990774]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000015 [OBI:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000043 [OBI:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000057 [OBI:0000057]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000067 [OBI:0000067]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000070 [OBI:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000094 [OBI:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000105 [OBI:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000113 [OBI:0000113]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000131 [OBI:0000131]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000153 [OBI:0000153]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000164 [OBI:0000164]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000185 [OBI:0000185]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000192 [OBI:0000192]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000201 [OBI:0000201]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000288 [OBI:0000288]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000366 [OBI:0000366]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000424 [OBI:0000424]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000427 [OBI:0000427]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000432 [OBI:0000432]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000435 [OBI:0000435]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000443 [OBI:0000443]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000447 [OBI:0000447]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000454 [OBI:0000454]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000470 [OBI:0000470]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000533 [OBI:0000533]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000535 [OBI:0000535]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000623 [OBI:0000623]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000630 [OBI:0000630]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000651 [OBI:0000651]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000652 [OBI:0000652]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000664 [OBI:0000664]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000669 [OBI:0000669]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000699 [OBI:0000699]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000716 [OBI:0000716]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000807 [OBI:0000807]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000860 [OBI:0000860]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000880 [OBI:0000880]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000891 [OBI:0000891]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000892 [OBI:0000892]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000893 [OBI:0000893]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000912 [OBI:0000912]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000913 [OBI:0000913]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000916 [OBI:0000916]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000921 [OBI:0000921]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000964 [OBI:0000964]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000966 [OBI:0000966]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000973 [OBI:0000973]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000978 [OBI:0000978]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000985 [OBI:0000985]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001051 [OBI:0001051]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001079 [OBI:0001079]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001121 [OBI:0001121]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001129 [OBI:0001129]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001146 [OBI:0001146]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001147 [OBI:0001147]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001148 [OBI:0001148]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001149 [OBI:0001149]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001151 [OBI:0001151]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001152 [OBI:0001152]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001154 [OBI:0001154]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001199 [OBI:0001199]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001200 [OBI:0001200]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001211 [OBI:0001211]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001234 [OBI:0001234]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001239 [OBI:0001239]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001247 [OBI:0001247]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001248 [OBI:0001248]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001258 [OBI:0001258]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001271 [OBI:0001271]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001278 [OBI:0001278]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001285 [OBI:0001285]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001290 [OBI:0001290]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001313 [OBI:0001313]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001318 [OBI:0001318]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001358 [OBI:0001358]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001361 [OBI:0001361]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001365 [OBI:0001365]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001396 [OBI:0001396]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001403 [OBI:0001403]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001425 [OBI:0001425]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001430 [OBI:0001430]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001441 [OBI:0001441]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001444 [OBI:0001444]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001460 [OBI:0001460]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001463 [OBI:0001463]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001501 [OBI:0001501]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001505 [OBI:0001505]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001630 [OBI:0001630]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001631 [OBI:0001631]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001632 [OBI:0001632]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001634 [OBI:0001634]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001635 [OBI:0001635]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001670 [OBI:0001670]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001672 [OBI:0001672]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001673 [OBI:0001673]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001674 [OBI:0001674]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001683 [OBI:0001683]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001684 [OBI:0001684]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001685 [OBI:0001685]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001689 [OBI:0001689]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001691 [OBI:0001691]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001861 [OBI:0001861]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001917 [OBI:0001917]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001919 [OBI:0001919]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001925 [OBI:0001925]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001956 [OBI:0001956]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001977 [OBI:0001977]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001985 [OBI:0001985]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002035 [OBI:0002035]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002082 [OBI:0002082]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002090 [OBI:0002090]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002116 [OBI:0002116]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002167 [OBI:0002167]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002169 [OBI:0002169]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002171 [OBI:0002171]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002175 [OBI:0002175]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002176 [OBI:0002176]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002177 [OBI:0002177]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002178 [OBI:0002178]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002179 [OBI:0002179]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002180 [OBI:0002180]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002181 [OBI:0002181]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002186 [OBI:0002186]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002187 [OBI:0002187]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002189 [OBI:0002189]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002438 [OBI:0002438]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002439 [OBI:0002439]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002440 [OBI:0002440]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002447 [OBI:0002447]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0002448 [OBI:0002448]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100051 [OBI:0100051]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100060 [OBI:0100060]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0200031 [OBI:0200031]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0200085 [OBI:0200085]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302736 [OBI:0302736]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302887 [OBI:0302887]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302903 [OBI:0302903]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400043 [OBI:0400043]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400115 [OBI:0400115]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400169 [OBI:0400169]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500000 [OBI:0500000]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500001 [OBI:0500001]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500010 [OBI:0500010]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600000 [OBI:0600000]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600007 [OBI:0600007]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600017 [OBI:0600017]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600020 [OBI:0600020]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600025 [OBI:0600025]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600038 [OBI:0600038]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600043 [OBI:0600043]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600046 [OBI:0600046]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600051 [OBI:0600051]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600053 [OBI:0600053]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600054 [OBI:0600054]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600055 [OBI:0600055]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_1000048 [OBI:1000048]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_1110030 [OBI:1110030]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_1110034 [OBI:1110034]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_9999994 [OBI:9999994]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000018 [PATO:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000000001 [PR:000000001]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000025471 [PR:000025471]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000178 [UBERON:0000178]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000479 [UBERON:0000479]	rdfs:subClassOf		

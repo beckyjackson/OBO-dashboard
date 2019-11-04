@@ -1,0 +1,81 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	vsao.owl	dc11:description		
+ERROR	missing_ontology_license	vsao.owl	dc:license		
+ERROR	missing_ontology_title	vsao.owl	dc11:title		
+WARN	missing_definition	mineralized tissue [VSAO:0000013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oropharynx [VSAO:0000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scale [VSAO:0000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paired appendage [VSAO:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	appendage [VSAO:0000075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-mineralized chondroid tissue [VSAO:0000077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	craniofacial region [VSAO:0000083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cosmine [VSAO:0000087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	osteodentine [VSAO:0000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	free limb [VSAO:0000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral appendage [VSAO:0000125]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic appendage [VSAO:0000126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forelimb [VSAO:0000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal arch [VSAO:0000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindlimb [VSAO:0000150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forelimb skeleton [VSAO:0000151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindlimb skeleton [VSAO:0000152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scapula [VSAO:0000157]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coracoid [VSAO:0000158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fin bud [VSAO:0000179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	mode of ossification [VSAO:0000002]	label [rdfs:label]	mode of ossification	
+WARN	missing_obsolete_label	opercle bone [VSAO:0000004]	label [rdfs:label]	opercle bone	
+WARN	missing_obsolete_label	basihyal element [VSAO:0000005]	label [rdfs:label]	basihyal element	
+WARN	missing_obsolete_label	basihyal bone [VSAO:0000007]	label [rdfs:label]	basihyal bone	
+WARN	missing_obsolete_label	neural crest cell [VSAO:0000008]	label [rdfs:label]	neural crest cell	
+WARN	missing_obsolete_label	notochordal cell [VSAO:0000009]	label [rdfs:label]	notochordal cell	
+WARN	missing_obsolete_label	notochordal mesodermal cell [VSAO:0000010]	label [rdfs:label]	notochordal mesodermal cell	
+WARN	missing_obsolete_label	mesodermal cell [VSAO:0000011]	label [rdfs:label]	mesodermal cell	
+WARN	missing_obsolete_label	skeletogenic cell [VSAO:0000012]	label [rdfs:label]	skeletogenic cell	
+WARN	missing_obsolete_label	basihyal cartilage [VSAO:0000014]	label [rdfs:label]	basihyal cartilage	
+WARN	missing_obsolete_label	basihyal condensation [VSAO:0000016]	label [rdfs:label]	basihyal condensation	
+WARN	missing_obsolete_label	ventral hyoid arch [VSAO:0000018]	label [rdfs:label]	ventral hyoid arch	
+WARN	missing_obsolete_label	chordablast [VSAO:0000019]	label [rdfs:label]	chordablast	
+WARN	missing_obsolete_label	intercalar [VSAO:0000024]	label [rdfs:label]	intercalar	
+WARN	missing_obsolete_label	preameloblast [VSAO:0000038]	label [rdfs:label]	preameloblast	
+WARN	missing_obsolete_label	chordoblast [VSAO:0000039]	label [rdfs:label]	chordoblast	
+WARN	missing_obsolete_label	preodontoblast [VSAO:0000041]	label [rdfs:label]	preodontoblast	
+WARN	missing_obsolete_label	precementoblast [VSAO:0000043]	label [rdfs:label]	precementoblast	
+WARN	missing_obsolete_label	prechondroblast [VSAO:0000044]	label [rdfs:label]	prechondroblast	
+WARN	missing_obsolete_label	preosteoblast [VSAO:0000045]	label [rdfs:label]	preosteoblast	
+WARN	missing_obsolete_label	chondroblast [VSAO:0000058]	label [rdfs:label]	chondroblast	
+WARN	missing_obsolete_label	osteoblast [VSAO:0000060]	label [rdfs:label]	osteoblast	
+WARN	missing_obsolete_label	cementoblast [VSAO:0000061]	label [rdfs:label]	cementoblast	
+WARN	missing_obsolete_label	ameloblast [VSAO:0000064]	label [rdfs:label]	ameloblast	
+WARN	missing_obsolete_label	odontoblast [VSAO:0000068]	label [rdfs:label]	odontoblast	
+WARN	missing_obsolete_label	cementocyte [VSAO:0000084]	label [rdfs:label]	cementocyte	
+WARN	missing_obsolete_label	chondrocyte [VSAO:0000085]	label [rdfs:label]	chondrocyte	
+WARN	missing_obsolete_label	non-terminally differentiated odontoblast [VSAO:0000095]	label [rdfs:label]	non-terminally differentiated odontoblast	
+WARN	missing_obsolete_label	terminally differentiated odontoblast [VSAO:0000096]	label [rdfs:label]	terminally differentiated odontoblast	
+WARN	missing_obsolete_label	hypertrophic chondrocyte [VSAO:0000098]	label [rdfs:label]	hypertrophic chondrocyte	
+WARN	missing_obsolete_label	periarticular chondrocyte [VSAO:0000100]	label [rdfs:label]	periarticular chondrocyte	
+WARN	missing_obsolete_label	odontocyte [VSAO:0000112]	label [rdfs:label]	odontocyte	
+WARN	missing_obsolete_label	terminally differentiated osteoblast [VSAO:0000116]	label [rdfs:label]	terminally differentiated osteoblast	
+WARN	missing_obsolete_label	non-terminally differentiated osteoblast [VSAO:0000117]	label [rdfs:label]	non-terminally differentiated osteoblast	
+WARN	missing_obsolete_label	osteocyte [VSAO:0000124]	label [rdfs:label]	osteocyte	
+WARN	missing_obsolete_label	direct ossification [VSAO:0000136]	label [rdfs:label]	direct ossification	
+WARN	missing_obsolete_label	replacement ossification [VSAO:0000140]	label [rdfs:label]	replacement ossification	
+WARN	missing_obsolete_label	intramembranous ossification [VSAO:0000141]	label [rdfs:label]	intramembranous ossification	
+WARN	missing_obsolete_label	metaplastic ossification [VSAO:0000142]	label [rdfs:label]	metaplastic ossification	
+WARN	missing_obsolete_label	endochondral ossification [VSAO:0000143]	label [rdfs:label]	endochondral ossification	
+WARN	missing_obsolete_label	perichondral ossification [VSAO:0000144]	label [rdfs:label]	perichondral ossification	
+INFO	missing_superclass	CARO_0000003 [CARO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000011 [CARO:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000024 [CARO:0000024]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000032 [CARO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000040 [CARO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000041 [CARO:0000041]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000043 [CARO:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000054 [CARO:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000055 [CARO:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000138 [CL:0000138]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0001039 [CL:0001039]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0007001 [CL:0007001]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001957 [GO:0001957]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001958 [GO:0001958]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036073 [GO:0036073]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036075 [GO:0036075]	rdfs:subClassOf		

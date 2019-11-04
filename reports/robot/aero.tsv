@@ -1,0 +1,196 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	multiple_equivalent_classes	reduced peripheral circulation diagnosis [AERO:0000279]	owl:equivalentClass	blank node <a8e2f6bf68f8810571a4cad593c2eb08>	
+ERROR	multiple_equivalent_classes	reduced peripheral circulation diagnosis [AERO:0000279]	owl:equivalentClass	minor cardiovascular criterion for anaphylaxis according to Brighton [AERO:0000304]	
+ERROR	missing_label	AERO:0000352	label [rdfs:label]		
+ERROR	missing_ontology_description	aero.owl	dc11:description		
+ERROR	missing_ontology_license	aero.owl	dc:license		
+ERROR	missing_ontology_title	aero.owl	dc11:title		
+ERROR	label_whitespace	Brighton diagnosis of generalized convulsive seizure as an adverse event following immunization  [AERO:0000004]	label [rdfs:label]	Brighton diagnosis of generalized convulsive seizure as an adverse event following immunization 	
+WARN	annotation_whitespace	found to exhibit [AERO:0000088]	IAO_0000115 [IAO:0000115]	if something is 'found to exhibit' a clinical finding, then there is a clinical finding 'that 'is clinical finding about' that something. @en	
+WARN	annotation_whitespace	found to exhibit [AERO:0000088]	IAO_0000116 [IAO:0000116]	A funny kind of relation, as there is a sense in which this is really a made up relation so we can speak from a patient centric point of view. Really, the relation is established in the inverse direction - a process in which a patient or information about the patient is assessed leads to a finding about the patient. @en	
+WARN	annotation_whitespace	involves [AERO:0000354]	IAO_0000115 [IAO:0000115]	A relation between a clinical finding and the anatomical system or entity in which it takes place, at least partly. @en	
+WARN	equivalent_pair	reduced peripheral circulation diagnosis [AERO:0000279]	owl:equivalentClass	minor cardiovascular criterion for anaphylaxis according to Brighton [AERO:0000304]	
+WARN	missing_definition	disorder resulting from an AEFI process [AERO:0000002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Brighton diagnosis of generalized convulsive seizure as an adverse event following immunization  [AERO:0000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disorder resulting from an adverse event process [AERO:0000005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	_manifestations [AERO:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adverse event following immunization process [AERO:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized atonic motor manifestation finding [AERO:0000026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized clonic motor manifestation finding [AERO:0000029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized tonic motor manifestation finding [AERO:0000030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized tonic-clonic motor manifestation finding [AERO:0000031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	loss of consciousness finding [AERO:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	witnessed sudden loss of consciousness finding [AERO:0000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bilateral site [AERO:0000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	performing a diagnosis according to a Brighton case definition [AERO:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	token [AERO:0000223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	respiratory-distress-token [AERO:0000224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uncompensated-shock-token [AERO:0000230]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Brighton case definition of anaphylaxis as an adverse event following immunization [AERO:0000242]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	performing a diagnosis of anaphylaxis according to Brighton guidelines [AERO:0000243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	major dermatological criterion for anaphylaxis according to Brighton [AERO:0000244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized urticaria or generalized erythema finding [AERO:0000245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	angioedema finding [AERO:0000246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized pruritus with skin rash finding [AERO:0000247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	major cardiovascular criterion for anaphylaxis according to Brighton [AERO:0000249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	major respiratory criterion for anaphylaxis according to Brighton [AERO:0000250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	measured hypotension finding [AERO:0000251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uncompensated shock sign finding [AERO:0000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tachycardia finding [AERO:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	capillary refill time > 3s finding [AERO:0000254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reduced central pulse volume finding [AERO:0000255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased level of consciousness or loss of consciousness finding [AERO:0000256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bilateral wheeze finding [AERO:0000257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stridor finding [AERO:0000258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	upper airway swelling finding [AERO:0000259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tachypnoea finding [AERO:0000260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased use of accessory respiratory muscles finding [AERO:0000261]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	recession finding [AERO:0000262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cyanosis finding [AERO:0000263]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grunting finding [AERO:0000264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	respiratory distress sign finding [AERO:0000265]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Brighton diagnosis of anaphylaxis as an adverse event following immunization [AERO:0000267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Level 1 of certainty of anaphylaxis according to Brighton [AERO:0000269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	patient [AERO:0000270]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized prickle sensation finding [AERO:0000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	localized injection site urticaria finding [AERO:0000274]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	red and itchy eyes finding [AERO:0000276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reduced peripheral circulation finding [AERO:0000277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	capillary refill time > 3s finding without hypotension [AERO:0000278]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reduced peripheral circulation diagnosis [AERO:0000279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized pruritus without skin rash finding [AERO:0000281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	persistent dry cough finding [AERO:0000283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hoarse voice finding [AERO:0000285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensation of throat closure finding [AERO:0000290]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sneezing or rhinorrhea finding [AERO:0000293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diarrhoea finding [AERO:0000295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal pain finding [AERO:0000297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nausea finding [AERO:0000299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vomiting finding [AERO:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mast cell tryptase elevation > upper normal limit finding [AERO:0000302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor dermatological criterion for anaphylaxis according to Brighton [AERO:0000303]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor cardiovascular criterion for anaphylaxis according to Brighton [AERO:0000304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor respiratory criteria set for anaphylaxis according to Brighton [AERO:0000307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	difficulty breathing without wheeze or stridor finding [AERO:0000308]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor gastrointestinal criterion for anaphylaxis according to Brighton [AERO:0000309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor laboratory criteria set for anaphylaxis according to Brighton [AERO:0000310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Level 2 of certainty of anaphylaxis according to Brighton [AERO:0000317]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Level 3 of certainty of anaphylaxis according to Brighton [AERO:0000318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiovascular sign [AERO:0000340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	respiratory sign [AERO:0000341]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastrointestinal sign [AERO:0000347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Reported anaphylaxis with insufficient evidence to meet the case definition [AERO:0000350]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	not a case of anaphylaxis [AERO:0000351]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	AERO:0000352	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dry cough finding [AERO:0000355]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chest tightness finding [AERO:0000356]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	indrawing finding [AERO:0000357]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rhinorrhea finding [AERO:0000358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sore throat finding [AERO:0000359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wheezing finding [AERO:0000360]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	erythema finding [AERO:0000361]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized erythema finding [AERO:0000362]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	red eyes finding [AERO:0000363]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	itchy eyes finding [AERO:0000364]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	prickle sensation finding [AERO:0000365]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pruritus finding [AERO:0000366]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized pruritus finding [AERO:0000367]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rash finding [AERO:0000368]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skin rash finding [AERO:0000369]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urticaria finding [AERO:0000370]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generalized urticaria finding [AERO:0000371]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased level of consciousness finding [AERO:0000372]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sneezing finding [AERO:0000382]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	difficulty breathing finding [AERO:0000414]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reported anaphylaxis [AERO:0000415]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Level 3 of certainty of anaphylaxis - post ICPE [AERO:0000430]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor respiratory criteria set for anaphylaxis according to Brighton - post ICPE [AERO:0000431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor dermatological criterion for anaphylaxis according to Brighton - post ICPE [AERO:0000432]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Level 2 of certainty of anaphylaxis according to Brighton - post ICPE [AERO:0000434]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Level 3 of certainty of anaphylaxis - PHAC form [AERO:0000435]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	seizure level 1 of certainty according to the Brighton criteria [AERO:0000021]	IAO_0000115 [IAO:0000115]	witnessed sudden loss of consciousness AND generalized,     tonic, clonic, tonic–clonic, or atonic motor manifestations.  (atonic In the absence of: hypotonic hyporesponsive episode (as deﬁned by the Brighton Collaboration), syncope, and myoclonic jerks.@en	
+INFO	lowercase_definition	seizure level 2 of certainty according to the Brighton criteria [AERO:0000022]	IAO_0000115 [IAO:0000115]	history of unconsciousness AND generalized,     tonic, clonic, tonic–clonic, or atonic motor manifestations.  (atonic In the absence of: hypotonic hyporesponsive episode (as deﬁned by the Brighton Collaboration), syncope, and myoclonic jerks.@en	
+INFO	lowercase_definition	seizure level 3 of certainty according to the Brighton criteria [AERO:0000023]	IAO_0000115 [IAO:0000115]	history of unconsciousness AND other generalized motor manifestations.@en	
+INFO	lowercase_definition	generalized motor manifestation finding [AERO:0000028]	IAO_0000115 [IAO:0000115]	bilateral motor manifestation, more than minimal muscle involvement@en	
+INFO	lowercase_definition	performing a diagnosis of generalized convulsive seizure according to Brighton guidelines [AERO:0000038]	IAO_0000115 [IAO:0000115]	performing a diagnosis specified by the Brighton case definition for convulsive seizure as an adverse event following immunization	
+INFO	lowercase_definition	shaking finding [AERO:0000040]	IAO_0000115 [IAO:0000115]	repetitive, cyclical movements of the body or a body part; usually involuntary, but can also manifest in response to an attempt at movement@en	
+INFO	lowercase_definition	syncope finding [AERO:0000042]	IAO_0000115 [IAO:0000115]	loss of consciousness, fainting@en	
+INFO	lowercase_definition	history of unconsciousness [AERO:0000047]	IAO_0000115 [IAO:0000115]	the sudden loss of consciousness was not observed, but the patient was found unconscious@en	
+INFO	lowercase_definition	adverse side effect [AERO:0000066]	IAO_0000115 [IAO:0000115]	side effect is an adverse event of a type that has been determined by a review board to be causally related to the intervention.@en	
+INFO	lowercase_definition	found to exhibit [AERO:0000088]	IAO_0000115 [IAO:0000115]	if something is 'found to exhibit' a clinical finding, then there is a clinical finding 'that 'is clinical finding about' that something. @en	
+INFO	lowercase_definition	respiratory distress diagnosis [AERO:0000123]	IAO_0000115 [IAO:0000115]	respiratory distress—2 or more of the    following:     • tachypnoea     • increased use of accessory respiratory muscles (sternocleidomastoid, intercostals, etc.)    • recession    • cyanosis     • grunting	
+INFO	lowercase_definition	has component [AERO:0000125]	IAO_0000115 [IAO:0000115]	indicates the constitutive elements of a document/guideline/specification.@en	
+INFO	lowercase_definition	clinical diagnosis of uncompensated shock [AERO:0000210]	IAO_0000115 [IAO:0000115]	combination of at least 3 of the following:    - tachycardia    - capillary refill time > 3s    - reduced central pulse volume    - decreased level of consciousness or loss of consciousness@en	
+INFO	lowercase_definition	_anaphylaxis according to Brighton criteria set of clinical findings [AERO:0000248]	IAO_0000115 [IAO:0000115]	the set of clinical findings that are classified as being relevant for the anaphylaxis diagnosis	
+INFO	missing_superclass	disorder resulting from an adverse event process [AERO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	adverse event [AERO:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	adverse event process [AERO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	generalized clonic motor manifestation finding [AERO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	generalized tonic motor manifestation finding [AERO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	generalized tonic-clonic motor manifestation finding [AERO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	dermatologic or mucosal sign [AERO:0000221]	rdfs:subClassOf		
+INFO	missing_superclass	token [AERO:0000223]	rdfs:subClassOf		
+INFO	missing_superclass	cardiovascular sign [AERO:0000340]	rdfs:subClassOf		
+INFO	missing_superclass	respiratory sign [AERO:0000341]	rdfs:subClassOf		
+INFO	missing_superclass	gastrointestinal sign [AERO:0000347]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000033 [IAO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000088 [IAO:0000088]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000075 [OBI:0000075]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000274 [OBI:0000274]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000968 [OBI:0000968]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000988 [OBI:0000988]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600007 [OBI:0600007]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000014 [OGMS:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000045 [OGMS:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000955 [UBERON:0000955]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001004 [UBERON:0001004]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004535 [UBERON:0004535]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005409 [UBERON:0005409]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0012125 [UBERON:0012125]	rdfs:subClassOf		
+INFO	missing_superclass	VO_0000002 [VO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000020 <http://purl.obolibrary.org/obo/ogms/OMRE_0000020>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000021 <http://purl.obolibrary.org/obo/ogms/OMRE_0000021>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000022 <http://purl.obolibrary.org/obo/ogms/OMRE_0000022>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000023 <http://purl.obolibrary.org/obo/ogms/OMRE_0000023>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000024 <http://purl.obolibrary.org/obo/ogms/OMRE_0000024>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000026 <http://purl.obolibrary.org/obo/ogms/OMRE_0000026>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000027 <http://purl.obolibrary.org/obo/ogms/OMRE_0000027>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000029 <http://purl.obolibrary.org/obo/ogms/OMRE_0000029>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000030 <http://purl.obolibrary.org/obo/ogms/OMRE_0000030>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000031 <http://purl.obolibrary.org/obo/ogms/OMRE_0000031>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000032 <http://purl.obolibrary.org/obo/ogms/OMRE_0000032>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000037 <http://purl.obolibrary.org/obo/ogms/OMRE_0000037>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000038 <http://purl.obolibrary.org/obo/ogms/OMRE_0000038>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000040 <http://purl.obolibrary.org/obo/ogms/OMRE_0000040>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000042 <http://purl.obolibrary.org/obo/ogms/OMRE_0000042>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000044 <http://purl.obolibrary.org/obo/ogms/OMRE_0000044>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000045 <http://purl.obolibrary.org/obo/ogms/OMRE_0000045>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000046 <http://purl.obolibrary.org/obo/ogms/OMRE_0000046>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000048 <http://purl.obolibrary.org/obo/ogms/OMRE_0000048>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000103 <http://purl.obolibrary.org/obo/ogms/OMRE_0000103>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000104 <http://purl.obolibrary.org/obo/ogms/OMRE_0000104>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000105 <http://purl.obolibrary.org/obo/ogms/OMRE_0000105>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000107 <http://purl.obolibrary.org/obo/ogms/OMRE_0000107>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000108 <http://purl.obolibrary.org/obo/ogms/OMRE_0000108>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000114 <http://purl.obolibrary.org/obo/ogms/OMRE_0000114>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000116 <http://purl.obolibrary.org/obo/ogms/OMRE_0000116>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000137 <http://purl.obolibrary.org/obo/ogms/OMRE_0000137>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000205 <http://purl.obolibrary.org/obo/ogms/OMRE_0000205>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000219 <http://purl.obolibrary.org/obo/ogms/OMRE_0000219>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000220 <http://purl.obolibrary.org/obo/ogms/OMRE_0000220>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000271 <http://purl.obolibrary.org/obo/ogms/OMRE_0000271>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000288 <http://purl.obolibrary.org/obo/ogms/OMRE_0000288>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000291 <http://purl.obolibrary.org/obo/ogms/OMRE_0000291>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000334 <http://purl.obolibrary.org/obo/ogms/OMRE_0000334>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000335 <http://purl.obolibrary.org/obo/ogms/OMRE_0000335>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000336 <http://purl.obolibrary.org/obo/ogms/OMRE_0000336>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000337 <http://purl.obolibrary.org/obo/ogms/OMRE_0000337>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000338 <http://purl.obolibrary.org/obo/ogms/OMRE_0000338>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000339 <http://purl.obolibrary.org/obo/ogms/OMRE_0000339>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000354 <http://purl.obolibrary.org/obo/ogms/OMRE_0000354>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000355 <http://purl.obolibrary.org/obo/ogms/OMRE_0000355>	rdfs:subClassOf		
+INFO	missing_superclass	OMRE_0000383 <http://purl.obolibrary.org/obo/ogms/OMRE_0000383>	rdfs:subClassOf		
+INFO	missing_superclass	MaterialEntity <http://www.ifomis.org/bfo/1.1/snap#MaterialEntity>	rdfs:subClassOf		
+INFO	missing_superclass	Role <http://www.ifomis.org/bfo/1.1/snap#Role>	rdfs:subClassOf		
+INFO	missing_superclass	Site <http://www.ifomis.org/bfo/1.1/snap#Site>	rdfs:subClassOf		
+INFO	missing_superclass	ProcessualEntity <http://www.ifomis.org/bfo/1.1/span#ProcessualEntity>	rdfs:subClassOf		

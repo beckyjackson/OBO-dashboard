@@ -1,0 +1,330 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	NOMEN	dc11:description		
+ERROR	duplicate_label	ICZN incorrect original spelling [NOMEN:0000044]	label [rdfs:label]	ICZN incorrect original spelling@en	
+ERROR	duplicate_label	ICZN incorrect original spelling [NOMEN:0000217]	label [rdfs:label]	ICZN incorrect original spelling@en	
+ERROR	duplicate_label	ICZN homonym [NOMEN:0000043]	label [rdfs:label]	ICZN homonym@en	
+ERROR	duplicate_label	ICZN homonym [NOMEN:0000289]	label [rdfs:label]	ICZN homonym@en	
+ERROR	duplicate_label	ICNP homonym [NOMEN:0000091]	label [rdfs:label]	ICNP homonym@en	
+ERROR	duplicate_label	ICNP homonym [NOMEN:0000097]	label [rdfs:label]	ICNP homonym@en	
+ERROR	duplicate_label	ICN sanctioned name [NOMEN:0000035]	label [rdfs:label]	ICN sanctioned name@en	
+ERROR	duplicate_label	ICN sanctioned name [NOMEN:0000385]	label [rdfs:label]	ICN sanctioned name@en	
+ERROR	duplicate_label	ICN homonym [NOMEN:0000016]	label [rdfs:label]	ICN homonym@en	
+ERROR	duplicate_label	ICN homonym [NOMEN:0000391]	label [rdfs:label]	ICN homonym@en	
+ERROR	duplicate_label	ICN conserved name [NOMEN:0000009]	label [rdfs:label]	ICN conserved name@en	
+ERROR	duplicate_label	ICN conserved name [NOMEN:0000389]	label [rdfs:label]	ICN conserved name@en	
+ERROR	missing_ontology_license	NOMEN	dc:license		
+ERROR	missing_ontology_title	NOMEN	dc11:title		
+WARN	missing_definition	code applicablility start date [NOMEN:0000000]	IAO:0000115		
+WARN	missing_definition	code applicability end date [NOMEN:0000001]	IAO:0000115		
+WARN	missing_definition	ICZN article [NOMEN:0000002]	IAO:0000115		
+WARN	missing_definition	ICZN nonorder [NOMEN:0000003]	IAO:0000115		
+WARN	missing_definition	ICN basionym [NOMEN:0000004]	IAO:0000115		
+WARN	missing_definition	ICN autonym [NOMEN:0000005]	IAO:0000115		
+WARN	missing_definition	ICN subdivision of species and infraspecies [NOMEN:0000006]	IAO:0000115		
+WARN	missing_definition	ICN validly published name [NOMEN:0000007]	IAO:0000115		
+WARN	missing_definition	ICN invalidly published name [NOMEN:0000008]	IAO:0000115		
+WARN	missing_definition	ICN conserved name [NOMEN:0000009]	IAO:0000115		
+WARN	missing_definition	ICN correct name [NOMEN:0000010]	IAO:0000115		
+WARN	missing_definition	ICN incorrect name [NOMEN:0000011]	IAO:0000115		
+WARN	missing_definition	ICN article [NOMEN:0000012]	IAO:0000115		
+WARN	missing_definition	ICN not Latin [NOMEN:0000013]	IAO:0000115		
+WARN	missing_definition	ICN incorrect original spelling [NOMEN:0000014]	IAO:0000115		
+WARN	missing_definition	ICN superfluous [NOMEN:0000015]	IAO:0000115		
+WARN	missing_definition	ICN homonym [NOMEN:0000016]	IAO:0000115		
+WARN	missing_definition	synonym [NOMEN:0000017]	IAO:0000115		
+WARN	missing_definition	abbreviation [NOMEN:0000018]	IAO:0000115		
+WARN	missing_definition	ICN as synonym [NOMEN:0000019]	IAO:0000115		
+WARN	missing_definition	ICN conserved spelling [NOMEN:0000020]	IAO:0000115		
+WARN	missing_definition	ICN adopted by Fries [NOMEN:0000021]	IAO:0000115		
+WARN	missing_definition	ICN adopted by Persoon [NOMEN:0000022]	IAO:0000115		
+WARN	missing_definition	ICZN conserved work [NOMEN:0000023]	IAO:0000115		
+WARN	missing_definition	ICZN Official Index of Rejected and Invalid Works in Zoology [NOMEN:0000024]	IAO:0000115		
+WARN	missing_definition	ICZN Official List of Works Approved as Available [NOMEN:0000025]	IAO:0000115		
+WARN	missing_definition	ICZN excluded [NOMEN:0000026]	IAO:0000115		
+WARN	missing_definition	nomenclatural rank [NOMEN:0000027]	IAO:0000115		
+WARN	missing_definition	string [NOMEN:0000028]	IAO:0000115		
+WARN	missing_definition	name [NOMEN:0000029]	IAO:0000115		
+WARN	missing_definition	biological name [NOMEN:0000030]	IAO:0000115		
+WARN	missing_definition	ICZN potentially validating [NOMEN:0000031]	IAO:0000115		
+WARN	missing_definition	latinized string [NOMEN:0000032]	IAO:0000115		
+WARN	missing_definition	above nomenclatural codes [NOMEN:0000033]	IAO:0000115		
+WARN	missing_definition	domain [NOMEN:0000034]	IAO:0000115		
+WARN	missing_definition	ICN sanctioned name [NOMEN:0000035]	IAO:0000115		
+WARN	missing_definition	scientific name [NOMEN:0000036]	IAO:0000115		
+WARN	missing_definition	vernacular name [NOMEN:0000037]	IAO:0000115		
+WARN	missing_definition	ICZN electronic only publication before 2012 [NOMEN:0000038]	IAO:0000115		
+WARN	missing_definition	ICZN electronic publication without ISSN or ISBN [NOMEN:0000039]	IAO:0000115		
+WARN	missing_definition	ICZN electronic publication  not in PDF format [NOMEN:0000040]	IAO:0000115		
+WARN	missing_definition	ICZN electronic publication not registered in ZooBank [NOMEN:0000041]	IAO:0000115		
+WARN	missing_definition	ICZN family name based on genus synonym replaced before 1961 [NOMEN:0000042]	IAO:0000115		
+WARN	missing_definition	ICZN homonym [NOMEN:0000043]	IAO:0000115		
+WARN	missing_definition	ICZN incorrect original spelling [NOMEN:0000044]	IAO:0000115		
+WARN	missing_definition	gender [NOMEN:0000045]	IAO:0000115		
+WARN	missing_definition	parts_of_speech [NOMEN:0000046]	IAO:0000115		
+WARN	missing_definition	feminine [NOMEN:0000047]	IAO:0000115		
+WARN	missing_definition	masculine [NOMEN:0000048]	IAO:0000115		
+WARN	missing_definition	neuter [NOMEN:0000049]	IAO:0000115		
+WARN	missing_definition	adjective [NOMEN:0000050]	IAO:0000115		
+WARN	missing_definition	noun in apposition [NOMEN:0000051]	IAO:0000115		
+WARN	missing_definition	noun in genitive case [NOMEN:0000052]	IAO:0000115		
+WARN	missing_definition	participle [NOMEN:0000053]	IAO:0000115		
+WARN	missing_definition	GBIF status [NOMEN:0000054]	IAO:0000115		
+WARN	missing_definition	ICZN fossil [NOMEN:0000055]	IAO:0000115		
+WARN	missing_definition	ICN hybrid [NOMEN:0000056]	IAO:0000115		
+WARN	missing_definition	ICN fossil [NOMEN:0000057]	IAO:0000115		
+WARN	missing_definition	ICZN Official Index of Rejected and Invalid Generic Names in Zoology [NOMEN:0000058]	IAO:0000115		
+WARN	missing_definition	ICZN Official Index of Rejected and Invalid Specific Names in Zoology [NOMEN:0000059]	IAO:0000115		
+WARN	missing_definition	ICZN Official List of Specific Names in Zoology [NOMEN:0000060]	IAO:0000115		
+WARN	missing_definition	ICZN family-group name form [NOMEN:0000061]	IAO:0000115		
+WARN	missing_definition	ICNP nomenclatural rank [NOMEN:0000062]	IAO:0000115		
+WARN	missing_definition	ICNP above family-group [NOMEN:0000063]	IAO:0000115		
+WARN	missing_definition	ICNP family-group [NOMEN:0000064]	IAO:0000115		
+WARN	missing_definition	ICNP genus-group [NOMEN:0000065]	IAO:0000115		
+WARN	missing_definition	ICNP species-group [NOMEN:0000066]	IAO:0000115		
+WARN	missing_definition	ICNP species [NOMEN:0000067]	IAO:0000115		
+WARN	missing_definition	ICNP subspecies [NOMEN:0000068]	IAO:0000115		
+WARN	missing_definition	ICNP genus [NOMEN:0000069]	IAO:0000115		
+WARN	missing_definition	ICNP subgenus [NOMEN:0000070]	IAO:0000115		
+WARN	missing_definition	ICNP family [NOMEN:0000071]	IAO:0000115		
+WARN	missing_definition	ICNP subfamily [NOMEN:0000072]	IAO:0000115		
+WARN	missing_definition	ICNP tribe [NOMEN:0000073]	IAO:0000115		
+WARN	missing_definition	ICNP subtribe [NOMEN:0000074]	IAO:0000115		
+WARN	missing_definition	ICNP order [NOMEN:0000075]	IAO:0000115		
+WARN	missing_definition	ICNP suborder [NOMEN:0000076]	IAO:0000115		
+WARN	missing_definition	ICNP class [NOMEN:0000077]	IAO:0000115		
+WARN	missing_definition	ICNP subclass [NOMEN:0000078]	IAO:0000115		
+WARN	missing_definition	ICNP kingdom [NOMEN:0000079]	IAO:0000115		
+WARN	missing_definition	ICNP phylum [NOMEN:0000080]	IAO:0000115		
+WARN	missing_definition	ICNP effectively published name [NOMEN:0000081]	IAO:0000115		
+WARN	missing_definition	ICNP not effectively published name [NOMEN:0000082]	IAO:0000115		
+WARN	missing_definition	ICNP invalidly published name [NOMEN:0000083]	IAO:0000115		
+WARN	missing_definition	ICNP validly published name [NOMEN:0000084]	IAO:0000115		
+WARN	missing_definition	ICNP illegitimate name [NOMEN:0000085]	IAO:0000115		
+WARN	missing_definition	ICNP legitimate name [NOMEN:0000086]	IAO:0000115		
+WARN	missing_definition	ICNP correct name [NOMEN:0000087]	IAO:0000115		
+WARN	missing_definition	ICNP incorrect name [NOMEN:0000088]	IAO:0000115		
+WARN	missing_definition	ICNP nomen novum [NOMEN:0000089]	IAO:0000115		
+WARN	missing_definition	ICNP nomen nudum [NOMEN:0000090]	IAO:0000115		
+WARN	missing_definition	ICNP homonym [NOMEN:0000091]	IAO:0000115		
+WARN	missing_definition	ICNP candidatus [NOMEN:0000092]	IAO:0000115		
+WARN	missing_definition	ICNP unaccepting [NOMEN:0000093]	IAO:0000115		
+WARN	missing_definition	ICNP accepting [NOMEN:0000094]	IAO:0000115		
+WARN	missing_definition	ICNP conserved name [NOMEN:0000095]	IAO:0000115		
+WARN	missing_definition	ICNP synonym [NOMEN:0000096]	IAO:0000115		
+WARN	missing_definition	ICNP homonym [NOMEN:0000097]	IAO:0000115		
+WARN	missing_definition	ICNP usage [NOMEN:0000098]	IAO:0000115		
+WARN	missing_definition	ICNP misspelling [NOMEN:0000099]	IAO:0000115		
+WARN	missing_definition	ICNP misapplication [NOMEN:0000100]	IAO:0000115		
+WARN	missing_definition	ICNP homotypic synonym [NOMEN:0000101]	IAO:0000115		
+WARN	missing_definition	ICNP heterotypic synonym [NOMEN:0000102]	IAO:0000115		
+WARN	missing_definition	ICNP Official List [NOMEN:0000103]	IAO:0000115		
+WARN	missing_definition	ICNP rejected [NOMEN:0000104]	IAO:0000115		
+WARN	missing_definition	ICNP not in Official List [NOMEN:0000105]	IAO:0000115		
+WARN	missing_definition	ICZN forgotten homonym [NOMEN:0000106]	IAO:0000115		
+WARN	missing_definition	ICZN name [NOMEN:0000107]	IAO:0000115		
+WARN	missing_definition	ICZN suppressed homonym [NOMEN:0000108]	IAO:0000115		
+WARN	missing_definition	ICN name [NOMEN:0000109]	IAO:0000115		
+WARN	missing_definition	ICNP name [NOMEN:0000110]	IAO:0000115		
+WARN	missing_definition	ICTV name [NOMEN:0000111]	IAO:0000115		
+WARN	missing_definition	ICZN replaced homonym [NOMEN:0000112]	IAO:0000115		
+WARN	missing_definition	ICTV nomenclatural rank [NOMEN:0000113]	IAO:0000115		
+WARN	missing_definition	ICTV order [NOMEN:0000114]	IAO:0000115		
+WARN	missing_definition	ICTV family [NOMEN:0000115]	IAO:0000115		
+WARN	missing_definition	ICTV subfamily [NOMEN:0000116]	IAO:0000115		
+WARN	missing_definition	ICTV genus [NOMEN:0000117]	IAO:0000115		
+WARN	missing_definition	ICTV species [NOMEN:0000118]	IAO:0000115		
+WARN	missing_definition	ICTV accepting [NOMEN:0000121]	IAO:0000115		
+WARN	missing_definition	ICTV unaccepting [NOMEN:0000122]	IAO:0000115		
+WARN	missing_definition	ICTV supressed [NOMEN:0000123]	IAO:0000115		
+WARN	missing_definition	ICTV uncertain placement [NOMEN:0000124]	IAO:0000115		
+WARN	missing_definition	ICTV valid [NOMEN:0000125]	IAO:0000115		
+WARN	missing_definition	ICTV invalid [NOMEN:0000126]	IAO:0000115		
+WARN	missing_definition	ICTV accepted [NOMEN:0000127]	IAO:0000115		
+WARN	missing_definition	ICTV unaccepted [NOMEN:0000128]	IAO:0000115		
+WARN	missing_definition	ICZN nomen inquirendum [NOMEN:0000129]	IAO:0000115		
+WARN	missing_definition	ICZN unavailable [NOMEN:0000168]	IAO:0000115		
+WARN	missing_definition	ICZN non binomial [NOMEN:0000169]	IAO:0000115		
+WARN	missing_definition	ICZN not uninomial [NOMEN:0000170]	IAO:0000115		
+WARN	missing_definition	ICZN subgenus not intercalare [NOMEN:0000171]	IAO:0000115		
+WARN	missing_definition	ICZN species not binomial [NOMEN:0000172]	IAO:0000115		
+WARN	missing_definition	ICZN subspecies not trinomial [NOMEN:0000173]	IAO:0000115		
+WARN	missing_definition	ICZN nomen nudum [NOMEN:0000174]	IAO:0000115		
+WARN	missing_definition	ICZN citation of unavailable name [NOMEN:0000175]	IAO:0000115		
+WARN	missing_definition	ICZN conditionally proposed after 1960 [NOMEN:0000176]	IAO:0000115		
+WARN	missing_definition	ICZN published as synonym after 1960 [NOMEN:0000177]	IAO:0000115		
+WARN	missing_definition	ICZN published as synonym and not validated before 1961 [NOMEN:0000178]	IAO:0000115		
+WARN	missing_definition	ICZN ambiguous generic placement [NOMEN:0000179]	IAO:0000115		
+WARN	missing_definition	ICZN interpolated name [NOMEN:0000180]	IAO:0000115		
+WARN	missing_definition	ICZN no description [NOMEN:0000181]	IAO:0000115		
+WARN	missing_definition	ICZN no diagnosis after 1930 [NOMEN:0000182]	IAO:0000115		
+WARN	missing_definition	ICZN no type fixation after 1930 [NOMEN:0000183]	IAO:0000115		
+WARN	missing_definition	ICZN replacement name without type fixation after 1930 [NOMEN:0000184]	IAO:0000115		
+WARN	missing_definition	ICZN ichnotaxon without type-species after 1999 [NOMEN:0000185]	IAO:0000115		
+WARN	missing_definition	ICZN anonymous authorship after 1950 [NOMEN:0000186]	IAO:0000115		
+WARN	missing_definition	ICZN not indicated as new after 1999 [NOMEN:0000187]	IAO:0000115		
+WARN	missing_definition	ICZN no type-genus citation after 1999 [NOMEN:0000188]	IAO:0000115		
+WARN	missing_definition	ICZN no type-specimen fixation after 1999 [NOMEN:0000189]	IAO:0000115		
+WARN	missing_definition	ICZN no type deposition statement after 1999 [NOMEN:0000190]	IAO:0000115		
+WARN	missing_definition	ICZN hypothetical concept [NOMEN:0000191]	IAO:0000115		
+WARN	missing_definition	ICZN name for teratological specimen [NOMEN:0000192]	IAO:0000115		
+WARN	missing_definition	ICZN name for hybrid [NOMEN:0000193]	IAO:0000115		
+WARN	missing_definition	ICZN temporary name [NOMEN:0000194]	IAO:0000115		
+WARN	missing_definition	ICZN work of extant animal after 1930 [NOMEN:0000195]	IAO:0000115		
+WARN	missing_definition	ICZN zoological formula [NOMEN:0000196]	IAO:0000115		
+WARN	missing_definition	ICZN not for nomenclature [NOMEN:0000197]	IAO:0000115		
+WARN	missing_definition	ICZN variety or form after 1960 [NOMEN:0000198]	IAO:0000115		
+WARN	missing_definition	ICZN infrasubspecific [NOMEN:0000199]	IAO:0000115		
+WARN	missing_definition	ICZN unavailable under ICN [NOMEN:0000200]	IAO:0000115		
+WARN	missing_definition	ICZN not Latin [NOMEN:0000201]	IAO:0000115		
+WARN	missing_definition	ICZN not nominative plural [NOMEN:0000202]	IAO:0000115		
+WARN	missing_definition	ICZN not from genus name [NOMEN:0000203]	IAO:0000115		
+WARN	missing_definition	ICZN not based on available genus name [NOMEN:0000204]	IAO:0000115		
+WARN	missing_definition	ICZN not scientific plural [NOMEN:0000205]	IAO:0000115		
+WARN	missing_definition	ICZN based on fossil genus formula [NOMEN:0000206]	IAO:0000115		
+WARN	missing_definition	ICZN based on suppressed genus [NOMEN:0000207]	IAO:0000115		
+WARN	missing_definition	ICZN not latinized after 1899 [NOMEN:0000208]	IAO:0000115		
+WARN	missing_definition	ICZN not latinized before 1900 and not accepted [NOMEN:0000209]	IAO:0000115		
+WARN	missing_definition	ICZN less than two letters [NOMEN:0000210]	IAO:0000115		
+WARN	missing_definition	ICZN not noun in nominative singular [NOMEN:0000211]	IAO:0000115		
+WARN	missing_definition	ICZN not noun or adjective [NOMEN:0000212]	IAO:0000115		
+WARN	missing_definition	ICZN unavailable and not used as valid before 2000 [NOMEN:0000213]	IAO:0000115		
+WARN	missing_definition	ICZN unavailable and rejected by author before 2000 [NOMEN:0000214]	IAO:0000115		
+WARN	missing_definition	ICZN incorrect original spelling [NOMEN:0000217]	IAO:0000115		
+WARN	missing_definition	ICZN pre-Linnean [NOMEN:0000218]	IAO:0000115		
+WARN	missing_definition	ICZN suppressed [NOMEN:0000219]	IAO:0000115		
+WARN	missing_definition	ICZN not in Official List of Available Names in Zoology [NOMEN:0000221]	IAO:0000115		
+WARN	missing_definition	ICZN Official Index of Rejected and Invalid Family-Group Names in Zoology [NOMEN:0000222]	IAO:0000115		
+WARN	missing_definition	ICZN available [NOMEN:0000223]	IAO:0000115		
+WARN	missing_definition	ICZN valid [NOMEN:0000224]	IAO:0000115		
+WARN	missing_definition	ICZN nomen dubium [NOMEN:0000225]	IAO:0000115		
+WARN	missing_definition	ICZN invalid [NOMEN:0000226]	IAO:0000115		
+WARN	missing_definition	ICZN Official List of Generic Names in Zoology [NOMEN:0000228]	IAO:0000115		
+WARN	missing_definition	ICZN Official List of Family-Group Names in Zoology [NOMEN:0000229]	IAO:0000115		
+WARN	missing_definition	ICTV [NOMEN:0000230]	IAO:0000115		
+WARN	missing_definition	ICNP [NOMEN:0000231]	IAO:0000115		
+WARN	missing_definition	ICN [NOMEN:0000232]	IAO:0000115		
+WARN	missing_definition	ICZN [NOMEN:0000233]	IAO:0000115		
+WARN	missing_definition	ICZN validating [NOMEN:0000264]	IAO:0000115		
+WARN	missing_definition	ICZN uncertain placement [NOMEN:0000266]	IAO:0000115		
+WARN	missing_definition	ICZN conserved name [NOMEN:0000268]	IAO:0000115		
+WARN	missing_definition	ICZN reinstated name [NOMEN:0000269]	IAO:0000115		
+WARN	missing_definition	ICZN replacement name [NOMEN:0000270]	IAO:0000115		
+WARN	missing_definition	ICZN first revisor action [NOMEN:0000271]	IAO:0000115		
+WARN	missing_definition	ICZN invalidating [NOMEN:0000272]	IAO:0000115		
+WARN	missing_definition	ICZN usage [NOMEN:0000273]	IAO:0000115		
+WARN	missing_definition	ICZN misapplication [NOMEN:0000274]	IAO:0000115		
+WARN	missing_definition	ICZN misspelling [NOMEN:0000275]	IAO:0000115		
+WARN	missing_definition	ICZN synonym [NOMEN:0000276]	IAO:0000115		
+WARN	missing_definition	ICZN objective synonym [NOMEN:0000277]	IAO:0000115		
+WARN	missing_definition	ICZN unjustified emendation [NOMEN:0000278]	IAO:0000115		
+WARN	missing_definition	ICZN unnecessary replacement name [NOMEN:0000279]	IAO:0000115		
+WARN	missing_definition	ICZN suppression [NOMEN:0000280]	IAO:0000115		
+WARN	missing_definition	ICZN partial  suppression [NOMEN:0000281]	IAO:0000115		
+WARN	missing_definition	ICZN conditional suppression [NOMEN:0000282]	IAO:0000115		
+WARN	missing_definition	ICZN total suppression [NOMEN:0000283]	IAO:0000115		
+WARN	missing_definition	ICZN forgotten name [NOMEN:0000284]	IAO:0000115		
+WARN	missing_definition	ICZN subjective synonym [NOMEN:0000285]	IAO:0000115		
+WARN	missing_definition	ICZN synonymic homonym [NOMEN:0000287]	IAO:0000115		
+WARN	missing_definition	ICZN homonym [NOMEN:0000289]	IAO:0000115		
+WARN	missing_definition	ICZN primary homonym [NOMEN:0000290]	IAO:0000115		
+WARN	missing_definition	ICZN secondary homonym [NOMEN:0000291]	IAO:0000115		
+WARN	missing_definition	ICZN secondary homonym replaced before 1961 [NOMEN:0000292]	IAO:0000115		
+WARN	missing_definition	ICZN nomenclatural rank [NOMEN:0000293]	IAO:0000115		
+WARN	missing_definition	ICZN family-group [NOMEN:0000295]	IAO:0000115		
+WARN	missing_definition	ICZN epifamily [NOMEN:0000296]	IAO:0000115		
+WARN	missing_definition	ICZN family [NOMEN:0000297]	IAO:0000115		
+WARN	missing_definition	ICZN infrafamily [NOMEN:0000298]	IAO:0000115		
+WARN	missing_definition	ICZN subfamily [NOMEN:0000299]	IAO:0000115		
+WARN	missing_definition	ICZN supersubsubfamily [NOMEN:0000300]	IAO:0000115		
+WARN	missing_definition	ICZN subtribe [NOMEN:0000301]	IAO:0000115		
+WARN	missing_definition	ICZN superfamily [NOMEN:0000302]	IAO:0000115		
+WARN	missing_definition	ICZN supertribe [NOMEN:0000304]	IAO:0000115		
+WARN	missing_definition	ICZN tribe [NOMEN:0000305]	IAO:0000115		
+WARN	missing_definition	ICZN genus-group [NOMEN:0000306]	IAO:0000115		
+WARN	missing_definition	ICZN genus [NOMEN:0000307]	IAO:0000115		
+WARN	missing_definition	ICZN supergenus [NOMEN:0000308]	IAO:0000115		
+WARN	missing_definition	ICZN infragenus [NOMEN:0000309]	IAO:0000115		
+WARN	missing_definition	ICZN subgenus [NOMEN:0000310]	IAO:0000115		
+WARN	missing_definition	ICZN species-group [NOMEN:0000311]	IAO:0000115		
+WARN	missing_definition	ICZN species [NOMEN:0000312]	IAO:0000115		
+WARN	missing_definition	ICZN superspecies [NOMEN:0000313]	IAO:0000115		
+WARN	missing_definition	ICZN supersuperspecies [NOMEN:0000314]	IAO:0000115		
+WARN	missing_definition	ICZN subsuperspecies [NOMEN:0000315]	IAO:0000115		
+WARN	missing_definition	ICZN subspecies [NOMEN:0000316]	IAO:0000115		
+WARN	missing_definition	ICZN above family-group [NOMEN:0000317]	IAO:0000115		
+WARN	missing_definition	ICZN class [NOMEN:0000318]	IAO:0000115		
+WARN	missing_definition	ICZN cohort [NOMEN:0000319]	IAO:0000115		
+WARN	missing_definition	ICZN infraclass [NOMEN:0000320]	IAO:0000115		
+WARN	missing_definition	ICZN infrakingdom [NOMEN:0000321]	IAO:0000115		
+WARN	missing_definition	ICZN infraorder [NOMEN:0000322]	IAO:0000115		
+WARN	missing_definition	ICZN infraphylum [NOMEN:0000323]	IAO:0000115		
+WARN	missing_definition	ICZN kingdom [NOMEN:0000324]	IAO:0000115		
+WARN	missing_definition	ICZN magnorder [NOMEN:0000325]	IAO:0000115		
+WARN	missing_definition	ICZN mirorder [NOMEN:0000326]	IAO:0000115		
+WARN	missing_definition	ICZN order [NOMEN:0000327]	IAO:0000115		
+WARN	missing_definition	ICZN phylum [NOMEN:0000328]	IAO:0000115		
+WARN	missing_definition	ICZN subclass [NOMEN:0000329]	IAO:0000115		
+WARN	missing_definition	ICZN parvorder [NOMEN:0000330]	IAO:0000115		
+WARN	missing_definition	ICZN subkingdom [NOMEN:0000331]	IAO:0000115		
+WARN	missing_definition	ICZN suborder [NOMEN:0000332]	IAO:0000115		
+WARN	missing_definition	ICZN subphylum [NOMEN:0000333]	IAO:0000115		
+WARN	missing_definition	ICZN superclass [NOMEN:0000334]	IAO:0000115		
+WARN	missing_definition	ICZN supercohort [NOMEN:0000335]	IAO:0000115		
+WARN	missing_definition	ICZN superkingdom [NOMEN:0000336]	IAO:0000115		
+WARN	missing_definition	ICZN superorder [NOMEN:0000337]	IAO:0000115		
+WARN	missing_definition	ICZN superphylum [NOMEN:0000338]	IAO:0000115		
+WARN	missing_definition	ICN nomenclatural rank [NOMEN:0000339]	IAO:0000115		
+WARN	missing_definition	ICN subdivision of family [NOMEN:0000341]	IAO:0000115		
+WARN	missing_definition	ICN family [NOMEN:0000342]	IAO:0000115		
+WARN	missing_definition	ICN subfamily [NOMEN:0000343]	IAO:0000115		
+WARN	missing_definition	ICN subtribe [NOMEN:0000344]	IAO:0000115		
+WARN	missing_definition	ICN tribe [NOMEN:0000345]	IAO:0000115		
+WARN	missing_definition	ICN subdivision of genus [NOMEN:0000346]	IAO:0000115		
+WARN	missing_definition	ICN genus [NOMEN:0000347]	IAO:0000115		
+WARN	missing_definition	ICN subgenus [NOMEN:0000348]	IAO:0000115		
+WARN	missing_definition	ICN section [NOMEN:0000349]	IAO:0000115		
+WARN	missing_definition	ICN series [NOMEN:0000350]	IAO:0000115		
+WARN	missing_definition	ICN subsection [NOMEN:0000351]	IAO:0000115		
+WARN	missing_definition	ICN subseries [NOMEN:0000352]	IAO:0000115		
+WARN	missing_definition	ICN subdivision above family [NOMEN:0000353]	IAO:0000115		
+WARN	missing_definition	ICN class [NOMEN:0000354]	IAO:0000115		
+WARN	missing_definition	ICN order [NOMEN:0000355]	IAO:0000115		
+WARN	missing_definition	ICN phylum [NOMEN:0000356]	IAO:0000115		
+WARN	missing_definition	ICN kingdom [NOMEN:0000357]	IAO:0000115		
+WARN	missing_definition	ICN subclass [NOMEN:0000358]	IAO:0000115		
+WARN	missing_definition	ICN suborder [NOMEN:0000359]	IAO:0000115		
+WARN	missing_definition	ICN subphylum [NOMEN:0000360]	IAO:0000115		
+WARN	missing_definition	ICN subkingdom [NOMEN:0000361]	IAO:0000115		
+WARN	missing_definition	ICN species [NOMEN:0000363]	IAO:0000115		
+WARN	missing_definition	ICN form [NOMEN:0000364]	IAO:0000115		
+WARN	missing_definition	ICN subform [NOMEN:0000365]	IAO:0000115		
+WARN	missing_definition	ICN subvariety [NOMEN:0000366]	IAO:0000115		
+WARN	missing_definition	ICN variety [NOMEN:0000367]	IAO:0000115		
+WARN	missing_definition	ICN subspecies [NOMEN:0000368]	IAO:0000115		
+WARN	missing_definition	ICN unaccepting [NOMEN:0000369]	IAO:0000115		
+WARN	missing_definition	ICN accepting [NOMEN:0000370]	IAO:0000115		
+WARN	missing_definition	ICN alternative family name [NOMEN:0000371]	IAO:0000115		
+WARN	missing_definition	ICN synonym [NOMEN:0000372]	IAO:0000115		
+WARN	missing_definition	ICN usage [NOMEN:0000374]	IAO:0000115		
+WARN	missing_definition	ICN misspelling [NOMEN:0000375]	IAO:0000115		
+WARN	missing_definition	ICN misapplication [NOMEN:0000376]	IAO:0000115		
+WARN	missing_definition	ICN not effectively published name [NOMEN:0000377]	IAO:0000115		
+WARN	missing_definition	ICN non binomial [NOMEN:0000378]	IAO:0000115		
+WARN	missing_definition	ICN nomen nudum [NOMEN:0000379]	IAO:0000115		
+WARN	missing_definition	ICN rejected publication [NOMEN:0000380]	IAO:0000115		
+WARN	missing_definition	ICN provisional name [NOMEN:0000381]	IAO:0000115		
+WARN	missing_definition	ICN tautonym [NOMEN:0000382]	IAO:0000115		
+WARN	missing_definition	ICN effectively published name [NOMEN:0000383]	IAO:0000115		
+WARN	missing_definition	ICN legitimate name [NOMEN:0000384]	IAO:0000115		
+WARN	missing_definition	ICN sanctioned name [NOMEN:0000385]	IAO:0000115		
+WARN	missing_definition	ICN illegitimate name [NOMEN:0000386]	IAO:0000115		
+WARN	missing_definition	ICN nomen novum [NOMEN:0000387]	IAO:0000115		
+WARN	missing_definition	ICN nothotaxon [NOMEN:0000388]	IAO:0000115		
+WARN	missing_definition	ICN conserved name [NOMEN:0000389]	IAO:0000115		
+WARN	missing_definition	ICN homonym [NOMEN:0000391]	IAO:0000115		
+WARN	missing_definition	ICN heterotypic synonym [NOMEN:0000392]	IAO:0000115		
+WARN	missing_definition	ICN homotypic synonym [NOMEN:0000393]	IAO:0000115		
+WARN	missing_definition	ICN alternative name [NOMEN:0000394]	IAO:0000115		
+WARN	missing_definition	ICN orthographic variant [NOMEN:0000395]	IAO:0000115		
+WARN	missing_definition	ICN isonym [NOMEN:0000396]	IAO:0000115		
+INFO	missing_superclass	string [NOMEN:0000028]	rdfs:subClassOf		

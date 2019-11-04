@@ -1,0 +1,32 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	community [PCO:0000028]	IAO_0000115 [IAO:0000115]	A collection of organisms of the same species whose members are all either genealogically related to each other or have mated with each other.	
+ERROR	duplicate_definition	biological family [PCO:0000032]	IAO_0000115 [IAO:0000115]	A collection of organisms of the same species whose members are all either genealogically related to each other or have mated with each other.	
+ERROR	missing_ontology_description	pco.owl	dc11:description		
+ERROR	multiple_definitions	collection of organisms [PCO:0000000]	IAO_0000115 [IAO:0000115]	A material entity that consists of two or more organisms, viruses, or viroids.	
+ERROR	multiple_definitions	collection of organisms [PCO:0000000]	IAO_0000115 [IAO:0000115]	A material entity that consists of two or more organisms, viruses, or viroids.@en	
+ERROR	missing_ontology_license	pco.owl	dc:license		
+ERROR	missing_ontology_title	pco.owl	dc11:title		
+ERROR	multiple_labels	collection of organisms [PCO:0000000]	label [rdfs:label]	collection of organisms	
+ERROR	multiple_labels	collection of organisms [PCO:0000000]	label [rdfs:label]	collection of organisms@en	
+WARN	annotation_whitespace	population process [PCO:0000005]	IAO_0000115 [IAO:0000115]	A process that has as primary participant a population. @en	
+WARN	missing_definition	population birth rate [PCO:0000006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	population death rate [PCO:0000007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	population growth rate [PCO:0000008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	predator role [PCO:0000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	prey role [PCO:0000015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	symbiont role [PCO:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	potluck [PCO:0000037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pair of interacting organisms [PCO:0001000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pair of interacting organisms of the same species [PCO:0001001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	red population [PCO:0000025]	label [rdfs:label]	red population@en	
+WARN	missing_obsolete_label	red organism [PCO:0000026]	label [rdfs:label]	red organism@en	
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000027 [BFO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000029 [BFO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0001010 [CARO:0001010]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035176 [GO:0035176]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002003 [PATO:0002003]	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

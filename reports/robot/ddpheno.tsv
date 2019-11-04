@@ -1,0 +1,163 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	decreased intracellular cAMP level [DDPHENO:0001011]	IAO_0000115 [IAO:0000115]	Reduction in amount or accumulation of intracellular cAMP.	
+ERROR	duplicate_definition	decreased extracellular cAMP level [DDPHENO:0001329]	IAO_0000115 [IAO:0000115]	Reduction in amount or accumulation of intracellular cAMP.	
+ERROR	duplicate_definition	mislocalized prestalk gene expression [DDPHENO:0000367]	IAO_0000115 [IAO:0000115]	Prestalk gene expression occurring in an abnormal position or in an unusual manner or form.	
+ERROR	duplicate_definition	mislocalized prespore gene expression [DDPHENO:0000415]	IAO_0000115 [IAO:0000115]	Prestalk gene expression occurring in an abnormal position or in an unusual manner or form.	
+ERROR	duplicate_definition	delayed phagosome acidification [DDPHENO:0001491]	IAO_0000115 [IAO:0000115]	Late onset or slower progression of phagosome acidification.	
+ERROR	duplicate_definition	delayed phagosome re-neutralization [DDPHENO:0001492]	IAO_0000115 [IAO:0000115]	Late onset or slower progression of phagosome acidification.	
+ERROR	duplicate_definition	increased pseudopod size [DDPHENO:0000540]	IAO_0000115 [IAO:0000115]	Increase in relative or proportionate dimensions of the pseudopod.	
+ERROR	duplicate_definition	decreased pseudopod size [DDPHENO:0001178]	IAO_0000115 [IAO:0000115]	Increase in relative or proportionate dimensions of the pseudopod.	
+ERROR	duplicate_definition	increased intracellular 2,3-bisphosphoglycerate level [DDPHENO:0001186]	IAO_0000115 [IAO:0000115]	Increase in amount or accumulation of intracellular 2,3-bisphosphoglycerate.	
+ERROR	duplicate_definition	increased intracellular 2,3-bisphosphoglycerate [DDPHENO:0001474]	IAO_0000115 [IAO:0000115]	Increase in amount or accumulation of intracellular 2,3-bisphosphoglycerate.	
+ERROR	duplicate_definition	aberrant endosome morphology [DDPHENO:0000230]	IAO_0000115 [IAO:0000115]	Deviation from the normal, usual, or expected morphology of the endosome.	
+ERROR	duplicate_definition	aberrant lysosome morphology [DDPHENO:0001206]	IAO_0000115 [IAO:0000115]	Deviation from the normal, usual, or expected morphology of the endosome.	
+ERROR	duplicate_definition	aberrant organelle organization and biogenesis [DDPHENO:0001043]	IAO_0000115 [IAO:0000115]	Deviation from the normal, usual, or expected events during organelle organization and biogenesis.	
+ERROR	duplicate_definition	aberrant lysosome organization and biogenesis [DDPHENO:0001237]	IAO_0000115 [IAO:0000115]	Deviation from the normal, usual, or expected events during organelle organization and biogenesis.	
+ERROR	duplicate_definition	abolished F-actin polymerization [DDPHENO:0001057]	IAO_0000115 [IAO:0000115]	Complete inability to polymerize actin into F-actin.	
+ERROR	duplicate_definition	aberrant F-actin polymerization [DDPHENO:0001445]	IAO_0000115 [IAO:0000115]	Complete inability to polymerize actin into F-actin.	
+ERROR	duplicate_definition	aberrant F-actin depolymerization [DDPHENO:0001446]	IAO_0000115 [IAO:0000115]	Complete inability to depolymerize actin into F-actin.	
+ERROR	duplicate_definition	abolished F-actin depolymerization [DDPHENO:0001447]	IAO_0000115 [IAO:0000115]	Complete inability to depolymerize actin into F-actin.	
+ERROR	missing_ontology_description	ddpheno.owl	dc11:description		
+ERROR	duplicate_label	increased double-strand break repair via homologous recombination [DDPHENO:0000574]	label [rdfs:label]	increased double-strand break repair via homologous recombination	
+ERROR	duplicate_label	increased double-strand break repair via homologous recombination [DDPHENO:0001460]	label [rdfs:label]	increased double-strand break repair via homologous recombination	
+ERROR	duplicate_label	decreased double-strand break repair via homologous recombination [DDPHENO:0000572]	label [rdfs:label]	decreased double-strand break repair via homologous recombination	
+ERROR	duplicate_label	decreased double-strand break repair via homologous recombination [DDPHENO:0001459]	label [rdfs:label]	decreased double-strand break repair via homologous recombination	
+ERROR	duplicate_label	aberrant double-strand break repair via homologous recombination [DDPHENO:0000571]	label [rdfs:label]	aberrant double-strand break repair via homologous recombination	
+ERROR	duplicate_label	aberrant double-strand break repair via homologous recombination [DDPHENO:0001458]	label [rdfs:label]	aberrant double-strand break repair via homologous recombination	
+ERROR	duplicate_label	aberrant DNA repair [DDPHENO:0000242]	label [rdfs:label]	aberrant DNA repair	
+ERROR	duplicate_label	aberrant DNA repair [DDPHENO:0001457]	label [rdfs:label]	aberrant DNA repair	
+ERROR	missing_ontology_license	ddpheno.owl	dc:license		
+ERROR	missing_ontology_title	ddpheno.owl	dc11:title		
+WARN	annotation_whitespace	abolished double-strand break repair via nonhomologous end joining [DDPHENO:0000576]	hasExactSynonym [oboInOwl:hasExactSynonym]	 abolished DSB repair via nonhomologous end joining	
+WARN	annotation_whitespace	decreased double-strand break repair via nonhomologous end joining [DDPHENO:0000577]	hasExactSynonym [oboInOwl:hasExactSynonym]	 decreased DSB repair via nonhomologous end joining	
+WARN	annotation_whitespace	increased double-strand break repair via nonhomologous end joining [DDPHENO:0000578]	hasExactSynonym [oboInOwl:hasExactSynonym]	 increased DSB repair via nonhomologous end joining	
+WARN	annotation_whitespace	obsolete_aberrant response to drug [DDPHENO:0001040]	IAO_0000115 [IAO:0000115]	OBSOLETE. Deviation from the normal, usual, or expected events during the response to drug. 	
+WARN	annotation_whitespace	increased calcium-dependent cell-cell adhesion [DDPHENO:0001215]	hasExactSynonym [oboInOwl:hasExactSynonym]	 increased EDTA-sensitive cell-cell adhesion	
+WARN	annotation_whitespace	decreased protein localization to coated pits [DDPHENO:0001406]	hasExactSynonym [oboInOwl:hasExactSynonym]	decreased localization of protein to clathrin-coated pits 	
+WARN	annotation_whitespace	increased protein localization to coated pits [DDPHENO:0001407]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	increased localization of protein to clathrin-coated pits 	
+WARN	missing_definition	abolished RNA interference [DDPHENO:0000021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multiple tips [DDPHENO:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spores inviable [DDPHENO:0000094]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished protein localization to nucleolus [DDPHENO:0000105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased protein localization to nucleolus [DDPHENO:0000106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased protein localization to nucleolus [DDPHENO:0000107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished cell-cell self recognition [DDPHENO:0000125]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	weak slime trail [DDPHENO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	development arrests at slug stage [DDPHENO:0000168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased extracellular CF50 level [DDPHENO:0000205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DDANAT:0000007 standing slug [DDPHENO:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DDANAT:0000007 standing slug [DDPHENO:0000208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aberrant defense response to bacterium [DDPHENO:0000258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aberrant defense response to yeast [DDPHENO:0000280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aberrant infection rate by a yeast [DDPHENO:0000281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased infection rate by a yeast [DDPHENO:0000282]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased infection rate by a yeast [DDPHENO:0000283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aberrant response to MPBD [DDPHENO:0000314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased lipid binding [DDPHENO:0000325]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished lipid binding [DDPHENO:0000326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aberrant response to SDF-2 [DDPHENO:0000339]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	translucent sorus [DDPHENO:0000390]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased resistance to cisplatin [DDPHENO:0000401]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased resistance to carboplatin [DDPHENO:0000408]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased sensitivity to carboplatin [DDPHENO:0000409]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased sensitivity to cisplatin [DDPHENO:0000410]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased cAMP-induced Ca2+ influx [DDPHENO:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delayed cAMP-induced Ca2+ influx [DDPHENO:0000421]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased Ca2+-induced Ca2+ influx [DDPHENO:0000422]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased sensitivity to hydrogen peroxide [DDPHENO:0000425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased sensitivity to UV light [DDPHENO:0000426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased sensitivity to mitomycin C (MMC) [DDPHENO:0000427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell cycle arrest [DDPHENO:0000431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uracil auxotroph [DDPHENO:0000438]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thymidine auxotroph [DDPHENO:0000440]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased extracellular of CF50 level [DDPHENO:0000441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	small macrocysts [DDPHENO:0000452]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased accumulation of cGMP [DDPHENO:0000454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished cAMP-induced Ca2+ influx [DDPHENO:0000465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	curly fingers [DDPHENO:0000484]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delayed development in the presence of TMB-8 [DDPHENO:0000509]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased cell cycle length [DDPHENO:0000525]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multiple tips in culminant [DDPHENO:0001054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multiple tips in mound [DDPHENO:0001055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased actin filament sliding [DDPHENO:0001201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased actin filament sliding [DDPHENO:0001202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased protein tyrosine phosphorylation [DDPHENO:0001352]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased extracellular pteridine level [DDPHENO:0001383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delayed cell separation during cytokinesis [DDPHENO:0001417]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delayed sporulation [DDPHENO:0001432]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dicty Phenotypes [DDPHENO:0010000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	abolished rate of endocytosis [DDPHENO:0000031]	label [rdfs:label]	abolished rate of endocytosis	
+WARN	missing_obsolete_label	increased ABP120 protein level [DDPHENO:0000133]	label [rdfs:label]	increased ABP120 protein level	
+WARN	missing_obsolete_label	decreased ABP120 protein level [DDPHENO:0000135]	label [rdfs:label]	decreased ABP120 protein level	
+WARN	missing_obsolete_label	increased protein kinase A activity [DDPHENO:0000196]	label [rdfs:label]	increased protein kinase A activity	
+WARN	missing_obsolete_label	decreased glycogen synthase kinase 3 activity [DDPHENO:0000201]	label [rdfs:label]	decreased glycogen synthase kinase 3 activity	
+WARN	missing_obsolete_label	increased aneuploidy [DDPHENO:0000235]	label [rdfs:label]	increased aneuploidy	
+WARN	missing_obsolete_label	aberrant DNA mediated transformation [DDPHENO:0000238]	label [rdfs:label]	aberrant DNA mediated transformation	
+WARN	missing_obsolete_label	decreased DNA mediated transformation [DDPHENO:0000239]	label [rdfs:label]	decreased DNA mediated transformation	
+WARN	missing_obsolete_label	increased DNA mediated transformation [DDPHENO:0000240]	label [rdfs:label]	increased DNA mediated transformation	
+WARN	missing_obsolete_label	abolished DNA mediated transformation [DDPHENO:0000241]	label [rdfs:label]	abolished DNA mediated transformation	
+WARN	missing_obsolete_label	abolished prestalk cell differentiation in response to DIF-1 [DDPHENO:0000261]	label [rdfs:label]	abolished prestalk cell differentiation in response to DIF-1	
+WARN	missing_obsolete_label	decreased infection rate by Mycobacterium marinum [DDPHENO:0000292]	label [rdfs:label]	decreased infection rate by Mycobacterium marinum	
+WARN	missing_obsolete_label	increased infection rate by Mycobacterium marinum [DDPHENO:0000293]	label [rdfs:label]	increased infection rate by Mycobacterium marinum	
+WARN	missing_obsolete_label	decreased activation of protein kinase B [DDPHENO:0000395]	label [rdfs:label]	decreased activation of protein kinase B	
+WARN	missing_obsolete_label	decreased infection rate by Legionella pneumophila [DDPHENO:0000423]	label [rdfs:label]	decreased infection rate by Legionella pneumophila	
+WARN	missing_obsolete_label	increased myosin protein level [DDPHENO:0000447]	label [rdfs:label]	increased myosin protein level	
+WARN	missing_obsolete_label	aberrant cAMP signaling [DDPHENO:0000480]	label [rdfs:label]	aberrant cAMP signaling	
+WARN	missing_obsolete_label	increased infection rate by Legionella pneumophila [DDPHENO:0000542]	label [rdfs:label]	increased infection rate by Legionella pneumophila	
+WARN	missing_obsolete_label	increased infection rate by Mycobacterium avium [DDPHENO:0000543]	label [rdfs:label]	increased infection rate by Mycobacterium avium	
+WARN	missing_obsolete_label	aberrant cellular physiological process [DDPHENO:0001004]	label [rdfs:label]	aberrant cellular physiological process	
+WARN	missing_obsolete_label	abolished myosin light chain kinase activation [DDPHENO:0001063]	label [rdfs:label]	abolished myosin light chain kinase activation	
+WARN	missing_obsolete_label	decreased myosin light chain kinase activation [DDPHENO:0001064]	label [rdfs:label]	decreased myosin light chain kinase activation	
+WARN	missing_obsolete_label	increased myosin light chain kinase activation [DDPHENO:0001065]	label [rdfs:label]	increased myosin light chain kinase activation	
+WARN	missing_obsolete_label	abolished protein kinase B activation [DDPHENO:0001120]	label [rdfs:label]	abolished protein kinase B activation	
+WARN	missing_obsolete_label	aberrant regulation of Ras GTPase activity [DDPHENO:0001140]	label [rdfs:label]	aberrant regulation of Ras GTPase activity	
+WARN	missing_obsolete_label	aberrant regulation of Rac GTPase activity [DDPHENO:0001141]	label [rdfs:label]	aberrant regulation of Rac GTPase activity	
+WARN	missing_obsolete_label	aberrant regulation of Rab GTPase activity [DDPHENO:0001142]	label [rdfs:label]	aberrant regulation of Rab GTPase activity	
+WARN	missing_obsolete_label	aberrant regulation of Ran GTPase activity [DDPHENO:0001143]	label [rdfs:label]	aberrant regulation of Ran GTPase activity	
+WARN	missing_obsolete_label	aberrant regulation of Rap GTPase activity [DDPHENO:0001144]	label [rdfs:label]	aberrant regulation of Rap GTPase activity	
+WARN	missing_obsolete_label	decreased positive regulation of Rab GTPase activity [DDPHENO:0001145]	label [rdfs:label]	decreased positive regulation of Rab GTPase activity	
+WARN	missing_obsolete_label	increased positive regulation of Rab GTPase activity [DDPHENO:0001146]	label [rdfs:label]	increased positive regulation of Rab GTPase activity	
+WARN	missing_obsolete_label	decreased positive regulation of Rac GTPase activity [DDPHENO:0001147]	label [rdfs:label]	decreased positive regulation of Rac GTPase activity	
+WARN	missing_obsolete_label	increased positive regulation of Rac GTPase activity [DDPHENO:0001148]	label [rdfs:label]	increased positive regulation of Rac GTPase activity	
+WARN	missing_obsolete_label	decreased positive regulation of Ran GTPase activity [DDPHENO:0001149]	label [rdfs:label]	decreased positive regulation of Ran GTPase activity	
+WARN	missing_obsolete_label	increased positive regulation of Ran GTPase activity [DDPHENO:0001150]	label [rdfs:label]	increased positive regulation of Ran GTPase activity	
+WARN	missing_obsolete_label	decreased positive regulation of Rap GTPase activity [DDPHENO:0001151]	label [rdfs:label]	decreased positive regulation of Rap GTPase activity	
+WARN	missing_obsolete_label	increased positive regulation of Rap GTPase activity [DDPHENO:0001152]	label [rdfs:label]	increased positive regulation of Rap GTPase activity	
+WARN	missing_obsolete_label	increased positive regulation of Ras GTPase activity [DDPHENO:0001153]	label [rdfs:label]	increased positive regulation of Ras GTPase activity	
+WARN	missing_obsolete_label	decreased positive regulation of Ras GTPase activity [DDPHENO:0001154]	label [rdfs:label]	decreased positive regulation of Ras GTPase activity	
+WARN	missing_obsolete_label	aberrant infection rate by a microorganism [DDPHENO:0001193]	label [rdfs:label]	aberrant infection rate by a microorganism	
+WARN	missing_obsolete_label	increased infection rate by a microorganism [DDPHENO:0001194]	label [rdfs:label]	increased infection rate by a microorganism	
+WARN	missing_obsolete_label	decreased infection rate by a microorganism [DDPHENO:0001195]	label [rdfs:label]	decreased infection rate by a microorganism	
+WARN	missing_obsolete_label	decreased infection rate by Mycobacterium avium [DDPHENO:0001196]	label [rdfs:label]	decreased infection rate by Mycobacterium avium	
+WARN	missing_obsolete_label	decreased infection rate by Cryptococcus neoformans [DDPHENO:0001197]	label [rdfs:label]	decreased infection rate by Cryptococcus neoformans	
+WARN	missing_obsolete_label	increased infection rate by Cryptococcus neoformans [DDPHENO:0001198]	label [rdfs:label]	increased infection rate by Cryptococcus neoformans	
+WARN	missing_obsolete_label	increased protein kinase B activation [DDPHENO:0001251]	label [rdfs:label]	increased protein kinase B activation	
+WARN	missing_obsolete_label	abolished MAP kinase activation [DDPHENO:0001252]	label [rdfs:label]	abolished MAP kinase activation	
+WARN	missing_obsolete_label	decreased MAP kinase activation [DDPHENO:0001253]	label [rdfs:label]	decreased MAP kinase activation	
+WARN	missing_obsolete_label	increased MAP kinase activation [DDPHENO:0001254]	label [rdfs:label]	increased MAP kinase activation	
+WARN	missing_obsolete_label	decreased binding [DDPHENO:0001259]	label [rdfs:label]	decreased binding	
+WARN	missing_obsolete_label	aberrant non-apoptotic programmed cell death [DDPHENO:0001268]	label [rdfs:label]	aberrant non-apoptotic programmed cell death	
+WARN	missing_obsolete_label	abolished non-apoptotic programmed cell death [DDPHENO:0001269]	label [rdfs:label]	abolished non-apoptotic programmed cell death	
+WARN	missing_obsolete_label	increased non-apoptotic programmed cell death [DDPHENO:0001270]	label [rdfs:label]	increased non-apoptotic programmed cell death	
+WARN	missing_obsolete_label	decreased non-apoptotic programmed cell death [DDPHENO:0001271]	label [rdfs:label]	decreased non-apoptotic programmed cell death	
+WARN	missing_obsolete_label	decreased protein kinase A activity [DDPHENO:0001283]	label [rdfs:label]	decreased protein kinase A activity	
+WARN	missing_obsolete_label	abolished glycogen synthase kinase 3 activity [DDPHENO:0001294]	label [rdfs:label]	abolished glycogen synthase kinase 3 activity	
+WARN	missing_obsolete_label	abolished GTP-gamma-S-stimulated guanylyl cyclase activity [DDPHENO:0001296]	label [rdfs:label]	abolished GTP-gamma-S-stimulated guanylyl cyclase activity	
+WARN	missing_obsolete_label	abolished protein kinase A activity [DDPHENO:0001298]	label [rdfs:label]	abolished protein kinase A activity	
+WARN	missing_obsolete_label	abolished protein kinase B activity [DDPHENO:0001300]	label [rdfs:label]	abolished protein kinase B activity	
+WARN	missing_obsolete_label	decreased protein kinase B activity [DDPHENO:0001301]	label [rdfs:label]	decreased protein kinase B activity	
+WARN	missing_obsolete_label	increased protein kinase B activity [DDPHENO:0001302]	label [rdfs:label]	increased protein kinase B activity	
+WARN	missing_obsolete_label	abolished activation of Rab GTPase activity [DDPHENO:0001307]	label [rdfs:label]	abolished activation of Rab GTPase activity	
+WARN	missing_obsolete_label	abolished activation of Rac GTPase activity [DDPHENO:0001308]	label [rdfs:label]	abolished activation of Rac GTPase activity	
+WARN	missing_obsolete_label	abolished activation of Ran GTPase activity [DDPHENO:0001309]	label [rdfs:label]	abolished activation of Ran GTPase activity	
+WARN	missing_obsolete_label	abolished activation of Rap GTPase activity [DDPHENO:0001310]	label [rdfs:label]	abolished activation of Rap GTPase activity	
+WARN	missing_obsolete_label	abolished activation of Ras GTPase activity [DDPHENO:0001312]	label [rdfs:label]	abolished activation of Ras GTPase activity	
+WARN	missing_obsolete_label	aberrant peptidyl-proline 4-dioxygenase activity [DDPHENO:0001313]	label [rdfs:label]	aberrant peptidyl-proline 4-dioxygenase activity	
+WARN	missing_obsolete_label	decreased peptidyl-proline 4-dioxygenase activity [DDPHENO:0001314]	label [rdfs:label]	decreased peptidyl-proline 4-dioxygenase activity	
+WARN	missing_obsolete_label	increased peptidyl-proline 4-dioxygenase activity [DDPHENO:0001315]	label [rdfs:label]	increased peptidyl-proline 4-dioxygenase activity	
+WARN	missing_obsolete_label	abolished peptidyl-proline 4-dioxygenase activity [DDPHENO:0001316]	label [rdfs:label]	abolished peptidyl-proline 4-dioxygenase activity	
+WARN	missing_obsolete_label	aberrant DNA repair [DDPHENO:0001457]	label [rdfs:label]	aberrant DNA repair	
+WARN	missing_obsolete_label	aberrant double-strand break repair via homologous recombination [DDPHENO:0001458]	label [rdfs:label]	aberrant double-strand break repair via homologous recombination	
+WARN	missing_obsolete_label	decreased double-strand break repair via homologous recombination [DDPHENO:0001459]	label [rdfs:label]	decreased double-strand break repair via homologous recombination	
+WARN	missing_obsolete_label	increased double-strand break repair via homologous recombination [DDPHENO:0001460]	label [rdfs:label]	increased double-strand break repair via homologous recombination	
+INFO	missing_superclass	Dicty Phenotypes [DDPHENO:0010000]	rdfs:subClassOf		

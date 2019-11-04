@@ -1,0 +1,10 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	duo.owl	dc11:description		
+ERROR	missing_ontology_license	duo.owl	dc:license		
+ERROR	missing_ontology_title	duo.owl	dc11:title		
+WARN	missing_definition	DUO_preferred_label [DUO:0000041]	IAO_0000115 [IAO:0000115]		
+INFO	missing_superclass	DOID_4 [DOID:4]	rdfs:subClassOf		
+INFO	missing_superclass	GAZ_00000448 [GAZ:00000448]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000066 [OBI:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	topic_0003 [topic:0003]	rdfs:subClassOf		

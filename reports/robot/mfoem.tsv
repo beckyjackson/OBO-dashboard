@@ -1,0 +1,157 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	GO_0060273 [GO:0060273]	label [rdfs:label]		
+ERROR	missing_ontology_description	MFOEM.owl	dc11:description		
+ERROR	missing_ontology_license	MFOEM.owl	dc:license		
+WARN	annotation_whitespace	appraisal [MFOEM:000005]	IAO_0000115 [IAO:0000115]	An appraisal is a cognitive representation which represents an evaluation of the relevance of some triggering object or event to the organism. 	
+WARN	annotation_whitespace	appraisal of suddenness [MFOEM:000057]	IAO_0000115 [IAO:0000115]	An appraisal which represents an evaluation of how suddenly an event occurred. 	
+WARN	annotation_whitespace	appraisal of familiarity [MFOEM:000058]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of how familiar an object or event is. 	
+WARN	annotation_whitespace	appraisal of predictability [MFOEM:000059]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of how predictable an event was. 	
+WARN	annotation_whitespace	appraisal of expectedness [MFOEM:000060]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of whether an event was expected to occur. 	
+WARN	annotation_whitespace	appraisal of pleasantness [MFOEM:000061]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of the pleasantness of an object or event. 	
+WARN	annotation_whitespace	appraisal as sudden [MFOEM:000062]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event occurred suddenly. 	
+WARN	annotation_whitespace	appraisal as not sudden [MFOEM:000063]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event did not occur suddenly. 	
+WARN	annotation_whitespace	appraisal as familiar [MFOEM:000064]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an object or event is familiar. 	
+WARN	annotation_whitespace	appraisal as not familiar [MFOEM:000065]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an object or event is not familiar. 	
+WARN	annotation_whitespace	appraisal as predictable [MFOEM:000066]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event was easy to predict. 	
+WARN	annotation_whitespace	appraisal as not predictable [MFOEM:000067]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event was not easy to predict. 	
+WARN	annotation_whitespace	appraisal as expected [MFOEM:000068]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event was expected. 	
+WARN	annotation_whitespace	appraisal of goal importance [MFOEM:000072]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of whether an event or object is important to the person's goals or needs. 	
+WARN	annotation_whitespace	evaluation as important to goals [MFOEM:000073]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that the event or object is important to the person's goals or needs. 	
+WARN	annotation_whitespace	evaluation as not important to goals [MFOEM:000074]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that the event or object is not important to the person's goals or needs. 	
+WARN	annotation_whitespace	appraisal of causal agency [MFOEM:000075]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of who or what caused an event. 	
+WARN	annotation_whitespace	appraisal as caused by self [MFOEM:000076]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event was caused by the self. 	
+WARN	annotation_whitespace	appraisal as caused by chance [MFOEM:000077]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event was caused by chance. 	
+WARN	annotation_whitespace	feeling good [MFOEM:000079]	IAO_0000115 [IAO:0000115]	The subjective emotional feeling of feeling good, positive.  	
+WARN	annotation_whitespace	appraisal as deliberate [MFOEM:000083]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event was deliberately (intentionally) caused. 	
+WARN	annotation_whitespace	appraisal of desirability of consequences [MFOEM:000085]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of the desirability of the expected consequences of an event. 	
+WARN	annotation_whitespace	appraisal as desirable consequences [MFOEM:000086]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that the expected consequences of an event are desirable. 	
+WARN	annotation_whitespace	appraisal as undesirable consequences [MFOEM:000087]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that the expected consequences of an event are undesirable. 	
+WARN	annotation_whitespace	appraisal of urgency of response [MFOEM:000088]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation of the urgency of responding to an event. 	
+WARN	annotation_whitespace	appraisal as urgent response [MFOEM:000089]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event requires an urgent (immediate) response. 	
+WARN	annotation_whitespace	appraisal as not urgent response [MFOEM:000090]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an event does not require an urgent response. 	
+WARN	annotation_whitespace	appraisal of avoidability of consequences [MFOEM:000091]	IAO_0000115 [IAO:0000115]	An appraisal which represents a judgement about how avoidable the expected consequences of an event will be. 	
+WARN	annotation_whitespace	appraisal as avoidable consequences [MFOEM:000092]	IAO_0000115 [IAO:0000115]	An appraisal that represents a judgement that the expected consequences of an event are in principle avoidable or modfiable. 	
+WARN	annotation_whitespace	appraisal as unavoidable consequences [MFOEM:000093]	IAO_0000115 [IAO:0000115]	An appraisal that represents a judgement that the expected consequences of an event will be difficult to avoid or modify. 	
+WARN	annotation_whitespace	appraisal of congruence with ideals [MFOEM:000094]	IAO_0000115 [IAO:0000115]	An appraisal which represents a judgement about whether an event is consistent with the person's standards or ideals. 	
+WARN	annotation_whitespace	appraisal as not congruent with ideals [MFOEM:000096]	IAO_0000115 [IAO:0000115]	An appraisal that represents a judgement that an event is inconsistent with a person's standards or ideals. 	
+WARN	annotation_whitespace	appraisal of social attention [MFOEM:000097]	IAO_0000115 [IAO:0000115]	An appraisal which represents a judgement about the direction and nature of the social attention surrounding an event. 	
+WARN	annotation_whitespace	appraisal as not being at the centre of attention [MFOEM:000099]	IAO_0000115 [IAO:0000115]	An appraisal that represents a judgement that a person is not at the centre of the surrounding social attention. 	
+WARN	annotation_whitespace	appraisal of justice of treatment [MFOEM:000100]	IAO_0000115 [IAO:0000115]	Appraisal which represents an evaluation of whether the person was treated justly or unjustly by another person. 	
+WARN	annotation_whitespace	appraisal as just treatment [MFOEM:000101]	IAO_0000115 [IAO:0000115]	An appraisal which represents an evaluation that the person was treated justly by another person. 	
+WARN	annotation_whitespace	appraisal as unjust treatment [MFOEM:000102]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that the person was treated unjustly by another person. (Injustice.) 	
+WARN	annotation_whitespace	appraisal of dangerousness [MFOEM:000103]	IAO_0000115 [IAO:0000115]	An appraisal which represents an evaluation of the dangerousness of an object or situation. 	
+WARN	annotation_whitespace	appraisal as dangerous [MFOEM:000104]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an object or situation is dangerous to the person. 	
+WARN	annotation_whitespace	appraisal as not dangerous [MFOEM:000105]	IAO_0000115 [IAO:0000115]	An appraisal that represents an evaluation that an object or situation is not dangerous to the person. 	
+WARN	annotation_whitespace	appraisal of loss [MFOEM:000106]	IAO_0000115 [IAO:0000115]	An appraisal that represents a belief that something or someone that is important to the person has been lost to the person. 	
+WARN	annotation_whitespace	feeling at ease [MFOEM:000107]	IAO_0000115 [IAO:0000115]	The subjective emotional feeling of being at ease, comfortable, relaxed. 	
+WARN	annotation_whitespace	feeling energetic [MFOEM:000109]	IAO_0000115 [IAO:0000115]	The subjective emotional feeling of having lots of energy, being energetic. 	
+WARN	annotation_whitespace	feeling in control [MFOEM:000110]	IAO_0000115 [IAO:0000115]	The subjective emotional feeling that one is in control of oneself, that one is fully the agent of one's behavior. 	
+WARN	annotation_whitespace	feeling restless [MFOEM:000111]	IAO_0000115 [IAO:0000115]	The subjective emotional feeling of restlessness, a state of not being calm, of an agitation to do something. 	
+WARN	annotation_whitespace	feeling exhausted [MFOEM:000112]	IAO_0000115 [IAO:0000115]	The subjective emotional feeling of exhaustion, an extremely strong form of feeling tired. 	
+WARN	annotation_whitespace	feeling calm [MFOEM:000114]	IAO_0000115 [IAO:0000115]	The subjective feeling of being calm, being relaxed, being at peace. 	
+WARN	annotation_whitespace	feeling out of control [MFOEM:000116]	IAO_0000115 [IAO:0000115]	The subjective feeling of not being in control, not being able to gain agency of one's own behavior. 	
+WARN	annotation_whitespace	feeling strong [MFOEM:000118]	IAO_0000115 [IAO:0000115]	The subjective feeling of strength, capability, energy and capacity to do things. 	
+WARN	annotation_whitespace	feeling weak [MFOEM:000119]	IAO_0000115 [IAO:0000115]	The subjective feeling of weakness, lack of energy and/or capability, faintness, absence of strength. 	
+WARN	annotation_whitespace	feeling alert [MFOEM:000121]	IAO_0000115 [IAO:0000115]	The subjective feeling of being wide awake, alert, having active attention and perception. 	
+WARN	annotation_whitespace	feeling nervous [MFOEM:000124]	IAO_0000115 [IAO:0000115]	The subjective feeling of being not at ease, of being anxious or nervous or agitated. 	
+WARN	annotation_whitespace	facial expression behaviour [MFOEM:000125]	IAO_0000115 [IAO:0000115]	A behavioural process that involves a change in the expression of the face. 	
+WARN	annotation_whitespace	smiling [MFOEM:000126]	IAO_0000115 [IAO:0000115]	A facial expression behaviour in which the person smiles. 	
+WARN	annotation_whitespace	pressing lips together [MFOEM:000128]	IAO_0000115 [IAO:0000115]	A facial expression behaviour in which the lips are tightly pressed together. 	
+WARN	annotation_whitespace	raising eyebrows [MFOEM:000129]	IAO_0000115 [IAO:0000115]	A facial expression behaviour in which the eyebrows are raised. 	
+WARN	annotation_whitespace	frowning [MFOEM:000130]	IAO_0000115 [IAO:0000115]	A facial expression behaviour in which the person frowns. 	
+WARN	annotation_whitespace	closing eyes [MFOEM:000131]	IAO_0000115 [IAO:0000115]	A facial expression behaviour in which the eyes are closed. 	
+WARN	annotation_whitespace	opening eyes widely [MFOEM:000132]	IAO_0000115 [IAO:0000115]	A facial expression behaviour in which the eyes are opened widely. 	
+WARN	annotation_whitespace	neutral expression [MFOEM:000133]	IAO_0000115 [IAO:0000115]	A facial expression behaviour which appears very neutral (showing no expression). 	
+WARN	annotation_whitespace	moving away from people [MFOEM:000137]	IAO_0000115 [IAO:0000115]	A bodily movement behaviour which involves moving, or leaning, away from people (avoidance). 	
+WARN	annotation_whitespace	staying still [MFOEM:000138]	IAO_0000115 [IAO:0000115]	A bodily movement behaviour which involves remaining still. 	
+WARN	annotation_whitespace	speaking loudly [MFOEM:000153]	IAO_0000115 [IAO:0000115]	Speaking with a voice louder than usual. 	
+WARN	annotation_whitespace	speaking with trembling voice [MFOEM:000155]	IAO_0000115 [IAO:0000115]	Speaking with a voice that is hesitant or trembling. 	
+WARN	annotation_whitespace	not speaking [MFOEM:000157]	IAO_0000115 [IAO:0000115]	Remaining silent, not producing spoken utterances. 	
+WARN	annotation_whitespace	speaking a long utterance [MFOEM:000159]	IAO_0000115 [IAO:0000115]	Speaking behaviour in which a long utterance is produced. 	
+WARN	annotation_whitespace	speaking with altered speech melody [MFOEM:000160]	IAO_0000115 [IAO:0000115]	Speaking with an altered rhythm or melody of speech relative to the norm for that person. 	
+WARN	annotation_whitespace	speaking in a disturbed fashion [MFOEM:000161]	IAO_0000115 [IAO:0000115]	Speaking in a manner which is disturbed relative to what is the norm for that person. 	
+WARN	annotation_whitespace	speaking at a slower rate [MFOEM:000163]	IAO_0000115 [IAO:0000115]	Speaking in a manner that is slower than the norm for that person. 	
+WARN	annotation_whitespace	panic [MFOEM:000164]	IAO_0000115 [IAO:0000115]	A severe episode of fear with strong associated discomfort and thoughts of impending harm. 	
+WARN	annotation_whitespace	canonical angry facial expression [MFOEM:000172]	IAO_0000115 [IAO:0000115]	The canonical facial expression associated with the experience of anger. 	
+WARN	annotation_whitespace	canonical emotional facial expression [MFOEM:000174]	IAO_0000115 [IAO:0000115]	Characteristic facial expressions that are made when a person is undergoing a so-called \"basic\" emotions. These are canonical, that is, individual facial expressions when undergoing emotions can vary or not change at all. However, research indicates evidence for the existence of characteristic canonical facial expressions that are displayed when experiencing certain emotions even across cultures. 	
+WARN	annotation_whitespace	canonical fearful facial expression [MFOEM:000176]	IAO_0000115 [IAO:0000115]	The canonical facial expression associated with the experience of fear. 	
+WARN	annotation_whitespace	schadenfreude [MFOEM:000179]	IAO_0000115 [IAO:0000115]	A complex emotion that consists of the experience of pleasure as caused by the misfortune of others. 	
+WARN	annotation_whitespace	canonical happy facial expression [MFOEM:000180]	IAO_0000115 [IAO:0000115]	The canonical facial expression associated with the experience of happiness. 	
+WARN	annotation_whitespace	canonical disgusted facial expression [MFOEM:000181]	IAO_0000115 [IAO:0000115]	The canonical facial expression associated with the experience of disgust. 	
+WARN	annotation_whitespace	canonical sad facial expression [MFOEM:000182]	IAO_0000115 [IAO:0000115]	The canonical facial expression associated with the experience of sadness. 	
+WARN	annotation_whitespace	canonical emotional voice utterances [MFOEM:000183]	IAO_0000115 [IAO:0000115]	The vocal utterances associated with the characteristic sound of an emotion. Obviously, any particular emotional instance may be associated with a great variety of different types of voice utterances or no voice utterances at all. However, \"canonical\" or characteristic voice utterances can be associated with core emotions. 	
+WARN	annotation_whitespace	canonical disgusted voice utterance [MFOEM:000186]	IAO_0000115 [IAO:0000115]	Voice utterances characteristically associated with the experience of disgust. 	
+WARN	annotation_whitespace	canonical surprised facial expression [MFOEM:000190]	IAO_0000115 [IAO:0000115]	Characteristic facial expression made when a person is undergoing an experience of surprise. 	
+WARN	annotation_whitespace	affective process [MFOEM:000195]	IAO_0000115 [IAO:0000115]	An affective process is any process that has positive or negative valence. 	
+WARN	annotation_whitespace	anxious mood [MFOEM:000196]	IAO_0000115 [IAO:0000115]	An anxious mood is a general feeling of mild fearfulness and a heightened disposition to experience fear and other negatively valenced emotions. 	
+WARN	annotation_whitespace	irritable mood [MFOEM:000197]	IAO_0000115 [IAO:0000115]	An irritable mood is a general feeling of mild annoyance, a heightened disposition to anger and other negatively valenced emotions. 	
+WARN	annotation_whitespace	emotional personality trait [MFOEM:000204]	IAO_0000115 [IAO:0000115]	An emotional personality trait is a personality trait, a part of an overall personality, which predisposes the individual to repeated occurrences of a characteristic emotional process. 	
+WARN	equivalent_pair	GO_0060273 [GO:0060273]	owl:equivalentClass	crying [MFOEM:000031]	
+WARN	equivalent_pair	aggression [MFOEM:000015]	owl:equivalentClass	NBO_0000015 [NBO:0000015]	
+WARN	equivalent_pair	crying [MFOEM:000031]	owl:equivalentClass	NBO_0000618 [NBO:0000618]	
+WARN	missing_definition	GO_0060273 [GO:0060273]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isOutputOf [MFOEM:000008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	synonym [MFOEM:000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	annoyance [MFOEM:000012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fury [MFOEM:000013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rage [MFOEM:000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	terror [MFOEM:000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aesthetic pleasure [MFOEM:000039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sexual pleasure [MFOEM:000040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	serenity [MFOEM:000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amusement [MFOEM:000044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	elation [MFOEM:000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	euphoria [MFOEM:000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	embarrassment [MFOEM:000054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shame [MFOEM:000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	limb weakening [MFOEM:000115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	becoming pale [MFOEM:000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	experiencing a lump in the throat [MFOEM:000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	experiencing discomfort in the stomach [MFOEM:000122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart beating at slower rate [MFOEM:000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	emotional bodily movement behaviour [MFOEM:000134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart beating at faster rate [MFOEM:000139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscles relaxing [MFOEM:000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscles becoming tense [MFOEM:000141]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	breathing at a more rapid rate [MFOEM:000142]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	breathing at a slower rate [MFOEM:000143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperature rising (experienced as feeling warm) [MFOEM:000144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	perspiring [MFOEM:000145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	perspiring (hands) [MFOEM:000146]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	perspiring (whole body) [MFOEM:000147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	experiencing heat in cheeks or chest [MFOEM:000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	experiencing warm sensation in whole body [MFOEM:000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blushing [MFOEM:000150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperature falling (experienced as feeling cold) [MFOEM:000151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	emotional speaking behaviour [MFOEM:000152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tag display synonym [MFOEM:000165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	boredom [MFOEM:000166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	curiosity [MFOEM:000167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	concern [MFOEM:000168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amusement [MFOEM:000169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dubious [MFOEM:000170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	worry [MFOEM:000171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	confusion [MFOEM:000173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	expectant [MFOEM:000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hope [MFOEM:000177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inspiration (emotion) [MFOEM:000178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bodily feeling [MFOEM:000202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hunger [MFOEM:000205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thirst [MFOEM:000206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hasOutput [MFOEM:000213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physical pleasure [MFOEM:000214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ticklish [MFOEM:000215]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	shivering [MFOEM:000113]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	pain [MFOEM:000203]	IAO_0000115 [IAO:0000115]	pain is a bodily process in an organism S, involving two integrated levels:     (a) activation of the nociceptive system and associated emotion generating brain components of S, and     (b) a simultaneous aversive sensory and emotional experience on the part of S,     where (b) is phenomenologically similar to the sort of aversive experience involved in pain with concordant tissue damage.	
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000144 [BFO:0000144]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007610 [GO:0007610]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060273 [GO:0060273]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071625 [GO:0071625]	rdfs:subClassOf		
+INFO	missing_superclass	MF_0000020 [MF:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	MF_0000031 [MF:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	MF_0000203 [MF:0000203]	rdfs:subClassOf		
+INFO	missing_superclass	NBO_0000015 [NBO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	NBO_0000618 [NBO:0000618]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000060 [OGMS:0000060]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000087 [OGMS:0000087]	rdfs:subClassOf		

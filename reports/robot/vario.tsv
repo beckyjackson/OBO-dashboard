@@ -1,0 +1,12 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	variation of chromosome structure [VariO:0134]	IAO_0000115 [IAO:0000115]	Variation affecting structure of chromosome.	
+ERROR	duplicate_definition	chromosome structure variation [VariO:0180]	IAO_0000115 [IAO:0000115]	Variation affecting structure of chromosome.	
+ERROR	duplicate_definition	effect on protein 3D structure [VariO:0064]	IAO_0000115 [IAO:0000115]	Variation affecting protein three dimensional structure.	
+ERROR	duplicate_definition	effect on protein tertiary structure [VariO:0070]	IAO_0000115 [IAO:0000115]	Variation affecting protein three dimensional structure.	
+ERROR	missing_ontology_description	vario.owl	dc11:description		
+ERROR	missing_ontology_license	vario.owl	dc:license		
+ERROR	missing_ontology_title	vario.owl	dc11:title		
+WARN	missing_definition	effect on A motif [VariO:0455]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	nonsynonymous variation [VariO:0017]	IAO_0000115 [IAO:0000115]	mRNA variation leading to amino acid change in translated protein. The variant alters the codon so that it encodes another amino acid.	
+INFO	lowercase_definition	synonymous variation [VariO:0343]	IAO_0000115 [IAO:0000115]	mRNA variation not affecting the sequence of the translated protein.	
+INFO	missing_superclass	variation [VariO:0001]	rdfs:subClassOf		

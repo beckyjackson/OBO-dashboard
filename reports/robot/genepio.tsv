@@ -1,0 +1,989 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	test drug minimum concentration [GENEPIO:0002101]	IAO_0000115 [IAO:0000115]	This is the minimum concentration of a drug applied during an an assay.@en	
+ERROR	duplicate_definition	test drug minimum concentration specification [GENEPIO:0002170]	IAO_0000115 [IAO:0000115]	This is the minimum concentration of a drug applied during an an assay.@en	
+ERROR	duplicate_definition	antimicrobial resistance testing method version or reagent [GENEPIO:0002047]	IAO_0000115 [IAO:0000115]	The commercial kit or product used to determine the MIC e.g. E-Test. If a commercial product was not used, include the type of media used.@en	
+ERROR	duplicate_definition	tube containing media or preservative [GENEPIO:0002120]	IAO_0000600 [IAO:0000600]	NOTE: there are different types of tubes with coloured caps indicating different preservatives etc.@en	
+ERROR	duplicate_definition	tube containing antimicrobial [GENEPIO:0002121]	IAO_0000600 [IAO:0000600]	NOTE: there are different types of tubes with coloured caps indicating different preservatives etc.@en	
+ERROR	duplicate_definition	specimen extraction location - city or region [GENEPIO:0000117]	IAO_0000600 [IAO:0000600]	Note that this is expressed in a particular format in some standards.@en	
+ERROR	duplicate_definition	specimen extraction location - state/province/territory/region [GENEPIO:0002097]	IAO_0000600 [IAO:0000600]	Note that this is expressed in a particular format in some standards.@en	
+ERROR	duplicate_definition	subject disease [GENEPIO:0001617]	IAO_0000115 [IAO:0000115]	Name of disease in a subject that is related to a given investigation, study and/or specimen.@en	
+ERROR	duplicate_definition	subject disease specification [GENEPIO:0002165]	IAO_0000115 [IAO:0000115]	Name of disease in a subject that is related to a given investigation, study and/or specimen.@en	
+ERROR	duplicate_definition	Stx1 cell culture level [GENEPIO:0000057]	IAO_0000115 [IAO:0000115]	level of stx toxin derived tissue culture toxicity	
+ERROR	duplicate_definition	Stx2 cell culture level [GENEPIO:0000059]	IAO_0000115 [IAO:0000115]	level of stx toxin derived tissue culture toxicity	
+ERROR	duplicate_definition	contig L50 [GENEPIO:0001633]	IAO_0000115 [IAO:0000115]	Contig L50 is the number of contigs equal to or longer than contig N50. The length of the assembly itself is used in the calculation.@en	
+ERROR	duplicate_definition	contig LG50 [GENEPIO:0001773]	IAO_0000115 [IAO:0000115]	Contig L50 is the number of contigs equal to or longer than contig N50. The length of the assembly itself is used in the calculation.@en	
+ERROR	duplicate_definition	travel destination [GENEPIO:0001783]	IAO_0000115 [IAO:0000115]	A travel destination is a destination city (or populated place of some scale) which a given human has travelled to on a particular trip.@en	
+ERROR	duplicate_definition	travel destination specification [GENEPIO:0002173]	IAO_0000115 [IAO:0000115]	A travel destination is a destination city (or populated place of some scale) which a given human has travelled to on a particular trip.@en	
+ERROR	duplicate_definition	subject age [GENEPIO:0001610]	IAO_0000115 [IAO:0000115]	A subject age is the age since birth of a given organism that is involved in an investigation or study at a given time.@en	
+ERROR	duplicate_definition	subject age specification [GENEPIO:0002156]	IAO_0000115 [IAO:0000115]	A subject age is the age since birth of a given organism that is involved in an investigation or study at a given time.@en	
+ERROR	duplicate_definition	specimen source substance [GENEPIO:0000134]	IAO_0000115 [IAO:0000115]	A specimen source substance is an organism substance or food product or environmental substance from which the specimen was extracted.@en	
+ERROR	duplicate_definition	specimen source substance specification [GENEPIO:0002174]	IAO_0000115 [IAO:0000115]	A specimen source substance is an organism substance or food product or environmental substance from which the specimen was extracted.@en	
+ERROR	duplicate_definition	specimen extraction location - city or region [GENEPIO:0000117]	IAO_0000115 [IAO:0000115]	A specimen extraction location - city or region is the Gazetteer ontology identifier or textual name of the most precise geographical location available for the site of a specimen extraction event.@en	
+ERROR	duplicate_definition	specimen extraction location - state/province/territory/region [GENEPIO:0002097]	IAO_0000115 [IAO:0000115]	A specimen extraction location - city or region is the Gazetteer ontology identifier or textual name of the most precise geographical location available for the site of a specimen extraction event.@en	
+ERROR	duplicate_definition	MIC dilution measurement datum [GENEPIO:0002044]	IAO_0000115 [IAO:0000115]	A MIC test measurement resulting from a laboratory dilution method.@en	
+ERROR	duplicate_definition	MIC dilution measurement specification [GENEPIO:0002153]	IAO_0000115 [IAO:0000115]	A MIC test measurement resulting from a laboratory dilution method.@en	
+ERROR	duplicate_definition	MIC diffusion measurement datum [GENEPIO:0002110]	IAO_0000115 [IAO:0000115]	A MIC test measurement resulting from a laboratory diffusion method.@en	
+ERROR	duplicate_definition	MIC diffusion measurement specification [GENEPIO:0002150]	IAO_0000115 [IAO:0000115]	A MIC test measurement resulting from a laboratory diffusion method.@en	
+ERROR	duplicate_definition	draft WGS lab bioinformatics process record [GENEPIO:0000145]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	draft WGS lab sequencing record [GENEPIO:0000146]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	bioinformatics pipeline name [GENEPIO:0000151]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	bioinformatics pipeline version [GENEPIO:0000152]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	bioinformatics pipeline protocol [GENEPIO:0000153]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	draft WGS lab sequencing quality metrics record [GENEPIO:0000154]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	draft WGS lab assembly quality metrics record [GENEPIO:0000155]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	behavioural risk factor [GENEPIO:0001074]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	homeless status [GENEPIO:0001078]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	drug use status [GENEPIO:0001083]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	incarceration status [GENEPIO:0001084]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	HIV status [GENEPIO:0001085]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	HIV risk status [GENEPIO:0001086]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	A.I.D.S status [GENEPIO:0001087]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	drug abuse status [GENEPIO:0001088]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	injection drug use status [GENEPIO:0001089]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	recreational drug use status [GENEPIO:0001090]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	methadone use status [GENEPIO:0001091]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	substantial alcohol use/abuse status [GENEPIO:0001092]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	draft sequence repository data - submission to NCBI/DDBJ [GENEPIO:0002091]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	duplicate_definition	draft sequence repository data - submission to EBI [GENEPIO:0002092]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	missing_label	ARO_3004366 [ARO:3004366]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO:0000098	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0000099 [GENEPIO:0000099]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0000100 [GENEPIO:0000100]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0000101 [GENEPIO:0000101]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0000102 [GENEPIO:0000102]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO:0000116	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001367 [GENEPIO:0001367]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001368 [GENEPIO:0001368]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001369 [GENEPIO:0001369]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001370 [GENEPIO:0001370]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001372 [GENEPIO:0001372]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001373 [GENEPIO:0001373]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001433 [GENEPIO:0001433]	label [rdfs:label]		
+ERROR	missing_label	GENEPIO_0001643 [GENEPIO:0001643]	label [rdfs:label]		
+ERROR	missing_ontology_description	genepio.owl	dc11:description		
+ERROR	duplicate_label	NIFSTD [GENEPIO:0001817]	label [rdfs:label]	NIFSTD@en	
+ERROR	duplicate_label	NIFSTD [GENEPIO:0001820]	label [rdfs:label]	NIFSTD@en	
+ERROR	missing_ontology_title	genepio.owl	dc11:title		
+ERROR	multiple_labels	measurement comparator [GENEPIO:0001001]	label [rdfs:label]	measurement comparator@en	
+ERROR	multiple_labels	measurement comparator [GENEPIO:0001001]	label [rdfs:label]	test threshold measurement comparator@en	
+ERROR	multiple_labels	isolate preparation service [GENEPIO:0002224]	label [rdfs:label]	IAO:0000428	
+ERROR	multiple_labels	isolate preparation service [GENEPIO:0002224]	label [rdfs:label]	isolate preparation service@en	
+WARN	equivalent_pair	ARO_3004366 [ARO:3004366]	owl:equivalentClass	National Committee on Clinical Laboratory Standards (NCCLS) [GENEPIO:0002067]	
+WARN	missing_definition	ARO_3004366 [ARO:3004366]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metadata section [GENEPIO:0000001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	term as in existing standard [GENEPIO:0000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	term source [GENEPIO:0000005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	other relevance [GENEPIO:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	soluble inorganic material concentration [GENEPIO:0000038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PFGE test specification [GENEPIO:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	core genome fingerprinting [GENEPIO:0000051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	AccuProbe test [GENEPIO:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GENEPIO:0000098	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GENEPIO_0000099 [GENEPIO:0000099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GENEPIO_0000100 [GENEPIO:0000100]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GENEPIO_0000101 [GENEPIO:0000101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GENEPIO_0000102 [GENEPIO:0000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	food brought back from travel [GENEPIO:0000127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Region (England) (entry subject to GAZ replacement) [GENEPIO:0000141]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	user interface definition [GENEPIO:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spray-wading [GENEPIO:0001013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pool [GENEPIO:0001014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	canoeing / kayaking / boating [GENEPIO:0001026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hiking [GENEPIO:0001027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	camping [GENEPIO:0001028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	food related exposure [GENEPIO:0001037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vegetarian [GENEPIO:0001040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	food avoidance [GENEPIO:0001042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	special diet [GENEPIO:0001043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water related exposure [GENEPIO:0001044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	municipal [GENEPIO:0001045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bottled [GENEPIO:0001047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human related exposure [GENEPIO:0001049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal related exposure event [GENEPIO:0001050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural fair [GENEPIO:0001053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pet treat [GENEPIO:0001056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pet food (raw) [GENEPIO:0001057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	boat / cruise travel [GENEPIO:0001059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	train travel [GENEPIO:0001060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bus travel [GENEPIO:0001061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	car travel [GENEPIO:0001062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	airline travel [GENEPIO:0001063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	travel for pleasure [GENEPIO:0001066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	business activity [GENEPIO:0001067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	religious missionairy activity [GENEPIO:0001068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rural backpacking activity [GENEPIO:0001069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visiting relative/friends [GENEPIO:0001070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	travel tour [GENEPIO:0001071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unsure of travel reason [GENEPIO:0001072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	O antigen [GENEPIO:0001076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	H antigen [GENEPIO:0001077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Salmonella serovar [GENEPIO:0001080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Salmonella serovar name [GENEPIO:0001081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Salmonella antigenic formula [GENEPIO:0001082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date last seen alive [GENEPIO:0001096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	second line or reserve tuberculosis drug [GENEPIO:0001097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tuberculosis disease anatomical site [GENEPIO:0001098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genome material from specimen [GENEPIO:0001115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TB lineage 7 - Ethiopia [GENEPIO:0001116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	untreated water [GENEPIO:0001151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	treated - ambient temperature [GENEPIO:0001154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epidemiology / investigation data [GENEPIO:0001162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	distribution event [GENEPIO:0001163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supply point / event [GENEPIO:0001164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	well water - treated [GENEPIO:0001168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Well water - untreated [GENEPIO:0001169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organism datum [GENEPIO:0001170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolate organism role [GENEPIO:0001172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal role [GENEPIO:0001175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plant role [GENEPIO:0001182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	taxonomic datum [GENEPIO:0001183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	analytic datum [GENEPIO:0001192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dietary restriction [GENEPIO:0001205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	patient type [GENEPIO:0001206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	treated - warm/hot [GENEPIO:0001217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	jacuzzi [GENEPIO:0001219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spa [GENEPIO:0001220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	whirlpool [GENEPIO:0001221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pregnancy history item [GENEPIO:0001224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date of conception [GENEPIO:0001225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lifespan history record [GENEPIO:0001226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	infectious disease case datum [GENEPIO:0001229]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	laboratory data [GENEPIO:0001231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specimen record [GENEPIO:0001236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	food specimen detail [GENEPIO:0001244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	patient specimen [GENEPIO:0001245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	environmental specimen [GENEPIO:0001246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	built environment specimen [GENEPIO:0001248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	food specimen [GENEPIO:0001249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	natural environment specimen [GENEPIO:0001250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exposure group statistics record [GENEPIO:0001257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	symptom history item [GENEPIO:0001258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health state record [GENEPIO:0001259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal exposure event - location [GENEPIO:0001269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal exposure event - contact or activity [GENEPIO:0001270]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal exposure event - material [GENEPIO:0001271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exposure by human contact [GENEPIO:0001272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human exposure event - location [GENEPIO:0001274]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human exposure event - contact type [GENEPIO:0001275]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water exposure - location type [GENEPIO:0001276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water exposure - activity type [GENEPIO:0001277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health authority [GENEPIO:0001286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	symptom record [GENEPIO:0001287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PFGE pattern [GENEPIO:0001289]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phage type salmonella (DT) [GENEPIO:0001291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phage type e-coli 0157 (PT) [GENEPIO:0001292]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence record [GENEPIO:0001293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lab test history record [GENEPIO:0001302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diagnostic test [GENEPIO:0001420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genomic sequencing annotation datum [GENEPIO:0001423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lab test record [GENEPIO:0001424]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequencing assembly datum [GENEPIO:0001425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health care personal identifier [GENEPIO:0001427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human general activity [GENEPIO:0001444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exposure history record [GENEPIO:0001464]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolate history record [GENEPIO:0001465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outbreak history record [GENEPIO:0001466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pregnancy history record [GENEPIO:0001467]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diagnosis record [GENEPIO:0001468]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exposure event record [GENEPIO:0001470]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospitalization event record [GENEPIO:0001471]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exposure history item [GENEPIO:0001473]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospital admission date [GENEPIO:0001486]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospitalization history item [GENEPIO:0001490]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolate history item [GENEPIO:0001491]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outbreak history item [GENEPIO:0001492]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospital discharge date [GENEPIO:0001493]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	test history item [GENEPIO:0001497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lab test result date [GENEPIO:0001499]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parent-guardian role [GENEPIO:0001541]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	illness causality [GENEPIO:0001543]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pre-existing condition [GENEPIO:0001548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	close interpersonal relationship exposure [GENEPIO:0001551]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	household exposure [GENEPIO:0001552]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exposure to individual with diarrhea [GENEPIO:0001553]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	other human exposure [GENEPIO:0001554]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sexual contact exposure [GENEPIO:0001555]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exposure via diaper changing (human fecal) [GENEPIO:0001556]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	container identifier [GENEPIO:0001558]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outbreak identifier [GENEPIO:0001559]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reference genome size [GENEPIO:0001560]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clinical or host-associated pathogen [GENEPIO:0001569]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural project relevance [GENEPIO:0001573]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medical knowledge relevance [GENEPIO:0001574]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	industrial processing relevance [GENEPIO:0001575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	evolution modelling relevance [GENEPIO:0001576]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	environmental project relevance [GENEPIO:0001577]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	model organism relevance [GENEPIO:0001578]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft NCBI BioSample model - mixed clinical and environmental/food/other [GENEPIO:0001581]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	single cell [GENEPIO:0001587]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	environmental, food or other pathogen [GENEPIO:0001590]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequencing project method [GENEPIO:0001602]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact specification - person [GENEPIO:0001606]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft isolate details model [GENEPIO:0001609]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft NCBI component model [GENEPIO:0001611]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft IRIDA BioSample model [GENEPIO:0001612]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft GenEpiO epidemiology case record [GENEPIO:0001613]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft isolate identifier model [GENEPIO:0001621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft GenEpiO isolate testing model [GENEPIO:0001622]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft NCBI isolate source location model [GENEPIO:0001623]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft GenEpiO isolate environment model [GENEPIO:0001624]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	environmental datum [GENEPIO:0001626]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperature of sample [GENEPIO:0001627]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	de-novo assembly [GENEPIO:0001628]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft GenEpiO general information record [GENEPIO:0001638]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GENEPIO_0001643 [GENEPIO:0001643]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	NCBI Contributing organization / project [GENEPIO:0001648]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	food - liquid [GENEPIO:0001649]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft NCBI BioSample identifier model [GENEPIO:0001650]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft IRIDA epidemiological case model [GENEPIO:0001652]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	latitude and longitude coordinate (ISO 6709) [GENEPIO:0001656]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft GenEpiO isolate sequencing model [GENEPIO:0001658]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	swimming / wading [GENEPIO:0001663]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	infection detail datum [GENEPIO:0001664]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	antibiotics required [GENEPIO:0001665]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outcome of pregnancy associated with illness [GENEPIO:0001667]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	not provided [GENEPIO:0001668]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stable health status [GENEPIO:0001669]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	induced abortion [GENEPIO:0001670]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	live birth [GENEPIO:0001671]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date of pregnancy outcome [GENEPIO:0001673]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact specification - physician [GENEPIO:0001674]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact specification - parent/guardian [GENEPIO:0001676]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact specification - patient [GENEPIO:0001677]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft GenEpiO case epidemiology record [GENEPIO:0001678]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact specification - address [GENEPIO:0001679]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	host illness associated with [GENEPIO:0001682]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft subject demographic specification [GENEPIO:0001683]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E. coli K antigen specification [GENEPIO:0001684]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	other antigen specification [GENEPIO:0001685]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E. coli serotype specification [GENEPIO:0001686]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Salmonella serovar specification [GENEPIO:0001687]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria antigen [GENEPIO:0001689]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 1/2a [GENEPIO:0001691]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 1/2b [GENEPIO:0001692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 1/2c [GENEPIO:0001693]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 1/2 [GENEPIO:0001694]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 3a [GENEPIO:0001695]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 3b [GENEPIO:0001696]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 4a [GENEPIO:0001697]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 4b [GENEPIO:0001698]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 4c [GENEPIO:0001699]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 4d [GENEPIO:0001700]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 4e [GENEPIO:0001701]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-monocytogenes listeria antigen [GENEPIO:0001702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria serotype 3c [GENEPIO:0001703]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	textual test result [GENEPIO:0001704]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	NCBI BioSample collection code [GENEPIO:0001706]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft NCBI BioSample host model [GENEPIO:0001707]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	food - solid [GENEPIO:0001708]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lab test datum [GENEPIO:0001709]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Xbal [GENEPIO:0001710]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Ascl [GENEPIO:0001711]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Smal [GENEPIO:0001712]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Blnl [GENEPIO:0001713]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Apal [GENEPIO:0001714]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Kpnl [GENEPIO:0001715]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	serotype specification [GENEPIO:0001718]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	culture identifier [GENEPIO:0001723]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperature of air - average daily [GENEPIO:0001725]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unknown source [GENEPIO:0001730]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human clinical specimen [GENEPIO:0001731]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	avian - wild [GENEPIO:0001733]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	avian - domesticated [GENEPIO:0001734]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human clinical specimen - invasive [GENEPIO:0001735]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	precipitation [GENEPIO:0001737]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	line list row record [GENEPIO:0001740]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	0D space [GENEPIO:0001744]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact specification - phone [GENEPIO:0001756]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	millimetres per day [GENEPIO:0001757]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	millisiemens [GENEPIO:0001758]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	millisiemens per centimetre [GENEPIO:0001759]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cubic metre per second [GENEPIO:0001760]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	micromole per kilogram [GENEPIO:0001761]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	micromole per litre [GENEPIO:0001762]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quality control record [GENEPIO:0001764]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pathogen specific data standard [GENEPIO:0001776]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PFGE Xbal pattern [GENEPIO:0001779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PFGE Blnl pattern [GENEPIO:0001780]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolate identifier specification [GENEPIO:0001791]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	NCBI BioSample culture identifier [GENEPIO:0001798]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence identifier [GENEPIO:0001800]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metagenomic species identification [GENEPIO:0001801]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organization identifier [GENEPIO:0001803]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	collection identifier [GENEPIO:0001804]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	variant calling / pathogen identification and clustering [GENEPIO:0001805]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolate (pathogen) identification [GENEPIO:0001806]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft GenEpiO isolate source context [GENEPIO:0001809]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	State (United States of America) [GENEPIO:0001811]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	FTT [GENEPIO:0001823]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TGN [GENEPIO:0001824]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SWEETRealm [GENEPIO:0001826]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GNISID [GENEPIO:0001833]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	LTER [GENEPIO:0001834]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	critical but stable health status [GENEPIO:0001846]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	comfortable health status [GENEPIO:0001847]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	progressing well health status [GENEPIO:0001848]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	discharged from hospital [GENEPIO:0001849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	worsening health trend [GENEPIO:0001853]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	n-dimensional space [GENEPIO:0001854]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	1D space [GENEPIO:0001855]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3D space [GENEPIO:0001857]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	n-dimensional coordinate [GENEPIO:0001858]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	1D coordinate [GENEPIO:0001860]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2D coordinate [GENEPIO:0001861]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	1D coordinate system [GENEPIO:0001864]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3D coordinate system [GENEPIO:0001866]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	radial coordinate system [GENEPIO:0001867]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	angular coordinate [GENEPIO:0001868]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	linear coordinate [GENEPIO:0001869]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	geographic coordinate [GENEPIO:0001871]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	removed date [GENEPIO:0001872]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	updated date [GENEPIO:0001874]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	datetime range member - UNUSED? [GENEPIO:0001875]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	datetime range item [GENEPIO:0001876]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	datetime range end [GENEPIO:0001877]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	datetime range start [GENEPIO:0001878]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	datetime linear coordinate [GENEPIO:0001880]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	created date [GENEPIO:0001882]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	entity history item [GENEPIO:0001883]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	n-dimensional entity [GENEPIO:0001884]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surface area [GENEPIO:0001885]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	designated area on Earth [GENEPIO:0001886]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	landmark [GENEPIO:0001887]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alphanumeric phrase [GENEPIO:0001891]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	entity history record [GENEPIO:0001892]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generic range history record [GENEPIO:0001893]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lingual set [GENEPIO:0001894]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-lingual set [GENEPIO:0001895]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phone type [GENEPIO:0001896]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phone type - mobile [GENEPIO:0001898]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phone type - work [GENEPIO:0001899]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	set [GENEPIO:0001900]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ordered set [GENEPIO:0001901]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	set of unordered strings [GENEPIO:0001903]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phone number (North America) [GENEPIO:0001904]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quantity unit [GENEPIO:0001909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decimal [GENEPIO:0001910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	integer [GENEPIO:0001911]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ones [GENEPIO:0001912]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tens [GENEPIO:0001913]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hundreds [GENEPIO:0001914]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thousands [GENEPIO:0001915]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tenths [GENEPIO:0001916]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hundredths [GENEPIO:0001917]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	millions [GENEPIO:0001918]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	number [GENEPIO:0001919]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	user interface regular epression normalize [GENEPIO:0001920]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Illumina platform [GENEPIO:0001923]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Complete Genomics platform [GENEPIO:0001924]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	earth area boundary census [GENEPIO:0001925]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Roche LS454 platform [GENEPIO:0001926]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PacBio platform [GENEPIO:0001927]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SOLiD 4hq System [GENEPIO:0001928]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SOLiD 5500 [GENEPIO:0001929]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SOLiD 5500xl [GENEPIO:0001930]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SOLiD PI System [GENEPIO:0001931]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SOLiD System 2.0 [GENEPIO:0001932]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SOLiD System 3.0 [GENEPIO:0001933]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Ion Torrent PGM [GENEPIO:0001935]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	454 Genome Sequencer FLX Titanium [GENEPIO:0001936]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	454 Genome Sequencer [GENEPIO:0001937]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	454 Genome Sequencer Junior [GENEPIO:0001938]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Illumina HiSeq Sequencer [GENEPIO:0001939]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - dataset features and provenance [GENEPIO:0001999]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - case specimen characteristics [GENEPIO:0002000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - case subject characteristics [GENEPIO:0002001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - case risk factors [GENEPIO:0002002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - case clinical presentation [GENEPIO:0002003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - case laboratory testing [GENEPIO:0002004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - case medication [GENEPIO:0002005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft isolate whole genome sequencing model [GENEPIO:0002006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft tuberculosis - case model [GENEPIO:0002007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TB lineage 2 - East-Asian, includes Bejing [GENEPIO:0002009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TB lineage 3 - East-African Indian, includes CAS/Delhi [GENEPIO:0002010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TB lineage 4 - Euro-American, includes Haarlem, LAM3, X, T, F11, H37Rv [GENEPIO:0002011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TB lineage 1 - Indo-Oceanic [GENEPIO:0002012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TB lineage 5 - West African 1 [GENEPIO:0002013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TB lineage 6 - West African 2 [GENEPIO:0002014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolate preparation facility [GENEPIO:0002015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plant product [GENEPIO:0002016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	geospatial name [GENEPIO:0002017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	admitted to hospital [GENEPIO:0002020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	satisfactory health status [GENEPIO:0002023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subject health status (UK NHS) [GENEPIO:0002024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subject health status (AHA) [GENEPIO:0002025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stable health trend [GENEPIO:0002026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mapping (reference based) [GENEPIO:0002028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data protection item [GENEPIO:0002029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subject provided consent [GENEPIO:0002030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ordinal value specification [GENEPIO:0002031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consent datum [GENEPIO:0002032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agency provided consent [GENEPIO:0002033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phenotypic antimicrobial drug susceptibility test datum [GENEPIO:0002036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	antimicrobial resistant plasmid type [GENEPIO:0002048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E-Test [GENEPIO:0002060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GM-NEG [GENEPIO:0002061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SIR [GENEPIO:0002069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	WRG [GENEPIO:0002070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	first line tuberculosis drug [GENEPIO:0002071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	last resort antibiotic [GENEPIO:0002072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft sequence repository data - specimen collection [GENEPIO:0002081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft sequence repository data - isolate [GENEPIO:0002084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft sequence repository data - sequencing [GENEPIO:0002085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	draft sequence repository data - isolate passage history [GENEPIO:0002087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subject health status (NCIT) [GENEPIO:0002103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact specification - professional role [GENEPIO:0002104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	time value specification [GENEPIO:0002113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whirlpak sampling bag [GENEPIO:0002122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spoon [GENEPIO:0002123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fork [GENEPIO:0002124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hand scoop [GENEPIO:0002125]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trier [GENEPIO:0002126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vaccum device [GENEPIO:0002127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	investigation identifier specification [GENEPIO:0002128]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decimal value specification [GENEPIO:0002142]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floating point value specification [GENEPIO:0002143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date value specification [GENEPIO:0002145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequencing facility name specification [GENEPIO:0002147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	strain identifier specification [GENEPIO:0002149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genomic sequence length specification [GENEPIO:0002152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specimen extraction date (ISO 8601) [GENEPIO:0002154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subject age at time of specimen collection specification [GENEPIO:0002157]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specimen identifier specification [GENEPIO:0002159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	email address specification [GENEPIO:0002160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	region, province, state or territory specification [GENEPIO:0002161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subject organism common name specification [GENEPIO:0002163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	test drug maximum concentration specification [GENEPIO:0002169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	listeria antigen specification [GENEPIO:0002171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	URL specification [GENEPIO:0002172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specimen from organism specification [GENEPIO:0002175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	duration specification [GENEPIO:0002176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PulseNet Canada field specification [GENEPIO:0002185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PulseNet Canada Salmonella field specification [GENEPIO:0002186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specimen collection service [GENEPIO:0002222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bioinformatics analysis service [GENEPIO:0002223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specimen related service [GENEPIO:0002225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specimen repository/biobank service [GENEPIO:0002226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E. coli H antigen specification [GENEPIO:0002464]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E. coli O antigen specification [GENEPIO:0002465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	string value specification [GENEPIO:0002468]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	drag swab [GENEPIO:0002713]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	user interface regular expression validate [GENEPIO:1919]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	user interface regular expression display format [GENEPIO:1921]	IAO_0000115 [IAO:0000115]		
+WARN	invalid_xref	intersex (deprecated) [GENEPIO:0000019]	hasDbXref [oboInOwl:hasDbXref]	NCBI BioSample: intersex@en	
+WARN	invalid_xref	isolate upload date [GENEPIO:0000024]	hasDbXref [oboInOwl:hasDbXref]	PulseNet: UploadDate	
+WARN	invalid_xref	sequencing run sample identifier [GENEPIO:0000079]	hasDbXref [oboInOwl:hasDbXref]	Illumina SampleSheet: Sample_ID	
+WARN	invalid_xref	sequencing run sample identifier [GENEPIO:0000079]	hasDbXref [oboInOwl:hasDbXref]	PulseNet: SubmittedNumber@en	
+WARN	invalid_xref	O antigen [GENEPIO:0001076]	hasDbXref [oboInOwl:hasDbXref]	Snomed: Concept 260827009	
+WARN	invalid_xref	H antigen [GENEPIO:0001077]	hasDbXref [oboInOwl:hasDbXref]	Snomed: Concept 260823008	
+WARN	invalid_xref	environmental specimen [GENEPIO:0001246]	hasDbXref [oboInOwl:hasDbXref]	NCBI Biosample: environmental (swab or sampling)@en	
+WARN	invalid_xref	outbreak identifier [GENEPIO:0001559]	hasDbXref [oboInOwl:hasDbXref]	PulseNet: Outbreak	
+WARN	invalid_xref	host profile or identifers [GENEPIO:0001615]	hasDbXref [oboInOwl:hasDbXref]	NCBI BioSample: isolate	
+WARN	invalid_xref	neuter [GENEPIO:0001660]	hasDbXref [oboInOwl:hasDbXref]	NCBI BioSample: neuter	
+WARN	invalid_xref	pooled male and female [GENEPIO:0001661]	hasDbXref [oboInOwl:hasDbXref]	NCBI BioSample: 'pooled male and female'	
+WARN	invalid_xref	INSDC standard [GENEPIO:0001666]	hasDbXref [oboInOwl:hasDbXref]	INSDC	
+WARN	invalid_xref	NCBI BioSample collection code [GENEPIO:0001706]	hasDbXref [oboInOwl:hasDbXref]	NCBI BioSample: collection_code	
+WARN	invalid_xref	phage type specification [GENEPIO:0001719]	hasDbXref [oboInOwl:hasDbXref]	SNOMED: http://www.snomedbrowser.com/Codes/Details/272405002	
+WARN	invalid_xref	PFGE Xbal pattern [GENEPIO:0001779]	hasDbXref [oboInOwl:hasDbXref]	PulseNet: PFGE-Xbal-pattern	
+WARN	invalid_xref	PFGE Blnl pattern [GENEPIO:0001780]	hasDbXref [oboInOwl:hasDbXref]	PFGE-Blnl-pattern	
+WARN	invalid_xref	upload modified date [GENEPIO:0001782]	hasDbXref [oboInOwl:hasDbXref]	PulseNet: UploadModifiedDate	
+WARN	invalid_xref	ITIS [GENEPIO:0001813]	hasDbXref [oboInOwl:hasDbXref]	ITIS	
+WARN	invalid_xref	MESH [GENEPIO:0001818]	hasDbXref [oboInOwl:hasDbXref]	MSH	
+WARN	invalid_xref	NCIT [GENEPIO:0001819]	hasDbXref [oboInOwl:hasDbXref]	NCI_Thesaurus	
+WARN	invalid_xref	NCIT [GENEPIO:0001819]	hasDbXref [oboInOwl:hasDbXref]	NCIt	
+WARN	invalid_xref	SNOMEDCT [GENEPIO:0001821]	hasDbXref [oboInOwl:hasDbXref]	SNOMEDCT	
+WARN	invalid_xref	ASFIS [GENEPIO:0001822]	hasDbXref [oboInOwl:hasDbXref]	FAO ASFIS	
+WARN	invalid_xref	AHA HIPPA standard [GENEPIO:0001837]	hasDbXref [oboInOwl:hasDbXref]	AHA HIPPA	
+WARN	invalid_xref	PubMed [GENEPIO:0001838]	hasDbXref [oboInOwl:hasDbXref]	PMID	
+WARN	invalid_xref	PulseNet submission standard [GENEPIO:0001839]	hasDbXref [oboInOwl:hasDbXref]	PulseNet	
+WARN	invalid_xref	good health status [GENEPIO:0001840]	hasDbXref [oboInOwl:hasDbXref]	AHA Hippa: Good@en	
+WARN	invalid_xref	Illumina platform [GENEPIO:0001923]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: ILLUMINA	
+WARN	invalid_xref	Complete Genomics platform [GENEPIO:0001924]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: COMPLETE_GENOMICS	
+WARN	invalid_xref	Roche LS454 platform [GENEPIO:0001926]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: LS454	
+WARN	invalid_xref	PacBio platform [GENEPIO:0001927]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: PACBIO_SMRT	
+WARN	invalid_xref	SOLiD 4hq System [GENEPIO:0001928]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: AB SOLiD 4hq	
+WARN	invalid_xref	SOLiD 5500 [GENEPIO:0001929]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: AB SOLiD 5500	
+WARN	invalid_xref	SOLiD 5500xl [GENEPIO:0001930]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: AB SOLiD 5500xl	
+WARN	invalid_xref	SOLiD PI System [GENEPIO:0001931]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: AB SOLiD PI System	
+WARN	invalid_xref	SOLiD System 2.0 [GENEPIO:0001932]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: AB SOLiD System 2.0	
+WARN	invalid_xref	SOLiD System 3.0 [GENEPIO:0001933]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: AB SOLiD System 3.0	
+WARN	invalid_xref	Ion Torrent PGM [GENEPIO:0001935]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: Ion Torrent PGM	
+WARN	invalid_xref	454 Genome Sequencer FLX Titanium [GENEPIO:0001936]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: 454 GS FLX Titanium	
+WARN	invalid_xref	454 Genome Sequencer [GENEPIO:0001937]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: 454 GS	
+WARN	invalid_xref	454 Genome Sequencer Junior [GENEPIO:0001938]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: 454 GS Junior	
+WARN	invalid_xref	library selection [GENEPIO:0001940]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: LIBRARY_SELECTION	
+WARN	invalid_xref	5-methylcytidine antibody method [GENEPIO:0001941]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: 5-methylcytidine antibody	
+WARN	invalid_xref	CAGE method [GENEPIO:0001942]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CAGE	
+WARN	invalid_xref	CF-H method [GENEPIO:0001943]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CF-H	
+WARN	invalid_xref	CF-M method [GENEPIO:0001944]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CF-M	
+WARN	invalid_xref	CF-S method [GENEPIO:0001945]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CF-S	
+WARN	invalid_xref	CF-T method [GENEPIO:0001946]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CF-T	
+WARN	invalid_xref	ChIP method [GENEPIO:0001947]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: ChIP	
+WARN	invalid_xref	DNAse method [GENEPIO:0001948]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: DNAse	
+WARN	invalid_xref	HMPR method [GENEPIO:0001949]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: HMPR	
+WARN	invalid_xref	Hybrid Selection method [GENEPIO:0001950]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: Hybrid Selection	
+WARN	invalid_xref	MBD2 protein methyl-CpG binding domain method [GENEPIO:0001951]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MBD2 protein methyl-CpG binding domain	
+WARN	invalid_xref	MF method [GENEPIO:0001952]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MF	
+WARN	invalid_xref	MNase method [GENEPIO:0001953]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MNase	
+WARN	invalid_xref	MSLL method [GENEPIO:0001954]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MSLL	
+WARN	invalid_xref	PCR method [GENEPIO:0001955]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: PCR	
+WARN	invalid_xref	RACE method [GENEPIO:0001956]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: RACE	
+WARN	invalid_xref	RANDOM PCR method [GENEPIO:0001957]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: RANDOM PCR	
+WARN	invalid_xref	RANDOM method [GENEPIO:0001958]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: RANDOM	
+WARN	invalid_xref	RT-PCR method [GENEPIO:0001959]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: RT-PCR	
+WARN	invalid_xref	Reduced Representation method [GENEPIO:0001960]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: Reduced Representation	
+WARN	invalid_xref	Restriction Digest method [GENEPIO:0001961]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: Restriction Digest	
+WARN	invalid_xref	cDNA method [GENEPIO:0001962]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: cDNA	
+WARN	invalid_xref	size fractionation method [GENEPIO:0001963]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: size fractionation	
+WARN	invalid_xref	other library method [GENEPIO:0001964]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: other	
+WARN	invalid_xref	genomic source [GENEPIO:0001966]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: GENOMIC	
+WARN	invalid_xref	metagenomic source [GENEPIO:0001967]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: METAGENOMIC	
+WARN	invalid_xref	metatranscriptomic source [GENEPIO:0001968]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: METATRANSCRIPTOMIC	
+WARN	invalid_xref	other library source [GENEPIO:0001969]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: OTHER	
+WARN	invalid_xref	synthetic source [GENEPIO:0001970]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: SYNTHETIC	
+WARN	invalid_xref	transcriptomic source [GENEPIO:0001971]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: TRANSCRIPTOMIC	
+WARN	invalid_xref	viral RNA source [GENEPIO:0001972]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: VIRAL RNA	
+WARN	invalid_xref	amplicon strategy [GENEPIO:0001974]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: AMPLICON	
+WARN	invalid_xref	Bisulfite-Seq strategy [GENEPIO:0001975]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: Bisulfite-Seq	
+WARN	invalid_xref	clone end strategy [GENEPIO:0001976]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CLONEEND	
+WARN	invalid_xref	clone strategy [GENEPIO:0001977]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CLONE	
+WARN	invalid_xref	CTS strategy [GENEPIO:0001978]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: CTS	
+WARN	invalid_xref	ChIP-Seq strategy [GENEPIO:0001979]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: ChIP-Seq	
+WARN	invalid_xref	DNase-Hypersensitivity strategy [GENEPIO:0001980]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: DNase-Hypersensitivity	
+WARN	invalid_xref	EST strategy [GENEPIO:0001981]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: EST	
+WARN	invalid_xref	finishing strategy [GENEPIO:0001982]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: FINISHING	
+WARN	invalid_xref	FL-cDNA strategy [GENEPIO:0001983]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: FL-cDNA	
+WARN	invalid_xref	MBD-Seq strategy [GENEPIO:0001984]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MBD-Seq	
+WARN	invalid_xref	MNase-Seq strategy [GENEPIO:0001985]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MNase-Seq	
+WARN	invalid_xref	MRE-Seq strategy [GENEPIO:0001986]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MRE-Seq	
+WARN	invalid_xref	MeDIP-Seq strategy [GENEPIO:0001987]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: MeDIP-Seq	
+WARN	invalid_xref	other library strategy [GENEPIO:0001988]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: OTHER	
+WARN	invalid_xref	pool clone strategy [GENEPIO:0001989]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: POOLCLONE	
+WARN	invalid_xref	RNA-Seq strategy [GENEPIO:0001990]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: RNA-Seq	
+WARN	invalid_xref	WCS strategy [GENEPIO:0001991]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: WCS	
+WARN	invalid_xref	WGS strategy [GENEPIO:0001992]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: WGS	
+WARN	invalid_xref	WXS strategy [GENEPIO:0001993]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: WXS	
+WARN	invalid_xref	library name [GENEPIO:0001995]	hasDbXref [oboInOwl:hasDbXref]	NCBI SRA: LIBRARY_NAME@en	
+WARN	missing_obsolete_label	draft GenEpiO BioSample standard (deprecated) [GENEPIO:0000015]	label [rdfs:label]	draft GenEpiO BioSample standard (deprecated)@en	
+WARN	missing_obsolete_label	NCBI antibiogram data item (deprecated) [GENEPIO:0000016]	label [rdfs:label]	NCBI antibiogram data item (deprecated)@en	
+WARN	missing_obsolete_label	subject species (deprecated) [GENEPIO:0000018]	label [rdfs:label]	subject species (deprecated)@en	
+WARN	missing_obsolete_label	intersex (deprecated) [GENEPIO:0000019]	label [rdfs:label]	intersex (deprecated)@en	
+WARN	missing_obsolete_label	isolation date (deprecated) [GENEPIO:0000020]	label [rdfs:label]	isolation date (deprecated)	
+WARN	missing_obsolete_label	specimen source environmental material (deprecated) [GENEPIO:0000030]	label [rdfs:label]	specimen source environmental material (deprecated)@en	
+WARN	missing_obsolete_label	sequencing assay (deprecated) [GENEPIO:0000074]	label [rdfs:label]	sequencing assay (deprecated)@en	
+WARN	missing_obsolete_label	GSCID-BRC data item (deprecated) [GENEPIO:0000077]	label [rdfs:label]	GSCID-BRC data item (deprecated)@en	
+WARN	missing_obsolete_label	NCBI BioSample data item (deprecated) [GENEPIO:0000097]	label [rdfs:label]	NCBI BioSample data item (deprecated)@en	
+WARN	missing_obsolete_label	NCBI BioProject data item (deprecated) [GENEPIO:0000103]	label [rdfs:label]	NCBI BioProject data item (deprecated)@en	
+WARN	missing_obsolete_label	INSDC MDM standard (deprecated) [GENEPIO:0000104]	label [rdfs:label]	INSDC MDM standard (deprecated)@en	
+WARN	missing_obsolete_label	MIxS data item (deprecated) [GENEPIO:0000105]	label [rdfs:label]	MIxS data item (deprecated)@en	
+WARN	missing_obsolete_label	HIPPA PHI data item (deprecated) [GENEPIO:0000107]	label [rdfs:label]	HIPPA PHI data item (deprecated)@en	
+WARN	missing_obsolete_label	PulseNet data item (deprecated) [GENEPIO:0000108]	label [rdfs:label]	PulseNet data item (deprecated)@en	
+WARN	missing_obsolete_label	NCBI isolate AMR testing model (deprecated) [GENEPIO:0001008]	label [rdfs:label]	NCBI isolate AMR testing model (deprecated)@en	
+WARN	missing_obsolete_label	restaurant (deprecated) [GENEPIO:0001009]	label [rdfs:label]	restaurant (deprecated)@en	
+WARN	missing_obsolete_label	hot tub (deprecated) [GENEPIO:0001015]	label [rdfs:label]	hot tub (deprecated)@en	
+WARN	missing_obsolete_label	cafeteria (deprecated) [GENEPIO:0001016]	label [rdfs:label]	cafeteria (deprecated)@en	
+WARN	missing_obsolete_label	bakery (deprecated) [GENEPIO:0001017]	label [rdfs:label]	bakery (deprecated)@en	
+WARN	missing_obsolete_label	delicatessen (deprecated) [GENEPIO:0001018]	label [rdfs:label]	delicatessen (deprecated)@en	
+WARN	missing_obsolete_label	food kiosk (deprecated) [GENEPIO:0001019]	label [rdfs:label]	food kiosk (deprecated)@en	
+WARN	missing_obsolete_label	grocery store (deprecated) [GENEPIO:0001020]	label [rdfs:label]	grocery store (deprecated)@en	
+WARN	missing_obsolete_label	specialty/ethnic store (deprecated) [GENEPIO:0001021]	label [rdfs:label]	specialty/ethnic store (deprecated)@en	
+WARN	missing_obsolete_label	market (obsolete) [GENEPIO:0001022]	label [rdfs:label]	market (obsolete)@en	
+WARN	missing_obsolete_label	take out restaurant (deprecated) [GENEPIO:0001024]	label [rdfs:label]	take out restaurant (deprecated)@en	
+WARN	missing_obsolete_label	social gathering (deprecated) [GENEPIO:0001029]	label [rdfs:label]	social gathering (deprecated)@en	
+WARN	missing_obsolete_label	party (deprecated) [GENEPIO:0001030]	label [rdfs:label]	party (deprecated)@en	
+WARN	missing_obsolete_label	wedding (deprecated) [GENEPIO:0001031]	label [rdfs:label]	wedding (deprecated)@en	
+WARN	missing_obsolete_label	baby shower (deprecated) [GENEPIO:0001032]	label [rdfs:label]	baby shower (deprecated)@en	
+WARN	missing_obsolete_label	potluck (deprecated) [GENEPIO:0001033]	label [rdfs:label]	potluck (deprecated)@en	
+WARN	missing_obsolete_label	community event (deprecated) [GENEPIO:0001034]	label [rdfs:label]	community event (deprecated)@en	
+WARN	missing_obsolete_label	long term care facility (deprecated) [GENEPIO:0001035]	label [rdfs:label]	long term care facility (deprecated)@en	
+WARN	missing_obsolete_label	petting zoo (deprecated) [GENEPIO:0001052]	label [rdfs:label]	petting zoo (deprecated)@en	
+WARN	missing_obsolete_label	E. coli serotype part (deprecated) [GENEPIO:0001075]	label [rdfs:label]	E. coli serotype part (deprecated)@en	
+WARN	missing_obsolete_label	NCBI Antibiogram model (deprecated) [GENEPIO:0001099]	label [rdfs:label]	NCBI Antibiogram model (deprecated)@en	
+WARN	missing_obsolete_label	type of illness (deprecated) [GENEPIO:0001193]	label [rdfs:label]	type of illness (deprecated)@en	
+WARN	missing_obsolete_label	mother (deprecated) [GENEPIO:0001208]	label [rdfs:label]	mother (deprecated)	
+WARN	missing_obsolete_label	food cooking method (deprecated) [GENEPIO:0001227]	label [rdfs:label]	food cooking method (deprecated)@en	
+WARN	missing_obsolete_label	food preservation method (deprecated) [GENEPIO:0001228]	label [rdfs:label]	food preservation method (deprecated)@en	
+WARN	missing_obsolete_label	NCBI BioSample attribute package (deprecated) [GENEPIO:0001239]	label [rdfs:label]	NCBI BioSample attribute package (deprecated)@en	
+WARN	missing_obsolete_label	host sample material (deprecated) [GENEPIO:0001240]	label [rdfs:label]	host sample material (deprecated)@en	
+WARN	missing_obsolete_label	swab (deprecated) [GENEPIO:0001260]	label [rdfs:label]	swab (deprecated)@en	
+WARN	missing_obsolete_label	fluid - aspirate (deprecated) [GENEPIO:0001262]	label [rdfs:label]	fluid - aspirate (deprecated)@en	
+WARN	missing_obsolete_label	human exposure activity type (deprecated) [GENEPIO:0001273]	label [rdfs:label]	human exposure activity type (deprecated)@en	
+WARN	missing_obsolete_label	has string specification of (deprecated) [GENEPIO:0001340]	label [rdfs:label]	has string specification of (deprecated)@en	
+WARN	missing_obsolete_label	sample datum (deprecated) [GENEPIO:0001421]	label [rdfs:label]	sample datum (deprecated)@en	
+WARN	missing_obsolete_label	laboratory sequencing datum (deprecated) [GENEPIO:0001422]	label [rdfs:label]	laboratory sequencing datum (deprecated)@en	
+WARN	missing_obsolete_label	NCBI BioProject ID (deprecated) [GENEPIO:0001535]	label [rdfs:label]	NCBI BioProject ID (deprecated)@en	
+WARN	missing_obsolete_label	NCBI BioProject model (deprecated) [GENEPIO:0001579]	label [rdfs:label]	NCBI BioProject model (deprecated)@en	
+WARN	missing_obsolete_label	NCBI SRA model [GENEPIO:0001580]	label [rdfs:label]	NCBI SRA model@en	
+WARN	missing_obsolete_label	has primitive data type (deprecated) [GENEPIO:0001605]	label [rdfs:label]	has primitive data type (deprecated)@en	
+WARN	missing_obsolete_label	sample body source (deprecated) [GENEPIO:0001629]	label [rdfs:label]	sample body source (deprecated)@en	
+WARN	missing_obsolete_label	specimen from subject datum (deprecated) [GENEPIO:0001635]	label [rdfs:label]	specimen from subject datum (deprecated)@en	
+WARN	missing_obsolete_label	specimen source material category (deprecated) [GENEPIO:0001637]	label [rdfs:label]	specimen source material category (deprecated)@en	
+WARN	missing_obsolete_label	categorical tree specification (deprecated) [GENEPIO:0001655]	label [rdfs:label]	categorical tree specification (deprecated)@en	
+WARN	missing_obsolete_label	gestation duration (weeks) [GENEPIO:0001672]	label [rdfs:label]	gestation duration (weeks)@en	
+WARN	missing_obsolete_label	matrix - solid (deprecated) [GENEPIO:0001675]	label [rdfs:label]	matrix - solid (deprecated)@en	
+WARN	missing_obsolete_label	draft IRIDA model [GENEPIO:0001680]	label [rdfs:label]	draft IRIDA model@en	
+WARN	missing_obsolete_label	matrix - fluid (deprecated) [GENEPIO:0001690]	label [rdfs:label]	matrix - fluid (deprecated)@en	
+WARN	missing_obsolete_label	draft GenEpiO BioProject standard (deprecated) [GENEPIO:0001705]	label [rdfs:label]	draft GenEpiO BioProject standard (deprecated)@en	
+WARN	missing_obsolete_label	swab - food contact surface (deprecated) [GENEPIO:0001720]	label [rdfs:label]	swab - food contact surface (deprecated)@en	
+WARN	missing_obsolete_label	swab - inanimate object surface (deprecated) [GENEPIO:0001726]	label [rdfs:label]	swab - inanimate object surface (deprecated)@en	
+WARN	missing_obsolete_label	swab - meat (deprecated) [GENEPIO:0001727]	label [rdfs:label]	swab - meat (deprecated)@en	
+WARN	missing_obsolete_label	swab - rectal swab (deprecated) [GENEPIO:0001728]	label [rdfs:label]	swab - rectal swab (deprecated)@en	
+WARN	missing_obsolete_label	swab - tissue (deprecated) [GENEPIO:0001729]	label [rdfs:label]	swab - tissue (deprecated)@en	
+WARN	missing_obsolete_label	environmental (swab or sampling) (deprecated) [GENEPIO:0001732]	label [rdfs:label]	environmental (swab or sampling) (deprecated)@en	
+WARN	missing_obsolete_label	user interface help [GENEPIO:0001745]	label [rdfs:label]	user interface help@en	
+WARN	missing_obsolete_label	user interface hidden [GENEPIO:0001746]	label [rdfs:label]	user interface hidden@en	
+WARN	missing_obsolete_label	user interface value specification (deprecated) [GENEPIO:0001772]	label [rdfs:label]	user interface value specification (deprecated)@en	
+WARN	missing_obsolete_label	sample city (deprecated) [GENEPIO:0001786]	label [rdfs:label]	sample city (deprecated)@en	
+WARN	missing_obsolete_label	NCBI BioSample ID - (deprecated) [GENEPIO:0001807]	label [rdfs:label]	NCBI BioSample ID - (deprecated)@en	
+WARN	missing_obsolete_label	US postal code (deprecated) [GENEPIO:0001890]	label [rdfs:label]	US postal code (deprecated)@en	
+WARN	missing_obsolete_label	ordinal variable (deprecated) [GENEPIO:0002027]	label [rdfs:label]	ordinal variable (deprecated)@en	
+WARN	missing_obsolete_label	antimicrobial resistance phenotype (deprecated) [GENEPIO:0002037]	label [rdfs:label]	antimicrobial resistance phenotype (deprecated)@en	
+WARN	missing_obsolete_label	antibiotic intermediate resistance (I) (deprecated) [GENEPIO:0002038]	label [rdfs:label]	antibiotic intermediate resistance (I) (deprecated)@en	
+WARN	missing_obsolete_label	antibiotic nonsensitive (high resistance) (deprecated) [GENEPIO:0002039]	label [rdfs:label]	antibiotic nonsensitive (high resistance) (deprecated)@en	
+WARN	missing_obsolete_label	antibiotic resistant (R) (deprecated) [GENEPIO:0002041]	label [rdfs:label]	antibiotic resistant (R) (deprecated)@en	
+WARN	missing_obsolete_label	antibiotic sensitive (S) (deprecated) [GENEPIO:0002042]	label [rdfs:label]	antibiotic sensitive (S) (deprecated)@en	
+WARN	missing_obsolete_label	sensitive - dose dependent (deprecated) [GENEPIO:0002043]	label [rdfs:label]	sensitive - dose dependent (deprecated)@en	
+WARN	missing_obsolete_label	antimicrobial resistance testing method (deprecated) [GENEPIO:0002045]	label [rdfs:label]	antimicrobial resistance testing method (deprecated)@en	
+WARN	missing_obsolete_label	agar dilution evidence (deprecated) [GENEPIO:0002046]	label [rdfs:label]	agar dilution evidence (deprecated)@en	
+WARN	missing_obsolete_label	antimicrobial resistance testing platform (deprecated) [GENEPIO:0002049]	label [rdfs:label]	antimicrobial resistance testing platform (deprecated)@en	
+WARN	missing_obsolete_label	Microscan (deprecated) [GENEPIO:0002050]	label [rdfs:label]	Microscan (deprecated)@en	
+WARN	missing_obsolete_label	Phoenix (deprecated) [GENEPIO:0002051]	label [rdfs:label]	Phoenix (deprecated)@en	
+WARN	missing_obsolete_label	Sensititre (deprecated) [GENEPIO:0002052]	label [rdfs:label]	Sensititre (deprecated)@en	
+WARN	missing_obsolete_label	Vitek (deprecated) [GENEPIO:0002053]	label [rdfs:label]	Vitek (deprecated)@en	
+WARN	missing_obsolete_label	Trek (deprecated) [GENEPIO:0002054]	label [rdfs:label]	Trek (deprecated)@en	
+WARN	missing_obsolete_label	manual - noncommercial (deprecated) [GENEPIO:0002055]	label [rdfs:label]	manual - noncommercial (deprecated)@en	
+WARN	missing_obsolete_label	antimicrobial resistance testing platform vendor (deprecated) [GENEPIO:0002056]	label [rdfs:label]	antimicrobial resistance testing platform vendor (deprecated)@en	
+WARN	missing_obsolete_label	Siemens (deprecated) [GENEPIO:0002057]	label [rdfs:label]	Siemens (deprecated)@en	
+WARN	missing_obsolete_label	Biomérieux (deprecated) [GENEPIO:0002058]	label [rdfs:label]	Biomérieux (deprecated)@en	
+WARN	missing_obsolete_label	Becton Dickinson (deprecated) [GENEPIO:0002059]	label [rdfs:label]	Becton Dickinson (deprecated)@en	
+WARN	missing_obsolete_label	antimicrobial resistance testing reference standard (deprecated) [GENEPIO:0002062]	label [rdfs:label]	antimicrobial resistance testing reference standard (deprecated)@en	
+WARN	missing_obsolete_label	British Society for Antimicrobial Chemotherapy (BSAC) (deprecated) [GENEPIO:0002063]	label [rdfs:label]	British Society for Antimicrobial Chemotherapy (BSAC) (deprecated)@en	
+WARN	missing_obsolete_label	Clinical and Laboratory Standards Institute (CLSI) (Deprecated) [GENEPIO:0002064]	label [rdfs:label]	Clinical and Laboratory Standards Institute (CLSI) (Deprecated)@en	
+WARN	missing_obsolete_label	Deutsches Institut für Normung [GENEPIO:0002065]	label [rdfs:label]	Deutsches Institut für Normung@de	
+WARN	missing_obsolete_label	Deutsches Institut für Normung [GENEPIO:0002065]	label [rdfs:label]	German Institute for Standardization (DIN) (deprecated)@en	
+WARN	missing_obsolete_label	European Committe on Antimicrobial Susceptibility Testing (EUCAST) (deprecated) [GENEPIO:0002066]	label [rdfs:label]	European Committe on Antimicrobial Susceptibility Testing (EUCAST) (deprecated)@en	
+WARN	missing_obsolete_label	Société Française de Microbiologie (SFM) (deprecated) [GENEPIO:0002068]	label [rdfs:label]	Société Française de Microbiologie (SFM) (deprecated)@fr	
+WARN	missing_obsolete_label	drug minimum inhibitory concentration unit (deprecated) [GENEPIO:0002080]	label [rdfs:label]	drug minimum inhibitory concentration unit (deprecated)@en	
+WARN	missing_obsolete_label	wild type (WT) (deprecated) [GENEPIO:0002098]	label [rdfs:label]	wild type (WT) (deprecated)@en	
+WARN	missing_obsolete_label	non-wild type (NWT) (deprecated) [GENEPIO:0002099]	label [rdfs:label]	non-wild type (NWT) (deprecated)@en	
+WARN	missing_obsolete_label	antimicrobial resistance tissue specificity (deprecated) [GENEPIO:0002102]	label [rdfs:label]	antimicrobial resistance tissue specificity (deprecated)@en	
+WARN	missing_obsolete_label	antimicrobial resistance phenotype - epidemiological cut-off values [GENEPIO:0002181]	label [rdfs:label]	antimicrobial resistance phenotype - epidemiological cut-off values@en	
+WARN	missing_obsolete_label	has string value specification [GENEPIO:0002469]	label [rdfs:label]	has string value specification@en	
+WARN	missing_obsolete_label	has categorical specification of (deprecated) [GENEPIO:0002470]	label [rdfs:label]	has categorical specification of (deprecated)@en	
+WARN	missing_obsolete_label	has categorical value specification [GENEPIO:0002471]	label [rdfs:label]	has categorical value specification@en	
+INFO	lowercase_definition	other (metadata value) [GENEPIO:0000009]	IAO_0000115 [IAO:0000115]	\"other (metadata choice)\" indicates that for the given categorical variable, a respondent has chosen an other or additional response not listed.@en	
+INFO	lowercase_definition	other capture type [GENEPIO:0000013]	IAO_0000115 [IAO:0000115]	\"other capture type\" is a free text description provided to indicate a target capture specification not covered by the other types.@en	
+INFO	lowercase_definition	other project method [GENEPIO:0000014]	IAO_0000115 [IAO:0000115]	specify the project method@en	
+INFO	lowercase_definition	isolation date (deprecated) [GENEPIO:0000020]	IAO_0000115 [IAO:0000115]	date the strain was isolated	
+INFO	lowercase_definition	isolate received date [GENEPIO:0000023]	IAO_0000115 [IAO:0000115]	date lab received isolate	
+INFO	lowercase_definition	isolate upload date [GENEPIO:0000024]	IAO_0000115 [IAO:0000115]	date the isolate was entered into the database	
+INFO	lowercase_definition	subject body product [GENEPIO:0000028]	IAO_0000115 [IAO:0000115]	substance produced by the body, e.g. stool, mucus, where the specimen was obtained from.@en	
+INFO	lowercase_definition	conductivity measurement datum [GENEPIO:0000034]	IAO_0000115 [IAO:0000115]	electrical conductivity of water	
+INFO	lowercase_definition	dissolved oxygen concentration [GENEPIO:0000035]	IAO_0000115 [IAO:0000115]	concentration of dissolved oxygen	
+INFO	lowercase_definition	the Global Microbial Identifier Minimum Data for Matching (MDM) Standard [GENEPIO:0000036]	IAO_0000115 [IAO:0000115]	the Global Microbial Identifier \"Minimum data for Matching\" (MDM) standard is a standard that defines essential contextual data fields to be included in genomic sequence repository records.@en	
+INFO	lowercase_definition	soluble inorganic material [GENEPIO:0000037]	IAO_0000115 [IAO:0000115]	concentration of substances such as ammonia, road-salt, sea-salt, cyanide, hydrogen sulfide, thiocyanates, thiosulfates, etc.	
+INFO	lowercase_definition	nitrite concentration [GENEPIO:0000039]	IAO_0000115 [IAO:0000115]	concentration of nitrite	
+INFO	lowercase_definition	nitrate concentration [GENEPIO:0000040]	IAO_0000115 [IAO:0000115]	concentration of nitrate	
+INFO	lowercase_definition	total phosphorous concentration [GENEPIO:0000041]	IAO_0000115 [IAO:0000115]	total phosphorus concentration, calculated by: total phosphorus = total dissolved phosphorus + particulate phosphorus. Can also be measured without filtering, reported as phosphorus	
+INFO	lowercase_definition	bacteria density [GENEPIO:0000043]	IAO_0000115 [IAO:0000115]	number of bacteria in sample	
+INFO	lowercase_definition	CGF type [GENEPIO:0000052]	IAO_0000115 [IAO:0000115]	output of CGF	
+INFO	lowercase_definition	16S rRNA sequencing [GENEPIO:0000053]	IAO_0000115 [IAO:0000115]	16S ribosomal RNA sequencing is a sequencing method used to identify and compare bacteria present within a given sample. 16S rRNA gene sequencing is a well-established method for studying phylogeny and taxonomy of samples from complex microbiomes or environments that are difficult or impossible to study.    @en	
+INFO	lowercase_definition	Stx toxin type [GENEPIO:0000054]	IAO_0000115 [IAO:0000115]	pathogenic shiga toxin produced by STEC E. coli	
+INFO	lowercase_definition	Stx toxin subtype [GENEPIO:0000055]	IAO_0000115 [IAO:0000115]	shiga toxin variant	
+INFO	lowercase_definition	Stx1 Toxin PCR result [GENEPIO:0000056]	IAO_0000115 [IAO:0000115]	qPCR result of STX1 gene amplification	
+INFO	lowercase_definition	Stx1 cell culture level [GENEPIO:0000057]	IAO_0000115 [IAO:0000115]	level of stx toxin derived tissue culture toxicity	
+INFO	lowercase_definition	Stx2 Toxin PCR result [GENEPIO:0000058]	IAO_0000115 [IAO:0000115]	qPCR result of STX2 gene amplification	
+INFO	lowercase_definition	Stx2 cell culture level [GENEPIO:0000059]	IAO_0000115 [IAO:0000115]	level of stx toxin derived tissue culture toxicity	
+INFO	lowercase_definition	Qualicon (DuPont) RiboPrinter Microbial Characterization System [GENEPIO:0000065]	IAO_0000115 [IAO:0000115]	an automated system that takes a purified bacterial suspension, lyses the cells, extracts the DNA, restriction endonuclease digests the DNA, separates the digest on a gel, transfers the DNA bands to a membrane, probes the bands with non-radioisotope-labeled, 5S-16S-23S rRNA-specific probes (Southern hybridization), photographs the membrane, and finally compares the bar code-like pattern to databases in order to identify the genus and species.	
+INFO	lowercase_definition	DuPont identification pattern library [GENEPIO:0000066]	IAO_0000115 [IAO:0000115]	a library of RiboPrinter recognised patterns	
+INFO	lowercase_definition	sequencing run date [GENEPIO:0000069]	IAO_0000115 [IAO:0000115]	date the sequencing run was performed@en	
+INFO	lowercase_definition	sequencing location [GENEPIO:0000070]	IAO_0000115 [IAO:0000115]	location the sequencing run was performed	
+INFO	lowercase_definition	sequencing workflow [GENEPIO:0000072]	IAO_0000115 [IAO:0000115]	the workflow is the pre-defined sequence of steps to run the automated sequencing pipeline.	
+INFO	lowercase_definition	sequencing application [GENEPIO:0000073]	IAO_0000115 [IAO:0000115]	the sequencing application is the use or purpose of the sequencing	
+INFO	lowercase_definition	sequencing assay (deprecated) [GENEPIO:0000074]	IAO_0000115 [IAO:0000115]	the sequencing conditions and the analyte being measured	
+INFO	lowercase_definition	sequencing chemistry [GENEPIO:0000075]	IAO_0000115 [IAO:0000115]	lab method to determine the order of nucleotides in a DNA molecule	
+INFO	lowercase_definition	read length [GENEPIO:0000076]	IAO_0000115 [IAO:0000115]	number of base pairs per read	
+INFO	lowercase_definition	sequencing count of chemistry cycles [GENEPIO:0000080]	IAO_0000115 [IAO:0000115]	number of sequencing chemistry cycles@en	
+INFO	lowercase_definition	read adapter trimming [GENEPIO:0000084]	IAO_0000115 [IAO:0000115]	the removal of adapter sequences from demultiplexed data reads@en	
+INFO	lowercase_definition	phred quality score [GENEPIO:0000089]	IAO_0000115 [IAO:0000115]	percentage of reads with a Phred quality score over 30, which indicates less than a 1/1000 chance that the base was called incorrectly	
+INFO	lowercase_definition	assembly status [GENEPIO:0000091]	IAO_0000115 [IAO:0000115]	\"Attempting to convey the relative integrity and reliability of the data, six levels or terms have been proposed and applied to describe genome sequences.\"   See subclass choices.@en	
+INFO	lowercase_definition	MIxS data item (deprecated) [GENEPIO:0000105]	IAO_0000115 [IAO:0000115]	a MixS data item is a term or field defined in the Genomic Standards Consortium MIxS standard.@en	
+INFO	lowercase_definition	draft WGS lab bioinformatics process record [GENEPIO:0000145]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	draft WGS lab sequencing record [GENEPIO:0000146]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	bioinformatics pipeline name [GENEPIO:0000151]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	bioinformatics pipeline version [GENEPIO:0000152]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	bioinformatics pipeline protocol [GENEPIO:0000153]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	draft WGS lab sequencing quality metrics record [GENEPIO:0000154]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	draft WGS lab assembly quality metrics record [GENEPIO:0000155]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	clone ends project [GENEPIO:0000158]	IAO_0000115 [IAO:0000115]	a sequencing project involving clone-ends@en	
+INFO	lowercase_definition	exome resequencing project [GENEPIO:0000160]	IAO_0000115 [IAO:0000115]	exome resequencing project@en	
+INFO	lowercase_definition	NCBI BioSample isolate (human name or description) [GENEPIO:0001051]	IAO_0000115 [IAO:0000115]	identification or description of the specific individual from which this sample was obtained@en	
+INFO	lowercase_definition	human exposure event - travel datum [GENEPIO:0001058]	IAO_0000115 [IAO:0000115]	an epidemiology travel datum is a datum regarding a particular human's travel trip destination, mode, and motivation, with respect to an epidemiology investigation.@en	
+INFO	lowercase_definition	behavioural risk factor [GENEPIO:0001074]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	homeless status [GENEPIO:0001078]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	drug use status [GENEPIO:0001083]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	incarceration status [GENEPIO:0001084]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	HIV status [GENEPIO:0001085]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	HIV risk status [GENEPIO:0001086]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	A.I.D.S status [GENEPIO:0001087]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	drug abuse status [GENEPIO:0001088]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	injection drug use status [GENEPIO:0001089]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	recreational drug use status [GENEPIO:0001090]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	methadone use status [GENEPIO:0001091]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	substantial alcohol use/abuse status [GENEPIO:0001092]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	smoking status [GENEPIO:0001093]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	organism role [GENEPIO:0001171]	IAO_0000115 [IAO:0000115]	a role which inheres in an organism and is realized by the process of being alive	
+INFO	lowercase_definition	fluid - aspirate (deprecated) [GENEPIO:0001262]	IAO_0000115 [IAO:0000115]	[WHICH DEFINITION?] See http://medical-dictionary.thefreedictionary.com/aspirate@en	
+INFO	lowercase_definition	person role [GENEPIO:0001537]	IAO_0000115 [IAO:0000115]	a role which inheres in a person and is realized by the process of being in the context of civilization@en	
+INFO	lowercase_definition	resolving health trend [GENEPIO:0001550]	IAO_0000115 [IAO:0000115]	to restore to the normal state after some pathologic process.@en	
+INFO	lowercase_definition	assembly objective [GENEPIO:0001595]	IAO_0000115 [IAO:0000115]	submission of genome assembly (AGP data)@en	
+INFO	lowercase_definition	sequence annotation objective [GENEPIO:0001596]	IAO_0000115 [IAO:0000115]	sequence annotation data@en	
+INFO	lowercase_definition	phenotypic observation data from specimen [GENEPIO:0001601]	IAO_0000115 [IAO:0000115]	phenotypic descriptive data.@en	
+INFO	lowercase_definition	array project method [GENEPIO:0001603]	IAO_0000115 [IAO:0000115]	select Array if that is the primary method and no sequence data is submitted@en	
+INFO	lowercase_definition	mass spectrometry project method [GENEPIO:0001604]	IAO_0000115 [IAO:0000115]	select Mass Spectrometry if that is the primary method@en	
+INFO	lowercase_definition	missing [GENEPIO:0001618]	IAO_0000115 [IAO:0000115]	'missing' is a categorical choice recorded when a measurement value was known to be recorded in the past but the observed value cannot be located or retrieved for some reason.@en	
+INFO	lowercase_definition	not applicable [GENEPIO:0001619]	IAO_0000115 [IAO:0000115]	'Not applicable' is a categorical choice recorded when a measurable datum does not apply to a given context, as for example the measure of femur length for a patient with a missing limb.@en	
+INFO	lowercase_definition	not collected [GENEPIO:0001620]	IAO_0000115 [IAO:0000115]	'Not collected' is a categorical choice recorded when a datum was not measured with respect to some entity during some process.@en	
+INFO	lowercase_definition	pooled male and female [GENEPIO:0001661]	IAO_0000115 [IAO:0000115]	'pooled male and female' is a categorical value used when the male and female categories or levels of a factor are combined. If used to describe a single organism, then the organism will be one or the other.@en	
+INFO	lowercase_definition	in process [GENEPIO:0001662]	IAO_0000115 [IAO:0000115]	'In process' is a categorical choice recorded while the data for a given measurable datum has not finished being collected, is awaiting a conclusion, or has not yet been communicated.@en	
+INFO	lowercase_definition	after [GENEPIO:0001739]	IAO_0000115 [IAO:0000115]	t1 after t2 iff:= t2 before_or_simulataneous_with t1 and not (t1 simultaeous_with t2)@en	
+INFO	lowercase_definition	random survey data capture [GENEPIO:0001754]	IAO_0000115 [IAO:0000115]	sequences generated from a random sampling of the collected sample; not intended to be comprehensive sampling of the material@en	
+INFO	lowercase_definition	restricted access [GENEPIO:0001810]	IAO_0000115 [IAO:0000115]	'restricted access' is a categorical choice recorded when the data for a given measurable datum is available but not shared publicly because of information privacy concerns.@en	
+INFO	lowercase_definition	origin [GENEPIO:0001844]	IAO_0000115 [IAO:0000115]	\"In mathematics, the origin of a Euclidean space is a special point, usually denoted by the letter O, used as a fixed point of reference for the geometry of the surrounding space.        In physical problems, the choice of origin is often arbitrary, meaning any choice of origin will ultimately give the same answer. This allows one to pick an origin point that makes the mathematics as simple as possible, often by taking advantage of some kind of geometric symmetry.\"@en	
+INFO	lowercase_definition	antibiotic nonsensitive (high resistance) (deprecated) [GENEPIO:0002039]	IAO_0000115 [IAO:0000115]	non-susceptible indicates that an isolate is observed to offer complete resistance to a given antibiotic.@en	
+INFO	lowercase_definition	draft sequence repository data - submission to NCBI/DDBJ [GENEPIO:0002091]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	draft sequence repository data - submission to EBI [GENEPIO:0002092]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	EBI ENA Webin environmental feature [GENEPIO:0002135]	IAO_0000115 [IAO:0000115]	identifies sequences derived by direct molecular isolation from a bulk environmental DNA sample (by PCR with or without subsequent cloning of the product, DGGE, or other anonymous methods) with no reliable identification of the source organism. Environmental samples include clinical samples, gut contents, and other sequences from anonymous organisms that may be associated with a particular host. They do not include endosymbionts that can be reliably recovered from a particular host, organisms from a readily identifiable but uncultured field sample (e.g., many cyanobacteria), or phytoplasmas that can be reliably recovered from diseased plants (even though these cannot be grown in axenic culture).@en	
+INFO	lowercase_definition	unsigned short integer value specification [GENEPIO:0002151]	IAO_0000115 [IAO:0000115]	a 16 bit integer ranging from 0 - 65535@en	
+INFO	lowercase_definition	SourceCountry [GENEPIO:0002180]	IAO_0000115 [IAO:0000115]	country where isolate was collected@en	
+INFO	lowercase_definition	PulseNet:SourceState [GENEPIO:0002183]	IAO_0000115 [IAO:0000115]	(Province for PNC) where isolate was collected.@en	
+INFO	lowercase_definition	PulseNet:Traveled_To [GENEPIO:0002189]	IAO_0000115 [IAO:0000115]	other countries where the patient traveled@en	
+INFO	lowercase_definition	PulseNet:TypeDetails [GENEPIO:0002190]	IAO_0000115 [IAO:0000115]	further description of the source type, e.g. bovine, chicken@en	
+INFO	lowercase_definition	PulseNet:OtherStateIsolate [GENEPIO:0002192]	IAO_0000115 [IAO:0000115]	(Province for PNC) additional number used to identify the isolate@en	
+INFO	lowercase_definition	PulseNet:PatientSex [GENEPIO:0002194]	IAO_0000115 [IAO:0000115]	sex of patient when isolate was collected@en	
+INFO	lowercase_definition	PulseNet:Subspecies [GENEPIO:0002198]	IAO_0000115 [IAO:0000115]	subspecies, I - VI (roman numerals)@en	
+INFO	lowercase_definition	PulseNet:Outbreak [GENEPIO:0002201]	IAO_0000115 [IAO:0000115]	code issued by CDC; see: 'Naming of outbreaks…' on WebBoard. (format YYMMLabIDLITScode-#)@en	
+INFO	lowercase_definition	PulseNet:TEMP [GENEPIO:0002205]	IAO_0000115 [IAO:0000115]	provides LabID, gel and lane information@en	
+INFO	lowercase_definition	PulseNet:PFGE-XbaI-status [GENEPIO:0002212]	IAO_0000115 [IAO:0000115]	once the XbaI pattern is named, the status is confirmed by CDC@en	
+INFO	lowercase_definition	PulseNet:PFGE-BlnI-rundate [GENEPIO:0002215]	IAO_0000115 [IAO:0000115]	the date the BlnI gel is run@en	
+INFO	missing_superclass	data_1093 <http://edamontology.org/data_1093>	rdfs:subClassOf		
+INFO	missing_superclass	N0000003449 <http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000003449>	rdfs:subClassOf		
+INFO	missing_superclass	APOLLO_SV_00000173 [APOLLO:SV:00000173]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004299 [ARO:3004299]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004360 [ARO:3004360]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004366 [ARO:3004366]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004371 [ARO:3004371]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004372 [ARO:3004372]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004390 [ARO:3004390]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004391 [ARO:3004391]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004397 [ARO:3004397]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004404 [ARO:3004404]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004430 [ARO:3004430]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004431 [ARO:3004431]	rdfs:subClassOf		
+INFO	missing_superclass	ARO_3004440 [ARO:3004440]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000029 [BFO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000141 [BFO:0000141]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33281 [CHEBI:33281]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36357 [CHEBI:36357]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_59132 [CHEBI:59132]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_73772 [CHEBI:73772]	rdfs:subClassOf		
+INFO	missing_superclass	CHMO_0000993 [CHMO:0000993]	rdfs:subClassOf		
+INFO	missing_superclass	CHMO_0002743 [CHMO:0002743]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_4 [DOID:4]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000002 [ENVO:00000002]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000005 [ENVO:00000005]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000191 [ENVO:00000191]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000428 [ENVO:00000428]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002005 [ENVO:00002005]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00002297 [ENVO:00002297]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00010483 [ENVO:00010483]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_01000002 [ENVO:01000002]	rdfs:subClassOf		
+INFO	missing_superclass	EO_0007027 [EO:0007027]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0001183 [ERO:0001183]	rdfs:subClassOf		
+INFO	missing_superclass	ExO_0000038 [ExO:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	FIX_0000278 [FIX:0000278]	rdfs:subClassOf		
+INFO	missing_superclass	FLU_0000976 [FLU:0000976]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_00002403 [FOODON:00002403]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03311737 [FOODON:03311737]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03411564 [FOODON:03411564]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03430113 [FOODON:03430113]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03440011 [FOODON:03440011]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03450002 [FOODON:03450002]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03460111 [FOODON:03460111]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03470107 [FOODON:03470107]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03480020 [FOODON:03480020]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03490100 [FOODON:03490100]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03500010 [FOODON:03500010]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_03510136 [FOODON:03510136]	rdfs:subClassOf		
+INFO	missing_superclass	GAZ_00002561 [GAZ:00002561]	rdfs:subClassOf		
+INFO	missing_superclass	GENEPIO_0001643 [GENEPIO:0001643]	rdfs:subClassOf		
+INFO	missing_superclass	mapped ontology term [GENEPIO:0002034]	rdfs:subClassOf		
+INFO	missing_superclass	GEO_000000372 [GEO:000000372]	rdfs:subClassOf		
+INFO	missing_superclass	GEO_000000788 [GEO:000000788]	rdfs:subClassOf		
+INFO	missing_superclass	HP_0000118 [HP:0000118]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000005 [IAO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000032 [IAO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000100 [IAO:0000100]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000104 [IAO:0000104]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000109 [IAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000300 [IAO:0000300]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000416 [IAO:0000416]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000577 [IAO:0000577]	rdfs:subClassOf		
+INFO	missing_superclass	IDO_0000531 [IDO:0000531]	rdfs:subClassOf		
+INFO	missing_superclass	IDO_0000547 [IDO:0000547]	rdfs:subClassOf		
+INFO	missing_superclass	MI_0489 [MI:0489]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10239 [NCBITaxon:10239]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2 [NCBITaxon:2]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2157 [NCBITaxon:2157]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2759 [NCBITaxon:2759]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33090 [NCBITaxon:33090]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33213 [NCBITaxon:33213]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_590 [NCBITaxon:590]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_genus [NCBITaxon:genus]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_species [NCBITaxon:species]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C103180 [NCIT:C103180]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C1225 [NCIT:C1225]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C128985 [NCIT:C128985]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C14419 [NCIT:C14419]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C17627 [NCIT:C17627]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C20108 [NCIT:C20108]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C25191 [NCIT:C25191]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C25464 [NCIT:C25464]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C25621 [NCIT:C25621]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C25632 [NCIT:C25632]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C25690 [NCIT:C25690]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C25720 [NCIT:C25720]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C3833 [NCIT:C3833]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C40974 [NCIT:C40974]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C40975 [NCIT:C40975]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C40978 [NCIT:C40978]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C41277 [NCIT:C41277]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C42614 [NCIT:C42614]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C42775 [NCIT:C42775]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C43167 [NCIT:C43167]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C53471 [NCIT:C53471]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C68615 [NCIT:C68615]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C70810 [NCIT:C70810]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C71898 [NCIT:C71898]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C74723 [NCIT:C74723]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C79916 [NCIT:C79916]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C80234 [NCIT:C80234]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C85540 [NCIT:C85540]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C87194 [NCIT:C87194]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C89811 [NCIT:C89811]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C93582 [NCIT:C93582]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C93874 [NCIT:C93874]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000079 [OBI:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000093 [OBI:0000093]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000245 [OBI:0000245]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000626 [OBI:0000626]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000658 [OBI:0000658]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000659 [OBI:0000659]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000696 [OBI:0000696]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000938 [OBI:0000938]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001141 [OBI:0001141]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001169 [OBI:0001169]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001173 [OBI:0001173]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001479 [OBI:0001479]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001508 [OBI:0001508]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001614 [OBI:0001614]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001615 [OBI:0001615]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001616 [OBI:0001616]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001617 [OBI:0001617]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001619 [OBI:0001619]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001620 [OBI:0001620]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001621 [OBI:0001621]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001622 [OBI:0001622]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001628 [OBI:0001628]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001629 [OBI:0001629]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001880 [OBI:0001880]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001882 [OBI:0001882]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001884 [OBI:0001884]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001888 [OBI:0001888]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001889 [OBI:0001889]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001891 [OBI:0001891]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001892 [OBI:0001892]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001893 [OBI:0001893]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001896 [OBI:0001896]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001899 [OBI:0001899]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001930 [OBI:0001930]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001931 [OBI:0001931]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001933 [OBI:0001933]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001941 [OBI:0001941]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001942 [OBI:0001942]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100051 [OBI:0100051]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400103 [OBI:0400103]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600005 [OBI:0600005]	rdfs:subClassOf		
+INFO	missing_superclass	OMP_0000207 [OMP:0000207]	rdfs:subClassOf		
+INFO	missing_superclass	OMRSE_00000013 [OMRSE:00000013]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000146 [PATO:0000146]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000383 [PATO:0000383]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000384 [PATO:0000384]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001894 [PATO:0001894]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002390 [PATO:0002390]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000033 [PCO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000149 [SO:0000149]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000353 [SO:0000353]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001026 [SO:0001026]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001027 [SO:0001027]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001462 [SO:0001462]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001505 [SO:0001505]	rdfs:subClassOf		
+INFO	missing_superclass	STATO_0000010 [STATO:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	STATO_0000047 [STATO:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	STATO_0000064 [STATO:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	STATO_0000090 [STATO:0000090]	rdfs:subClassOf		
+INFO	missing_superclass	TRANS_0000000 [TRANS:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000061 [UBERON:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000105 [UBERON:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000000 [UO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000001 [UO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000003 [UO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000008 [UO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000016 [UO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000027 [UO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000032 [UO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000033 [UO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000034 [UO:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000035 [UO:0000035]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000036 [UO:0000036]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000051 [UO:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000060 [UO:0000060]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000121 [UO:0000121]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000185 [UO:0000185]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000189 [UO:0000189]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000195 [UO:0000195]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000196 [UO:0000196]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000212 [UO:0000212]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000244 [UO:0000244]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000247 [UO:0000247]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000262 [UO:0000262]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000273 [UO:0000273]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000274 [UO:0000274]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000318 [UO:0000318]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000328 [UO:0000328]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000329 [UO:0000329]	rdfs:subClassOf		
+INFO	missing_superclass	hancestro_0004 [hancestro:0004]	rdfs:subClassOf		
+INFO	missing_superclass	sep_00042 [sep:00042]	rdfs:subClassOf		
+INFO	missing_superclass	sep_00196 [sep:00196]	rdfs:subClassOf		
+INFO	missing_superclass	SIO_000136 <http://semanticscience.org/resource/SIO_000136>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_000415 <http://semanticscience.org/resource/SIO_000415>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_000507 <http://semanticscience.org/resource/SIO_000507>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_000546 <http://semanticscience.org/resource/SIO_000546>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_000608 <http://semanticscience.org/resource/SIO_000608>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_000729 <http://semanticscience.org/resource/SIO_000729>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_000811 <http://semanticscience.org/resource/SIO_000811>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_001012 <http://semanticscience.org/resource/SIO_001012>	rdfs:subClassOf		
+INFO	missing_superclass	SIO_010057 <http://semanticscience.org/resource/SIO_010057>	rdfs:subClassOf		
+INFO	missing_superclass	EFO_0000433 <http://www.ebi.ac.uk/efo/EFO_0000433>	rdfs:subClassOf		
+INFO	missing_superclass	EFO_0000683 <http://www.ebi.ac.uk/efo/EFO_0000683>	rdfs:subClassOf		
+INFO	missing_superclass	EFO_0001799 <http://www.ebi.ac.uk/efo/EFO_0001799>	rdfs:subClassOf		
+INFO	missing_superclass	EFO_0004953 <http://www.ebi.ac.uk/efo/EFO_0004953>	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

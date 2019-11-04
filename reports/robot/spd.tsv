@@ -1,0 +1,95 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	posterior lateral eye lens [SPD:0000395]	IAO_0000115 [IAO:0000115]	The lens of the posterior lateral eye.	
+ERROR	duplicate_definition	posterior median eye lens [SPD:0000396]	IAO_0000115 [IAO:0000115]	The lens of the posterior lateral eye.	
+ERROR	duplicate_definition	circulatory system [SPD:0000611]	IAO_0000115 [IAO:0000115]	For Wirkner to do.	
+ERROR	duplicate_definition	sinus [SPD:0000614]	IAO_0000115 [IAO:0000115]	For Wirkner to do.	
+ERROR	duplicate_definition	lacuna [SPD:0000615]	IAO_0000115 [IAO:0000115]	For Wirkner to do.	
+ERROR	duplicate_definition	flagelliform gland [SPD:0000639]	IAO_0000115 [IAO:0000115]	A large silk gland with complex lumen and long duct, discharging in a spigot on a posterior lateral spinneret.	
+ERROR	duplicate_definition	pseudoflagelliform gland [SPD:0000714]	IAO_0000115 [IAO:0000115]	A large silk gland with complex lumen and long duct, discharging in a spigot on a posterior lateral spinneret.	
+ERROR	missing_ontology_description	spd.owl	dc11:description		
+ERROR	duplicate_label	prosoma cuticle [SPD:0000339]	label [rdfs:label]	prosoma cuticle	
+ERROR	duplicate_label	prosoma cuticle [SPD:0000488]	label [rdfs:label]	prosoma cuticle	
+ERROR	duplicate_label	prosoma color [SPD:0000336]	label [rdfs:label]	prosoma color	
+ERROR	duplicate_label	prosoma color [SPD:0000355]	label [rdfs:label]	prosoma color	
+ERROR	duplicate_label	palpal femoral thorn [SPD:0000641]	label [rdfs:label]	palpal femoral thorn	
+ERROR	duplicate_label	palpal femoral thorn [SPD:0000646]	label [rdfs:label]	palpal femoral thorn	
+ERROR	duplicate_label	macroseta [SPD:0000315]	label [rdfs:label]	macroseta	
+ERROR	duplicate_label	macroseta [SPD:0000405]	label [rdfs:label]	macroseta	
+ERROR	missing_ontology_license	spd.owl	dc:license		
+ERROR	missing_ontology_title	spd.owl	dc11:title		
+WARN	missing_obsolete_label	2nd opisthosomal segment (epigastrium) [SPD:0000007]	label [rdfs:label]	2nd opisthosomal segment (epigastrium)	
+WARN	missing_obsolete_label	3rd opisthosomal segment (posterior booklungs and tracheae) [SPD:0000009]	label [rdfs:label]	3rd opisthosomal segment (posterior booklungs and tracheae)	
+WARN	missing_obsolete_label	stage [SPD:0000012]	label [rdfs:label]	stage	
+WARN	missing_obsolete_label	organ system [SPD:0000014]	label [rdfs:label]	organ system	
+WARN	missing_obsolete_label	posterior lateral respiratory structure [SPD:0000031]	label [rdfs:label]	posterior lateral respiratory structure	
+WARN	missing_obsolete_label	median tracheae or entapophyses [SPD:0000032]	label [rdfs:label]	median tracheae or entapophyses	
+WARN	missing_obsolete_label	AMS-cribellum-colulus [SPD:0000035]	label [rdfs:label]	AMS-cribellum-colulus	
+WARN	missing_obsolete_label	intestine [SPD:0000047]	label [rdfs:label]	intestine	
+WARN	missing_obsolete_label	prosoma segment [SPD:0000056]	label [rdfs:label]	prosoma segment	
+WARN	missing_obsolete_label	external opisthosoma [SPD:0000057]	label [rdfs:label]	external opisthosoma	
+WARN	missing_obsolete_label	posterior median respiratory structure [SPD:0000064]	label [rdfs:label]	posterior median respiratory structure	
+WARN	missing_obsolete_label	posterior booklung or lateral tracheae [SPD:0000118]	label [rdfs:label]	posterior booklung or lateral tracheae	
+WARN	missing_obsolete_label	primary spermatheca [SPD:0000138]	label [rdfs:label]	primary spermatheca	
+WARN	missing_obsolete_label	stalk of spermatheca [SPD:0000141]	label [rdfs:label]	stalk of spermatheca	
+WARN	missing_obsolete_label	male serrula [SPD:0000145]	label [rdfs:label]	male serrula	
+WARN	missing_obsolete_label	male maxillary gland [SPD:0000146]	label [rdfs:label]	male maxillary gland	
+WARN	missing_obsolete_label	male endite apical tuft seta [SPD:0000148]	label [rdfs:label]	male endite apical tuft seta	
+WARN	missing_obsolete_label	sclerite of copulatory bulb [SPD:0000181]	label [rdfs:label]	sclerite of copulatory bulb	
+WARN	missing_obsolete_label	promarginal seta [SPD:0000195]	label [rdfs:label]	promarginal seta	
+WARN	missing_obsolete_label	retromarginal seta [SPD:0000196]	label [rdfs:label]	retromarginal seta	
+WARN	missing_obsolete_label	female palpal tarsus ventral seta [SPD:0000202]	label [rdfs:label]	female palpal tarsus ventral seta	
+WARN	missing_obsolete_label	female palpal tarsus apical seta [SPD:0000203]	label [rdfs:label]	female palpal tarsus apical seta	
+WARN	missing_obsolete_label	agg gland spigot [SPD:0000215]	label [rdfs:label]	agg gland spigot	
+WARN	missing_obsolete_label	tactile hair appendages prosoma [SPD:0000216]	label [rdfs:label]	tactile hair appendages prosoma	
+WARN	missing_obsolete_label	socket hair appendages prosoma [SPD:0000217]	label [rdfs:label]	socket hair appendages prosoma	
+WARN	missing_obsolete_label	scale appendages prosoma [SPD:0000218]	label [rdfs:label]	scale appendages prosoma	
+WARN	missing_obsolete_label	booklung cover internal surface [SPD:0000247]	label [rdfs:label]	booklung cover internal surface	
+WARN	missing_obsolete_label	lateral tracheae internal structure [SPD:0000252]	label [rdfs:label]	lateral tracheae internal structure	
+WARN	missing_obsolete_label	seta appendage prosoma [SPD:0000274]	label [rdfs:label]	seta appendage prosoma	
+WARN	missing_obsolete_label	median trachea internal structure [SPD:0000275]	label [rdfs:label]	median trachea internal structure	
+WARN	missing_obsolete_label	opisthosomal seta [SPD:0000305]	label [rdfs:label]	opisthosomal seta	
+WARN	missing_obsolete_label	hair opisthosoma [SPD:0000306]	label [rdfs:label]	hair opisthosoma	
+WARN	missing_obsolete_label	scale opisthosoma [SPD:0000307]	label [rdfs:label]	scale opisthosoma	
+WARN	missing_obsolete_label	appendage of prosoma [SPD:0000331]	label [rdfs:label]	appendage of prosoma	
+WARN	missing_obsolete_label	whole organism color [SPD:0000332]	label [rdfs:label]	whole organism color	
+WARN	missing_obsolete_label	prosoma color [SPD:0000336]	label [rdfs:label]	prosoma color	
+WARN	missing_obsolete_label	opisthosomal color [SPD:0000337]	label [rdfs:label]	opisthosomal color	
+WARN	missing_obsolete_label	setae patterns [SPD:0000338]	label [rdfs:label]	setae patterns	
+WARN	missing_obsolete_label	prosoma cuticle [SPD:0000339]	label [rdfs:label]	prosoma cuticle	
+WARN	missing_obsolete_label	eye proportions [SPD:0000340]	label [rdfs:label]	eye proportions	
+WARN	missing_obsolete_label	eye relative positions [SPD:0000341]	label [rdfs:label]	eye relative positions	
+WARN	missing_obsolete_label	trichobothrial patterns [SPD:0000347]	label [rdfs:label]	trichobothrial patterns	
+WARN	missing_obsolete_label	macrosetae patterns [SPD:0000351]	label [rdfs:label]	macrosetae patterns	
+WARN	missing_obsolete_label	prosoma color [SPD:0000355]	label [rdfs:label]	prosoma color	
+WARN	missing_obsolete_label	opisthosomal cuticle [SPD:0000356]	label [rdfs:label]	opisthosomal cuticle	
+WARN	missing_obsolete_label	tactile hair appendages prosoma shaft [SPD:0000362]	label [rdfs:label]	tactile hair appendages prosoma shaft	
+WARN	missing_obsolete_label	sensilla appendage prosoma [SPD:0000387]	label [rdfs:label]	sensilla appendage prosoma	
+WARN	missing_obsolete_label	development [SPD:0000388]	label [rdfs:label]	development	
+WARN	missing_obsolete_label	cuticle legs and palp [SPD:0000389]	label [rdfs:label]	cuticle legs and palp	
+WARN	missing_obsolete_label	cuticle carapace [SPD:0000398]	label [rdfs:label]	cuticle carapace	
+WARN	missing_obsolete_label	hair carapace [SPD:0000399]	label [rdfs:label]	hair carapace	
+WARN	missing_obsolete_label	scale carapace [SPD:0000401]	label [rdfs:label]	scale carapace	
+WARN	missing_obsolete_label	seta carapace [SPD:0000404]	label [rdfs:label]	seta carapace	
+WARN	missing_obsolete_label	macroseta [SPD:0000405]	label [rdfs:label]	macroseta	
+WARN	missing_obsolete_label	tracheal system [SPD:0000427]	label [rdfs:label]	tracheal system	
+WARN	missing_obsolete_label	tracheal tube [SPD:0000436]	label [rdfs:label]	tracheal tube	
+WARN	missing_obsolete_label	lateral respiratory structure [SPD:0000437]	label [rdfs:label]	lateral respiratory structure	
+WARN	missing_obsolete_label	median respiratory structure [SPD:0000438]	label [rdfs:label]	median respiratory structure	
+WARN	missing_obsolete_label	anterior lateral respiratory structure [SPD:0000441]	label [rdfs:label]	anterior lateral respiratory structure	
+WARN	missing_obsolete_label	anterior median respiratory structure [SPD:0000442]	label [rdfs:label]	anterior median respiratory structure	
+WARN	missing_obsolete_label	leg cuticle [SPD:0000444]	label [rdfs:label]	leg cuticle	
+WARN	missing_obsolete_label	behavioral entity [SPD:0000448]	label [rdfs:label]	behavioral entity	
+WARN	missing_obsolete_label	cribellate silk carding behavior [SPD:0000449]	label [rdfs:label]	cribellate silk carding behavior	
+WARN	missing_obsolete_label	prosoma cuticle [SPD:0000488]	label [rdfs:label]	prosoma cuticle	
+WARN	missing_obsolete_label	duct of female genitalia [SPD:0000545]	label [rdfs:label]	duct of female genitalia	
+WARN	missing_obsolete_label	receptacle [SPD:0000549]	label [rdfs:label]	receptacle	
+WARN	missing_obsolete_label	anterior receptacle [SPD:0000550]	label [rdfs:label]	anterior receptacle	
+WARN	missing_obsolete_label	gland of anterior receptacle [SPD:0000551]	label [rdfs:label]	gland of anterior receptacle	
+WARN	missing_obsolete_label	orb web [SPD:0000609]	label [rdfs:label]	orb web	
+WARN	missing_obsolete_label	palpal femur [SPD:0000634]	label [rdfs:label]	palpal femur	
+WARN	missing_obsolete_label	palpal patella [SPD:0000642]	label [rdfs:label]	palpal patella	
+WARN	missing_obsolete_label	palpal tarsus [SPD:0000643]	label [rdfs:label]	palpal tarsus	
+WARN	missing_obsolete_label	palpal tibia [SPD:0000644]	label [rdfs:label]	palpal tibia	
+WARN	missing_obsolete_label	palpal trochanter [SPD:0000645]	label [rdfs:label]	palpal trochanter	
+WARN	missing_obsolete_label	palpal femoral thorn [SPD:0000646]	label [rdfs:label]	palpal femoral thorn	
+INFO	missing_superclass	anatomical entity [SPD:0000000]	rdfs:subClassOf		

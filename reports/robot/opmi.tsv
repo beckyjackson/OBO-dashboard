@@ -1,0 +1,269 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	recruitment status [OPMI:0000304]	IAO_0000115 [IAO:0000115]	The current stage of a clinical study and whether it is or will be open for enrollment	
+ERROR	duplicate_definition	study status [OPMI:0000327]	IAO_0000115 [IAO:0000115]	The current stage of a clinical study and whether it is or will be open for enrollment	
+ERROR	duplicate_definition	Whether self owns email address [OPMI:0000220]	IAO_0000115 [IAO:0000115]	An email question that asks whether the email address provided belongs to the person being surveyed.	
+ERROR	duplicate_definition	Who owns email address [OPMI:0000221]	IAO_0000115 [IAO:0000115]	An email question that asks whether the email address provided belongs to the person being surveyed.	
+ERROR	duplicate_definition	age question [OPMI:0000169]	IAO_0000115 [IAO:0000115]	A textual question about age	
+ERROR	duplicate_definition	email question [OPMI:0000218]	IAO_0000115 [IAO:0000115]	A textual question about age	
+ERROR	multiple_definitions	Early Phase 1 clinical trial [OPMI:0004508]	IAO_0000115 [IAO:0000115]	A clinical trial that is at Early Phase 1 or Phase 0	
+ERROR	multiple_definitions	Early Phase 1 clinical trial [OPMI:0004508]	IAO_0000115 [IAO:0000115]	A clinical trial that is at an Early Phase i or Phase 0, which is designed to use an investigational agent that is available only in very limited quantities and which has never previously given to humans or for which there is extremely limited human experience. Phase 0 clinical trials are intended to enable researchers to understand the path of the drug in the body and its efficacy. Adverse event reporting in Phase 0 trials is expedited. [def-source: NCI]	
+ERROR	multiple_definitions	Phase 3 clinical trial [OPMI:0004511]	IAO_0000115 [IAO:0000115]	A clinical trial that is at Phase 3	
+ERROR	multiple_definitions	Phase 3 clinical trial [OPMI:0004511]	IAO_0000115 [IAO:0000115]	A clinical trial that is at Phase 3, which is designed to investigate the efficacy of the biomedical or behavioral intervention in large groups of human subjects (from several hundred to several thousand), to confirm efficacy, to monitor adverse reactions to the new medication or treatment regimen with respect to long-term use and by comparing the intervention to other standard or experimental interventions as well as to a placebo. [def-source: NCI]	
+WARN	missing_definition	more than 5.5 pounds (2500 grams) birth weight [OPMI:0000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	less than 5.5 pounds (2500 grams) birth weight [OPMI:0000005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unknown birth weight [OPMI:0000006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	birth weight declined to answer [OPMI:0000007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	individual plan insurance (paid by the member) [OPMI:0000008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	group plan insurance through employee union [OPMI:0000009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	USA government health plan insurance [OPMI:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	no insurance status [OPMI:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body temperature measured orally [OPMI:0000012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body temprature by ear (tempanic, aural) [OPMI:0000013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body temprature by forhead [OPMI:0000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arterial line body temperature [OPMI:0000015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body temprature by other measurement [OPMI:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	direct serum bilirubin level [OPMI:0000018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	precision medicine objective [OPMI:0000019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medical history form [OPMI:0000031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physical measurement form [OPMI:0000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	laboratory result form [OPMI:0000040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	new patient form [OPMI:0000041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biopsy procedure form [OPMI:0000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney biopsy procedure form [OPMI:0000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consent form [OPMI:0000044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paper form [OPMI:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paper form with signature required [OPMI:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biosample collection form [OPMI:0000049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clinic reception form [OPMI:0000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medications form [OPMI:0000051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	participant study status form [OPMI:0000052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospitalization form [OPMI:0000053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	personal history form [OPMI:0000054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	AKI hospitalization form [OPMI:0000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CKD hospitalization form [OPMI:0000056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	participant reported outcome measures form [OPMI:0000057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health literacy questionnaire form [OPMI:0000058]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biopsy safety checklist form [OPMI:0000059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	post biopsy form [OPMI:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pathology images upload form [OPMI:0000062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diagnostic core .jpg images QC form [OPMI:0000063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diagnostic core - disease categories form [OPMI:0000064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central path quality metrics assessment Dx core form [OPMI:0000065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central path quality metrics assessment interrogation core form [OPMI:0000066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	post-biopsy patient experience survey form [OPMI:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adverse event entry form [OPMI:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	month of year [OPMI:0000070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	person first name [OPMI:0000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	person last name [OPMI:0000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	person middle name [OPMI:0000097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	person full name [OPMI:0000098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	married marital status [OPMI:0000105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	single marrital status [OPMI:0000106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	divorced marrital status [OPMI:0000107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	legally separated marital status [OPMI:0000109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	not married marital status [OPMI:0000110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cellular telephone number [OPMI:0000115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	home postal address [OPMI:0000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	work postal address [OPMI:0000118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	M.D. completion education level [OPMI:0000136]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pharmacy complete education level [OPMI:0000137]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health insurance plan [OPMI:0000155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	private health insurance plan [OPMI:0000158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	worker compensation insurance plan [OPMI:0000159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body weight [OPMI:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	emergency contact phone number [OPMI:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	care provider [OPMI:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary care provider [OPMI:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary care provider [OPMI:0000166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tertiary care provider [OPMI:0000167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	BMI question [OPMI:0000173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether BMI greater than 40 kg per m2 [OPMI:0000174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	BMI greater than 40 kg per m2 [OPMI:0000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	question about blood transfusion [OPMI:0000176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether unwilling to receive blood transfusion [OPMI:0000177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pregnancy question [OPMI:0000178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transplant question [OPMI:0000180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP clinical report form [OPMI:0000183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	form generated by [OPMI:0000185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP demographic information form [OPMI:0000193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP health literacy questionnaire form [OPMI:0000194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP AKI hospitalization form [OPMI:0000196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP CKD hospitalization form [OPMI:0000197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP laboratory result form [OPMI:0000198]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP medical history form [OPMI:0000199]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP consent form [OPMI:0000200]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP medications form [OPMI:0000201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP new patient form [OPMI:0000202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP participant reported outcome measures form [OPMI:0000203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP participant study status form [OPMI:0000204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP pathology images upload form [OPMI:0000205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP patient experience survey form [OPMI:0000206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP personal history form [OPMI:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP physical measurement form [OPMI:0000208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP post biopsy form [OPMI:0000209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP tissue tracking form [OPMI:0000210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP Dx core - .jpg images QC form [OPMI:0000211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP Dx core - disease categories form [OPMI:0000212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP central path quality metrics assessment Dx core form [OPMI:0000213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	KPMP central path quality metrics assessment interrogation core form [OPMI:0000214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Who owns the 2nd email address [OPMI:0000225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Who owns the 3rd email address [OPMI:0000226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physician information [OPMI:0000227]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physician specialty information [OPMI:0000228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nephrology care [OPMI:0000236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocrinology care [OPMI:0000237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physician question [OPMI:0000238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What physician\'s specialty [OPMI:0000239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospital question [OPMI:0000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	what name of hospital [OPMI:0000241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	address question [OPMI:0000242]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What street name [OPMI:0000243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What city [OPMI:0000244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What state [OPMI:0000245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What Zip code [OPMI:0000246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What street number and name [OPMI:0000247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What apartment [OPMI:0000248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What country [OPMI:0000249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether have physician for usual medical care [OPMI:0000250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nephrology care provider [OPMI:0000251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	patient condition question [OPMI:0000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether diabetic kidney disease (DKD) [OPMI:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether hypertensive CKD (H-CKD) [OPMI:0000254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether diabetic nephropathy resisters percutaneous biopsy [OPMI:0000255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether AKI percutaneous biopsy [OPMI:0000256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether AKI open biopsy [OPMI:0000257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether biopsy [OPMI:0000258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CRF filled up by patient [OPMI:0000259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What postal code [OPMI:0000260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CRF filled up by research coordinator [OPMI:0000261]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CRF filled up by biopsy operator [OPMI:0000262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biopsy-related CRF [OPMI:0000263]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	post biopsy hospitlization form [OPMI:0000264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	screening and patient tracking CRF [OPMI:0000266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enrollment CRF [OPMI:0000267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	HIPAA release [OPMI:0000269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether patient signed HIPPA release form [OPMI:0000270]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	When HIPAA release form signed [OPMI:0000271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether scanned HIPAA release form uploaded [OPMI:0000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	AKi percutaneous biopsy [OPMI:0000277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	AKI open biopsy [OPMI:0000279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diabetic nephropathy resisters percutaneous biopsy [OPMI:0000280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether diseased [OPMI:0000283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether kidney diseased [OPMI:0000284]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quality measured by year [OPMI:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	answering textual question [OPMI:0000312]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CRF filled up by participant candidate [OPMI:0000314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pregnancy test positive [OPMI:0000318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemoglobin test finding [OPMI:0000319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemoglobin test positive with result < 9 g/dl [OPMI:0000320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	status [OPMI:0000326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	patient status [OPMI:0000328]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kit identifier [OPMI:0000332]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	excellent health status [OPMI:0000339]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	very good health status [OPMI:0000340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	good health status [OPMI:0000341]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fair health status [OPMI:0000342]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	poor health status [OPMI:0000343]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quality of life [OPMI:0000344]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	excellent quality of life [OPMI:0000345]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	very good quality of life [OPMI:0000346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	good quality of life [OPMI:0000347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fair quality of life [OPMI:0000348]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	poor quality of life [OPMI:0000349]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consent status [OPMI:0000350]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	year [OPMI:0000353]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medical history question [OPMI:0000354]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What birth weight [OPMI:0000355]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Japan clinical trial identifier [OPMI:0000356]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	JAPIC clinical trial identifier [OPMI:0000358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	JMACCT clinical trial identifier [OPMI:0000359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	European clinical trial registry identifier [OPMI:0000360]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	combinational intervention [OPMI:0000365]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has process quality [OPMI:0000366]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	radiation [OPMI:0000374]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic intervention [OPMI:0000375]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GFR 30-59 mL/min/1.73m2 [OPMI:0004476]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eGFR >=60 mL/min/1.73m2 with urine albumin excretion >= 30 mg/g creatinine [OPMI:0004477]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eGFR >= 60 mL/min/1.73m2 with urine protein excretion >= 150 mg/g creatinine [OPMI:0004478]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	age at diagnosis of disease [OPMI:0004482]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	age at diagnosis of kidney disease [OPMI:0004483]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether chronic kidney disease [OPMI:0004484]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether acute kidney injury [OPMI:0004485]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	time of biopsy [OPMI:0004486]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	year of kidney biopsy [OPMI:0004487]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	time of kidney biopsy [OPMI:0004488]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	month of kidney biopsy [OPMI:0004489]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	age at the start of kidney stone [OPMI:0004490]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether diabetes [OPMI:0004492]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	age at diagosis of diabetes [OPMI:0004493]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What disease [OPMI:0004494]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What type of diabetes [OPMI:0004495]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	treatment question [OPMI:0004496]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medicatoin treatment question [OPMI:0004497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surgical treatment question [OPMI:0004498]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether taking medication for diabetes [OPMI:0004499]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	age at the start of taking medication for diabetes [OPMI:0004501]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What medication [OPMI:0004502]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	What medication taken for diabetes [OPMI:0004503]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether insulin taken for diabetes [OPMI:0004504]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Whether diabetes during pregnancy [OPMI:0004505]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	household size [OPMI:0000003]	IAO_0000115 [IAO:0000115]	the number of people living together supported jointly by an household income	
+INFO	lowercase_definition	birthday [OPMI:0000092]	IAO_0000115 [IAO:0000115]	the anniversary of the birth of a person	
+INFO	lowercase_definition	personal information [OPMI:0000093]	IAO_0000115 [IAO:0000115]	information associated with an individual	
+INFO	lowercase_definition	part time employment status [OPMI:0000124]	IAO_0000115 [IAO:0000115]	a status of employment that carries fewer hours per week than a full-time job.	
+INFO	lowercase_definition	hourly employment status [OPMI:0000125]	IAO_0000115 [IAO:0000115]	an employment status where the work is arranged and paid on a hourly basis.	
+INFO	lowercase_definition	centrally registered study identifier symbol [OPMI:0000165]	IAO_0000115 [IAO:0000115]	a centrally registered identifier symobol that refers to a specific study	
+INFO	lowercase_definition	biopsy [OPMI:0000274]	IAO_0000115 [IAO:0000115]	a process that obtains a tissue from a living body in order to discover the presence, cause, or extent of a disease, or perform further biomeidcal investigation	
+INFO	lowercase_definition	visit date [OPMI:0000285]	IAO_0000115 [IAO:0000115]	the date on which a visit occurs	
+INFO	lowercase_definition	barcode [OPMI:0000286]	IAO_0000115 [IAO:0000115]	a machine-readable centrally registered identifier that is represented in a visual format on a surface	
+INFO	lowercase_definition	specimen barcode [OPMI:0000287]	IAO_0000115 [IAO:0000115]	a barcode that represents a specific specimen	
+INFO	lowercase_definition	date of registration [OPMI:0000302]	IAO_0000115 [IAO:0000115]	a date when a registration occurs	
+INFO	lowercase_definition	today\'s date [OPMI:0000313]	IAO_0000115 [IAO:0000115]	a date of the present date	
+INFO	lowercase_definition	date of first test [OPMI:0000321]	IAO_0000115 [IAO:0000115]	a date when a test is performed at the first time	
+INFO	lowercase_definition	date of test [OPMI:0000322]	IAO_0000115 [IAO:0000115]	a date when a test is performed	
+INFO	lowercase_definition	date of second test [OPMI:0000323]	IAO_0000115 [IAO:0000115]	a date when a test is performed at the second time	
+INFO	lowercase_definition	exclusion criterion [OPMI:0000329]	IAO_0000115 [IAO:0000115]	a selection criterion (rule) which defines and states the exclusion condition for an entity to be considered as suitable for a given task or participation in a process.	
+INFO	lowercase_definition	study participant\'s physician role [OPMI:0004481]	IAO_0000115 [IAO:0000115]	a role of a physician who takes care of a study participant	
+INFO	lowercase_definition	clinical trial [OPMI:0004507]	IAO_0000115 [IAO:0000115]	a clinical trial is a medical interventional study where participants are assigned prospectively to an intervention or interventions according to a protocol to evaluate the safety and efficacy of the intervention(s) on biomedical or other health related outcomes. The Interventions include but are not restricted to drugs, cells and other biological products, surgical procedures, radiologic procedures, devices, behavioral treatments, process-of-care changes, preventive care, etc.	
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000017 [BFO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000038 [BFO:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000148 [BFO:0000148]	rdfs:subClassOf		
+INFO	missing_superclass	CMO_0000015 [CMO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	CMO_0000023 [CMO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	CMO_0000490 [CMO:0000490]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000856 [ENVO:00000856]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000005 [IAO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000109 [IAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000300 [IAO:0000300]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000310 [IAO:0000310]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000422 [IAO:0000422]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000429 [IAO:0000429]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000577 [IAO:0000577]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000578 [IAO:0000578]	rdfs:subClassOf		
+INFO	missing_superclass	MONDO_0002492 [MONDO:0002492]	rdfs:subClassOf		
+INFO	missing_superclass	MONDO_0005300 [MONDO:0005300]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C138901 [NCIT:C138901]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C138933 [NCIT:C138933]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0000002 [OAE:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0002807 [OAE:0002807]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000066 [OBI:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000245 [OBI:0000245]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001479 [OBI:0001479]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001755 [OBI:0001755]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100051 [OBI:0100051]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500026 [OBI:0500026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600005 [OBI:0600005]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000018 [OGMS:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	OMRSE_00000000 [OMRSE:00000000]	rdfs:subClassOf		
+INFO	missing_superclass	OMRSE_00000012 [OMRSE:00000012]	rdfs:subClassOf		
+INFO	missing_superclass	OMRSE_00000013 [OMRSE:00000013]	rdfs:subClassOf		
+INFO	missing_superclass	OMRSE_00000024 [OMRSE:00000024]	rdfs:subClassOf		
+INFO	missing_superclass	OMRSE_00000506 [OMRSE:00000506]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000011 [PATO:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000128 [PATO:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001236 [PATO:0001236]	rdfs:subClassOf		

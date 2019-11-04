@@ -1,0 +1,17 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	cro.owl	dc11:description		
+ERROR	missing_ontology_license	cro.owl	dc:license		
+ERROR	missing_ontology_title	cro.owl	dc11:title		
+WARN	missing_definition	relationship [CRO:0000070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contributorship [CRO:0000071]	IAO_0000115 [IAO:0000115]		
+WARN	invalid_xref	contributor role [CRO:0000000]	hasDbXref [oboInOwl:hasDbXref]	9dbb95f4-55ed-4e43-9301-a9f0e3e17afe	
+WARN	missing_obsolete_label	educational training role [CRO:0000075]	label [rdfs:label]	educational training role	
+WARN	missing_obsolete_label	systems administration role [CRO:0000077]	label [rdfs:label]	systems administration role	
+WARN	missing_obsolete_label	supervisory role [CRO:0000082]	label [rdfs:label]	supervisory role	
+WARN	missing_obsolete_label	research conceptualization role [CRO:0000086]	label [rdfs:label]	research conceptualization role	
+WARN	missing_obsolete_label	original draft preparation role [CRO:0000088]	label [rdfs:label]	original draft preparation role	
+INFO	missing_superclass	CREDIT_00000002 <http://purl.org/credit/ontology#CREDIT_00000002>	rdfs:subClassOf		
+INFO	missing_superclass	CREDIT_00000003 <http://purl.org/credit/ontology#CREDIT_00000003>	rdfs:subClassOf		
+INFO	missing_superclass	CREDIT_00000005 <http://purl.org/credit/ontology#CREDIT_00000005>	rdfs:subClassOf		
+INFO	missing_superclass	CREDIT_00000006 <http://purl.org/credit/ontology#CREDIT_00000006>	rdfs:subClassOf		
+INFO	missing_superclass	CREDIT_00000009 <http://purl.org/credit/ontology#CREDIT_00000009>	rdfs:subClassOf		

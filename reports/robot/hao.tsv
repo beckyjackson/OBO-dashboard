@@ -1,0 +1,222 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	adult [HAO:0000087]	IAO_0000115 [IAO:0000115]	.	
+ERROR	duplicate_definition	egg [HAO:0000286]	IAO_0000115 [IAO:0000115]	.	
+ERROR	duplicate_definition	larva [HAO:0000459]	IAO_0000115 [IAO:0000115]	.	
+ERROR	duplicate_definition	prepupa [HAO:0000812]	IAO_0000115 [IAO:0000115]	.	
+ERROR	duplicate_definition	pupa [HAO:0000886]	IAO_0000115 [IAO:0000115]	.	
+ERROR	deprecated_class_reference	region [HAO:0000893]	rdfs:subClassOf	T7+8 [HAO:0002476]	
+ERROR	deprecated_class_reference	region [HAO:0000893]	rdfs:subClassOf	mola [HAO:0002480]	
+ERROR	missing_ontology_description	hao.owl	dc11:description		
+ERROR	duplicate_label	width [HAO:0002308]	label [rdfs:label]	width	
+ERROR	duplicate_label	width [HAO:0002375]	label [rdfs:label]	width	
+ERROR	duplicate_label	velum [HAO:0001053]	label [rdfs:label]	velum	
+ERROR	duplicate_label	velum [HAO:0002140]	label [rdfs:label]	velum	
+ERROR	duplicate_label	thorax [HAO:0001015]	label [rdfs:label]	thorax	
+ERROR	duplicate_label	thorax [HAO:0001970]	label [rdfs:label]	thorax	
+ERROR	duplicate_label	T9 [HAO:0000075]	label [rdfs:label]	T9	
+ERROR	duplicate_label	T9 [HAO:0002059]	label [rdfs:label]	T9	
+ERROR	duplicate_label	T9 [HAO:0002186]	label [rdfs:label]	T9	
+ERROR	duplicate_label	syntergum [HAO:0000987]	label [rdfs:label]	syntergum	
+ERROR	duplicate_label	syntergum [HAO:0001508]	label [rdfs:label]	syntergum	
+ERROR	duplicate_label	subantennal groove [HAO:0000965]	label [rdfs:label]	subantennal groove	
+ERROR	duplicate_label	subantennal groove [HAO:0001220]	label [rdfs:label]	subantennal groove	
+ERROR	duplicate_label	sternite [HAO:0000955]	label [rdfs:label]	sternite	
+ERROR	duplicate_label	sternite [HAO:0002065]	label [rdfs:label]	sternite	
+ERROR	duplicate_label	speculum [HAO:0000944]	label [rdfs:label]	speculum	
+ERROR	duplicate_label	speculum [HAO:0001667]	label [rdfs:label]	speculum	
+ERROR	duplicate_label	salivarial orifice [HAO:0000905]	label [rdfs:label]	salivarial orifice	
+ERROR	duplicate_label	salivarial orifice [HAO:0001683]	label [rdfs:label]	salivarial orifice	
+ERROR	duplicate_label	propodeum [HAO:0001248]	label [rdfs:label]	propodeum	
+ERROR	duplicate_label	propodeum [HAO:0001249]	label [rdfs:label]	propodeum	
+ERROR	duplicate_label	propodeum [HAO:0001994]	label [rdfs:label]	propodeum	
+ERROR	duplicate_label	orbital carina [HAO:0000674]	label [rdfs:label]	orbital carina	
+ERROR	duplicate_label	orbital carina [HAO:0001991]	label [rdfs:label]	orbital carina	
+ERROR	duplicate_label	odontoidea [HAO:0000665]	label [rdfs:label]	odontoidea	
+ERROR	duplicate_label	odontoidea [HAO:0001287]	label [rdfs:label]	odontoidea	
+ERROR	duplicate_label	occipital margin [HAO:0001963]	label [rdfs:label]	occipital margin	
+ERROR	duplicate_label	occipital margin [HAO:0002118]	label [rdfs:label]	occipital margin	
+ERROR	duplicate_label	mucro [HAO:0001728]	label [rdfs:label]	mucro	
+ERROR	duplicate_label	mucro [HAO:0001932]	label [rdfs:label]	mucro	
+ERROR	duplicate_label	metepimeron [HAO:0000632]	label [rdfs:label]	metepimeron	
+ERROR	duplicate_label	metepimeron [HAO:0001955]	label [rdfs:label]	metepimeron	
+ERROR	duplicate_label	metasternum [HAO:0000628]	label [rdfs:label]	metasternum	
+ERROR	duplicate_label	metasternum [HAO:0001931]	label [rdfs:label]	metasternum	
+ERROR	duplicate_label	metasomal spiracle [HAO:0001722]	label [rdfs:label]	metasomal spiracle	
+ERROR	duplicate_label	metasomal spiracle [HAO:0001847]	label [rdfs:label]	metasomal spiracle	
+ERROR	duplicate_label	metapostnotum [HAO:0000622]	label [rdfs:label]	metapostnotum	
+ERROR	duplicate_label	metapostnotum [HAO:0001877]	label [rdfs:label]	metapostnotum	
+ERROR	duplicate_label	metapleuron [HAO:0000621]	label [rdfs:label]	metapleuron	
+ERROR	duplicate_label	metapleuron [HAO:0001271]	label [rdfs:label]	metapleuron	
+ERROR	duplicate_label	metapleuron [HAO:0001272]	label [rdfs:label]	metapleuron	
+ERROR	duplicate_label	metapleuron [HAO:0001273]	label [rdfs:label]	metapleuron	
+ERROR	duplicate_label	metapleuron [HAO:0001869]	label [rdfs:label]	metapleuron	
+ERROR	duplicate_label	metapleuron [HAO:0002298]	label [rdfs:label]	metapleuron	
+ERROR	duplicate_label	metapleural sulcus [HAO:0000614]	label [rdfs:label]	metapleural sulcus	
+ERROR	duplicate_label	metapleural sulcus [HAO:0002250]	label [rdfs:label]	metapleural sulcus	
+ERROR	duplicate_label	metapectus [HAO:0000605]	label [rdfs:label]	metapectus	
+ERROR	duplicate_label	metapectus [HAO:0001269]	label [rdfs:label]	metapectus	
+ERROR	duplicate_label	metapectus [HAO:0001270]	label [rdfs:label]	metapectus	
+ERROR	duplicate_label	mesosoma height [HAO:0002251]	label [rdfs:label]	mesosoma height	
+ERROR	duplicate_label	mesosoma height [HAO:0002276]	label [rdfs:label]	mesosoma height	
+ERROR	duplicate_label	mesopleuron [HAO:0000566]	label [rdfs:label]	mesopleuron	
+ERROR	duplicate_label	mesopleuron [HAO:0001354]	label [rdfs:label]	mesopleuron	
+ERROR	duplicate_label	mesopleural pit [HAO:0000561]	label [rdfs:label]	mesopleural pit	
+ERROR	duplicate_label	mesopleural pit [HAO:0001358]	label [rdfs:label]	mesopleural pit	
+ERROR	duplicate_label	mesepisternum [HAO:0000541]	label [rdfs:label]	mesepisternum	
+ERROR	duplicate_label	mesepisternum [HAO:0001872]	label [rdfs:label]	mesepisternum	
+ERROR	duplicate_label	mediotergite [HAO:0001783]	label [rdfs:label]	mediotergite	
+ERROR	duplicate_label	mediotergite [HAO:0001860]	label [rdfs:label]	mediotergite	
+ERROR	duplicate_label	margin [HAO:0000510]	label [rdfs:label]	margin	
+ERROR	duplicate_label	margin [HAO:0001981]	label [rdfs:label]	margin	
+ERROR	duplicate_label	mandibular condyle [HAO:0000508]	label [rdfs:label]	mandibular condyle	
+ERROR	duplicate_label	mandibular condyle [HAO:0001390]	label [rdfs:label]	mandibular condyle	
+ERROR	duplicate_label	ligula [HAO:0000496]	label [rdfs:label]	ligula	
+ERROR	duplicate_label	ligula [HAO:0002197]	label [rdfs:label]	ligula	
+ERROR	duplicate_label	laterotergite [HAO:0000493]	label [rdfs:label]	laterotergite	
+ERROR	duplicate_label	laterotergite [HAO:0001861]	label [rdfs:label]	laterotergite	
+ERROR	duplicate_label	lateral propodeal carina [HAO:0000486]	label [rdfs:label]	lateral propodeal carina	
+ERROR	duplicate_label	lateral propodeal carina [HAO:0001919]	label [rdfs:label]	lateral propodeal carina	
+ERROR	duplicate_label	interantennal process [HAO:0000422]	label [rdfs:label]	interantennal process	
+ERROR	duplicate_label	interantennal process [HAO:0000423]	label [rdfs:label]	interantennal process	
+ERROR	duplicate_label	inner orbit [HAO:0000419]	label [rdfs:label]	inner orbit	
+ERROR	duplicate_label	inner orbit [HAO:0001532]	label [rdfs:label]	inner orbit	
+ERROR	duplicate_label	inner orbit [HAO:0001920]	label [rdfs:label]	inner orbit	
+ERROR	duplicate_label	head+mesosoma length [HAO:0002274]	label [rdfs:label]	head+mesosoma length	
+ERROR	duplicate_label	head+mesosoma length [HAO:0002275]	label [rdfs:label]	head+mesosoma length	
+ERROR	duplicate_label	galeal comb [HAO:0002134]	label [rdfs:label]	galeal comb	
+ERROR	duplicate_label	galeal comb [HAO:0002243]	label [rdfs:label]	galeal comb	
+ERROR	duplicate_label	frontal line [HAO:0000356]	label [rdfs:label]	frontal line	
+ERROR	duplicate_label	frontal line [HAO:0001825]	label [rdfs:label]	frontal line	
+ERROR	duplicate_label	frontal carina [HAO:0000109]	label [rdfs:label]	frontal carina	
+ERROR	duplicate_label	frontal carina [HAO:0001533]	label [rdfs:label]	frontal carina	
+ERROR	duplicate_label	face [HAO:0000316]	label [rdfs:label]	face	
+ERROR	duplicate_label	face [HAO:0002011]	label [rdfs:label]	face	
+ERROR	duplicate_label	dorsope [HAO:0000280]	label [rdfs:label]	dorsope	
+ERROR	duplicate_label	dorsope [HAO:0001999]	label [rdfs:label]	dorsope	
+ERROR	duplicate_label	dorsal pronotal corner [HAO:0000268]	label [rdfs:label]	dorsal pronotal corner	
+ERROR	duplicate_label	dorsal pronotal corner [HAO:0001983]	label [rdfs:label]	dorsal pronotal corner	
+ERROR	duplicate_label	dorsal plate [HAO:0000263]	label [rdfs:label]	dorsal plate	
+ERROR	duplicate_label	dorsal plate [HAO:0001855]	label [rdfs:label]	dorsal plate	
+ERROR	duplicate_label	dorsal head width [HAO:0002314]	label [rdfs:label]	dorsal head width	
+ERROR	duplicate_label	dorsal head width [HAO:0002315]	label [rdfs:label]	dorsal head width	
+ERROR	duplicate_label	corbicula [HAO:0000222]	label [rdfs:label]	corbicula	
+ERROR	duplicate_label	corbicula [HAO:0001476]	label [rdfs:label]	corbicula	
+ERROR	duplicate_label	coeloconic sensillum [HAO:0000213]	label [rdfs:label]	coeloconic sensillum	
+ERROR	duplicate_label	coeloconic sensillum [HAO:0002001]	label [rdfs:label]	coeloconic sensillum	
+ERROR	duplicate_label	clava [HAO:0000203]	label [rdfs:label]	clava	
+ERROR	duplicate_label	clava [HAO:0001185]	label [rdfs:label]	clava	
+ERROR	duplicate_label	cercus [HAO:0000191]	label [rdfs:label]	cercus	
+ERROR	duplicate_label	cercus [HAO:0002032]	label [rdfs:label]	cercus	
+ERROR	duplicate_label	cardo [HAO:0000187]	label [rdfs:label]	cardo	
+ERROR	duplicate_label	cardo [HAO:0001979]	label [rdfs:label]	cardo	
+ERROR	duplicate_label	appendage segment [HAO:0000145]	label [rdfs:label]	appendage segment	
+ERROR	duplicate_label	appendage segment [HAO:0002307]	label [rdfs:label]	appendage segment	
+ERROR	duplicate_label	annulus [HAO:0000096]	label [rdfs:label]	annulus	
+ERROR	duplicate_label	annulus [HAO:0001173]	label [rdfs:label]	annulus	
+ERROR	duplicate_label	acetabular carina [HAO:0000080]	label [rdfs:label]	acetabular carina	
+ERROR	duplicate_label	acetabular carina [HAO:0001428]	label [rdfs:label]	acetabular carina	
+ERROR	missing_ontology_license	hao.owl	dc:license		
+ERROR	missing_ontology_title	hao.owl	dc11:title		
+WARN	missing_obsolete_label	single cell organism [HAO:0000064]	label [rdfs:label]	single cell organism	
+WARN	missing_obsolete_label	accessory ventral condyle [HAO:0000079]	label [rdfs:label]	accessory ventral condyle	
+WARN	missing_obsolete_label	aculea [HAO:0000086]	label [rdfs:label]	aculea	
+WARN	missing_obsolete_label	frontal carina [HAO:0000109]	label [rdfs:label]	frontal carina	
+WARN	missing_obsolete_label	anterior mesopleuro-third axillary sclerite of fore wing muscle [HAO:0000119]	label [rdfs:label]	anterior mesopleuro-third axillary sclerite of fore wing muscle	
+WARN	missing_obsolete_label	appendage segment [HAO:0000145]	label [rdfs:label]	appendage segment	
+WARN	missing_obsolete_label	auxilia [HAO:0000153]	label [rdfs:label]	auxilia	
+WARN	missing_obsolete_label	basal hooklets [HAO:0000167]	label [rdfs:label]	basal hooklets	
+WARN	missing_obsolete_label	basiconic capitate peg sensillum [HAO:0000172]	label [rdfs:label]	basiconic capitate peg sensillum	
+WARN	missing_obsolete_label	calcar [HAO:0000185]	label [rdfs:label]	calcar	
+WARN	missing_obsolete_label	cervical sclerite [HAO:0000195]	label [rdfs:label]	cervical sclerite	
+WARN	missing_obsolete_label	cervix [HAO:0000196]	label [rdfs:label]	cervix	
+WARN	missing_obsolete_label	closed coxal cavity [HAO:0000207]	label [rdfs:label]	closed coxal cavity	
+WARN	missing_obsolete_label	club [HAO:0000208]	label [rdfs:label]	club	
+WARN	missing_obsolete_label	coeloconic sensillum [HAO:0000213]	label [rdfs:label]	coeloconic sensillum	
+WARN	missing_obsolete_label	crest [HAO:0000235]	label [rdfs:label]	crest	
+WARN	missing_obsolete_label	crossvein [HAO:0000236]	label [rdfs:label]	crossvein	
+WARN	missing_obsolete_label	dorsal cibarial dilatator muscle [HAO:0000253]	label [rdfs:label]	dorsal cibarial dilatator muscle	
+WARN	missing_obsolete_label	dorsal plate [HAO:0000263]	label [rdfs:label]	dorsal plate	
+WARN	missing_obsolete_label	empodium [HAO:0000288]	label [rdfs:label]	empodium	
+WARN	missing_obsolete_label	femoral depression [HAO:0000325]	label [rdfs:label]	femoral depression	
+WARN	missing_obsolete_label	fore coxa [HAO:0000348]	label [rdfs:label]	fore coxa	
+WARN	missing_obsolete_label	forewing [HAO:0000352]	label [rdfs:label]	forewing	
+WARN	missing_obsolete_label	frontal scrobe [HAO:0000359]	label [rdfs:label]	frontal scrobe	
+WARN	missing_obsolete_label	genal bridge [HAO:0000372]	label [rdfs:label]	genal bridge	
+WARN	missing_obsolete_label	gula [HAO:0000391]	label [rdfs:label]	gula	
+WARN	missing_obsolete_label	gular ridge [HAO:0000392]	label [rdfs:label]	gular ridge	
+WARN	missing_obsolete_label	gular sulcus [HAO:0000393]	label [rdfs:label]	gular sulcus	
+WARN	missing_obsolete_label	hindwing [HAO:0000401]	label [rdfs:label]	hindwing	
+WARN	missing_obsolete_label	hypostomal suture [HAO:0000415]	label [rdfs:label]	hypostomal suture	
+WARN	missing_obsolete_label	interantennal process [HAO:0000423]	label [rdfs:label]	interantennal process	
+WARN	missing_obsolete_label	interantennal prominence [HAO:0000424]	label [rdfs:label]	interantennal prominence	
+WARN	missing_obsolete_label	labial endite [HAO:0000448]	label [rdfs:label]	labial endite	
+WARN	missing_obsolete_label	labial suture [HAO:0000451]	label [rdfs:label]	labial suture	
+WARN	missing_obsolete_label	lamella [HAO:0000458]	label [rdfs:label]	lamella	
+WARN	missing_obsolete_label	lateral neck plate [HAO:0000479]	label [rdfs:label]	lateral neck plate	
+WARN	missing_obsolete_label	lateral profurco-procoxal muscle [HAO:0000482]	label [rdfs:label]	lateral profurco-procoxal muscle	
+WARN	missing_obsolete_label	median plate [HAO:0000527]	label [rdfs:label]	median plate	
+WARN	missing_obsolete_label	median propodeal keel [HAO:0000530]	label [rdfs:label]	median propodeal keel	
+WARN	missing_obsolete_label	mentum [HAO:0000534]	label [rdfs:label]	mentum	
+WARN	missing_obsolete_label	mesopleural pit [HAO:0000561]	label [rdfs:label]	mesopleural pit	
+WARN	missing_obsolete_label	mesoscutellar appendage [HAO:0000571]	label [rdfs:label]	mesoscutellar appendage	
+WARN	missing_obsolete_label	mesotrochantinal plate [HAO:0000585]	label [rdfs:label]	mesotrochantinal plate	
+WARN	missing_obsolete_label	metafurco-mesofurcal [HAO:0000595]	label [rdfs:label]	metafurco-mesofurcal	
+WARN	missing_obsolete_label	metapostnotum [HAO:0000622]	label [rdfs:label]	metapostnotum	
+WARN	missing_obsolete_label	occiptal condyle [HAO:0000657]	label [rdfs:label]	occiptal condyle	
+WARN	missing_obsolete_label	ocular sclerite [HAO:0000663]	label [rdfs:label]	ocular sclerite	
+WARN	missing_obsolete_label	odontoidea [HAO:0000665]	label [rdfs:label]	odontoidea	
+WARN	missing_obsolete_label	open coxal cavity [HAO:0000667]	label [rdfs:label]	open coxal cavity	
+WARN	missing_obsolete_label	oral cavity [HAO:0000669]	label [rdfs:label]	oral cavity	
+WARN	missing_obsolete_label	orbital carina [HAO:0000674]	label [rdfs:label]	orbital carina	
+WARN	missing_obsolete_label	posterior lingual plate [HAO:0000750]	label [rdfs:label]	posterior lingual plate	
+WARN	missing_obsolete_label	posterior mesopleuro-third axillary sclerite of fore wing muscle [HAO:0000756]	label [rdfs:label]	posterior mesopleuro-third axillary sclerite of fore wing muscle	
+WARN	missing_obsolete_label	posterior subalar pit [HAO:0000766]	label [rdfs:label]	posterior subalar pit	
+WARN	missing_obsolete_label	postlabium [HAO:0000782]	label [rdfs:label]	postlabium	
+WARN	missing_obsolete_label	prelabium [HAO:0000802]	label [rdfs:label]	prelabium	
+WARN	missing_obsolete_label	pronotal cervical sulcus [HAO:0000831]	label [rdfs:label]	pronotal cervical sulcus	
+WARN	missing_obsolete_label	pronotal groove [HAO:0000835]	label [rdfs:label]	pronotal groove	
+WARN	missing_obsolete_label	pronoto-third axillary sclerite muscle [HAO:0000852]	label [rdfs:label]	pronoto-third axillary sclerite muscle	
+WARN	missing_obsolete_label	propodeo-first metasomal spiracle muscle [HAO:0000867]	label [rdfs:label]	propodeo-first metasomal spiracle muscle	
+WARN	missing_obsolete_label	pulvillum [HAO:0000884]	label [rdfs:label]	pulvillum	
+WARN	missing_obsolete_label	region [HAO:0000893]	label [rdfs:label]	region	
+WARN	missing_obsolete_label	scutellar sulcus [HAO:0000917]	label [rdfs:label]	scutellar sulcus	
+WARN	missing_obsolete_label	second dorsal diagonal muscle [HAO:0000922]	label [rdfs:label]	second dorsal diagonal muscle	
+WARN	missing_obsolete_label	seta [HAO:0000935]	label [rdfs:label]	seta	
+WARN	missing_obsolete_label	stylet [HAO:0000959]	label [rdfs:label]	stylet	
+WARN	missing_obsolete_label	sucking pump [HAO:0000977]	label [rdfs:label]	sucking pump	
+WARN	missing_obsolete_label	transscutal line [HAO:0001028]	label [rdfs:label]	transscutal line	
+WARN	missing_obsolete_label	valvula [HAO:0001049]	label [rdfs:label]	valvula	
+WARN	missing_obsolete_label	anepimeron [HAO:0001174]	label [rdfs:label]	anepimeron	
+WARN	missing_obsolete_label	cercal bristle [HAO:0001182]	label [rdfs:label]	cercal bristle	
+WARN	missing_obsolete_label	articular membrane of the mesotibio-mesobasitarsal muscle [HAO:0001254]	label [rdfs:label]	articular membrane of the mesotibio-mesobasitarsal muscle	
+WARN	missing_obsolete_label	metapleuron [HAO:0001273]	label [rdfs:label]	metapleuron	
+WARN	missing_obsolete_label	mandibular condyle [HAO:0001390]	label [rdfs:label]	mandibular condyle	
+WARN	missing_obsolete_label	third axillary sclerite [HAO:0001633]	label [rdfs:label]	third axillary sclerite	
+WARN	missing_obsolete_label	sublateral groove [HAO:0001653]	label [rdfs:label]	sublateral groove	
+WARN	missing_obsolete_label	subcoxa [HAO:0001656]	label [rdfs:label]	subcoxa	
+WARN	missing_obsolete_label	pronotal disc [HAO:0001702]	label [rdfs:label]	pronotal disc	
+WARN	missing_obsolete_label	prealare [HAO:0001804]	label [rdfs:label]	prealare	
+WARN	missing_obsolete_label	T9 [HAO:0002186]	label [rdfs:label]	T9	
+WARN	missing_obsolete_label	mesosoma height [HAO:0002251]	label [rdfs:label]	mesosoma height	
+WARN	missing_obsolete_label	head+mesosoma length [HAO:0002274]	label [rdfs:label]	head+mesosoma length	
+INFO	lowercase_definition	adult [HAO:0000087]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	egg [HAO:0000286]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	larva [HAO:0000459]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	prepupa [HAO:0000812]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	pupa [HAO:0000886]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	posterior area of the second valvifer [HAO:0002170]	IAO_0000115 [IAO:0000115]	the area of the second valvifer that is posterior to the anatomical line that is the shortest distance from the first valviferal fossa of the second valvifer to the ventral margin of the second valvifer	
+INFO	missing_superclass	anatomical entity [HAO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	malar carina [HAO:0001590]	rdfs:subClassOf		
+INFO	missing_superclass	anatomical region [HAO:0001980]	rdfs:subClassOf		
+INFO	missing_superclass	palpal formula [HAO:0002108]	rdfs:subClassOf		
+INFO	missing_superclass	median conjunctiva of abdominal tergum 9 [HAO:0002267]	rdfs:subClassOf		
+INFO	missing_superclass	median anatomical line [HAO:0002272]	rdfs:subClassOf		
+INFO	missing_superclass	width [HAO:0002308]	rdfs:subClassOf		
+INFO	missing_superclass	anterior pronotal slope [HAO:0002311]	rdfs:subClassOf		
+INFO	missing_superclass	maximum diameter of the compound eye [HAO:0002326]	rdfs:subClassOf		
+INFO	missing_superclass	angle [HAO:0002329]	rdfs:subClassOf		
+INFO	missing_superclass	setal angle [HAO:0002330]	rdfs:subClassOf		
+INFO	missing_superclass	minimum spine distance [HAO:0002347]	rdfs:subClassOf		
+INFO	missing_superclass	arithmetic mean [HAO:0002349]	rdfs:subClassOf		
+INFO	missing_superclass	malar striae [HAO:0002373]	rdfs:subClassOf		
+INFO	missing_superclass	sixth maxillary palpal sclerite [HAO:0002531]	rdfs:subClassOf		

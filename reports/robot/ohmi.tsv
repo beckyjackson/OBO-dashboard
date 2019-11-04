@@ -1,0 +1,493 @@
+Level	Rule Name	Subject	Property	Value
+WARN	missing_definition	has disease [OHMI:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has phenotype [OHMI:0000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbe susceptibly expanded in rat with disease [OHMI:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbe susceptibly expanded in mouse with disease [OHMI:0000358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbe susceptibly expanded in gut of mouse with disease [OHMI:0000359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbe susceptibly depleted in mouse with disease [OHMI:0000363]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbe susceptibly depleted in gut of mouse with disease [OHMI:0000364]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbe susceptibly depleted (compared to fibromyalgia patients) in gut of human with disease [OHMI:0000453]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dysbiosis [OHMI:0000461]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbial species diversity [OHMI:0000466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has host [OHMI:0000481]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	microbiome in human lung [OHMI:0000013]	IAO_0000115 [IAO:0000115]	a human microbiome that is located in a human respiratory system	
+INFO	lowercase_definition	microbiome in human respiratory system [OHMI:0000014]	IAO_0000115 [IAO:0000115]	a human microbiome that is located in a human lung	
+INFO	lowercase_definition	microbiome in human oral [OHMI:0000015]	IAO_0000115 [IAO:0000115]	a human microbiome that is located in a human oral system	
+INFO	lowercase_definition	microbiome in human gastrointestinal system [OHMI:0000016]	IAO_0000115 [IAO:0000115]	a human microbiome that is located in a human gastrointestinal system	
+INFO	lowercase_definition	microbiome in human cutaneous system [OHMI:0000017]	IAO_0000115 [IAO:0000115]	a human microbiome that is located in a human cutaneous system	
+INFO	lowercase_definition	microbiome in human urogenital system [OHMI:0000018]	IAO_0000115 [IAO:0000115]	a human microbiome that is located in a human urogenital system	
+INFO	lowercase_definition	depletion of Klebsiella pneumoniae in RA human gut [OHMI:0000034]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Klebsiella pneumoniae in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Gordonibacter pamelaeae in RA human gut [OHMI:0000037]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Gordonibacter pamelaeae in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotellaceae in RA human gut [OHMI:0000038]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Prevotellaceae in patients with  chronic RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Bifidobacterium bifidum in RA human gut [OHMI:0000039]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Bifidobacterium bifidum in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Veillonella in RA human gut [OHMI:0000040]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Veillonellain in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Megamonas hypermegale in RA human gut [OHMI:0000042]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Megamonas hypermegale in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of [Clostridium] asparagiforme in RA human gut [OHMI:0000043]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of [Clostridium] asparagiforme in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Eggerthella lenta in RA human gut [OHMI:0000045]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Eggerthella lenta in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bifidobacterium dentium in RA human gut [OHMI:0000048]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Bifidobacterium dentium in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Lactobacillus sp in RA human gut [OHMI:0000049]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Lactobacillus sp in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Ruminococcus lactaris in RA human gut [OHMI:0000050]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Ruminococcus lactaris in patients with  chronic RA compared with healthy controls.	
+INFO	lowercase_definition	segregation of Prevotella or Bacteroides dominance in RA human gut [OHMI:0000051]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows high Prevotella or high Bacteroides relative abundance, but rarely a high relative abundance of both.	
+INFO	lowercase_definition	expansion of Porphyromonas gingivalis in RA human gut [OHMI:0000061]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Porphyromonas gingivalis in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella intermedia in RA human oral cavity [OHMI:0000063]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of rare taxa,Prevotella intermedia in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Porphyromonas gingivalis in RA human oral cavity [OHMI:0000064]	IAO_0000115 [IAO:0000115]	a  RA human oral cavity  microbiome interaction that shows an expansion of Porphyromonas gingivalis in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Proteus mirabilis in RA human gut [OHMI:0000065]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Proteus mirabilis in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Collinsella aerofaciens in RA human gut [OHMI:0000066]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Collinsella aerofaciens in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Klebsiella in SLE human gut [OHMI:0000068]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Klebsiella in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Lactobacillus salivarius in RA human oral cavity [OHMI:0000069]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Lactobacillus salivarius in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Clostridia in RA human gut [OHMI:0000070]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Clostridia in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Clostridium perfringens in RA human gut [OHMI:0000071]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Clostridium perfringens in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella in SLE human gut [OHMI:0000072]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Prevotella in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Dialister in SLE human gut [OHMI:0000073]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows a depletion of Dialister in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Bacteroides in RA human gut [OHMI:0000074]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Bacteroides in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Porphyromonas in RA human gut compared to fibromyalgia patients [OHMI:0000075]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Porphyromonas in patients with RA compared to fibromyalgia patients	
+INFO	lowercase_definition	depletion of Prevotella in RA human gut compared to fibromyalgia patients [OHMI:0000076]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Prevotella  in patients with RA compared to fibromyalgia patients	
+INFO	lowercase_definition	depletion of Pseudobutyrivibrio in SLE human gut [OHMI:0000081]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows a depletion of Pseudobutyrivibrio in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Haemophilus in RA human oral cavity [OHMI:0000084]	IAO_0000115 [IAO:0000115]	a RA human oral cavity microbiome interaction that shows an decrease of Haemophilus in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Actinobacteria<phylum> in RA human gut [OHMI:0000085]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Actinobacteria<phylum> in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Cardiobacterium in RA human oral cavity [OHMI:0000086]	IAO_0000115 [IAO:0000115]	a RA human oral cavity microbiome interaction that shows an decrease of Cardiobacterium in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Eikenella in RA human oral cavity [OHMI:0000087]	IAO_0000115 [IAO:0000115]	a RA human oral cavity microbiome interaction that shows an decrease of Eikenella in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Kingella in RA human oral cavity [OHMI:0000088]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Kingella in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Rothia aeria in RA human oral cavity [OHMI:0000089]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Rothia aeria in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Prevotella in diarrheal patient gut [OHMI:0000090]	IAO_0000115 [IAO:0000115]	a diarrheal patient-gut microbiome interaction that shows an decrease of Prevotella in patients in the gut of human diarrheal patient compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella copri in RA human gut [OHMI:0000091]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Prevotella copri in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Haemophilus spp. in RA human oral cavity [OHMI:0000092]	IAO_0000115 [IAO:0000115]	a RA human oral cavity microbiome interaction that shows an decrease of Haemophilus sp  in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Cryptobacterium curtum in RA human oral cavity [OHMI:0000093]	IAO_0000115 [IAO:0000115]	a RA human oral cavity microbiome interaction that shows an increase of Cryptobacterium curtum in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Veillonella in RA human oral cavity [OHMI:0000094]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Veillonella in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Escherichia coli in RA human gut [OHMI:0000096]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Escherichia coli in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Clostridiales in SLE human oral cavity [OHMI:0000097]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity microbiome interaction that shows an decrease of Clostridiales in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Faecalibacterium in RA human gut [OHMI:0000098]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Faecalibacterium  in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Ruminococcaceae in AS human gut [OHMI:0000100]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Ruminococcaceae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Lachnospiraceae in AS human gut [OHMI:0000101]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Lachnospiraceae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidaceae in AS human gut [OHMI:0000102]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Bacteroidaceae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotellaceae in AS human gut [OHMI:0000103]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Prevotellaceae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Veillonellaceae in AS human gut [OHMI:0000104]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of rare taxa,Veillonellaceae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Klebsiella pneumoniae in AS human gut [OHMI:0000105]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Klebsiella pneumoniae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Klebsiella pneumoniae in AS human oral cavity [OHMI:0000107]	IAO_0000115 [IAO:0000115]	an AS human oral cavity  microbiome interaction that shows an expansion of Klebsiella pneumoniae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella intermedia in AS human oral cavity [OHMI:0000108]	IAO_0000115 [IAO:0000115]	an AS human oral cavity  microbiome interaction that shows an expansion of Prevotella intermedia in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Tannerella forsythia in AS human oral cavity [OHMI:0000109]	IAO_0000115 [IAO:0000115]	an AS human oral cavity  microbiome interaction that shows an expansion of rare taxa,Tannerella forsythia in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella  in SLE human oral cavity [OHMI:0000111]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity  microbiome interaction that shows an expansion of Prevotella in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Firmicutes in SLE human gut [OHMI:0000112]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an decrease of Firmicutes in patients with SLEcompared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidetes in SLE human gut [OHMI:0000113]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Bacteroidetes in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidetes in gout human gut [OHMI:0000115]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of rare taxa,Bacteroidetes in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides in gout human gut [OHMI:0000116]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Bacteroides in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidales in gout human gut [OHMI:0000117]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Bacteroidales in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Porphyromonadaceae in gout human gut [OHMI:0000118]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Porphyromonadaceae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidaceae in gout human gut [OHMI:0000119]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Bacteroidaceae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Negativicutes in gout human gut [OHMI:0000120]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Negativicutes in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Vibrionaceae in gout human gut [OHMI:0000123]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Vibrionaceae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Photobacterium in gout human gut [OHMI:0000124]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Photobacterium in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Vibrio in gout human gut [OHMI:0000125]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Vibrio  in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Lachnospiraceae in gout human gut [OHMI:0000127]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Lachnospiraceae  in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Ruminococcaceae in gout human gut [OHMI:0000128]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Ruminococcaceae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Erysipelatoclostridium in gout human gut [OHMI:0000129]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Erysipelatoclostridium in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Escherichia coli EPEC 32/73 in gout human gut [OHMI:0000130]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Escherichia coli EPEC32/73 in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of E. coli ETEC TW03439 in gout human gut [OHMI:0000131]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Escherichia coli ETEC TW03439 in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Barnesiella in gout human gut [OHMI:0000132]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Barnesiella in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Parasporobacterium in gout human gut [OHMI:0000133]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Parasporobacterium in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Paraprevotella in gout human gut [OHMI:0000134]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Paraprevotella in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Anaerotruncus in gout human gut [OHMI:0000135]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Anaerotruncus in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Pseudobutyrivibrio in gout human gut [OHMI:0000136]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Pseudobutyrivibrio in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides caccae in gout human gut [OHMI:0000137]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Bacteroides caccae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides sp in gout human gut [OHMI:0000138]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Bacteroides sp in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides xylanisolvens XB1A in gout human gut [OHMI:0000139]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Bacteroides xylanisolvens XB1A in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Holdemania in gout human gut [OHMI:0000140]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Holdemania in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Acetanaerobacterium in gout human gut [OHMI:0000141]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of rare taxa,Acetanaerobacterium in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Coprococcus catus in gout human gut [OHMI:0000142]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Coprococcus catus in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Faecalibacterium prausnitzii in gout human gut [OHMI:0000143]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Faecalibacterium prausnitzii in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Oscillibacter in gout human gut [OHMI:0000144]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Oscillibacter in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Ruminococcus sp. in gout human gut [OHMI:0000145]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Ruminococcus sp. in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Odoribacter in gout human gut [OHMI:0000146]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Odoribacter in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Subdoligranulum in gout human gut [OHMI:0000147]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Subdoligranulum in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Robinsoniella in gout human gut [OHMI:0000148]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Robinsoniella in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Dialister in gout human gut [OHMI:0000149]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Dialister in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Alistipes in gout human gut [OHMI:0000150]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an decrease of Alistipes in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	depletion of Propionibacterium acnes 17B in PsA human skin [OHMI:0000151]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an decrease of Propionibacterium acnes 17B in patients with  PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Akkermansia in PsA human gut [OHMI:0000153]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an decrease of Akkermansia in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Ruminococcus in PsA human gut [OHMI:0000154]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an decrease of Ruminococcus in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Pseudobutyrivibrio in PsA human gut [OHMI:0000155]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an decrease of Pseudobutyrivibrio in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Verrucomicrobia in PsA human gut [OHMI:0000156]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an decrease of Verrucomicrobia in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Parabacteroides in PsA human gut [OHMI:0000157]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an decrease of Parabacteroides in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Coprobacillus in PsA human gut [OHMI:0000158]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an decrease of Coprobacillus in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Streptococcus in PsA human skin [OHMI:0000159]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an expansion of Streptococcus in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Propionibacterium in PsA human skin [OHMI:0000160]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an decrease of Propionibacterium in patients with  PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Actinobacteria <phylum> in PsA human skin [OHMI:0000161]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an decrease of Actinobacteria <phylum> in patients with  PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Proteobacteria in PsA human skin [OHMI:0000162]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an decrease of Proteobacteria in patients with  PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Firmicutes in PsA human skin [OHMI:0000163]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an expansion of Firmicutes in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidetes in PsA human skin [OHMI:0000164]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an expansion of Bacteroidetes in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Candida albicans in PsA human gut [OHMI:0000165]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an expansion of Candida albicans in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Malassezia restricta in PsA human skin [OHMI:0000168]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an decrease of Malassezia restricta in patients with  PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Malassezia sympodialis in PsA human skin [OHMI:0000169]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an decrease of Malassezia sympodialis in patients with  PsA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Malassezia pachydermatis in PsA human skin [OHMI:0000170]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an decrease of Malassezia pachydermatis in patients with  PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Porphyromonas gingivalis in AS human oral cavity [OHMI:0000171]	IAO_0000115 [IAO:0000115]	an AS human oral cavity  microbiome interaction that shows an expansion of Porphyromonas gingivalis in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	depletion of Aggregatibacter in RA human oral cavity [OHMI:0000173]	IAO_0000115 [IAO:0000115]	a RA human oral cavity microbiome interaction that shows an decrease of Aggregatibacter in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Neisseria sp. in RA human oral cavity [OHMI:0000174]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Neisseria sp. in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Actinomyces in RA human oral cavity [OHMI:0000177]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Actinomyces in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella in RA human oral cavity [OHMI:0000178]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Prevotella in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Leptotrichia sp. in RA human oral cavity [OHMI:0000179]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of Leptotrichia sp. in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Tannerella forsythia in RA human oral cavity [OHMI:0000180]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of rare taxa,Tannerella forsythia in patients with RA compared with healthy controls	
+INFO	lowercase_definition	expansion of Dialister in AS human gut [OHMI:0000207]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Dialister in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidia in SLE human gut [OHMI:0000210]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Bacteroidia in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidales in SLE human gut [OHMI:0000211]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Bacteroidales in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Clostridia in SLE human gut [OHMI:0000212]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an decrease of Vibrio  in patients with SLEcompared with healthy controls.	
+INFO	lowercase_definition	depletion of Clostridiales in SLE human gut [OHMI:0000213]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an decrease of Clostridiales in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	microbial population phenotype in host [OHMI:0000214]	IAO_0000115 [IAO:0000115]	this is a shortcut object property that represents the phenotype that exists in a microbial population inside a host.	
+INFO	lowercase_definition	expansion of Natronobacillus in diarrheal patient gut [OHMI:0000221]	IAO_0000115 [IAO:0000115]	a diarrheal patient-gut microbiome interaction that shows an increase of Prevotella in patients in the gut of human diarrheal patient compared with healthy controls.	
+INFO	lowercase_definition	expansion of Eggerthella in RA human gut [OHMI:0000222]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Eggerthella in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Treponema denticola in AS human oral cavity [OHMI:0000223]	IAO_0000115 [IAO:0000115]	an AS human oral cavity  microbiome interaction that shows an expansion of rare taxa,Treponema denticola in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Rikenellaceae in AS human gut [OHMI:0000224]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Rikenellaceae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Porphyromonas macacae in AS human gut [OHMI:0000225]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Porphyromonas macacae in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Campylobacter in AS human gut [OHMI:0000227]	IAO_0000115 [IAO:0000115]	an AS human-gut microbiome interaction that shows an expansion of Campylobacter in patients with AS compared with healthy controls.	
+INFO	lowercase_definition	expansion of Eubacterium in SLE human gut [OHMI:0000228]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Eubacterium in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Flavonifractor in SLE human gut [OHMI:0000229]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Flavonifractor in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Rhodococcus in SLE human gut [OHMI:0000230]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Rhodococcus in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Atopobium sp. in RA human oral cavity [OHMI:0000231]	IAO_0000115 [IAO:0000115]	a RA human oral cavity  microbiome interaction that shows an expansion of rare taxa,Atopobium sp. in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Eggerthella in SLE human gut [OHMI:0000233]	IAO_0000115 [IAO:0000115]	a SLE human-gut microbiome interaction that shows an expansion of Eggerthella in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Prevotella pleuritidis in SLE human oral cavity [OHMI:0000234]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity microbiome interaction that shows an decrease of Prevotella pleuritidis in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Pseudomonas sp. in SLE human oral cavity [OHMI:0000235]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity microbiome interaction that shows an decrease of Pseudomonas sp. in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Treponema maltophilum in SLE human oral cavity [OHMI:0000236]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity microbiome interaction that shows an decrease of Treponema maltophilum in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Capnocytophaga gingivalis in SLE human oral cavity [OHMI:0000237]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity microbiome interaction that shows an decrease of Capnocytophaga gingivalis  in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Streptococcus sanguinis in SLE human oral cavity [OHMI:0000238]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity microbiome interaction that shows an decrease of Streptococcus sanguinis in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	depletion of Haemophilus parainfluenzae in SLE human oral cavity [OHMI:0000239]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity  microbiome interaction that shows a  depletion of Haemophilus parainfluenzae in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella oulorum in SLE human oral cavity [OHMI:0000240]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity  microbiome interaction that shows an expansion of Prevotella oulorum in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Fretibacterium fastidiosum in SLE human oral cavity [OHMI:0000241]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity  microbiome interaction that shows an expansion of Fretibacterium fastidiosum in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Fusobacterium in SLE human oral cavity [OHMI:0000242]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity  microbiome interaction that shows an expansion of Fusobacterium  in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Selenomonas in SLE human oral cavity [OHMI:0000243]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity  microbiome interaction that shows an expansion of Selenomonas in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Treponema in SLE human oral cavity [OHMI:0000244]	IAO_0000115 [IAO:0000115]	a SLE human oral cavity  microbiome interaction that shows an expansion of Treponema in patients with SLE compared with healthy controls.	
+INFO	lowercase_definition	expansion of Chloroflexi in gout human gut [OHMI:0000245]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Chloroflexi in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Anaerolineae in gout human gut [OHMI:0000246]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Anaerolineae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Anaerolineales in gout human gut [OHMI:0000247]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Anaerolineales in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Anaerolineaceae in gout human gut [OHMI:0000248]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Anaerolineaceae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Corynebacteriales in gout human gut [OHMI:0000249]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Corynebacteriales in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Nocardiaceae in gout human gut [OHMI:0000250]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Nocardiaceae in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Rhodococcus in gout human gut [OHMI:0000251]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Rhodococcus in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Selenomonadales in gout human gut [OHMI:0000253]	IAO_0000115 [IAO:0000115]	a Gout human-gut microbiome interaction that shows an expansion of Selenomonadales in patients with gout compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroidaceae in ERA human gut [OHMI:0000256]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Bacteroidaceae in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Enterobacteriaceae  in ERA human gut [OHMI:0000257]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Enterobacteriaceae in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Enterococcaceae in ERA human gut [OHMI:0000258]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Enterococcaceae in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides in ERA human gut [OHMI:0000259]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Bacteroides in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Enterococcus in ERA human gut [OHMI:0000260]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Enterococcus in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Klebsiella in ERA human gut [OHMI:0000261]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Klebsiella in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Prevotella in ERA human gut [OHMI:0000262]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Prevotella in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Badula fragilis in ERA human gut [OHMI:0000263]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Badula fragilis in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides plebeius in ERA human gut [OHMI:0000264]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Bacteroides plebeius in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Prevotellaceae in ERA human gut [OHMI:0000265]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an decrease of Prevotellaceae in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Prevotella copri in ERA human gut [OHMI:0000266]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an decrease of Prevotella copri  in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Salmonella in ERA human gut [OHMI:0000267]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Salmonella in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Prevotella in ERA human gut [OHMI:0000268]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an decrease of Prevotella stercorea in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Faecalibacterium prausnitzii in ERA human gut [OHMI:0000269]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an decrease of Faecalibacterium prausnitzii in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Lachnospiraceae in ERA human gut [OHMI:0000270]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an decrease of Lachnospiraceae in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	depletion of [Clostridium] clostridioforme in ERA human gut [OHMI:0000271]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an decrease of [Clostridium] clostridioforme in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bifidobacterium in ERA human gut [OHMI:0000273]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Bifidobacterium in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Akkermansia muciniphila in ERA human gut [OHMI:0000274]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Akkermansia muciniphila in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Coprococcus in PsA human gut [OHMI:0000275]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an decrease of Coprococcus in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Diutina rugosa in PsA human gut [OHMI:0000277]	IAO_0000115 [IAO:0000115]	a PsA human-gut microbiome interaction that shows an expansion of Diutina rugosa in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Malassezia furfur in PsA human skin [OHMI:0000278]	IAO_0000115 [IAO:0000115]	a PsA human skin microbiome interaction that shows an expansion of Malassezia furfur in patients with PsA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Yersinia in ERA human gut [OHMI:0000279]	IAO_0000115 [IAO:0000115]	an ERA human-gut microbiome interaction that shows an expansion of Yersinia in patients with ERA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides fragilis in RA human gut [OHMI:0000330]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Bacteroides fragilis in patients with RA compared with healthy controls. Bacteroides fragilis is a rare cause of septic arthritis.	
+INFO	lowercase_definition	expansion of unclassified Proteobacteria in diarrheal patient gut [OHMI:0000355]	IAO_0000115 [IAO:0000115]	a diarrheal patient-gut microbiome interaction that shows an increase of unclassified Proteobacteria in patients in the gut of human diarrheal patient compared with healthy controls.	
+INFO	lowercase_definition	has microbe depleted in diseased host [OHMI:0000377]	IAO_0000115 [IAO:0000115]	an object property that represents the relation between a host-microbiome interaction and a microbe where the population of the microbe is depleted in a diseased host compared to a healthy host control.	
+INFO	lowercase_definition	expansion of Proteus mirabilis in RA human urine [OHMI:0000385]	IAO_0000115 [IAO:0000115]	a RA human-urine microbiome interaction that shows an expansion of Proteus mirabilis in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	depletion of Blautia coccoides in RA human gut compared to fibromyalgia patients [OHMI:0000413]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Blautia coccoides in patients with RA compared with fibromyalgia patients.	
+INFO	lowercase_definition	depletion of Bacteroides in RA human gut compared to fibromyalgia patients [OHMI:0000418]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Bacteroides in patients with RA compared with fibromyalgia patients.	
+INFO	lowercase_definition	has microbe expanded in diseased host [OHMI:0000423]	IAO_0000115 [IAO:0000115]	an object property that represents the relation between a host-microbiome interaction and a microbe where the population of the microbe is expanded in a diseased host compared to a healthy host control.	
+INFO	lowercase_definition	depletion of Bacteroides fragilis in RA human gut compared to fibromyalgia patients [OHMI:0000425]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Bacteroides fragilis in patients with RA compared with fibromyalgia patients.	
+INFO	lowercase_definition	depletion of Bifidobacterium bifidum in RA human gut compared to fibromyalgia patients [OHMI:0000438]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an decrease of Bifidobacterium bifidum in patients with RA compared with fibromyalgia patients.	
+INFO	lowercase_definition	depletion of Haemophilus spp. in RA human gut [OHMI:0000452]	IAO_0000115 [IAO:0000115]	a RA human gut microbiome interaction that shows an decrease of Haemophilus sp  in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	expansion of Bacteroides sp. in RA human gut [OHMI:0000458]	IAO_0000115 [IAO:0000115]	a RA human-gut microbiome interaction that shows an expansion of Bacteroides sp in patients with RA compared with healthy controls.	
+INFO	lowercase_definition	alpha diversity [OHMI:0000471]	IAO_0000115 [IAO:0000115]	the mean species diversity in sites or habitats at a local scale	
+INFO	lowercase_definition	beta diversity [OHMI:0000472]	IAO_0000115 [IAO:0000115]	the ratio between regional and local species diversity	
+INFO	lowercase_definition	gamma diversity [OHMI:0000473]	IAO_0000115 [IAO:0000115]	the total species diversity in a landscape	
+INFO	lowercase_definition	host microbiome restoration by DMARD [OHMI:0000476]	IAO_0000115 [IAO:0000115]	host microbiome restoration by a DMARD treatment	
+INFO	lowercase_definition	host microbiome restoration by antibiotics [OHMI:0000477]	IAO_0000115 [IAO:0000115]	host microbiome restoration by an antibiotics treatment	
+INFO	lowercase_definition	host microbiome restoration by microbiota transplantation [OHMI:0000478]	IAO_0000115 [IAO:0000115]	host microbiome restoration through the transplantation of a microbiota into the host	
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0001010 [CARO:0001010]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_13189 [DOID:13189]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_13250 [DOID:13250]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_219 [DOID:219]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_6196 [DOID:6196]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_676 [DOID:676]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_7147 [DOID:7147]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_7148 [DOID:7148]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_848 [DOID:848]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_9008 [DOID:9008]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_9074 [DOID:9074]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_9256 [DOID:9256]	rdfs:subClassOf		
+INFO	missing_superclass	DRON_00000005 [DRON:00000005]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_00000428 [ENVO:00000428]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000109 [IAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	INO_0000002 [INO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	MONDO_0019437 [MONDO:0019437]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_100883 [NCBITaxon:100883]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10090 [NCBITaxon:10090]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10114 [NCBITaxon:10114]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1017 [NCBITaxon:1017]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1021 [NCBITaxon:1021]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_102106 [NCBITaxon:102106]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_102148 [NCBITaxon:102148]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_104608 [NCBITaxon:104608]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1088106 [NCBITaxon:1088106]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_109326 [NCBITaxon:109326]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_115543 [NCBITaxon:115543]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_116085 [NCBITaxon:116085]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1182749 [NCBITaxon:1182749]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1219642 [NCBITaxon:1219642]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1224 [NCBITaxon:1224]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_123375 [NCBITaxon:123375]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1239 [NCBITaxon:1239]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1257 [NCBITaxon:1257]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1261 [NCBITaxon:1261]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1263 [NCBITaxon:1263]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1264 [NCBITaxon:1264]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1269 [NCBITaxon:1269]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_128827 [NCBITaxon:128827]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_12916 [NCBITaxon:12916]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1300 [NCBITaxon:1300]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1301 [NCBITaxon:1301]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1305 [NCBITaxon:1305]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1308 [NCBITaxon:1308]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1314 [NCBITaxon:1314]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1335 [NCBITaxon:1335]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1350 [NCBITaxon:1350]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1351 [NCBITaxon:1351]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_140626 [NCBITaxon:140626]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1502 [NCBITaxon:1502]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_150247 [NCBITaxon:150247]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1505663 [NCBITaxon:1505663]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1531 [NCBITaxon:1531]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1532 [NCBITaxon:1532]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_155615 [NCBITaxon:155615]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_157 [NCBITaxon:157]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1578 [NCBITaxon:1578]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1579 [NCBITaxon:1579]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_158 [NCBITaxon:158]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1582 [NCBITaxon:1582]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1583098 [NCBITaxon:1583098]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_158847 [NCBITaxon:158847]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1591 [NCBITaxon:1591]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1598 [NCBITaxon:1598]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1613 [NCBITaxon:1613]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1622 [NCBITaxon:1622]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1624 [NCBITaxon:1624]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_165179 [NCBITaxon:165179]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1654 [NCBITaxon:1654]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1678 [NCBITaxon:1678]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1681 [NCBITaxon:1681]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1689 [NCBITaxon:1689]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_171549 [NCBITaxon:171549]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_171550 [NCBITaxon:171550]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_171551 [NCBITaxon:171551]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_171552 [NCBITaxon:171552]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_172042 [NCBITaxon:172042]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1730 [NCBITaxon:1730]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1743 [NCBITaxon:1743]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1760 [NCBITaxon:1760]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1763 [NCBITaxon:1763]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1764 [NCBITaxon:1764]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1827 [NCBITaxon:1827]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1847 [NCBITaxon:1847]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_186801 [NCBITaxon:186801]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_186802 [NCBITaxon:186802]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_186803 [NCBITaxon:186803]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_186804 [NCBITaxon:186804]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_186806 [NCBITaxon:186806]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1872650 [NCBITaxon:1872650]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1897022 [NCBITaxon:1897022]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_1898203 [NCBITaxon:1898203]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_192066 [NCBITaxon:192066]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_194 [NCBITaxon:194]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_194924 [NCBITaxon:194924]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_197 [NCBITaxon:197]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_200643 [NCBITaxon:200643]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_200670 [NCBITaxon:200670]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_200795 [NCBITaxon:200795]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_201174 [NCBITaxon:201174]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_203492 [NCBITaxon:203492]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_209 [NCBITaxon:209]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_210 [NCBITaxon:210]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_216816 [NCBITaxon:216816]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_216851 [NCBITaxon:216851]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_218538 [NCBITaxon:218538]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_221102 [NCBITaxon:221102]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_235572 [NCBITaxon:235572]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_239759 [NCBITaxon:239759]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_239934 [NCBITaxon:239934]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_239935 [NCBITaxon:239935]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_244127 [NCBITaxon:244127]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_258514 [NCBITaxon:258514]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_265570 [NCBITaxon:265570]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2717 [NCBITaxon:2717]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28025 [NCBITaxon:28025]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28052 [NCBITaxon:28052]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28112 [NCBITaxon:28112]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28116 [NCBITaxon:28116]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28117 [NCBITaxon:28117]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28131 [NCBITaxon:28131]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28135 [NCBITaxon:28135]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28136 [NCBITaxon:28136]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_283168 [NCBITaxon:283168]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_286 [NCBITaxon:286]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_28901 [NCBITaxon:28901]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_292625 [NCBITaxon:292625]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_292628 [NCBITaxon:292628]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_292629 [NCBITaxon:292629]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_292632 [NCBITaxon:292632]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_29347 [NCBITaxon:29347]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_29465 [NCBITaxon:29465]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_29523 [NCBITaxon:29523]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_301301 [NCBITaxon:301301]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_302911 [NCBITaxon:302911]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_305911 [NCBITaxon:305911]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_306 [NCBITaxon:306]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_310297 [NCBITaxon:310297]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_315405 [NCBITaxon:315405]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_31977 [NCBITaxon:31977]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_31979 [NCBITaxon:31979]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_32008 [NCBITaxon:32008]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_32025 [NCBITaxon:32025]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_32045 [NCBITaxon:32045]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_32066 [NCBITaxon:32066]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_32067 [NCBITaxon:32067]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_32257 [NCBITaxon:32257]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_329854 [NCBITaxon:329854]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33024 [NCBITaxon:33024]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33033 [NCBITaxon:33033]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33042 [NCBITaxon:33042]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_333367 [NCBITaxon:333367]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_338188 [NCBITaxon:338188]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33882 [NCBITaxon:33882]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33958 [NCBITaxon:33958]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_34104 [NCBITaxon:34104]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_341694 [NCBITaxon:341694]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_35832 [NCBITaxon:35832]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_35833 [NCBITaxon:35833]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_363265 [NCBITaxon:363265]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_371601 [NCBITaxon:371601]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_375288 [NCBITaxon:375288]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_37762 [NCBITaxon:37762]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_39486 [NCBITaxon:39486]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_39496 [NCBITaxon:39496]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_397864 [NCBITaxon:397864]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_39948 [NCBITaxon:39948]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_39950 [NCBITaxon:39950]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_40520 [NCBITaxon:40520]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_40545 [NCBITaxon:40545]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_407 [NCBITaxon:407]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_407975 [NCBITaxon:407975]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_413496 [NCBITaxon:413496]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_416916 [NCBITaxon:416916]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_41978 [NCBITaxon:41978]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_44259 [NCBITaxon:44259]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_459786 [NCBITaxon:459786]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_46205 [NCBITaxon:46205]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_46206 [NCBITaxon:46206]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_46228 [NCBITaxon:46228]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_469 [NCBITaxon:469]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_471189 [NCBITaxon:471189]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_472977 [NCBITaxon:472977]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_47678 [NCBITaxon:47678]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_47715 [NCBITaxon:47715]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_51160 [NCBITaxon:51160]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5204 [NCBITaxon:5204]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_538 [NCBITaxon:538]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_541000 [NCBITaxon:541000]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_543 [NCBITaxon:543]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_543311 [NCBITaxon:543311]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_544 [NCBITaxon:544]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5476 [NCBITaxon:5476]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5481 [NCBITaxon:5481]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_55193 [NCBITaxon:55193]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_55194 [NCBITaxon:55194]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_561 [NCBITaxon:561]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_562 [NCBITaxon:562]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_570 [NCBITaxon:570]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_572511 [NCBITaxon:572511]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_573 [NCBITaxon:573]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_577309 [NCBITaxon:577309]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_579 [NCBITaxon:579]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_584 [NCBITaxon:584]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_586 [NCBITaxon:586]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_588605 [NCBITaxon:588605]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_590 [NCBITaxon:590]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_59201 [NCBITaxon:59201]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_61170 [NCBITaxon:61170]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_613 [NCBITaxon:613]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_620 [NCBITaxon:620]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_622 [NCBITaxon:622]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_629 [NCBITaxon:629]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_641 [NCBITaxon:641]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_651822 [NCBITaxon:651822]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_65402 [NCBITaxon:65402]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_657 [NCBITaxon:657]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_657309 [NCBITaxon:657309]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_662 [NCBITaxon:662]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_67824 [NCBITaxon:67824]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_67825 [NCBITaxon:67825]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_68766 [NCBITaxon:68766]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_697899 [NCBITaxon:697899]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_700500 [NCBITaxon:700500]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_712 [NCBITaxon:712]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_714 [NCBITaxon:714]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_724 [NCBITaxon:724]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_729 [NCBITaxon:729]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_730 [NCBITaxon:730]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_740 [NCBITaxon:740]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_74201 [NCBITaxon:74201]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_74426 [NCBITaxon:74426]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_753642 [NCBITaxon:753642]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_766165 [NCBITaxon:766165]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_76775 [NCBITaxon:76775]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_76777 [NCBITaxon:76777]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_76856 [NCBITaxon:76856]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_76857 [NCBITaxon:76857]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_76859 [NCBITaxon:76859]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_77020 [NCBITaxon:77020]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_810 [NCBITaxon:810]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_815 [NCBITaxon:815]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_816 [NCBITaxon:816]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_817 [NCBITaxon:817]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_81852 [NCBITaxon:81852]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_820 [NCBITaxon:820]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_821 [NCBITaxon:821]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_836 [NCBITaxon:836]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_837 [NCBITaxon:837]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_838 [NCBITaxon:838]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_841 [NCBITaxon:841]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_84107 [NCBITaxon:84107]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_84108 [NCBITaxon:84108]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_84111 [NCBITaxon:84111]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_84112 [NCBITaxon:84112]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_84163 [NCBITaxon:84163]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_84521 [NCBITaxon:84521]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_848 [NCBITaxon:848]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_85007 [NCBITaxon:85007]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_85025 [NCBITaxon:85025]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_851 [NCBITaxon:851]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_853 [NCBITaxon:853]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_86331 [NCBITaxon:86331]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_89152 [NCBITaxon:89152]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_89153 [NCBITaxon:89153]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_909929 [NCBITaxon:909929]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_909932 [NCBITaxon:909932]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_946234 [NCBITaxon:946234]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_970 [NCBITaxon:970]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_976 [NCBITaxon:976]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon__28115 [NCBITaxon::28115]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000725 [OBI:0000725]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_1110021 [OBI:1110021]	rdfs:subClassOf		
+INFO	missing_superclass	OGG_0000000001 [OGG:0000000001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001241 [PATO:0001241]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000000 [PCO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000004 [PCO:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000019 [PCO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000014 [UBERON:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000167 [UBERON:0000167]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001005 [UBERON:0001005]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001062 [UBERON:0001062]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001088 [UBERON:0001088]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004907 [UBERON:0004907]	rdfs:subClassOf		
+INFO	missing_superclass	UPHENO_0001002 [UPHENO:0001002]	rdfs:subClassOf		

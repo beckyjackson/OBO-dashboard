@@ -1,0 +1,310 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	antithrombotic drug pathway [PW:0001651]	IAO_0000115 [IAO:0000115]	The pharmacokinetics and pharmacodynamics pathway of drugs that reduce or prevent the formation of blood clots.  They are further classified depending on the blood clotting processes they affect. Genetic variations can result in changes in drug availability and can cause differences in the response of the organism to the drug.	
+ERROR	duplicate_definition	other antithrombotic drug pathway [PW:0002434]	IAO_0000115 [IAO:0000115]	The pharmacokinetics and pharmacodynamics pathway of drugs that reduce or prevent the formation of blood clots.  They are further classified depending on the blood clotting processes they affect. Genetic variations can result in changes in drug availability and can cause differences in the response of the organism to the drug.	
+ERROR	duplicate_definition	spermine metabolic pathway [PW:0000216]	IAO_0000115 [IAO:0000115]	Polyamine metabolism plays important roles in a number of cellular processes. Spermidine and spermine are formed in two consecutive reactions carried out by distinct enzymes that employ the decarboxylated form of AdoMet as an aminopropyl donor.	
+ERROR	duplicate_definition	spermidine metabolic pathway [PW:0000396]	IAO_0000115 [IAO:0000115]	Polyamine metabolism plays important roles in a number of cellular processes. Spermidine and spermine are formed in two consecutive reactions carried out by distinct enzymes that employ the decarboxylated form of AdoMet as an aminopropyl donor.	
+ERROR	duplicate_definition	phosphatidylinositol 3-kinase signaling pathway [PW:0000595]	IAO_0000115 [IAO:0000115]	Phosphatidylinositol kinases represent a family of lipid kinases that phosphorylate the 3' position of the inositol ring in target substrates. They are grouped into three classes: class I further subdivided into subclass A and B, class II and class III. By far the best known and characterized is class I, particularly IA that signals downstream of receptor tyrosine kinases and engages the Akt family of kinases.	
+ERROR	duplicate_definition	phosphatidylinositol 3-kinase class I signaling pathway [PW:0000963]	IAO_0000115 [IAO:0000115]	Phosphatidylinositol kinases represent a family of lipid kinases that phosphorylate the 3' position of the inositol ring in target substrates. They are grouped into three classes: class I further subdivided into subclass A and B, class II and class III. By far the best known and characterized is class I, particularly IA that signals downstream of receptor tyrosine kinases and engages the Akt family of kinases.	
+ERROR	duplicate_definition	phosphatidylinositol 3-kinase class II signaling pathway [PW:0000965]	IAO_0000115 [IAO:0000115]	Phosphatidylinositol kinases represent a family of lipid kinases that phosphorylate the 3' position of the inositol ring in target substrates. They are grouped into three classes: class I further subdivided into subclass A and B, class II and class III. By far the best known and characterized is class I, particularly IA that signals downstream of receptor tyrosine kinases and engages the Akt family of kinases.	
+ERROR	duplicate_definition	phosphatidylinositol 3-kinase class III signaling pathway [PW:0000966]	IAO_0000115 [IAO:0000115]	Phosphatidylinositol kinases represent a family of lipid kinases that phosphorylate the 3' position of the inositol ring in target substrates. They are grouped into three classes: class I further subdivided into subclass A and B, class II and class III. By far the best known and characterized is class I, particularly IA that signals downstream of receptor tyrosine kinases and engages the Akt family of kinases.	
+ERROR	duplicate_definition	lncRNA maturation pathway [PW:0001580]	IAO_0000115 [IAO:0000115]	Long non-coding RNA transcripts are subject to processing in a manner analogous to mRNA thereby they are capped and polyadenylated, and also frequently spliced.	
+ERROR	duplicate_definition	lncRNA capping pathway [PW:0001581]	IAO_0000115 [IAO:0000115]	Long non-coding RNA transcripts are subject to processing in a manner analogous to mRNA thereby they are capped and polyadenylated, and also frequently spliced.	
+ERROR	duplicate_definition	lncRNA polyadenylation pathway [PW:0001582]	IAO_0000115 [IAO:0000115]	Long non-coding RNA transcripts are subject to processing in a manner analogous to mRNA thereby they are capped and polyadenylated, and also frequently spliced.	
+ERROR	duplicate_definition	G protein mediated signaling pathway via Galphai family [PW:0000228]	IAO_0000115 [IAO:0000115]	Based on sequence similarity, the Galpha genes have been grouped into four classes. Exchange of GDP to GTP promoted through binding to receptors dissociates the heterotrimeric Galpha/beta/gamma complex. GTP-bound Galpha can then interact with downstream effectors. Lipid modification of Galpha regulates membrane localization and interactions with specific effectors.	
+ERROR	duplicate_definition	G protein mediated signaling pathway via Galphaq family [PW:0000229]	IAO_0000115 [IAO:0000115]	Based on sequence similarity, the Galpha genes have been grouped into four classes. Exchange of GDP to GTP promoted through binding to receptors dissociates the heterotrimeric Galpha/beta/gamma complex. GTP-bound Galpha can then interact with downstream effectors. Lipid modification of Galpha regulates membrane localization and interactions with specific effectors.	
+ERROR	duplicate_definition	G protein mediated signaling pathway via Galphas family [PW:0000227]	IAO_0000115 [IAO:0000115]	Based on sequence similarity, the Galpha genes have been grouped into four classes. Exchange of GDP to GTP promoted through binding to receptors dissociates the heterotrimeric Galpa/beta/gamma complex. GTP-bound Galpha can then interact with downstream effectors. Lipid modification of Galpha regulates membrane localization and interactions with specific effectors.	
+ERROR	duplicate_definition	G protein mediated signaling pathway via Galpha12/Galpha13 family [PW:0000230]	IAO_0000115 [IAO:0000115]	Based on sequence similarity, the Galpha genes have been grouped into four classes. Exchange of GDP to GTP promoted through binding to receptors dissociates the heterotrimeric Galpa/beta/gamma complex. GTP-bound Galpha can then interact with downstream effectors. Lipid modification of Galpha regulates membrane localization and interactions with specific effectors.	
+ERROR	missing_ontology_description	pw.owl	dc11:description		
+ERROR	duplicate_label	synaptic vesicle cycle pathway [PW:0001072]	label [rdfs:label]	synaptic vesicle cycle pathway	
+ERROR	duplicate_label	synaptic vesicle cycle pathway [PW:0002423]	label [rdfs:label]	synaptic vesicle cycle pathway	
+ERROR	duplicate_label	nervous system lysosomal storage disease pathway [PW:0002020]	label [rdfs:label]	nervous system lysosomal storage disease pathway	
+ERROR	duplicate_label	nervous system lysosomal storage disease pathway [PW:0002300]	label [rdfs:label]	nervous system lysosomal storage disease pathway	
+ERROR	duplicate_label	monoterpenoid biosynthetic pathway [PW:0000166]	label [rdfs:label]	monoterpenoid biosynthetic pathway	
+ERROR	duplicate_label	monoterpenoid biosynthetic pathway [PW:0000252]	label [rdfs:label]	monoterpenoid biosynthetic pathway	
+ERROR	duplicate_label	malonic aciduria pathway [PW:0002289]	label [rdfs:label]	malonic aciduria pathway	
+ERROR	duplicate_label	malonic aciduria pathway [PW:0002550]	label [rdfs:label]	malonic aciduria pathway	
+ERROR	duplicate_label	lysine metabolic pathway [PW:0001081]	label [rdfs:label]	lysine metabolic pathway	
+ERROR	duplicate_label	lysine metabolic pathway [PW:0002185]	label [rdfs:label]	lysine metabolic pathway	
+ERROR	duplicate_label	liver disease pathway [PW:0001413]	label [rdfs:label]	liver disease pathway	
+ERROR	duplicate_label	liver disease pathway [PW:0001698]	label [rdfs:label]	liver disease pathway	
+ERROR	duplicate_label	indometacin pharmacokinetics pathway [PW:0002304]	label [rdfs:label]	indometacin pharmacokinetics pathway	
+ERROR	duplicate_label	indometacin pharmacokinetics pathway [PW:0002314]	label [rdfs:label]	indometacin pharmacokinetics pathway	
+ERROR	duplicate_label	indometacin pharmacodynamics pathway [PW:0002305]	label [rdfs:label]	indometacin pharmacodynamics pathway	
+ERROR	duplicate_label	indometacin pharmacodynamics pathway [PW:0002315]	label [rdfs:label]	indometacin pharmacodynamics pathway	
+ERROR	duplicate_label	indometacin drug pathway [PW:0002303]	label [rdfs:label]	indometacin drug pathway	
+ERROR	duplicate_label	indometacin drug pathway [PW:0002313]	label [rdfs:label]	indometacin drug pathway	
+ERROR	duplicate_label	hypermethioninemia pathway [PW:0001868]	label [rdfs:label]	hypermethioninemia pathway	
+ERROR	duplicate_label	hypermethioninemia pathway [PW:0002471]	label [rdfs:label]	hypermethioninemia pathway	
+ERROR	duplicate_label	ether lipid metabolic pathway [PW:0001138]	label [rdfs:label]	ether lipid metabolic pathway	
+ERROR	duplicate_label	ether lipid metabolic pathway [PW:0001157]	label [rdfs:label]	ether lipid metabolic pathway	
+ERROR	duplicate_label	eicosanoid signaling pathway [PW:0000565]	label [rdfs:label]	eicosanoid signaling pathway	
+ERROR	duplicate_label	eicosanoid signaling pathway [PW:0001294]	label [rdfs:label]	eicosanoid signaling pathway	
+ERROR	duplicate_label	adrenergic beta receptor agonist drug pathway [PW:0001736]	label [rdfs:label]	adrenergic beta receptor agonist drug pathway	
+ERROR	duplicate_label	adrenergic beta receptor agonist drug pathway [PW:0002498]	label [rdfs:label]	adrenergic beta receptor agonist drug pathway	
+ERROR	duplicate_label	<new term> [PW:0000649]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [PW:0000695]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [PW:0001937]	label [rdfs:label]	<new term>	
+ERROR	missing_ontology_license	pw.owl	dc:license		
+ERROR	missing_ontology_title	pw.owl	dc11:title		
+WARN	annotation_whitespace	fibrinoid necrosis pathway [PW:0000311]	IAO_0000115 [IAO:0000115]	Fibrinoid necrosis involves the deposition of fibrin and other plasma proteins in the walls of afferent renal arterioles in malignant hypertension, often accompanied by an inflammatory infiltrate within the walls and thrombosis of the vessel lumen. 	
+WARN	missing_definition	C5-branched dibasic acid metabolic pathway [PW:0000066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DNA replication pathway [PW:0000098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alkaloid biosynthetic pathway I [PW:0000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alkaloid biosynthetic pathway II [PW:0000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stilbene, coumarine and lignin biosynthetic pathway [PW:0000150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sphingolipid biosynthetic pathway [PW:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sphingolipid degradation pathway [PW:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central obesity with hypertension pathway [PW:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyridine nucleotide biosynthetic pathway [PW:0000220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polyketide sugar biosynthetic pathway [PW:0000257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuron-to-neuron signaling pathways [PW:0000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered protein degradation pathway [PW:0000326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	connexin signaling pathway [PW:0000334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered cadherins mediated signaling pathway [PW:0000338]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered connexins mediated signaling pathway [PW:0000339]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cerebrovascular disease pathway [PW:0000344]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cerebral arterial diseases pathway [PW:0000345]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiovascular abnormalities pathway [PW:0000347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	congenital heart defects pathway [PW:0000348]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered oxygen homeostasis pathway [PW:0000361]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered leptin system pathway [PW:0000364]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multidrug resistance-associated protein mediated transport pathway [PW:0000381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multidrug resistance protein mediated transport pathway [PW:0000382]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multispecific organic anion transporter mediated transport pathway [PW:0000383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered signaling pathway pertinent to the brain and nervous system [PW:0000389]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered Reelin signaling pathway [PW:0000390]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered Ras superfamily mediated signaling pathway [PW:0000391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered mTOR signaling pathway [PW:0000393]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered dopamine signaling pathway [PW:0000395]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metabolic pathway pertinent to the brain [PW:0000406]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurotransmitter metabolic pathway [PW:0000407]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered ubiquitin, ubiquitin-like degradation pathway [PW:0000418]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered c-Jun N-terminal kinase MAPK signaling pathway [PW:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered stress-regulated MAPK signaling pathway [PW:0000422]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surfactant homeostasis pathway [PW:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered molybdenum cofactor biosynthetic pathway [PW:0000428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered metabolic pathway of cofactors, vitamins, nutrients [PW:0000429]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amino acid neurotransmitter metabolic pathway [PW:0000437]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	excitatory neurotransmitter metabolic pathway [PW:0000445]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inhibitory neurotransmitter metabolic pathway [PW:0000446]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptide neurotransmitter metabolic pathway [PW:0000447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amine and amino acid-derived hormone signaling pathway [PW:0000466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptide and protein hormone signaling pathway [PW:0000467]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiovascular system homeostasis pathway [PW:0000476]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exogenous pathway [PW:0000496]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endogenous pathway [PW:0000497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tyrosine-based hormone signaling pathway [PW:0000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered insulin-like growth factor signaling pathway [PW:0000510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered peptide and protein hormone signaling pathway [PW:0000511]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Interleukin mediated signaling pathway [PW:0000512]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Ras mediated signaling pathway [PW:0000525]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	signaling pathway involving second messengers [PW:0000541]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered transport pathway [PW:0000545]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose conversion pathway [PW:0000558]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered p38 MAPK signaling pathway [PW:0000601]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered Erk5 MAPK signaling pathway [PW:0000604]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered phosphatidylinositol 3-kinase signaling pathway [PW:0000621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intestinal cancer pathway [PW:0000628]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	liver cancer pathway [PW:0000630]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bone cancer pathway [PW:0000632]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered Wnt/calcium signaling pathway [PW:0000635]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered cell adhesion signaling pathway [PW:0000671]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered cell-extracellular matrix signaling pathway [PW:0000672]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered signaling pathway pertinent to development [PW:0000673]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered extrinsic apoptotic pathway [PW:0000680]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	respiratory tract cancer pathway [PW:0000702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered lipid hormone signaling pathway [PW:0000785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered steroid hormone signaling pathway [PW:0000786]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered sex steroids signaling pathway [PW:0000787]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endogenous small interfering RNA pathway [PW:0000810]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	signaling pathway in the innate immune response [PW:0000819]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	signaling pathway in the adaptive immune response [PW:0000820]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamate signaling pathway via group I metabotropic glutamate receptor [PW:0000849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamate signaling pathway via group II or III glutamate receptor [PW:0000850]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	purine salvage pathway [PW:0000868]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered corticosteroid signaling pathway [PW:0000880]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered glucocorticoid signaling pathway [PW:0000881]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-19 signaling pathway [PW:0000886]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-20 signaling pathway [PW:0000887]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-24 signaling pathway [PW:0000889]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-26 signaling pathway [PW:0000890]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-28A signaling pathway [PW:0000891]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-28B signaling pathway [PW:0000892]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-29 signaling pathway [PW:0000893]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-11 signaling pathway [PW:0000902]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leukemia inhibitory factor signaling pathway [PW:0000903]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ciliary neurotrophic factor signaling pathway [PW:0000904]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oncostatin M signaling pathway [PW:0000905]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-7 signaling pathway [PW:0000908]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-9 signaling pathway [PW:0000909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-15 signaling pathway [PW:0000910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-21 signaling pathway [PW:0000911]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-23 signaling pathway [PW:0000915]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-27 signaling pathway [PW:0000916]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interleukin-35 signaling pathway [PW:0000917]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lipid signaling pathway [PW:0000959]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered phosphatidylinositol 3-kinase class I signaling pathway [PW:0000964]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemokine (C-X-C motif) ligand 7 signaling pathway [PW:0000977]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemokine (C-X-C motif) ligand 12 signaling pathway [PW:0000983]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemokine (C-X-C motif) ligand 13 signaling pathway [PW:0000984]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemokine (C-X-C motif) ligand 14 signaling pathway [PW:0000985]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemokine (C-X-C motif) ligand 16 signaling pathway [PW:0000986]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered classical cadherin signaling pathway [PW:0000994]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered E-cadherin signaling pathway [PW:0000995]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleoside and nucleotide mediated signaling pathway [PW:0000997]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adenosine triphosphate signaling via the P2X ligand-gated ion channel [PW:0001001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	copper homeostasis pathway [PW:0001002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	photosignal transduction pathway [PW:0001008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immune system disease pathway [PW:0001018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	substance dependence pathway [PW:0001029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Herpes simplex virus infection pathway [PW:0001056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Epstein-Barr virus infection pathway [PW:0001057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered translation pathway [PW:0001068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cysteine and methionine metabolic pathway [PW:0001078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tocilizumab pharmacokinetics pathway [PW:0001111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tocilizumab pharmacodynamics pathway [PW:0001112]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vitamin A and metabolites signaling pathway [PW:0001116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered energy metabolic pathway [PW:0001118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caveolae-mediated endocytosis pathway [PW:0001143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	micropinocytosis pathway [PW:0001144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eicosanoid signaling pathway via peroxisome proliferator-activated receptor gamma [PW:0001147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lipid neurotransmitter metabolic pathway [PW:0001165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocannabinoid metabolic pathway [PW:0001166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered calcium/calcium-mediated signaling pathway [PW:0001169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered fibroblast growth factor 23 signaling pathway [PW:0001181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered phosphate homeostasis pathway [PW:0001184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcium/calmodulin dependent kinase 1 signaling pathway [PW:0001187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcium/calmodulin dependent kinase 4 signaling pathway [PW:0001188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered hydrophobic amino acid metabolic pathway [PW:0001190]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered phosphatase mediated signaling pathway [PW:0001196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered serine/threonine-specific phosphatase mediated signaling pathway [PW:0001197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered kinase mediated signaling pathway [PW:0001198]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered serine/threonine-specific kinase mediated signaling pathway [PW:0001199]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered folate cycle metabolic pathway [PW:0001208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered folate mediated one-carbon metabolic pathway [PW:0001209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forkhead class C signaling pathway [PW:0001222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forkhead class P signaling pathway [PW:0001223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arylamine metabolic pathway [PW:0001232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	serotonin biosynthetic pathway [PW:0001237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	indoleamine and related compounds biosynthetic pathway [PW:0001238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	regulatory pathway pertinent to the brain [PW:0001251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amino acid biosynthetic pathway [PW:0001254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrophilic amino acid biosynthetic pathway [PW:0001255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrophobic amino acid biosynthetic pathway [PW:0001256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amino acid degradation pathway [PW:0001257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrophobic amino acid degradation pathway [PW:0001258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrophilic amino acid degradation pathway [PW:0001259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	valine degradation pathway [PW:0001286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carotene biosynthetic pathway [PW:0001292]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carotene degradation pathway [PW:0001293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered steroid biosynthetic pathway [PW:0001306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	respiratory system disease pathway [PW:0001308]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transcription pathway via transcription factor mediated signaling [PW:0001313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered transcription pathway via transcription factor mediated signaling [PW:0001314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitochondrial ribosome biogenesis pathway [PW:0001325]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered mitochondrial translation pathway [PW:0001326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered cholesterol transport pathway [PW:0001347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ion transport pathway [PW:0001348]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered non-metal ion transport pathway [PW:0001351]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered metal ion transport pathway [PW:0001352]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered ion transport pathway [PW:0001353]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fumonisin metabolic pathway [PW:0001367]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trichothecene metabolic pathway [PW:0001368]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamate degradation pathway IX [PW:0001389]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	terpene and terpenoid degradation pathway [PW:0001398]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	terpene degradation pathway [PW:0001399]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	terpenoid degradation pathway [PW:0001400]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amphotericin B drug pathway [PW:0001459]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amphotericin B pharmacokinetics pathway [PW:0001460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amphotericin B pharmacodynamics pathway [PW:0001461]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered photosignal transduction pathway [PW:0001492]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered vitamin and vitamin metabolites signaling pathway [PW:0001493]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered vitamin A and metabolites signaling pathway [PW:0001494]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory system disease pathway [PW:0001496]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered vitamin homeostasis [PW:0001500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered vitamin A homeostasis [PW:0001501]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered mechanotransduction pathway [PW:0001505]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose reduction pathway [PW:0001519]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory system signaling pathway [PW:0001536]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered tyrosine-specific protein kinase mediated signaling pathway [PW:0001537]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered cardiovascular system homeostasis pathway [PW:0001538]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered Ras family mediated signaling pathway [PW:0001540]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered G protein mediated signaling pathway [PW:0001541]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered signaling pathway pertinent to immunity [PW:0001543]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered heterotrimeric G protein mediated signaling pathway [PW:0001544]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocrine system disease pathway [PW:0001547]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diabetes complication pathway [PW:0001548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diabetic angiopathy pathway [PW:0001549]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered cell cycle pathway [PW:0001551]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered cell cycle pathway, mitotic [PW:0001552]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered non-apoptotic cell death pathway [PW:0001563]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA polymerase III transcription initiation pathway [PW:0001575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA polymerase III transcription elongation pathway [PW:0001576]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA polymerase III transcription termination pathway [PW:0001577]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vitamin A deficiency pathway [PW:0001585]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-hydroxyacyl-CoA dehydrogenase deficiency pathway [PW:0001668]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urogenital disease pathway [PW:0001699]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urologic disease pathway [PW:0001700]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skin and connective tissue disease pathway [PW:0001701]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyruvate decarboxylase deficiency pathway [PW:0001752]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyruvate dehydrogenase E1 deficiency pathway [PW:0001753]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyruvate dehydrogenase E2 deficiency pathway [PW:0001754]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyruvate dehydrogenase E3 deficiency pathway [PW:0001755]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hyperoxaluria pathway [PW:0001780]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered metal homeostasis pathway [PW:0001832]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Kelley-Seegmiller syndrome pathway [PW:0001938]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bacterial DNA replication pathway [PW:0001955]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skin disease pathway [PW:0002178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	connective tissue disease pathway [PW:0002179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered glycerophospholipid metabolic pathway [PW:0002419]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered phosphatidylinositol metabolic pathway [PW:0002420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tiaprofenic acid pharmacokinetics pathway [PW:0002515]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tiaprofenic acid pharmacodynamics pathway [PW:0002516]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	magnesium salicylate pharmacokinetics pathway [PW:0002529]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	magnesium salicylate pharmacodynamics pathway [PW:0002530]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered neurotrophic factor signaling pathway [PW:0002578]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutathione antioxidant pathway [PW:0002623]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thioredoxin antioxidant pathway [PW:0002624]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peroxiredoxin antioxidant pathway [PW:0002625]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	term zero [PW:0000000]	label [rdfs:label]	term zero	
+WARN	missing_obsolete_label	Sterol, vitamin K, vitamine E and cartenoids  biosynthesis [PW:0000038]	label [rdfs:label]	Sterol, vitamin K, vitamine E and cartenoids  biosynthesis	
+WARN	missing_obsolete_label	Duplicated Glutamate Metabolism term [PW:0000044]	label [rdfs:label]	Duplicated Glutamate Metabolism term	
+WARN	missing_obsolete_label	Duplicated Selenoamino acid metabolism term [PW:0000079]	label [rdfs:label]	Duplicated Selenoamino acid metabolism term	
+WARN	missing_obsolete_label	Duplicated term - Selenoamino acid metabolism [PW:0000080]	label [rdfs:label]	Duplicated term - Selenoamino acid metabolism	
+WARN	missing_obsolete_label	Duplicated glutathione metabolism term [PW:0000084]	label [rdfs:label]	Duplicated glutathione metabolism term	
+WARN	missing_obsolete_label	Metabolism of complex carbohydrates [PW:0000145]	label [rdfs:label]	Metabolism of complex carbohydrates	
+WARN	missing_obsolete_label	phospholipid metabolic pathway [PW:0000155]	label [rdfs:label]	phospholipid metabolic pathway	
+WARN	missing_obsolete_label	N-Glycan degradation pathway [PW:0000193]	label [rdfs:label]	N-Glycan degradation pathway	
+WARN	missing_obsolete_label	SMAD dependent signaling pathways [PW:0000210]	label [rdfs:label]	SMAD dependent signaling pathways	
+WARN	missing_obsolete_label	UDP-N-acetylgalactosamine biosynthetic pathway [PW:0000222]	label [rdfs:label]	UDP-N-acetylgalactosamine biosynthetic pathway	
+WARN	missing_obsolete_label	UDP-N-acetylglucosamine biosynthetic pathway [PW:0000223]	label [rdfs:label]	UDP-N-acetylglucosamine biosynthetic pathway	
+WARN	missing_obsolete_label	Rap1 pathways [PW:0000231]	label [rdfs:label]	Rap1 pathways	
+WARN	missing_obsolete_label	monoterpenoid biosynthetic pathway [PW:0000252]	label [rdfs:label]	monoterpenoid biosynthetic pathway	
+WARN	missing_obsolete_label	killed term [PW:0000430]	label [rdfs:label]	killed term	
+WARN	missing_obsolete_label	another killed term [PW:0000431]	label [rdfs:label]	another killed term	
+WARN	missing_obsolete_label	antigen processing pathway [PW:0000488]	label [rdfs:label]	antigen processing pathway	
+WARN	missing_obsolete_label	<new term> [PW:0000649]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<new term> [PW:0000695]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	synaptic vesicle cycle pathway [PW:0001072]	label [rdfs:label]	synaptic vesicle cycle pathway	
+WARN	missing_obsolete_label	special amino acid metabolic pathway [PW:0001076]	label [rdfs:label]	special amino acid metabolic pathway	
+WARN	missing_obsolete_label	ether lipid metabolic pathway [PW:0001157]	label [rdfs:label]	ether lipid metabolic pathway	
+WARN	missing_obsolete_label	eicosanoid signaling pathway [PW:0001294]	label [rdfs:label]	eicosanoid signaling pathway	
+WARN	missing_obsolete_label	prostacyclin signaling pathway [PW:0001528]	label [rdfs:label]	prostacyclin signaling pathway	
+WARN	missing_obsolete_label	liver disease pathway [PW:0001698]	label [rdfs:label]	liver disease pathway	
+WARN	missing_obsolete_label	adrenergic beta receptor drug pathway - beta agonist [PW:0001734]	label [rdfs:label]	adrenergic beta receptor drug pathway - beta agonist	
+WARN	missing_obsolete_label	adrenergic beta receptor agonist drug pathway [PW:0001736]	label [rdfs:label]	adrenergic beta receptor agonist drug pathway	
+WARN	missing_obsolete_label	Nonketotic hyperglycinemia disease pathway [PW:0001934]	label [rdfs:label]	Nonketotic hyperglycinemia disease pathway	
+WARN	missing_obsolete_label	<new term> [PW:0001937]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	nervous system lysosomal storage disease pathway [PW:0002020]	label [rdfs:label]	nervous system lysosomal storage disease pathway	
+WARN	missing_obsolete_label	carbamoyl phosphate synthase I deficiency pathway [PW:0002144]	label [rdfs:label]	carbamoyl phosphate synthase I deficiency pathway	
+WARN	missing_obsolete_label	lysine metabolic pathway [PW:0002185]	label [rdfs:label]	lysine metabolic pathway	
+WARN	missing_obsolete_label	urea cycle disease pathway [PW:0002219]	label [rdfs:label]	urea cycle disease pathway	
+WARN	missing_obsolete_label	malonic aciduria pathway [PW:0002550]	label [rdfs:label]	malonic aciduria pathway	
+INFO	lowercase_definition	mTOR signaling pathway [PW:0000180]	IAO_0000115 [IAO:0000115]	mTOR signaling pathway regulates cellular processes such as translation, ribosome biogenesis, cell growth and autophagy and is regulated or responds to growth factors, energy metabolites and/or levels of nutrients.	
+INFO	lowercase_definition	steroid hormone signaling pathway [PW:0000468]	IAO_0000115 [IAO:0000115]	steroid hormones - steroids that act as hormones - can be grouped into several categories depending on the receptor to which they bind.	
+INFO	lowercase_definition	brain natriuretic peptide signaling pathway [PW:0000472]	IAO_0000115 [IAO:0000115]	brain natriuretic peptide signaling pathway appears to elicit cardiovascular, renal and endocrine functions similar to those elicited by the atrial natriuretic peptide.	
+INFO	lowercase_definition	p53 signaling pathway [PW:0000718]	IAO_0000115 [IAO:0000115]	p53 transcription factor is a tumor suppressor frequently mutated in cancer. p53 is at the hub of many signaling and regulatory pathways. In response to various stresses, it promotes apoptosis, cell cycle arrest and other defense pathways via transcription dependent as well as independent routes. A key regulator of p53 is Mdm2. Mdm2 is a transcriptional target of p53 thus providing a negative feedback loop.	
+INFO	lowercase_definition	pazopanib pharmacokinetics pathway [PW:0001133]	IAO_0000115 [IAO:0000115]	he pathway of processing - absorption, distribution, metabolism or elimination - of pazopanib. The drug is a multikinase inhibitor approved for the treatment of renal cell carcinoma. Genetic variations can result in changes in the availability of the drug.	
+INFO	lowercase_definition	mRNA maturation pathway [PW:0001569]	IAO_0000115 [IAO:0000115]	mRNA maturation involves 5'-capping and 3' processing of pre-mRNA,  splicing and alternative splicing to produce the mature mRNA molecule(s).	
+INFO	lowercase_definition	5\'-end pre-mRNA capping pathway [PW:0001578]	IAO_0000115 [IAO:0000115]	5'-end capping occurs earlier in transcription and, along with phosphorylation of pol II, promotes productive elongation.	
+INFO	missing_superclass	pathway [PW:0000001]	rdfs:subClassOf		

@@ -1,0 +1,207 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	presence of acid-fast stain [OMP:0007298]	IAO_0000115 [IAO:0000115]	An acid-fast stain phenotype where a cell or cells that have been stained, typically with carbolfuchsin, are not easily decolorized by acid--alcohol.	
+ERROR	duplicate_definition	absence of acid-fast stain [OMP:0007299]	IAO_0000115 [IAO:0000115]	An acid-fast stain phenotype where a cell or cells that have been stained, typically with carbolfuchsin, are not easily decolorized by acid--alcohol.	
+ERROR	duplicate_definition	decreased lethality in mice [OMP:0007446]	IAO_0000115 [IAO:0000115]	A decreased lethality phenotype where the ability of an infectious microbe to cause death of its murine host is decreased relative to a designated control.	
+ERROR	duplicate_definition	increased lethality in mice [OMP:0007450]	IAO_0000115 [IAO:0000115]	A decreased lethality phenotype where the ability of an infectious microbe to cause death of its murine host is decreased relative to a designated control.	
+ERROR	missing_ontology_description	omp.owl	dc11:description		
+ERROR	duplicate_label	presence of vegetative cell population growth [OMP:0007793]	label [rdfs:label]	presence of vegetative cell population growth	
+ERROR	duplicate_label	presence of vegetative cell population growth [OMP:0007796]	label [rdfs:label]	presence of vegetative cell population growth	
+ERROR	duplicate_label	plaque size phenotype [OMP:0008044]	label [rdfs:label]	plaque size phenotype	
+ERROR	duplicate_label	plaque size phenotype [OMP:0008050]	label [rdfs:label]	plaque size phenotype	
+ERROR	duplicate_label	plaque size phenotype [OMP:0008059]	label [rdfs:label]	plaque size phenotype	
+ERROR	duplicate_label	plaque morphology phenotype [OMP:0008043]	label [rdfs:label]	plaque morphology phenotype	
+ERROR	duplicate_label	plaque morphology phenotype [OMP:0008057]	label [rdfs:label]	plaque morphology phenotype	
+ERROR	duplicate_label	plaque appearance phenotype [OMP:0008047]	label [rdfs:label]	plaque appearance phenotype	
+ERROR	duplicate_label	plaque appearance phenotype [OMP:0008058]	label [rdfs:label]	plaque appearance phenotype	
+ERROR	duplicate_label	inviable vegetative cell population [OMP:0007461]	label [rdfs:label]	nonviable vegetative cell population	
+ERROR	duplicate_label	nonviable vegetative cell population [OMP:0007700]	label [rdfs:label]	nonviable vegetative cell population	
+ERROR	duplicate_label	nonviable cell population [OMP:0007458]	label [rdfs:label]	nonviable cell population	
+ERROR	duplicate_label	nonviable cell population [OMP:0007699]	label [rdfs:label]	nonviable cell population	
+ERROR	duplicate_label	increased cellular pigment accumulation [OMP:0007815]	label [rdfs:label]	increased cellular pigment accumulation	
+ERROR	duplicate_label	increased cellular pigment accumulation [OMP:0007816]	label [rdfs:label]	increased cellular pigment accumulation	
+ERROR	duplicate_label	cell wall morphology phenotype [OMP:0005233]	label [rdfs:label]	cell wall morphology phenotype	
+ERROR	duplicate_label	cell wall morphology phenotype [OMP:0007277]	label [rdfs:label]	cell wall morphology phenotype	
+ERROR	duplicate_label	altered plaque size phenotype [OMP:0008046]	label [rdfs:label]	altered plaque size phenotype	
+ERROR	duplicate_label	altered plaque size phenotype [OMP:0008049]	label [rdfs:label]	altered plaque size phenotype	
+ERROR	duplicate_label	altered plaque morphology phenotype [OMP:0008045]	label [rdfs:label]	altered plaque morphology phenotype	
+ERROR	duplicate_label	altered plaque morphology phenotype [OMP:0008048]	label [rdfs:label]	altered plaque morphology phenotype	
+ERROR	duplicate_label	altered actin cytoskeleton [OMP:0007753]	label [rdfs:label]	altered actin cytoskeleton	
+ERROR	duplicate_label	altered actin cytoskeleton [OMP:0007760]	label [rdfs:label]	altered actin cytoskeleton	
+ERROR	missing_ontology_license	omp.owl	dc:license		
+ERROR	missing_ontology_title	omp.owl	dc11:title		
+WARN	annotation_whitespace	decreased resistance to dessication stress [OMP:0005088]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	increased dessication sensitivity 	
+WARN	annotation_whitespace	decreased resistance to freeze/thawing stress [OMP:0005090]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	decreased freeze/thaw sensitivity. 	
+WARN	annotation_whitespace	decreased resistance to x-ray radiation [OMP:0005096]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	increased x-ray sensitivity 	
+WARN	annotation_whitespace	increased resistance to UV radiation [OMP:0005097]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	decreased UV sensitivity 	
+WARN	annotation_whitespace	decreased resistance to UV radiation [OMP:0005098]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	increased UV sensitivity 	
+WARN	annotation_whitespace	cell cycle [OMP:0005115]	hasExactSynonym [oboInOwl:hasExactSynonym]	cell division cycle 	
+WARN	annotation_whitespace	abolished endocytosis [OMP:0005265]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	abolished endocytosis during vegetative growth 	
+WARN	annotation_whitespace	delayed onset of endocytosis [OMP:0005266]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	delayed onset of endocytosis during vegetative growth 	
+WARN	annotation_whitespace	carbon source utilization phenotype [OMP:0006023]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	succinate 	
+WARN	annotation_whitespace	quinolone resistance phenotype [OMP:0006029]	hasBroadSynonym [oboInOwl:hasBroadSynonym]	quinolines 	
+WARN	annotation_whitespace	presence of outer membrane vesicles [OMP:0006107]	hasExactSynonym [oboInOwl:hasExactSynonym]	vesiculation 	
+WARN	annotation_whitespace	inorganic nitrogen source utilization phenotype [OMP:0007013]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	nitrate utilization, phenotype 	
+WARN	annotation_whitespace	phototrophic phenotype [OMP:0007064]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	phototroph 	
+WARN	annotation_whitespace	decreased resistance to a chemical [OMP:0007249]	hasExactSynonym [oboInOwl:hasExactSynonym]	 increased sensitivity to a chemical	
+WARN	annotation_whitespace	attached lifestyle phenotype [OMP:0007647]	hasExactSynonym [oboInOwl:hasExactSynonym]	anchored lifestyle phenotype 	
+WARN	missing_definition	response to oxidative stress phenotype [OMP:0005038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	viable but nonculturable cell [OMP:0007263]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased mucoidy [OMP:0007322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of survival in macrophage [OMP:0007453]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered survival in macrophage [OMP:0007454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	survival in macrophage phenotype [OMP:0007455]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clamp connection morphology phenotype [OMP:0007559]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	resistant to mitomycin [OMP:0007650]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	not resistant to mitomycin [OMP:0007651]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	level of substance in cell phenotype [OMP:0007656]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of cellular reactive oxygen species [OMP:0007658]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of cellular reactive oxygen species [OMP:0007659]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased level of cellular reactive oxygen species [OMP:0007662]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished cellular reactive oxygen species [OMP:0007663]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bending cell morphology [OMP:0007683]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished cell population viability [OMP:0007704]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered vegetative cell size [OMP:0007713]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased cell volume [OMP:0007721]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of a septation index [OMP:0007733]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of cellular process during vegetative growth [OMP:0007785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of cell separation after cell division during vegetative growth [OMP:0007787]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of vegetative cell population growth [OMP:0007796]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of vegetative cell population growth [OMP:0007797]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered vegetative cell population growth [OMP:0007798]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered vegetative cell population growth rate [OMP:0007801]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased vegetative cell population growth rate [OMP:0007802]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased vegetative cell population growth rate [OMP:0007803]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased cell population viablity upon starvation [OMP:0007807]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell population growth rate phenotype [OMP:0007810]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of organic carbon source utilization [OMP:0007849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of inorganic carbon source utilization [OMP:0007850]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered nitrogen source utilization [OMP:0007905]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered organic nitrogen source utilization [OMP:0007906]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chelator resistance phenotype [OMP:0007908]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	resistant to a chelator [OMP:0007909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	not resistant to a chelator [OMP:0007910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered resistance to a chelator [OMP:0007911]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased resistance to a chelator [OMP:0007912]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased resistance to a chelator [OMP:0007913]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished resistance to a chelator [OMP:0007914]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell size variability within a cell population phenotype [OMP:0007917]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered variability in cell size within a cell population [OMP:0007918]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of cell population growth [OMP:0007919]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of cell population growth [OMP:0007920]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of cell size variability within a cell population [OMP:0007921]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of cell size variability within a cell population [OMP:0007922]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased variability in cell size within a cell population [OMP:0007923]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased variability in cell size within a cell population [OMP:0007924]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished variability in cell size within a cell population [OMP:0007925]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased resistance to nutrient limitation [OMP:0007936]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased resistance to nutrient limitation [OMP:0007937]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished resistance to nutrient limitation [OMP:0007938]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered viability after microbial spore germination [OMP:0007941]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased survival in macrophage [OMP:0007942]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased survival in macrophage [OMP:0007943]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished survival in macrophage [OMP:0007944]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	<new term> [OMP:0007949]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased population growth at high temperature [OMP:0007953]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased population growth at high temperature [OMP:0007954]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished population growth at high temperature [OMP:0007955]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presence of population growth at low temperature [OMP:0007956]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	absence of population growth at low temperature [OMP:0007957]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	altered population growth at low temperature [OMP:0007958]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	increased population growth at low temperature [OMP:0007959]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decreased population growth at low temperature [OMP:0007960]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abolished population growth at low temperature [OMP:0007961]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	plating morphology phenotype [OMP:0000255]	label [rdfs:label]	plating morphology phenotype	
+WARN	missing_obsolete_label	MacConkey agar phenotype [OMP:0000256]	label [rdfs:label]	MacConkey agar phenotype	
+WARN	missing_obsolete_label	red colony on MacConkey agar [OMP:0000258]	label [rdfs:label]	red colony on MacConkey agar	
+WARN	missing_obsolete_label	protein activity phenotype [OMP:0000269]	label [rdfs:label]	protein activity phenotype	
+WARN	missing_obsolete_label	genophore phenotype [OMP:0000291]	label [rdfs:label]	genophore phenotype	
+WARN	missing_obsolete_label	galactose-1-phosphate uridyl transferase activity [OMP:0000299]	label [rdfs:label]	galactose-1-phosphate uridyl transferase activity	
+WARN	missing_obsolete_label	increased substrate binding [OMP:0000304]	label [rdfs:label]	increased substrate binding	
+WARN	missing_obsolete_label	resistant to ampicillin [OMP:0000437]	label [rdfs:label]	resistant to ampicillin	
+WARN	missing_obsolete_label	resistant to penicillin [OMP:0000445]	label [rdfs:label]	resistant to penicillin	
+WARN	missing_obsolete_label	decreased cytoskeleton phenotype [OMP:0005186]	label [rdfs:label]	decreased cytoskeleton phenotype	
+WARN	missing_obsolete_label	abolished cytoskeleton morphology [OMP:0005187]	label [rdfs:label]	abolished cytoskeleton morphology	
+WARN	missing_obsolete_label	increased cytoskeleton morphology [OMP:0005188]	label [rdfs:label]	increased cytoskeleton morphology	
+WARN	missing_obsolete_label	abolished mutation frequency [OMP:0006124]	label [rdfs:label]	abolished mutation frequency	
+WARN	missing_obsolete_label	utilization of organic nitrogen phenotype [OMP:0007037]	label [rdfs:label]	utilization of organic nitrogen phenotype	
+WARN	missing_obsolete_label	utilization of inorganic phosphorus phenotype [OMP:0007049]	label [rdfs:label]	utilization of inorganic phosphorus phenotype	
+WARN	missing_obsolete_label	utilization of organic phosphorus [OMP:0007052]	label [rdfs:label]	utilization of organic phosphorus	
+WARN	missing_obsolete_label	antimicrobial peptide resistance phenotype [OMP:0007169]	label [rdfs:label]	antimicrobial peptide resistance phenotype	
+WARN	missing_obsolete_label	quality (Interim) [OMP:0007187]	label [rdfs:label]	quality (Interim)	
+WARN	missing_obsolete_label	abolished chemical sensitivity [OMP:0007251]	label [rdfs:label]	abolished chemical sensitivity	
+WARN	missing_obsolete_label	cell wall morphology phenotype [OMP:0007277]	label [rdfs:label]	cell wall morphology phenotype	
+WARN	missing_obsolete_label	urea derivative resistance phenotype [OMP:0007533]	label [rdfs:label]	urea derivative resistance phenotype	
+WARN	missing_obsolete_label	resistant to a urea derivative [OMP:0007534]	label [rdfs:label]	resistant to a urea derivative	
+WARN	missing_obsolete_label	not resistant to a urea derivative [OMP:0007535]	label [rdfs:label]	not resistant to a urea derivative	
+WARN	missing_obsolete_label	altered resistance to a urea derivative [OMP:0007536]	label [rdfs:label]	altered resistance to a urea derivative	
+WARN	missing_obsolete_label	increased resistance to a urea derivative [OMP:0007537]	label [rdfs:label]	increased resistance to a urea derivative	
+WARN	missing_obsolete_label	decreased resistance to a urea derivative [OMP:0007538]	label [rdfs:label]	decreased resistance to a urea derivative	
+WARN	missing_obsolete_label	abolished resistance to a urea derivative [OMP:0007539]	label [rdfs:label]	abolished resistance to a urea derivative	
+WARN	missing_obsolete_label	altered biological process phenotype [OMP:0007549]	label [rdfs:label]	altered biological process phenotype	
+WARN	missing_obsolete_label	altered population growth - duplicate term [OMP:0007550]	label [rdfs:label]	altered population growth - duplicate term	
+WARN	missing_obsolete_label	polyether antimicrobial resistance phenotype [OMP:0007800]	label [rdfs:label]	polyether antimicrobial resistance phenotype	
+WARN	missing_obsolete_label	bicyclomycin antimicrobial agent resistance phenotype [OMP:0007862]	label [rdfs:label]	bicyclomycin antimicrobial agent resistance phenotype	
+WARN	missing_obsolete_label	presence of resistance to bicyclomycin [OMP:0007863]	label [rdfs:label]	presence of resistance to bicyclomycin	
+WARN	missing_obsolete_label	absence of resistance to bicyclomycin [OMP:0007864]	label [rdfs:label]	absence of resistance to bicyclomycin	
+WARN	missing_obsolete_label	altered resistance to bicyclomycin [OMP:0007865]	label [rdfs:label]	altered resistance to bicyclomycin	
+WARN	missing_obsolete_label	decreased resistance to bicyclomycin [OMP:0007866]	label [rdfs:label]	decreased resistance to bicyclomycin	
+WARN	missing_obsolete_label	abolished resistance to bicyclomycin [OMP:0007867]	label [rdfs:label]	abolished resistance to bicyclomycin	
+WARN	missing_obsolete_label	increased resistance to bicyclomycin [OMP:0007868]	label [rdfs:label]	increased resistance to bicyclomycin	
+WARN	missing_obsolete_label	A22 antimicrobial agent resistance phenotype [OMP:0007869]	label [rdfs:label]	A22 antimicrobial agent resistance phenotype	
+WARN	missing_obsolete_label	presence of resistance to A22 [OMP:0007870]	label [rdfs:label]	presence of resistance to A22	
+WARN	missing_obsolete_label	absence of resistance to A22 [OMP:0007871]	label [rdfs:label]	absence of resistance to A22	
+WARN	missing_obsolete_label	increased resistance to A22 [OMP:0007872]	label [rdfs:label]	increased resistance to A22	
+WARN	missing_obsolete_label	decreased resistance to A22 [OMP:0007873]	label [rdfs:label]	decreased resistance to A22	
+WARN	missing_obsolete_label	abolished resistance to A22 [OMP:0007874]	label [rdfs:label]	abolished resistance to A22	
+WARN	missing_obsolete_label	altered resistance to A22 [OMP:0007875]	label [rdfs:label]	altered resistance to A22	
+WARN	missing_obsolete_label	presence of growth at alkaline pH [OMP:0007947]	label [rdfs:label]	presence of growth at alkaline pH	
+WARN	missing_obsolete_label	absence of growth at alkaline pH [OMP:0007948]	label [rdfs:label]	absence of growth at alkaline pH	
+WARN	missing_obsolete_label	plaque morphology phenotype [OMP:0008043]	label [rdfs:label]	plaque morphology phenotype	
+WARN	missing_obsolete_label	plaque size phenotype [OMP:0008044]	label [rdfs:label]	plaque size phenotype	
+WARN	missing_obsolete_label	altered plaque morphology phenotype [OMP:0008045]	label [rdfs:label]	altered plaque morphology phenotype	
+WARN	missing_obsolete_label	altered plaque size phenotype [OMP:0008046]	label [rdfs:label]	altered plaque size phenotype	
+WARN	missing_obsolete_label	plaque appearance phenotype [OMP:0008047]	label [rdfs:label]	plaque appearance phenotype	
+WARN	missing_obsolete_label	plaque size phenotype [OMP:0008050]	label [rdfs:label]	plaque size phenotype	
+WARN	missing_obsolete_label	bull\'s eye plaque appearance morphology [OMP:0008062]	label [rdfs:label]	bull's eye plaque appearance morphology	
+INFO	missing_superclass	CHEBI_24431 [CHEBI:24431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33281 [CHEBI:33281]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000003 [GO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005575 [GO:0005575]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005623 [GO:0005623]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006351 [GO:0006351]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006412 [GO:0006412]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007059 [GO:0007059]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009454 [GO:0009454]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009847 [GO:0009847]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0010467 [GO:0010467]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016458 [GO:0016458]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019954 [GO:0019954]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031975 [GO:0031975]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032196 [GO:0032196]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0034301 [GO:0034301]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0034303 [GO:0034303]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0040007 [GO:0040007]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0040011 [GO:0040011]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042330 [GO:0042330]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042995 [GO:0042995]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043107 [GO:0043107]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043158 [GO:0043158]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043934 [GO:0043934]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0044786 [GO:0044786]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048869 [GO:0048869]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071975 [GO:0071975]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071976 [GO:0071976]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071978 [GO:0071978]	rdfs:subClassOf		
+INFO	missing_superclass	microbial phenotype [OMP:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000051 [PATO:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000052 [PATO:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000068 [PATO:0000068]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000117 [PATO:0000117]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000462 [PATO:0000462]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000467 [PATO:0000467]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001236 [PATO:0001236]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001241 [PATO:0001241]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001457 [PATO:0001457]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002302 [PATO:0002302]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002304 [PATO:0002304]	rdfs:subClassOf		

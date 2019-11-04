@@ -1,0 +1,40 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	xco.owl	dc11:description		
+ERROR	missing_ontology_license	xco.owl	dc:license		
+ERROR	missing_ontology_title	xco.owl	dc11:title		
+WARN	missing_definition	standard rat chow [XCO:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	housing condition [XCO:0000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	individual housing [XCO:0000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	housing in pairs [XCO:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	housing with socially dominant partner [XCO:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	housing with socially subordinate partner [XCO:0000037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body position change, seated to standing [XCO:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body position change, supine to standing [XCO:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	standard diet [XCO:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tea [XCO:0000075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stationary bicycle dynamometer [XCO:0000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specific pathogen-free conditions [XCO:0000087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperature exposure [XCO:0000111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enzyme substrate [XCO:0000136]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurotransmitter [XCO:0000144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemical time series [XCO:0000151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hepatectomy [XCO:0000209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	partial hepatectomy [XCO:0000210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	controlled sucrose content diet [XCO:0000211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	controlled copper content diet [XCO:0000212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arginine [XCO:0000213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adrenomedulin [XCO:0000567]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	controlled hydralazine hydrochloride content drinking water [XCO:0000569]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	controlled tolvaptan content diet [XCO:0000571]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	controlled vancomycin content drinking water [XCO:0000574]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	controlled meropenem content drinking water [XCO:0000576]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Gnai2 antisense oligonucleotide [XCO:0000586]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surgical manipulation of blood vessels [XCO:0000595]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tritiated quinidine [XCO:0000622]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tritiated digoxin [XCO:0000623]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	controlled exposure to a foster mother of a different strain within the same species. [XCO:0000643]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	drink with chemical additive [XCO:0000128]	label [rdfs:label]	drink with chemical additive	
+WARN	missing_obsolete_label	water with NG-Nitroarginine Methyl Ester [XCO:0000129]	label [rdfs:label]	water with NG-Nitroarginine Methyl Ester	
+WARN	missing_obsolete_label	null [XCO:0000573]	label [rdfs:label]	null	
+INFO	lowercase_definition	polyfructosan [XCO:0000635]	IAO_0000115 [IAO:0000115]	a A hormone cocktail designed to stabilize the circulating levels of the most important sodium-retaining and waterretaining hormones. It contained d-aldosterone (66 ng/kg per min), hydrocortisone (33 ng/kg per min), norepinephrine (333 ng/kg per min) and Arg8-vasopressin acetate (0.17 ng/kg per min).	
+INFO	missing_superclass	experimental condition [XCO:0000000]	rdfs:subClassOf		

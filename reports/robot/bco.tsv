@@ -1,0 +1,32 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	bco.owl	dc11:description		
+ERROR	missing_ontology_license	bco.owl	dc:license		
+ERROR	missing_ontology_title	bco.owl	dc11:title		
+WARN	annotation_whitespace	material target of observation [BCO:0000044]	IAO_0000112 [IAO:0000112]	An lizard observed in the field that is not collected but whose location is recorded in a field notebook. 	
+WARN	annotation_whitespace	restricted search taxonomic inventory process [BCO:0000051]	IAO_0000115 [IAO:0000115]	A taxonomic inventory process that is restricted to defined plots, transects, or points, in which a person or group of people is comprehensively covering the entire defined area, usually with a defined survey time or pace. The search is restricted to a well-defined and human-scale geospatial area (traversable within a time course of less than a day) within which there is an expectation of a comprehensive accounting of the taxonomic items of interest. 	
+WARN	annotation_whitespace	opportunistic search taxonomic inventory process [BCO:0000053]	IAO_0000115 [IAO:0000115]	A taxonomic inventory process that is a more casual reporting of occurrences of taxa of interest, often intended to be comprehensive accounting of the taxa of interest, but with no planned trajectory for discovery, nor pre-specified investment of effort. 	
+WARN	equivalent_pair	taxonomic identification process [BCO:0000042]	owl:equivalentClass	Identification <http://rs.tdwg.org/dwc/terms/Identification>	
+WARN	missing_definition	taxonomic inventory metadata preferred name [BCO:0000057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	BCO preferred label [BCO:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dwc_bco mapping [BCO:0000074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	to taxon [BCO:0000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	of organism [BCO:0000086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	member of taxon [BCO:0000087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	fossil specimen [BCO:0000061]	label [rdfs:label]	fossil specimen@en	
+WARN	missing_obsolete_label	living specimen [BCO:0000062]	label [rdfs:label]	living specimen@en	
+WARN	missing_obsolete_label	preserved specimen [BCO:0000063]	label [rdfs:label]	preserved specimen@en	
+WARN	missing_obsolete_label	darwin core class [BCO:0000064]	label [rdfs:label]	darwin core class@en	
+WARN	missing_obsolete_label	derives from by planned process [BCO:0000067]	label [rdfs:label]	derives from by planned process@en	
+WARN	missing_obsolete_label	is derived into by planned process [BCO:0000068]	label [rdfs:label]	is derived into by planned process@en	
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000027 [BFO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000245 [OBI:0000245]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100051 [OBI:0100051]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000031 [PCO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	Identification <http://rs.tdwg.org/dwc/terms/Identification>	rdfs:subClassOf		
+INFO	missing_superclass	Taxon <http://rs.tdwg.org/dwc/terms/Taxon>	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

@@ -1,0 +1,952 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	electrophysiology data acquisition system [ERO:0000812]	IAO_0000115 [IAO:0000115]	An instrument used to capture and record analog inputs, digital inputs, temperature, humidity, pulse and logic signals, for electrophysiology.	
+ERROR	duplicate_definition	multichannel acquisition system [ERO:0001043]	IAO_0000115 [IAO:0000115]	An instrument used to capture and record analog inputs, digital inputs, temperature, humidity, pulse and logic signals, for electrophysiology.	
+ERROR	duplicate_definition	oven [ERO:0001584]	IAO_0000115 [IAO:0000115]	An instrument used for heating materials at high temperatures.	
+ERROR	duplicate_definition	high temperature furnace [ERO:0001586]	IAO_0000115 [IAO:0000115]	An instrument used for heating materials at high temperatures.	
+ERROR	duplicate_definition	transgenic retrovirus  [ERO:0001190]	IAO_0000115 [IAO:0000115]	A transgenic virus derived from a lentivirus that is engineered to serve as a vehicle to carry foreign genetic material, which it can transfer into cells or organisms.	
+ERROR	duplicate_definition	transgenic lentivirus [ERO:0001192]	IAO_0000115 [IAO:0000115]	A transgenic virus derived from a lentivirus that is engineered to serve as a vehicle to carry foreign genetic material, which it can transfer into cells or organisms.	
+ERROR	duplicate_definition	cryo-electron microscopy [ERO:0001773]	IAO_0000115 [IAO:0000115]	A form of transmission electron microscopy where the sample is studied at cryogenic temperatures (generally liquid nitrogen temperatures).	
+ERROR	duplicate_definition	cryogenic electron microscopy [ERO:0001787]	IAO_0000115 [IAO:0000115]	A form of transmission electron microscopy where the sample is studied at cryogenic temperatures (generally liquid nitrogen temperatures).	
+ERROR	misused_obsolete_label	obsolete_is_member_of_family [ERO:0001986]	label [rdfs:label]	obsolete_is_member_of_family@en	
+ERROR	deprecated_class_reference	obsolete_cell line [ERO:0000009]	rdfs:subClassOf	immortalized fibroblast-derived cell line [ERO:0001398]	
+ERROR	deprecated_class_reference	obsolete_cell line [ERO:0000009]	rdfs:subClassOf	primary cell culture [ERO:0001399]	
+ERROR	missing_ontology_description	ero.owl	dc11:description		
+ERROR	multiple_definitions	service provider role [ERO:0000012]	IAO_0000115 [IAO:0000115]	A role inhering in a person or organization that is realized when the bearer participates in providing a service to meet the need of another person or thing.	
+ERROR	multiple_definitions	service provider role [ERO:0000012]	IAO_0000115 [IAO:0000115]	An role of an individual within his or her profession or institution; use outreach provider role for community service or other activities outside the profession.	
+ERROR	multiple_definitions	has_source [ERO:0000579]	IAO_0000115 [IAO:0000115]	Organism’s source environment or clinical setting.	
+ERROR	multiple_definitions	has_source [ERO:0000579]	IAO_0000115 [IAO:0000115]	Organism�s source environment or clinical setting.	
+ERROR	multiple_definitions	Prokaryota [ERO:0000581]	IAO_0000115 [IAO:0000115]	The prokaryotes (pronounced /pro?'k�ri.o?ts/ or /pro?'k�ri?ts/) are a group of organisms that lack a cell nucleus (= karyon), or any other membrane-bound organelles.	
+ERROR	multiple_definitions	Prokaryota [ERO:0000581]	IAO_0000115 [IAO:0000115]	The prokaryotes (pronounced /proʊˈkæri.oʊts/ or /proʊˈkæriəts/) are a group of organisms that lack a cell nucleus (= karyon), or any other membrane-bound organelles.	
+ERROR	multiple_definitions	research opportunity [ERO:0000595]	IAO_0000115 [IAO:0000115]	A planned process carried out by a person or organization with the objective of performing research.	
+ERROR	multiple_definitions	research opportunity [ERO:0000595]	IAO_0000115 [IAO:0000115]	An offering through an ongoing program or single request of research support: internships, positions, financial awards or other forms of tangible or intangible support	
+ERROR	multiple_definitions	annexin V assay [ERO:0000686]	IAO_0000115 [IAO:0000115]	An apoptosis assay used to detect apoptosis at a very early stage. This assay takes advantage of the fact that phosphatidylserine (PS; 1?3) is translocated from the inner (cytoplasmic) leaflet of the plasma membrane to the outer (cell surface) leaflet soon after the induction of apoptosis, and that the annexin V protein has a strong, specific affinity for PS (4?6). PS on the outer leaflet is available to bind labeled annexin V, providing the basis for a simple staining assay.	
+ERROR	multiple_definitions	annexin V assay [ERO:0000686]	IAO_0000115 [IAO:0000115]	An apoptosis assay used to detect apoptosis at a very early stage. This assay takes advantage of the fact that phosphatidylserine (PS; 1–3) is translocated from the inner (cytoplasmic) leaflet of the plasma membrane to the outer (cell surface) leaflet soon after the induction of apoptosis, and that the annexin V protein has a strong, specific affinity for PS (4–6). PS on the outer leaflet is available to bind labeled annexin V, providing the basis for a simple staining assay.	
+ERROR	multiple_definitions	derives_from_specimen [ERO:0001065]	IAO_0000115 [IAO:0000115]	Specimen that is derived from another biological specimen, such as a DNA or protein isolate.	
+ERROR	multiple_definitions	derives_from_specimen [ERO:0001065]	IAO_0000115 [IAO:0000115]	a relation between a biological resource and a biological specimen from which it is derived, such as a tissue sample, DNA or protein isolate.	
+ERROR	multiple_definitions	has_diagnosis_description [ERO:0001157]	IAO_0000115 [IAO:0000115]	Diagnosis of the biological specimen sampled.	
+ERROR	multiple_definitions	has_diagnosis_description [ERO:0001157]	IAO_0000115 [IAO:0000115]	Free-text description of a diagnosis made on the biological specimen sampled.	
+ERROR	multiple_definitions	tumor-derived cell line [ERO:0001396]	IAO_0000115 [IAO:0000115]	A cell line that is derived from a transformed cell that was part of a malignant tumor.	
+ERROR	multiple_definitions	tumor-derived cell line [ERO:0001396]	IAO_0000115 [IAO:0000115]	A transformed cell line that is derived from cells part of a malignant tumor, and is capable of forming tumors when injected into imunologically compromised organisms	
+ERROR	multiple_definitions	immortal embryonic cell line [ERO:0001397]	IAO_0000115 [IAO:0000115]	A cell line derived from an embryo.	
+ERROR	multiple_definitions	immortal embryonic cell line [ERO:0001397]	IAO_0000115 [IAO:0000115]	An immortalized cell line derived from an embryo.	
+ERROR	multiple_definitions	stem cell-derived cell line [ERO:0001400]	IAO_0000115 [IAO:0000115]	A cell line that is derived from a stem cell.	
+ERROR	multiple_definitions	stem cell-derived cell line [ERO:0001400]	IAO_0000115 [IAO:0000115]	A cell line that results from in vitro differentiation of stem cells into a more lineage-restricted cell type. 	
+ERROR	multiple_definitions	hybridoma cell line [ERO:0001440]	IAO_0000115 [IAO:0000115]	A cell line that derives from a hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.	
+ERROR	multiple_definitions	hybridoma cell line [ERO:0001440]	IAO_0000115 [IAO:0000115]	An immortal cell line that derives from a hybrid cell resulting from the fusion of a lymphocyte and a tumor cell; used to culture a specific monoclonal antibody.	
+ERROR	multiple_definitions	dual energy x-ray absorptiometry [ERO:0001587]	IAO_0000115 [IAO:0000115]	A body composition measurement tehcnique used to measure bone mineral density (BMD). Two X-ray beams with differing energy levels are aimed at the patient's bones. When soft tissue absorption is subtracted out, the BMD can be determined from the absorption of each beam by bone.	
+ERROR	multiple_definitions	dual energy x-ray absorptiometry [ERO:0001587]	IAO_0000115 [IAO:0000115]	A technique used to measure bone mineral density (BMD). Two X-ray beams with differing energy levels are aimed at the patient's bones. When soft tissue absorption is subtracted out, the BMD can be determined from the absorption of each beam by bone.	
+ERROR	multiple_definitions	antibody epitope mapping [ERO:0001662]	IAO_0000115 [IAO:0000115]	A protein assay used to identify the binding sites, or ?epitopes?, that are recognized by antibodies.	
+ERROR	multiple_definitions	antibody epitope mapping [ERO:0001662]	IAO_0000115 [IAO:0000115]	A protein assay used to identify the binding sites, or ‘epitopes’, that are recognized by antibodies.	
+ERROR	multiple_definitions	isobaric tags for relative and absolute quantitation [ERO:0001665]	IAO_0000115 [IAO:0000115]	A protein assay used to quantify proteins from different sources using isotope-coded covalent tags. iTRAQ is used in proteomics to study quantitative changes in the proteome.	
+ERROR	multiple_definitions	isobaric tags for relative and absolute quantitation [ERO:0001665]	IAO_0000115 [IAO:0000115]	An isobaric labeling technique that uses stable isotope labeled molecules that can be covalent bonded to the N-terminus and side chain amines of proteins. iTRAQ is used in proteomics to study quantitative changes in the proteome.	
+ERROR	multiple_definitions	metabolic phenotyping  [ERO:0001739]	IAO_0000115 [IAO:0000115]	An assay used to measure the set of metabolites in biofluids, which can reflect an individual?s health status. 	
+ERROR	multiple_definitions	metabolic phenotyping  [ERO:0001739]	IAO_0000115 [IAO:0000115]	An assay used to measure the set of metabolites in biofluids, which can reflect an individual’s health status. 	
+ERROR	multiple_definitions	psychoeducational test administration [ERO:0001767]	IAO_0000115 [IAO:0000115]	A technique that utilizes standardized tests and questionnaires in an effort to identify a student?s strengths and weaknesses across many areas of functioning and attributes. 	
+ERROR	multiple_definitions	psychoeducational test administration [ERO:0001767]	IAO_0000115 [IAO:0000115]	A technique that utilizes standardized tests and questionnaires in an effort to identify a student’s strengths and weaknesses across many areas of functioning and attributes. 	
+ERROR	multiple_definitions	data backup [ERO:0001949]	IAO_0000115 [IAO:0000115]	A data security technique for copying and archiving computer data so it may be used to restore the original after a data loss event.	
+ERROR	multiple_definitions	data backup [ERO:0001949]	IAO_0000115 [IAO:0000115]	A technique for copying and archiving computer data so it may be used to restore the original after a data loss event.	
+ERROR	missing_ontology_license	ero.owl	dc:license		
+ERROR	missing_ontology_title	ero.owl	dc11:title		
+ERROR	multiple_labels	is_member_of_organization [ERO:0000024]	label [rdfs:label]	is_member_of	
+ERROR	multiple_labels	is_member_of_organization [ERO:0000024]	label [rdfs:label]	is_member_of_organization	
+ERROR	multiple_labels	Instrumentation fabrication [ERO:0000748]	label [rdfs:label]	Instrumentation fabrication	
+ERROR	multiple_labels	Instrumentation fabrication [ERO:0000748]	label [rdfs:label]	instrumentation fabrication	
+ERROR	multiple_labels	optical system design [ERO:0000750]	label [rdfs:label]	optical design	
+ERROR	multiple_labels	optical system design [ERO:0000750]	label [rdfs:label]	optical system design	
+ERROR	multiple_labels	fourier transport infrared spectrometer [ERO:0000901]	label [rdfs:label]	fourier transform infrared spectrometer	
+ERROR	multiple_labels	fourier transport infrared spectrometer [ERO:0000901]	label [rdfs:label]	fourier transport infrared spectrometer	
+ERROR	multiple_labels	stem cell-derived cell line [ERO:0001400]	label [rdfs:label]	stem cell-derived cell line	
+ERROR	multiple_labels	stem cell-derived cell line [ERO:0001400]	label [rdfs:label]	stem cell-differentiated cell line	
+ERROR	multiple_labels	impedance analyzer [ERO:0001785]	label [rdfs:label]	impedance analyzer	
+ERROR	multiple_labels	impedance analyzer [ERO:0001785]	label [rdfs:label]	impedence analyzer	
+ERROR	label_whitespace	mitochondrial oxygen consumption measurement  [ERO:0000680]	label [rdfs:label]	mitochondrial oxygen consumption measurement 	
+ERROR	label_whitespace	in vitro fertilization  [ERO:0000703]	label [rdfs:label]	in vitro fertilization 	
+ERROR	label_whitespace	partial protein sequencing  [ERO:0000713]	label [rdfs:label]	partial protein sequencing 	
+ERROR	label_whitespace	fiber optics transilumination  [ERO:0001059]	label [rdfs:label]	fiber optics transilumination 	
+ERROR	label_whitespace	calcium detector  [ERO:0001073]	label [rdfs:label]	calcium detector 	
+ERROR	label_whitespace	nucleofector device  [ERO:0001077]	label [rdfs:label]	nucleofector device 	
+ERROR	label_whitespace	urodynamics  [ERO:0001078]	label [rdfs:label]	urodynamics 	
+ERROR	label_whitespace	ultra performance liquid chromatography instrument  [ERO:0001079]	label [rdfs:label]	ultra performance liquid chromatography instrument 	
+ERROR	label_whitespace	microdialysis  [ERO:0001081]	label [rdfs:label]	microdialysis 	
+ERROR	label_whitespace	photo enlarger  [ERO:0001082]	label [rdfs:label]	photo enlarger 	
+ERROR	label_whitespace	anemometer  [ERO:0001085]	label [rdfs:label]	anemometer 	
+ERROR	label_whitespace	optical bench  [ERO:0001086]	label [rdfs:label]	optical bench 	
+ERROR	label_whitespace	electronic test equipment  [ERO:0001088]	label [rdfs:label]	electronic test equipment 	
+ERROR	label_whitespace	embryo microinjection station  [ERO:0001089]	label [rdfs:label]	embryo microinjection station 	
+ERROR	label_whitespace	spectrum analyzer  [ERO:0001090]	label [rdfs:label]	spectrum analyzer 	
+ERROR	label_whitespace	pulse generator  [ERO:0001091]	label [rdfs:label]	pulse generator 	
+ERROR	label_whitespace	medical device  [ERO:0001092]	label [rdfs:label]	medical device 	
+ERROR	label_whitespace	electron paramagnetic resonance spectroscopy  [ERO:0001093]	label [rdfs:label]	electron paramagnetic resonance spectroscopy 	
+ERROR	label_whitespace	gene chip scanner  [ERO:0001096]	label [rdfs:label]	gene chip scanner 	
+ERROR	label_whitespace	endoscopic workstation  [ERO:0001097]	label [rdfs:label]	endoscopic workstation 	
+ERROR	label_whitespace	in situ hybridization workstation  [ERO:0001098]	label [rdfs:label]	in situ hybridization workstation 	
+ERROR	label_whitespace	dietary analysis  [ERO:0001129]	label [rdfs:label]	dietary analysis 	
+ERROR	label_whitespace	simulator  [ERO:0001163]	label [rdfs:label]	simulator 	
+ERROR	label_whitespace	teleconference equipment  [ERO:0001164]	label [rdfs:label]	teleconference equipment 	
+ERROR	label_whitespace	screen display  [ERO:0001165]	label [rdfs:label]	screen display 	
+ERROR	label_whitespace	projector system  [ERO:0001167]	label [rdfs:label]	projector system 	
+ERROR	label_whitespace	fluorescent in situ hybridization  [ERO:0001168]	label [rdfs:label]	fluorescent in situ hybridization 	
+ERROR	label_whitespace	gamma camera  [ERO:0001169]	label [rdfs:label]	gamma camera 	
+ERROR	label_whitespace	colposcope  [ERO:0001170]	label [rdfs:label]	colposcope 	
+ERROR	label_whitespace	sympathetic nerve simulator  [ERO:0001171]	label [rdfs:label]	sympathetic nerve simulator 	
+ERROR	label_whitespace	in vitro electrophysiology recording  [ERO:0001172]	label [rdfs:label]	in vitro electrophysiology recording 	
+ERROR	label_whitespace	peristaltic pump  [ERO:0001173]	label [rdfs:label]	peristaltic pump 	
+ERROR	label_whitespace	remote manipulator arm  [ERO:0001175]	label [rdfs:label]	remote manipulator arm 	
+ERROR	label_whitespace	microdissection  [ERO:0001181]	label [rdfs:label]	microdissection 	
+ERROR	label_whitespace	transgenic retrovirus  [ERO:0001190]	label [rdfs:label]	transgenic retrovirus 	
+ERROR	label_whitespace	amplified fragment length polymorphism PCR  [ERO:0001216]	label [rdfs:label]	amplified fragment length polymorphism PCR 	
+ERROR	label_whitespace	database maintenance  [ERO:0001221]	label [rdfs:label]	database maintenance 	
+ERROR	label_whitespace	spectral doppler optical coherence tomography  [ERO:0001272]	label [rdfs:label]	spectral doppler optical coherence tomography 	
+ERROR	label_whitespace	protein sequencing  [ERO:0001287]	label [rdfs:label]	protein sequencing 	
+ERROR	label_whitespace	gas chromatography-mass spectrometry  [ERO:0001328]	label [rdfs:label]	gas chromatography-mass spectrometry 	
+ERROR	label_whitespace	liquid chromatography-mass spectrometry  [ERO:0001329]	label [rdfs:label]	liquid chromatography-mass spectrometry 	
+ERROR	label_whitespace	inductively coupled plasma mass spectrometry  [ERO:0001354]	label [rdfs:label]	inductively coupled plasma mass spectrometry 	
+ERROR	label_whitespace	fluorescence loss in photobleaching  [ERO:0001357]	label [rdfs:label]	fluorescence loss in photobleaching 	
+ERROR	label_whitespace	multiplex ligation-dependent probe amplification  [ERO:0001358]	label [rdfs:label]	multiplex ligation-dependent probe amplification 	
+ERROR	label_whitespace	liquid scintillation counting  [ERO:0001363]	label [rdfs:label]	liquid scintillation counting 	
+ERROR	label_whitespace	virus preparation  [ERO:0001365]	label [rdfs:label]	virus preparation 	
+ERROR	label_whitespace	high-throughput virus preparation  [ERO:0001366]	label [rdfs:label]	high-throughput virus preparation 	
+ERROR	label_whitespace	fluorescence resonance energy transfer  [ERO:0001369]	label [rdfs:label]	fluorescence resonance energy transfer 	
+ERROR	label_whitespace	abdominal implantation  [ERO:0001373]	label [rdfs:label]	abdominal implantation 	
+ERROR	label_whitespace	stable isotope analysis  [ERO:0001383]	label [rdfs:label]	stable isotope analysis 	
+ERROR	label_whitespace	signal generator  [ERO:0001414]	label [rdfs:label]	signal generator 	
+ERROR	label_whitespace	comet assay analysis system  [ERO:0001415]	label [rdfs:label]	comet assay analysis system 	
+ERROR	label_whitespace	decontamination chamber  [ERO:0001416]	label [rdfs:label]	decontamination chamber 	
+ERROR	label_whitespace	western processing system  [ERO:0001417]	label [rdfs:label]	western processing system 	
+ERROR	label_whitespace	algometer  [ERO:0001418]	label [rdfs:label]	algometer 	
+ERROR	label_whitespace	micropressure measuring device  [ERO:0001419]	label [rdfs:label]	micropressure measuring device 	
+ERROR	label_whitespace	isotope ratio mass spectrometer  [ERO:0001464]	label [rdfs:label]	isotope ratio mass spectrometer 	
+ERROR	label_whitespace	scriber  [ERO:0001472]	label [rdfs:label]	scriber 	
+ERROR	label_whitespace	laser scanning cytometer  [ERO:0001483]	label [rdfs:label]	laser scanning cytometer 	
+ERROR	label_whitespace	physical therapy pool  [ERO:0001484]	label [rdfs:label]	physical therapy pool 	
+ERROR	label_whitespace	in vivo imaging system  [ERO:0001486]	label [rdfs:label]	in vivo imaging system 	
+ERROR	label_whitespace	gas sterilizer  [ERO:0001487]	label [rdfs:label]	gas sterilizer 	
+ERROR	label_whitespace	cyclotron  [ERO:0001488]	label [rdfs:label]	cyclotron 	
+ERROR	label_whitespace	fluid flow measurement  [ERO:0001492]	label [rdfs:label]	fluid flow measurement 	
+ERROR	label_whitespace	atomic absorption spectroscopy  [ERO:0001493]	label [rdfs:label]	atomic absorption spectroscopy 	
+ERROR	label_whitespace	cardiac puncture  [ERO:0001494]	label [rdfs:label]	cardiac puncture 	
+ERROR	label_whitespace	fluid flow pressure measurement  [ERO:0001495]	label [rdfs:label]	fluid flow pressure measurement 	
+ERROR	label_whitespace	fluid flow velocity measurement  [ERO:0001496]	label [rdfs:label]	fluid flow velocity measurement 	
+ERROR	label_whitespace	gas chromatography  [ERO:0001498]	label [rdfs:label]	gas chromatography 	
+ERROR	label_whitespace	elemental analysis  [ERO:0001499]	label [rdfs:label]	elemental analysis 	
+ERROR	label_whitespace	liquid chromatography  [ERO:0001500]	label [rdfs:label]	liquid chromatography 	
+ERROR	label_whitespace	ion chromatography  [ERO:0001501]	label [rdfs:label]	ion chromatography 	
+ERROR	label_whitespace	freeze drying  [ERO:0001502]	label [rdfs:label]	freeze drying 	
+ERROR	label_whitespace	microinjection  [ERO:0001503]	label [rdfs:label]	microinjection 	
+ERROR	label_whitespace	computer aided design  [ERO:0001507]	label [rdfs:label]	computer aided design 	
+ERROR	label_whitespace	laser doppler flowmetry  [ERO:0001511]	label [rdfs:label]	laser doppler flowmetry 	
+ERROR	label_whitespace	electrospray ionization mass spectrometry  [ERO:0001628]	label [rdfs:label]	electrospray ionization mass spectrometry 	
+ERROR	label_whitespace	ion torrent next generation sequencing  [ERO:0001642]	label [rdfs:label]	ion torrent next generation sequencing 	
+ERROR	label_whitespace	multidimensional protein identification technology  [ERO:0001648]	label [rdfs:label]	multidimensional protein identification technology 	
+ERROR	label_whitespace	fluorescence correlation spectroscopy  [ERO:0001651]	label [rdfs:label]	fluorescence correlation spectroscopy 	
+ERROR	label_whitespace	atom probe tomography  [ERO:0001653]	label [rdfs:label]	atom probe tomography 	
+ERROR	label_whitespace	multiple reaction monitoring  [ERO:0001661]	label [rdfs:label]	multiple reaction monitoring 	
+ERROR	label_whitespace	inductively coupled plasma atomic emission spectroscopy  [ERO:0001675]	label [rdfs:label]	inductively coupled plasma atomic emission spectroscopy 	
+ERROR	label_whitespace	automated dewaxing and epitope recovery device  [ERO:0001700]	label [rdfs:label]	automated dewaxing and epitope recovery device 	
+ERROR	label_whitespace	synchrotron radiation  [ERO:0001727]	label [rdfs:label]	synchrotron radiation 	
+ERROR	label_whitespace	metabolic phenotyping  [ERO:0001739]	label [rdfs:label]	metabolic phenotyping 	
+ERROR	label_whitespace	pulsed-field gel electrophoresis  [ERO:0001748]	label [rdfs:label]	pulsed-field gel electrophoresis 	
+ERROR	label_whitespace	EBV transformation  [ERO:0001760]	label [rdfs:label]	EBV transformation 	
+ERROR	label_whitespace	fluorescence molecular tomography platform  [ERO:0001814]	label [rdfs:label]	fluorescence molecular tomography platform 	
+WARN	annotation_whitespace	has_expertise [ERO:0000033]	IAO_0000115 [IAO:0000115]	Technique in which the person is proficient. 	
+WARN	annotation_whitespace	mailing_address [ERO:0000040]	IAO_0000115 [IAO:0000115]	Mailing address for correspondence. 	
+WARN	annotation_whitespace	has_geographic_restriction [ERO:0000046]	IAO_0000115 [IAO:0000115]	Any service limitation tied to geographically-defined areas such as metro areas, counties, states, or regions. 	
+WARN	annotation_whitespace	phone_number [ERO:0000051]	IAO_0000115 [IAO:0000115]	The number used to call someone by phone. 	
+WARN	annotation_whitespace	has_affiliation [ERO:0000066]	IAO_0000115 [IAO:0000115]	Institutional, consortia, or other organizational affiliations. 	
+WARN	annotation_whitespace	genomic library [ERO:0000279]	IAO_0000115 [IAO:0000115]	A construct library that carries the entire genome of a source organism.  	
+WARN	annotation_whitespace	yeast two-hybrid library [ERO:0000294]	IAO_0000115 [IAO:0000115]	An expression library that is a collection of yeast two hybrid constructs.  	
+WARN	annotation_whitespace	nucleic acid labeling [ERO:0000326]	IAO_0000115 [IAO:0000115]	A labeling technique whereby nucleic acids are labeled with radioisotopes, fluorophores, or other molecular entities for the purposes of tracking nucleic acids in an experimental system. 	
+WARN	annotation_whitespace	training service [ERO:0000393]	IAO_0000115 [IAO:0000115]	A service offering that describes a service in which the provider offers educational materials or events, such as courses, workshops or graduate programs, to the service consumer 	
+WARN	annotation_whitespace	fosmid library [ERO:0000433]	IAO_0000115 [IAO:0000115]	A genomic library that contains discrete collections of fosmid constructs carrying DNA inserts from a source organism, such that the collection of DNA inserts  represents the entire genome of the source organism.  	
+WARN	annotation_whitespace	cosmid library [ERO:0000435]	IAO_0000115 [IAO:0000115]	A genomic library that contains discrete collections of cosmid constructs carrying DNA inserts from a source organism, such that the collection of DNA inserts  represents the entire genome of the source organism.  	
+WARN	annotation_whitespace	tissue culture incubator [ERO:0000439]	IAO_0000115 [IAO:0000115]	An incubator that is used in tissue culture rooms for culturing primary cells, cell lines, or tissues. 	
+WARN	annotation_whitespace	explosion-proof refrigerator [ERO:0000469]	IAO_0000112 [IAO:0000112]	A refrigerator used to store volatile chemicals. 	
+WARN	annotation_whitespace	arterial blood gas test [ERO:0000533]	IAO_0000112 [IAO:0000112]	An arterial blood gas (ABG) test is done to check for severe breathing problems and lung diseases, such as asthma, cystic fibrosis, or chronic obstructive pulmonary disease. 	
+WARN	annotation_whitespace	has_immunogenic_material [ERO:0000557]	IAO_0000115 [IAO:0000115]	The material used to generate an immune response to produce an antibody. For example, a tissue, a protein, or a virus. 	
+WARN	annotation_whitespace	calcium imaging assay [ERO:0000634]	IAO_0000118 [IAO:0000118]	 Ca imaging	
+WARN	annotation_whitespace	calcium imaging assay [ERO:0000634]	IAO_0000118 [IAO:0000118]	 Ca2+ imaging assay	
+WARN	annotation_whitespace	radioimmunoassay [ERO:0000652]	IAO_0000112 [IAO:0000112]	A RAST test (radioallergosorbent test) is an example of radioimmunoassay. 	
+WARN	annotation_whitespace	SNP interrogation genotyping [ERO:0000698]	IAO_0000118 [IAO:0000118]	Single nucleotide polymorphism gentotyping 	
+WARN	annotation_whitespace	partial protein sequencing  [ERO:0000713]	IAO_0000112 [IAO:0000112]	Partial protein sequencing of a purified can be used to confirm the identify of an unknown protein. 	
+WARN	annotation_whitespace	pharmacogenomics assay [ERO:0000764]	IAO_0000118 [IAO:0000118]	Pharmacogenomics testing 	
+WARN	annotation_whitespace	US resident role [ERO:0000776]	IAO_0000115 [IAO:0000115]	A role that inheres in a person who maintains residency in the United states. 	
+WARN	annotation_whitespace	non-permanent resident role [ERO:0000780]	IAO_0000115 [IAO:0000115]	A non-US citizen role that inheres in an individual who is residing in a country, but is neither a citizen nor a permanent resident. 	
+WARN	annotation_whitespace	oxygraph system [ERO:0000859]	IAO_0000115 [IAO:0000115]	A measurement instrument used to measure oxygen evolution or consumption from liquid-phase samples in cellular respiration and photosynthesis research applications. 	
+WARN	annotation_whitespace	PET animal imager [ERO:0000885]	IAO_0000112 [IAO:0000112]	Can be used to assess cell, tissue, and organ function in vivo in animals after experimental treatment. 	
+WARN	annotation_whitespace	critical point dryer [ERO:0000938]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Supercritical_drying 	
+WARN	annotation_whitespace	blood lipid analyzer [ERO:0001003]	IAO_0000112 [IAO:0000112]	Allows field measurement of blood lipids (total Cholesteral, HDL, LDL, Triglycerides) & glucose. 	
+WARN	annotation_whitespace	organic macromolecule [ERO:0001045]	IAO_0000115 [IAO:0000115]	An organic compound with a large relative molecular mass, commonly created by some form of polymerization.   	
+WARN	annotation_whitespace	matching_specimen [ERO:0001062]	IAO_0000115 [IAO:0000115]	Specimen match to a given biological specimen. A matched pair of biological specimens usually includes a control specimen that is either from a non-affected individual or tissue.  	
+WARN	annotation_whitespace	derives_from_specimen [ERO:0001065]	IAO_0000112 [IAO:0000112]	DNA derived from breast cancer tissue. 	
+WARN	annotation_whitespace	cerebro-spinal tap [ERO:0001071]	IAO_0000118 [IAO:0000118]	CSF collection 	
+WARN	annotation_whitespace	cerebro-spinal tap [ERO:0001071]	IAO_0000118 [IAO:0000118]	Cerebrospinal fluid collection 	
+WARN	annotation_whitespace	calcium detector  [ERO:0001073]	IAO_0000112 [IAO:0000112]	Can be used to record myocyte calcium and contractility.  	
+WARN	annotation_whitespace	electronic test equipment  [ERO:0001088]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Electronic_test_equipment 	
+WARN	annotation_whitespace	spectrum analyzer  [ERO:0001090]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Spectrum_analyzer 	
+WARN	annotation_whitespace	medical device  [ERO:0001092]	IAO_0000119 [IAO:0000119]	http://medical-dictionary.thefreedictionary.com/medical+device 	
+WARN	annotation_whitespace	urodynamic testing system [ERO:0001095]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Urodynamics 	
+WARN	annotation_whitespace	cryostage [ERO:0001102]	IAO_0000119 [IAO:0000119]	http://www.linkam.co.uk/index.php?page=shop.product_details&flypage=flypage-noprice.tpl&product_id=27&category_id=13&option=com_virtuemart&Itemid=70 	
+WARN	annotation_whitespace	artificial chromosome [ERO:0001133]	IAO_0000115 [IAO:0000115]	A construct that is generated by inserting exogenous DNA into a plasmid containing features of a eukaryotic chromosome or prokaryotic episome that support replication and preservation in a host cell.  Artificial chromosomes are used to clone large DNA fragments between 100,000 bases and 3,000,000 bases in size.  	
+WARN	annotation_whitespace	miRNA plasmid [ERO:0001139]	IAO_0000115 [IAO:0000115]	An RNA interference plasmid that expresses a short sequence of RNA that includes elements required for processing by endogenous microRNA processing machinery into active microRNA molecules.  	
+WARN	annotation_whitespace	phagemid library [ERO:0001159]	IAO_0000115 [IAO:0000115]	 A genomic library that contains discrete collections of phagemid constructs carrying DNA inserts from a source organism, such that the collection of DNA inserts  represents the entire genome of the source organism.  	
+WARN	annotation_whitespace	massively parallel signature sequencing [ERO:0001211]	IAO_0000118 [IAO:0000118]	Lynx Therapeutics' Massively Parallel Signature Sequencing 	
+WARN	annotation_whitespace	amplified fragment length polymorphism PCR  [ERO:0001216]	IAO_0000112 [IAO:0000112]	Used to detect various polymorphisms in different genomic regions simultaneously. 	
+WARN	annotation_whitespace	terminal restriction fragment length polymorphism [ERO:0001217]	IAO_0000118 [IAO:0000118]	TRFLP 	
+WARN	annotation_whitespace	anaerobic culture [ERO:0001226]	IAO_0000118 [IAO:0000118]	Anaerobic bacteria culture 	
+WARN	annotation_whitespace	aerobic culture [ERO:0001227]	IAO_0000118 [IAO:0000118]	 Culture, routine	
+WARN	annotation_whitespace	laser capture microdissection [ERO:0001242]	IAO_0000118 [IAO:0000118]	Laser MicroDissection 	
+WARN	annotation_whitespace	laser capture microdissection [ERO:0001242]	IAO_0000118 [IAO:0000118]	Laser-assisted microdissection 	
+WARN	annotation_whitespace	3D computational fluid-dynamics modeling [ERO:0001252]	IAO_0000112 [IAO:0000112]	The application of a computer model to blood flow. 	
+WARN	annotation_whitespace	transgenic mouse model generation [ERO:0001264]	IAO_0000115 [IAO:0000115]	A transgenic animal model generation of a transgenic mouse or mice.  	
+WARN	annotation_whitespace	4-D image reconstruction algorithm [ERO:0001267]	IAO_0000112 [IAO:0000112]	Mathematical modeling of a heart. 	
+WARN	annotation_whitespace	synchronization of 4D non-gated images by OCT [ERO:0001271]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Optical_coherence_tomography 	
+WARN	annotation_whitespace	retrograde labeling [ERO:0001277]	IAO_0000112 [IAO:0000112]	Use of viral strains as markers of a cellâ€™s connectivity to the injection site. 	
+WARN	annotation_whitespace	retrograde labeling [ERO:0001277]	IAO_0000112 [IAO:0000112]	Use of viral strains as markers of a cell�s connectivity to the injection site. 	
+WARN	annotation_whitespace	survey method [ERO:0001320]	IAO_0000115 [IAO:0000115]	An observational method of gathering data by asking questions or providing a formal questionnaire to individuals who are thought to have desired information. 	
+WARN	annotation_whitespace	interview method [ERO:0001321]	IAO_0000115 [IAO:0000115]	An observational method of gathering data by interviewing individuals. 	
+WARN	annotation_whitespace	electrospray ionization [ERO:0001331]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Electrospray_ionization 	
+WARN	annotation_whitespace	photolithography [ERO:0001361]	IAO_0000118 [IAO:0000118]	Optical lithography 	
+WARN	annotation_whitespace	photolithography [ERO:0001361]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Photolithography 	
+WARN	annotation_whitespace	immunoassay [ERO:0001362]	IAO_0000115 [IAO:0000115]	An assay that enables the presence or the concentration of a substance in a material to be measured by exploiting the specific binding between an analyte and the corresponding detection antibody. 	
+WARN	annotation_whitespace	fluorescence resonance energy transfer  [ERO:0001369]	IAO_0000118 [IAO:0000118]	Electronic energy transfer 	
+WARN	annotation_whitespace	electrosprayer [ERO:0001392]	IAO_0000118 [IAO:0000118]	ESI source 	
+WARN	annotation_whitespace	stem cell-derived cell line [ERO:0001400]	IAO_0000115 [IAO:0000115]	A cell line that results from in vitro differentiation of stem cells into a more lineage-restricted cell type. 	
+WARN	annotation_whitespace	feasibility study [ERO:0001402]	IAO_0000119 [IAO:0000119]	 Dictionary of Epidemiology, 5th edition.	
+WARN	annotation_whitespace	multi-electrode array system [ERO:0001408]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Multielectrode_array 	
+WARN	annotation_whitespace	fibrometer [ERO:0001413]	IAO_0000119 [IAO:0000119]	http://www.drugs.com/dict/fibrometer.html 	
+WARN	annotation_whitespace	signal generator  [ERO:0001414]	IAO_0000118 [IAO:0000118]	Digital pattern generator 	
+WARN	annotation_whitespace	western processing system  [ERO:0001417]	IAO_0000118 [IAO:0000118]	Automated western processing system 	
+WARN	annotation_whitespace	rapid thermal processor [ERO:0001450]	IAO_0000118 [IAO:0000118]	RTP 	
+WARN	annotation_whitespace	electron beam lithography system [ERO:0001451]	IAO_0000118 [IAO:0000118]	E-beam lithography system 	
+WARN	annotation_whitespace	atomic layer deposition system [ERO:0001459]	IAO_0000112 [IAO:0000112]	The construction of a mono-layer of aluminum oxide on a biological structure can be achieved by atomic layer deposition system.  	
+WARN	annotation_whitespace	thin film stress measurement system [ERO:0001467]	IAO_0000115 [IAO:0000115]	An instrument used to measure thin film stresses in wafers via comparison of 2D and 3D topography maps before and after thin film deposition. 	
+WARN	annotation_whitespace	cryogenic probe station [ERO:0001470]	IAO_0000118 [IAO:0000118]	Cryogenic mechanical probe station 	
+WARN	annotation_whitespace	dynamic light scattering instrument photon correlation spectrometer [ERO:0001474]	IAO_0000119 [IAO:0000119]	https://secure.wikimedia.org/wikipedia/en/wiki/Dynamic_light_scattering 	
+WARN	annotation_whitespace	laser cutter [ERO:0001475]	IAO_0000118 [IAO:0000118]	Laser plotter 	
+WARN	annotation_whitespace	radial arm maze [ERO:0001477]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Radial_arm_maze 	
+WARN	annotation_whitespace	morris water maze [ERO:0001479]	IAO_0000119 [IAO:0000119]	http://www.watermaze.org/ 	
+WARN	annotation_whitespace	recirculating immuno-magnetic separation [ERO:0001497]	IAO_0000118 [IAO:0000118]	RIMS 	
+WARN	annotation_whitespace	radiolabeling [ERO:0001510]	IAO_0000118 [IAO:0000118]	Isotopic labeling 	
+WARN	annotation_whitespace	has_antibody_registry_ID [ERO:0001525]	IAO_0000115 [IAO:0000115]	The unique ID number assigned to an antibody in the Neurosicence Information Framework (NIF) antibody registry. 	
+WARN	annotation_whitespace	has_sequence [ERO:0001550]	IAO_0000115 [IAO:0000115]	The sequence of nucleotide residues or amino acids in a nucleotide or a protein. 	
+WARN	annotation_whitespace	hot embosser [ERO:0001570]	IAO_0000115 [IAO:0000115]	An instrument used to stamp a pattern into a polymer softened by raising the temperature of the polymer just above its glass transition temperature. The stamp is used to define a pattern in the polymer that can be used for the micromachining of silicon. 	
+WARN	annotation_whitespace	hot embosser [ERO:0001570]	IAO_0000119 [IAO:0000119]	http://www.mems-exchange.org/catalog/hot_embossing/ 	
+WARN	annotation_whitespace	interferometer [ERO:0001571]	IAO_0000115 [IAO:0000115]	An instrument that uses the superimposition of electromagnetic waves to extract information about the waves. 	
+WARN	annotation_whitespace	interferometer [ERO:0001571]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Interferometry 	
+WARN	annotation_whitespace	air monitoring instrument [ERO:0001575]	IAO_0000115 [IAO:0000115]	An instrument used to detect various gases, chemicals, and particulates in ambient air or air emissions. 	
+WARN	annotation_whitespace	four-terminal resistance sensor [ERO:0001577]	IAO_0000119 [IAO:0000119]	http://en.wikipedia.org/wiki/Four-terminal_sensing 	
+WARN	annotation_whitespace	targeted mutation analysis [ERO:0001580]	IAO_0000119 [IAO:0000119]	http://www.ncbi.nlm.nih.gov/books/NBK5191/?rendertype=def-item&id=targeted-mutation-analysis 	
+WARN	annotation_whitespace	denaturing high performance liquid chromatography [ERO:0001582]	IAO_0000118 [IAO:0000118]	Denaturing HPLC 	
+WARN	annotation_whitespace	automated flow cell cluster generation station [ERO:0001583]	IAO_0000119 [IAO:0000119]	PERSON: R Steen (Harvard lab user) 	
+WARN	annotation_whitespace	differential scanning calorimetry [ERO:0001615]	IAO_0000115 [IAO:0000115]	A calorimetry technique in which the difference in the amount of heat required to increase the temperature of a sample and reference is measured as a function of temperature. Both the sample and reference are maintained at nearly the same temperature throughout the experiment. 	
+WARN	annotation_whitespace	pressure perturbation calorimetry [ERO:0001617]	IAO_0000115 [IAO:0000115]	A calorimetry technique which measures differential heat change in a solution when the pressure above the solution is changed.  The differential heat change is used to calculate volumetric properties of the solution.  	
+WARN	annotation_whitespace	surface-enhanced laser desorption/ionization mass spectrometry [ERO:0001623]	IAO_0000115 [IAO:0000115]	A mass spectrometry technique in which a protein mixture is spotted on a surface modified with a chemical functionality.  Selective binding to this surface acts as a separation step and the subset of proteins that bind to the surface are analyzed. 	
+WARN	annotation_whitespace	matrix-assisted laser desorption ionization time-of-flight mass spectrometry [ERO:0001627]	IAO_0000115 [IAO:0000115]	A mass spectrometry technique which uses soft ionization to allow analysis of biomolecules and large organic molecules, which tend to be fragile and fragment when ionized by more conventional ionization methods. 	
+WARN	annotation_whitespace	phase contrast microscopy [ERO:0001636]	IAO_0000115 [IAO:0000115]	A microscopy technique that converts phase shifts in light passing through a transparent specimen to brightness changes in the image. 	
+WARN	annotation_whitespace	multiphoton microscopy [ERO:0001640]	IAO_0000115 [IAO:0000115]	A microscopy technique that images samples by illuminating them with pulsed, long-wavelength light to excite fluorophores within the specimen being observed. 	
+WARN	annotation_whitespace	linear-after-the-exponential PCR [ERO:0001647]	IAO_0000115 [IAO:0000115]	A polymerase chain reaction technique that uses multiple special primers per target to generate single stranded amplicons after a short period of exponential amplification. This enables the detection of low numbers of target organisms, performance of endpoint analysis, significantly increased levels of multiplexing in an assay, and the ability to identify and differentiate bacteria at the strain level.  	
+WARN	annotation_whitespace	RNA sequencing [ERO:0001658]	IAO_0000118 [IAO:0000118]	RNA-Seq 	
+WARN	annotation_whitespace	multiple reaction monitoring  [ERO:0001661]	IAO_0000115 [IAO:0000115]	A mass spectrometry assay that is highly sensitive and selective, for the targeted quantitation of protein/peptide abundances in complex biological samples. 	
+WARN	annotation_whitespace	peptide mapping [ERO:0001663]	IAO_0000115 [IAO:0000115]	A molecular assay used to map peptide sequences. Produced by using either proteolytic enzymes such as trypsin or chemicals such as cyanogen bromide to cut proteins at a relatively small number of particular sites, the peptide fragments are then separated by chromatographic or electrophoretic procedures. 	
+WARN	annotation_whitespace	amino acid analysis [ERO:0001666]	IAO_0000115 [IAO:0000115]	A protein assay that provides detailed information regarding the relative amino acid composition and free amino acids in a protein. 	
+WARN	annotation_whitespace	Raman spectroscopy [ERO:0001677]	IAO_0000115 [IAO:0000115]	A spectroscopy technique that uses inelastic scattering, or Raman scattering, of monochromatic light used to study vibrational, rotational, and other low-frequency modes in a system. 	
+WARN	annotation_whitespace	polyacrylamide gel electrophoresis [ERO:0001680]	IAO_0000115 [IAO:0000115]	An electrophoresis technique that is used to separate molecules on a polyacrylamide gel based their size. 	
+WARN	annotation_whitespace	differential gel electrophoresis [ERO:0001681]	IAO_0000118 [IAO:0000118]	DIGE 	
+WARN	annotation_whitespace	antisense oligonucleotide synthesis [ERO:0001683]	IAO_0000115 [IAO:0000115]	Oligonucleotide synthesis of single strands of DNA or RNA that are complementary to a chosen sequence that are used to prevent protein translation of messenger RNA target strands by binding to them. 	
+WARN	annotation_whitespace	compound library screening [ERO:0001686]	IAO_0000115 [IAO:0000115]	High throughput sample analysis of collections of compounds that provide a variety of chemically diverse structures that can be used to identify structure types that have affinity with pharmacological targets. 	
+WARN	annotation_whitespace	diagnostic intervention [ERO:0001697]	IAO_0000115 [IAO:0000115]	An intervention that evaluates methods of detecting disease. 	
+WARN	annotation_whitespace	automated dewaxing and epitope recovery device  [ERO:0001700]	IAO_0000115 [IAO:0000115]	A mechanical device that is designed to perform dewaxing and epitope recovery on slides prior to immunostaining. 	
+WARN	annotation_whitespace	MALDI-TOF mass spectrometer [ERO:0001704]	IAO_0000115 [IAO:0000115]	A mass spectrometer that uses soft ionization to allow analysis of biomolecules and large organic molecules, which tend to be fragile and fragment when ionized by more conventional ionization methods. 	
+WARN	annotation_whitespace	heat fixation [ERO:0001709]	IAO_0000115 [IAO:0000115]	Fixation using heat to heat-kill and adhere tissue or cells to a surface, such as a slide. 	
+WARN	annotation_whitespace	alcohol fixation [ERO:0001711]	IAO_0000115 [IAO:0000115]	Chemical fixation using alcohols, that act by reducing the solubility of protein molecules and (often) by disrupting the hydrophobic interactions that give many proteins their tertiary structure. 	
+WARN	annotation_whitespace	oxidizing agent fixation [ERO:0001714]	IAO_0000115 [IAO:0000115]	Chemical fixation using an oxidizing agent to fix cells or tissue, which can react with various side chains of proteins and other biomolecules, allowing formation of crosslinks that stabilize tissue structure. 	
+WARN	annotation_whitespace	CLAMS system [ERO:0001724]	IAO_0000115 [IAO:0000115]	An animal physiology monitoring system that allows for simultaneous measurement of numerous parameters including oxygen consumption (VO2), carbon dioxide (CO2) production, respiratory exchange ratio (RER), food and drinking behavior, activity level, and caloric heat production. 	
+WARN	annotation_whitespace	prototype development [ERO:0001734]	IAO_0000115 [IAO:0000115]	Material production of an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from. 	
+WARN	annotation_whitespace	air monitoring [ERO:0001737]	IAO_0000115 [IAO:0000115]	An assay for detection of various gases, chemicals, and particulates in ambient air or air emissions. 	
+WARN	annotation_whitespace	immunochemiluminescence [ERO:0001738]	IAO_0000115 [IAO:0000115]	An immunoassay used to detect an antigen-antibody interaction, based on a brief emission of light by a luminophor component (signal) in response to chemical energy. 	
+WARN	annotation_whitespace	metabolic phenotyping  [ERO:0001739]	IAO_0000115 [IAO:0000115]	An assay used to measure the set of metabolites in biofluids, which can reflect an individual?s health status. 	
+WARN	annotation_whitespace	metabolic phenotyping  [ERO:0001739]	IAO_0000115 [IAO:0000115]	An assay used to measure the set of metabolites in biofluids, which can reflect an individual’s health status. 	
+WARN	annotation_whitespace	antimicrobial susceptibility testing [ERO:0001741]	IAO_0000119 [IAO:0000119]	Reller et al (2009) Antimicrobial Susceptibility Testing: A Review of General Principles and Contemporary Practices. Clin Infect Dis. 49 (11): 1749-1755. 	
+WARN	annotation_whitespace	blood plasma isolation [ERO:0001745]	IAO_0000115 [IAO:0000115]	Material component separation of plasma from a blood sample. 	
+WARN	annotation_whitespace	blood serum isolation [ERO:0001746]	IAO_0000115 [IAO:0000115]	Material component separation of serum from a blood sample. 	
+WARN	annotation_whitespace	pulsed-field gel electrophoresis  [ERO:0001748]	IAO_0000118 [IAO:0000118]	Pulsed field gel electrophoresis 	
+WARN	annotation_whitespace	zero maze [ERO:0001754]	IAO_0000115 [IAO:0000115]	An elevated plus maze that lacks a center square, used to measure animal behavior in the time spent in open and closed spaces. 	
+WARN	annotation_whitespace	light/dark chamber [ERO:0001755]	IAO_0000115 [IAO:0000115]	An animal activity monitoring system that transistions between light and dark, using a light/dark transition test, which is widely used to measure anxiety-like behavior in mice. 	
+WARN	annotation_whitespace	passive/active avoidance chambers [ERO:0001756]	IAO_0000115 [IAO:0000115]	An animal activity monitoring system is an automated system employed in the testing of avoidance behavior. Each subject is housed within a cage that has been divided by a centrally located wall. The wall has an opening that allows the subject to pass between the compartments. The lid of each compartment contains an acoustic source. The light is on the center divider. The subject walks on a shocker grid assembly that spans the entire floor area of both compartments. A series of photocells detects the subject position within the cage. 	
+WARN	annotation_whitespace	metabolic cart [ERO:0001759]	IAO_0000115 [IAO:0000115]	A measurement instrument used to measure the body’s metabolism through the amount of heat produced when the body is at rest. 	
+WARN	annotation_whitespace	actigraphy [ERO:0001763]	IAO_0000115 [IAO:0000115]	A physiological assay used to monitor human rest/activity cycles. 	
+WARN	annotation_whitespace	polysomnography [ERO:0001764]	IAO_0000115 [IAO:0000115]	A physiological assay used in the study of sleep and as a diagnostic tool in sleep medicine. 	
+WARN	annotation_whitespace	psychoeducational test administration [ERO:0001767]	IAO_0000115 [IAO:0000115]	A technique that utilizes standardized tests and questionnaires in an effort to identify a student?s strengths and weaknesses across many areas of functioning and attributes. 	
+WARN	annotation_whitespace	psychoeducational test administration [ERO:0001767]	IAO_0000115 [IAO:0000115]	A technique that utilizes standardized tests and questionnaires in an effort to identify a student’s strengths and weaknesses across many areas of functioning and attributes. 	
+WARN	annotation_whitespace	cryoultramicrotomy [ERO:0001774]	IAO_0000115 [IAO:0000115]	A cryosectioning technique that creates thin sections of constant thickness with very soft materials that cannot be cut at ambient temperature. After cooling down of the specimen, a section is sliced up using a diamond knife which has been previously cooled down. The material is brought close to transition temperature Tg (if known) to obtain a harder consistency. 	
+WARN	annotation_whitespace	aerosol biosampler [ERO:0001779]	IAO_0000115 [IAO:0000115]	A measurement instrument that collects and measure the amount of bioaerosols in a sample (airborne particles of biological origin (e.g., bacteria, fungi, pollen, viruses) and their by-products such as endotoxins or mycotoxins and other fragments.) 	
+WARN	annotation_whitespace	functional MRI scanner [ERO:0001780]	IAO_0000115 [IAO:0000115]	A MRI Scanner that uses the change in magnetization between oxygen-rich and oxygen-poor blood as its basic measure to measures brain activity. 	
+WARN	annotation_whitespace	single particle analysis [ERO:0001790]	IAO_0000115 [IAO:0000115]	An image processing technique used to analyze images from transmission electron microscopy. These methods were developed to improve and extend the information obtainable from TEM images of particulate samples, typically proteins or other large biological entities such as viruses. Individual images of stained or unstained particles are very noisy, and so hard to interpret. Combining several digitized images of similar particles together gives an image with stronger and more easily interpretable features. 	
+WARN	annotation_whitespace	hot plate [ERO:0001791]	IAO_0000115 [IAO:0000115]	A heating instrument that is a self-contained tabletop small appliance that features one, two or more gas burners or electric heating elements. 	
+WARN	annotation_whitespace	polymer mixer [ERO:0001794]	IAO_0000115 [IAO:0000115]	A mechanical instrument used for the rapid mixing and grinding of polymer materials that would otherwise require large amounts of time and/or effort to mix and/or grind. 	
+WARN	annotation_whitespace	electrochemiluminescence detection [ERO:0001796]	IAO_0000115 [IAO:0000115]	An assay that detects luminescence produced during electrochemical reactions in solutions. 	
+WARN	annotation_whitespace	zeta potential analyzer [ERO:0001798]	IAO_0000115 [IAO:0000115]	An instrument used for characterizing zeta potential as a property of interfacial layer in liquid particulates (dispersions, emulsions) and porous bodies. 	
+WARN	annotation_whitespace	ultra high performance liquid chromatography with mass spectrometer [ERO:0001801]	IAO_0000115 [IAO:0000115]	An UPLC coupled to a mass spectrometer.    	
+WARN	annotation_whitespace	differential scanning calorimeter [ERO:0001805]	IAO_0000115 [IAO:0000115]	A calorimeter in which the difference in the amount of heat required to increase the temperature of a sample and reference is measured as a function of temperature. 	
+WARN	annotation_whitespace	printer [ERO:0001808]	IAO_0000115 [IAO:0000115]	An instrument used in computing, which produces a text or graphics of documents stored in electronic form, usually on physical print media such as paper or transparencies. 	
+WARN	annotation_whitespace	indirect calorimetry [ERO:0001812]	IAO_0000115 [IAO:0000115]	A calorimetry method that calculates heat that living organisms produce from their production of carbon dioxide and nitrogen waste (frequently ammonia in aquatic organisms, or urea in terrestrial ones), or from their consumption of oxygen. 	
+WARN	annotation_whitespace	fluorescence molecular tomography platform  [ERO:0001814]	IAO_0000115 [IAO:0000115]	An imaging modality that enables 3D quantitative determination of fluorochrome distribution in tissues of live small animals at any depth. 	
+WARN	annotation_whitespace	microarray comparative genomic hybridization [ERO:0001818]	IAO_0000115 [IAO:0000115]	A molecular assay that detects genomic imbalance, i.e. gains and losses of genetic material, which can be used for the diagnosis of developmental delay, mental retardation, autism and birth defects. 	
+WARN	annotation_whitespace	drill [ERO:0001833]	IAO_0000115 [IAO:0000115]	A mechanical instrument fitted with a cutting tool attachment or driving tool attachment, usually a drill bit or driver bit, used for drilling holes in various materials or fastening various materials together with the use of fasteners. 	
+WARN	annotation_whitespace	microwave accelerator [ERO:0001835]	IAO_0000115 [IAO:0000115]	An instrument capable of rapidly depositing high energy in a small volume. 	
+WARN	annotation_whitespace	CT scan [ERO:0001900]	IAO_0000118 [IAO:0000118]	Computer axial tomography scan 	
+WARN	annotation_whitespace	atomic mass spectrometry [ERO:0001901]	IAO_0000115 [IAO:0000115]	A mass spectrometry assay that uses an ion source, a mass analyzer, and a detector. Atoms' identities are determined by their mass-to-charge ratio (via the mass analyzer) and their concentrations are determined by the number of ions detected. 	
+WARN	annotation_whitespace	bioluminescent assay [ERO:0001902]	IAO_0000115 [IAO:0000115]	A molecular assay that uses bioluminescence to detect the presence or concentration of molecules in a sample. 	
+WARN	annotation_whitespace	age_at_time_of_sampling [ERO:0001971]	IAO_0000115 [IAO:0000115]	Indicates the age of an organism or human subject at the time a biospecimen was collected, and was used to generate a product such as a cell line. 	
+WARN	annotation_whitespace	has_application_toward [ERO:0002018]	IAO_0000116 [IAO:0000116]	Note that not every instance of a class defined as having application toward some objective need realize this objective.  For example, an assertion that a 'karyotyping assay' has_application_toward some 'cell line characterization objective' does not mean that every instance of a karyotyping assay need to be applied toward this end. Only that instances are commonly applied toward this end. In essence, this property attempts to 'fake' a some-some pattern which is not formally allowed in OWL. 	
+WARN	annotation_whitespace	family relationship [ERO:0002033]	IAO_0000119 [IAO:0000119]	Adapted from PCO_0000020 (family). 	
+WARN	annotation_whitespace	text mining [ERO:0002113]	IAO_0000115 [IAO:0000115]	A data analysis technique that involves the process of deriving high-quality information from text, typically derived through the devising of patterns and trends through means such as statistical pattern learning. 	
+WARN	annotation_whitespace	functional magnetic resonance imaging [ERO:0002178]	IAO_0000115 [IAO:0000115]	A magnetic resonance imaging technique that measures brain activity by detecting associated changes in blood flow. The procedure is similar to MRI but uses the change in magnetization between oxygen-rich and oxygen-poor blood as its basic measure. 	
+WARN	annotation_whitespace	process-based data transformation objective [ERO:0100003]	IAO_0000115 [IAO:0000115]	objective of using a particular type of process/operation to process and transform data.  This hierarchy classifies software objectives based on the type of operation that is specified to be performed 	
+WARN	annotation_whitespace	process-based data analysis objective [ERO:0100084]	IAO_0000115 [IAO:0000115]	objective of using a particular type of process/operation to process and analyze data.  This hierarchy classifies software objectives based on the type of operation that is specified to be performed 	
+WARN	annotation_whitespace	auditory signal collection and processing objective [ERO:0100088]	IAO_0000115 [IAO:0000115]	collection and analysis of an auditory signal (conversion of signal to quantifiable numerical data) 	
+WARN	annotation_whitespace	inter-rater reliability analysis objective [ERO:0100097]	IAO_0000115 [IAO:0000115]	 objective of determining the concordance or agreement between human judges.	
+WARN	annotation_whitespace	supervised text mining objective [ERO:0100112]	IAO_0000115 [IAO:0000115]	an objective to understand the content of text by using machine learning algorithms to train models based on gold standard labeled text 	
+WARN	annotation_whitespace	molecular data analysis objective [ERO:0100149]	IAO_0000115 [IAO:0000115]	objective of analyzing data to generate information about molecules/molecular complexes or the processes in which they are involved (molecular structures, sequences, interactions, networks, actrivities, etc) 	
+WARN	annotation_whitespace	gene regulatory network analysis objective [ERO:0100229]	IAO_0000115 [IAO:0000115]	objective to analyze dynaimcs of gene regulatory networks to make hypothesis or draw conclusions . . . 	
+WARN	annotation_whitespace	macromolecular structure generation objective [ERO:0100251]	IAO_0000115 [IAO:0000115]	objective to analyze physical data about an actual macromolecule structure and generate a three-dimensional model of its structure, e.g. taking crystallography/NMR data and using it to generate a 3D structure (not a \"prediction\" based on other inputs such as sequence data).  	
+WARN	duplicate_exact_synonym	single-nucleotide polymorphism analysis [ERO:0000412]	IAO_0000118 [IAO:0000118]	SNP analysis	
+WARN	duplicate_exact_synonym	SNP interrogation genotyping [ERO:0000698]	IAO_0000118 [IAO:0000118]	SNP analysis	
+WARN	duplicate_exact_synonym	scanning electron microscopy [ERO:0000330]	IAO_0000118 [IAO:0000118]	SEM	
+WARN	duplicate_exact_synonym	scanning electron microscope [ERO:0000521]	IAO_0000118 [IAO:0000118]	SEM	
+WARN	duplicate_exact_synonym	virus plaque assay [ERO:0000337]	IAO_0000118 [IAO:0000118]	Plaque assay	
+WARN	duplicate_exact_synonym	virus plaque purification [ERO:0000339]	IAO_0000118 [IAO:0000118]	Plaque assay	
+WARN	duplicate_exact_synonym	next generation DNA sequencing [ERO:0001183]	IAO_0000118 [IAO:0000118]	NGS	
+WARN	duplicate_exact_synonym	ion torrent next generation sequencing  [ERO:0001642]	IAO_0000118 [IAO:0000118]	NGS	
+WARN	duplicate_exact_synonym	multiple reaction monitoring analysis by mass spectrometry [ERO:0000709]	IAO_0000118 [IAO:0000118]	MRM	
+WARN	duplicate_exact_synonym	multiple reaction monitoring  [ERO:0001661]	IAO_0000118 [IAO:0000118]	MRM	
+WARN	duplicate_exact_synonym	fast protein liquid chromatography instrument [ERO:0000868]	IAO_0000118 [IAO:0000118]	FPLC	
+WARN	duplicate_exact_synonym	fast protein liquid chromatography [ERO:0001504]	IAO_0000118 [IAO:0000118]	FPLC	
+WARN	duplicate_exact_synonym	functional MRI scanner [ERO:0001780]	IAO_0000118 [IAO:0000118]	fMRI	
+WARN	duplicate_exact_synonym	functional magnetic resonance imaging [ERO:0002178]	IAO_0000118 [IAO:0000118]	fMRI	
+WARN	duplicate_exact_synonym	cryo-electron microscopy [ERO:0001773]	IAO_0000118 [IAO:0000118]	Electron cryomicroscopy	
+WARN	duplicate_exact_synonym	cryogenic electron microscopy [ERO:0001787]	IAO_0000118 [IAO:0000118]	Electron cryomicroscopy	
+WARN	duplicate_exact_synonym	cryo-electron microscopy [ERO:0001773]	IAO_0000118 [IAO:0000118]	Cryo-EM	
+WARN	duplicate_exact_synonym	cryogenic electron microscopy [ERO:0001787]	IAO_0000118 [IAO:0000118]	Cryo-EM	
+WARN	duplicate_exact_synonym	atomic force microscope [ERO:0000463]	IAO_0000118 [IAO:0000118]	AFM	
+WARN	duplicate_exact_synonym	atomic force microscopy [ERO:0000510]	IAO_0000118 [IAO:0000118]	AFM	
+WARN	missing_definition	adeno-associated viruses [ERO:0000590]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_organization_member [ERO:0001768]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_format [ERO:0001811]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_phenotype_biological_process [ERO:0001823]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_phenotype_anatomical_entity [ERO:0001825]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_mammalian_phenotype [ERO:0001826]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_phenotype_quality [ERO:0001827]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_phenotype_annotation [ERO:0001836]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	.mgf [ERO:0001886]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	binary [ERO:0001909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	categorical [ERO:0001910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ordinal [ERO:0001911]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interval [ERO:0001912]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ratio [ERO:0001913]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	continuous [ERO:0001914]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	survival [ERO:0001915]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequential [ERO:0001916]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	independent data collection method [ERO:0001933]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paired data collection method [ERO:0001934]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clustered data collection method [ERO:0001935]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	longitudinal data collection method [ERO:0001936]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	repeated measurement method [ERO:0001937]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	remote data storage [ERO:0001955]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Sephardic Jew [ERO:0001979]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adopted relationship [ERO:0002062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relationship by marriage [ERO:0002063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Asian, Chinese [ERO:0002065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Asian, Indian [ERO:0002066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Asian, Irani [ERO:0002067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Asian, Iraqi [ERO:0002068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Asian, Japanese [ERO:0002069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Asian, Pakistani [ERO:0002070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Asian, Vietnamese [ERO:0002071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Nordic, Swedish [ERO:0002074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Nordic, Norwegian [ERO:0002075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Nordic, Icelandic [ERO:0002076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Nordic, Danish [ERO:0002077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Euro-Caucasian, German [ERO:0002078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Euro-Caucasian, French [ERO:0002079]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Euro-Caucasian, English [ERO:0002080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Euro-Caucasian, Spanish [ERO:0002081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Euro-Caucasian, Greek [ERO:0002082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Euro-Caucasian, Italian [ERO:0002083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Latino, Carribean [ERO:0002087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Latino, North American [ERO:0002088]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Latino, Central American [ERO:0002089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Latino, South American [ERO:0002090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	induction by episomal transformant [ERO:0002105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Random forest [ERO:0002168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data assembly objective [ERO:0100004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data parsing objective [ERO:0100009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data pre-processing objective [ERO:0100010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data refinement and optimization objective [ERO:0100011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data cleaning objective [ERO:0100012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	audio data cleaning objective [ERO:0100013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	document search and retrieval objective [ERO:0100018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metadata search and retrieval objective [ERO:0100019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence search and retrieval objective [ERO:0100020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	file processing objective [ERO:0100023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	file compression objective [ERO:0100024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	image file compression objective [ERO:0100025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	format conversion objective [ERO:0100027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	image format conversion objective [ERO:0100028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence format conversion objective [ERO:0100029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic polymorphism analysis objective [ERO:0100033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microarray data analysis objective [ERO:0100034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	statistical analysis and modeling objective [ERO:0100035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	classification objective [ERO:0100037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mass spectrometry data transformation objective [ERO:0100040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microarray data transformation objective [ERO:0100041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene expression data transformation objective [ERO:0100043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene expression data correction objective [ERO:0100044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene expression data normalization objective [ERO:0100045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene expression data pre-processing objective [ERO:0100046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene expression data rendering and visualization objective [ERO:0100047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular structure data transformation objective [ERO:0100048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular structure rendering and visualization objective [ERO:0100049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	network and pathway data transformation objective [ERO:0100050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular interaction network rendering and visualization objective [ERO:0100051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein interaction network rendering and visualization objective [ERO:0100052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence data transformation objective [ERO:0100053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence assembly objective [ERO:0100054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contig assembly [ERO:0100055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scaffold gap completion [ERO:0100056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence scaffolding [ERO:0100057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence rendering and visualization objective [ERO:0100059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	communication platform objective [ERO:0100061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	audio/video conferencing objective [ERO:0100062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence annotation objective [ERO:0100065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	document creation and editing [ERO:0100067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	collaborative document creation and editing objective [ERO:0100068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	concept model creation and editing objective [ERO:0100069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data graph creation objective [ERO:0100070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	image creation and editing objective [ERO:0100071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multimedia document creation and editing objective [ERO:0100072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ontology creation and editing objective [ERO:0100073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presentation creation and editing objective [ERO:0100074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spreadsheet creation and editing objective [ERO:0100075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	video creation and editing objective [ERO:0100076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	word processing objective [ERO:0100077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	documentation generation objective [ERO:0100078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	information management objective [ERO:0100079]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	software development objective [ERO:0100080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	citation management objective [ERO:0100082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	laboratory information management objective [ERO:0100083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	averaging objective [ERO:0100085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	comparison objective [ERO:0100086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	speech processing objective [ERO:0100089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spectral data collection and processing objective [ERO:0100091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data integration objective [ERO:0100092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data element mapping objective [ERO:0100093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dataset evaluation objective [ERO:0100095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dataset comparison objective [ERO:0100096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microarray image analysis objective [ERO:0100101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	modeling and simulation objective [ERO:0100102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	network analysis objective [ERO:0100103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	text recommendation objective [ERO:0100115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	document clustering objective [ERO:0100116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	latent discriminant analysis objective [ERO:0100120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ChIP-Chip data analysis objective [ERO:0100122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	FACS data analysis objective [ERO:0100123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mass spectrometry data analysis objective [ERO:0100124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical image analysis objective [ERO:0100127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical feature detection objective [ERO:0100128]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical disorder detection/diagnosis objective [ERO:0100129]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	activity analysis objective [ERO:0100131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decision analysis objective [ERO:0100132]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mechanical modeling and simulation objective [ERO:0100134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contact modeling objective [ERO:0100135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multibody dynamics analysis objective [ERO:0100136]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell modeling objective [ERO:0100138]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cellular image analysis objective [ERO:0100139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cellular process network analysis objective [ERO:0100141]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disease detection/diagnosis objective [ERO:0100143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical disorder detection objective [ERO:0100145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	psychological disorder diagnosis objective [ERO:0100146]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disease pathway analysis objective [ERO:0100147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disease process modeling objective [ERO:0100148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemical reaction data analysis objective [ERO:0100151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enzyme kinetics analysis objective [ERO:0100152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene expression profile clustering objective [ERO:0100155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	independent gene expression analysis objective [ERO:0100156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic map construction objective [ERO:0100160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DNA transduciton map construction objective [ERO:0100161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	QTL map construction objective [ERO:0100162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cytogenetic map construction objective [ERO:0100163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	haplotype map construction objective [ERO:0100164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macromolecular sequence design objective [ERO:0100165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid design objective [ERO:0100166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptide design objective [ERO:0100168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid sequence classification objective [ERO:0100170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA family classification objective [ERO:0100171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene family classification objective [ERO:0100172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein sequence classification objective [ERO:0100173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cellular localization classification objective [ERO:0100174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein family classification objective [ERO:0100176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transmembrane protein classification objective [ERO:0100177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene family discovery objective [ERO:0100180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid motif discovery objective [ERO:0100181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein domain discovery objective [ERO:0100182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence feature identification objective [ERO:0100183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid sequence feature identification objective [ERO:0100184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DNA binding site prediction objective [ERO:0100185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transcription factor binding site prediction objective [ERO:0100186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DNA modification site prediction objective [ERO:0100187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene prediction objective [ERO:0100188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	promoter prediction objective [ERO:0100189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transcript splicing prediction objective [ERO:0100190]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein sequence feature identification objective [ERO:0100191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein cleavage site prediction objective [ERO:0100192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein domain prediction objective [ERO:0100193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein modification site prediction objective [ERO:0100194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid restriction digest profile generation [ERO:0100196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid reverse and complement generation [ERO:0100197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid transcription or translation objective [ERO:0100198]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid physical property analysis objective [ERO:0100200]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid curvature calculation [ERO:0100201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid thermodynamic property calculation [ERO:0100202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid entropy analysis objective [ERO:0100203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid melting temperature calculation [ERO:0100204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein physical property analysis objective [ERO:0100205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptide immunogenicity analysis objective [ERO:0100206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein felxibility analysis objective [ERO:0100207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein hydropathy profile analysis objective [ERO:0100208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein isoelectric point calculation objective [ERO:0100209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic variant discovery objective [ERO:0100213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SNP discovery objective [ERO:0100214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SNP analysis objective [ERO:0100215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multiple sequence alignment objective [ERO:0100217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pairwise sequence alignment objective [ERO:0100219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular interaction modeling objective [ERO:0100221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein interaction modeling [ERO:0100223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	single molecule dynamics analysis objective [ERO:0100224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein residue interaction analysis objective [ERO:0100225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular network analysis objective [ERO:0100226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic network analysis objective [ERO:0100227]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metabolic network analysis objective [ERO:0100231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular interaction network analysis objective [ERO:0100232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein-protein interaction network analysis objective [ERO:0100233]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemical structure classification objective [ERO:0100239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemical structure comparison objective [ERO:0100240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chemical structure modeling objective [ERO:0100241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macromolecular structure analysis objective [ERO:0100242]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macromolecular structure classification objective [ERO:0100243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macromolecular structure comparison objective [ERO:0100244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macromolecular structure alignment objective [ERO:0100245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein structure alignment objective [ERO:0100246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary structural alignment objective [ERO:0100247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	structural 3D profiling objective [ERO:0100248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	structural clustering objective [ERO:0100249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tertiary structure alignment objective [ERO:0100250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid structure prediction objective [ERO:0100253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based nucleic acid structure prediction objective [ERO:0100254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based nucleic acid secondary structure prediction objective [ERO:0100255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based nucleic acid tertiary structure prediction objective [ERO:0100256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein structure prediction objective [ERO:0100257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based protein structure prediction objective [ERO:0100258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	homology modeling objective [ERO:0100259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based protein secondary structure prediction objective [ERO:0100260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based protein tertiary structure prediction objective [ERO:0100261]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular structure classification objective [ERO:0100262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular structure comparison objective [ERO:0100263]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physiological process data collection and processing objective [ERO:0100265]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physiological process monitoring objective [ERO:0100266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiovascular system modeling objective [ERO:0100268]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	population modeling objective [ERO:0100272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	morphology-based phylogenetic analysis objective [ERO:0100276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	morphology-based phylogenetic tree analysis objective [ERO:0100277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	morphology-based phylogenetic tree creation objective [ERO:0100278]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based phylogenetic analysis objective [ERO:0100279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene cluster conservation analysis objective [ERO:0100280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based phylogenetic tree analysis objective [ERO:0100281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based phylogenetic tree construction objective [ERO:0100282]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence-based population divergence analysis objective [ERO:0100283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ChIP-Chip data [ERO:0100284]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mass spectrometry data [ERO:0100286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data processing operation [ERO:0100287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data analysis operation [ERO:0100288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alignment analysis operation [ERO:0100289]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	classification analysis operation [ERO:0100290]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clustering analysis operation [ERO:0100291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	comparison analysis operation [ERO:0100292]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	feature comparison analysis operation [ERO:0100293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	feature alignment analysis operation [ERO:0100294]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data aquisition operation [ERO:0100295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data evaluation operation [ERO:0100296]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data validation operation [ERO:0100297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	feature prediction analysis operation [ERO:0100299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	feature discovery analysis operation [ERO:0100300]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	network analysis operation [ERO:0100301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	graph-based analysis operation [ERO:0100302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	image analysis operation [ERO:0100303]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	modeling and simulation operation [ERO:0100304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular design analysis operation [ERO:0100305]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	image processing operation [ERO:0100306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data assembly operation [ERO:0100307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data transfer operation [ERO:0100308]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data cleaning operation [ERO:0100309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data correction operation [ERO:0100310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data normalilzation operation [ERO:0100311]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data pre-processing operation [ERO:0100312]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data rendering and visualization operation [ERO:0100313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data retrieval operation [ERO:0100314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data transformation operation [ERO:0100315]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	algorithm execution [ERO:0100316]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	center calculation objective [ERO:0100317]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clustering analysis objective [ERO:0100318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	error analysis objective [ERO:0100320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	group comparison objective [ERO:0100321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	permutation test objective [ERO:0100322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	power-sample size analysis objective [ERO:0100323]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	regression analysis objective [ERO:0100324]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	statistical classification analysis objective [ERO:0100325]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	statistical distribution fitting objective [ERO:0100326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	drug design objective [ERO:0100328]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quantitative PCR data analysis objective [ERO:0100329]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Fourier transform [ERO:0100331]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Burrows-Wheeler technique [ERO:0100332]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Jonckheere–Terpstra test [ERO:0100333]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Kendall\'s tau coefficient [ERO:0100334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Harding algorithm [ERO:0100335]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Derivative Log ratio spread [ERO:0100336]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z-scoring for aberrant regions [ERO:0100337]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ADM-1 [ERO:0100338]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	academic software license [ERO:0100340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-commercial proprietary software license [ERO:0100341]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Monte Carlo method [ERO:0100342]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	least squares fitting [ERO:0100343]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spline-curve spatial analysis [ERO:0100344]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spline-curve dynamics analysis [ERO:0100345]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	de Bruijn graph-based method [ERO:0100346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	text-to-speech synthesis [ERO:0100347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical data [ERO:0100349]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	behavioral data [ERO:0100350]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biomechanical data [ERO:0100351]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell data [ERO:0100352]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disease data [ERO:0100353]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein secondary structure data [ERO:0100355]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	population data [ERO:0100356]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical image data [ERO:0100357]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell image data [ERO:0100358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic mapping data [ERO:0100359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reaction data [ERO:0100360]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene expression data [ERO:0100361]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence data [ERO:0100362]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular structure data [ERO:0100364]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein structure data [ERO:0100365]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flow cytometry data [ERO:0100366]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence variation data [ERO:0100368]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence alignment data [ERO:0100369]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular network data [ERO:0100370]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleic acid secondary structure data [ERO:0100372]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein tertiary structure data [ERO:0100373]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medical data [ERO:0100377]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	population genetics data [ERO:0100378]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phylogenetic data [ERO:0100379]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	morphological data [ERO:0100380]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Markov Cluster algorithm [ERO:0100381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SVM-Light algorithm [ERO:0100382]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	laboratory [ERO:0000001]	label [rdfs:label]	laboratory	
+WARN	missing_obsolete_label	open source software [ERO:0000074]	label [rdfs:label]	open source software	
+WARN	missing_obsolete_label	commercial software _MATT_TAG_ [ERO:0000075]	label [rdfs:label]	commercial software _MATT_TAG_	
+WARN	missing_obsolete_label	uses_software [ERO:0000482]	label [rdfs:label]	uses_software	
+WARN	missing_obsolete_label	center [ERO:0000622]	label [rdfs:label]	center	
+WARN	missing_obsolete_label	immortalized fibroblast-derived cell line [ERO:0001398]	label [rdfs:label]	immortalized fibroblast-derived cell line	
+WARN	missing_obsolete_label	primary cell culture [ERO:0001399]	label [rdfs:label]	primary cell culture	
+INFO	lowercase_definition	derives_from_specimen [ERO:0001065]	IAO_0000115 [IAO:0000115]	a relation between a biological resource and a biological specimen from which it is derived, such as a tissue sample, DNA or protein isolate.	
+INFO	lowercase_definition	phagemid library [ERO:0001159]	IAO_0000115 [IAO:0000115]	 A genomic library that contains discrete collections of phagemid constructs carrying DNA inserts from a source organism, such that the collection of DNA inserts  represents the entire genome of the source organism.  	
+INFO	lowercase_definition	measurement scale [ERO:0001806]	IAO_0000115 [IAO:0000115]	an information content entity used to classify data based on how data are collected, according to theory of scale types developed by the psychologist Stanley Smith Stevens	
+INFO	lowercase_definition	objective_achieved_by_operation [ERO:0001908]	IAO_0000115 [IAO:0000115]	a relation between a software objective (data transformation objective) and an operation whose execution in a software tool achieves the objective	
+INFO	lowercase_definition	data collection method [ERO:0001932]	IAO_0000115 [IAO:0000115]	a planned process in which data is collection through observations or measurements of subjects/specimens under investigation	
+INFO	lowercase_definition	mortal adherent cell line [ERO:0001996]	IAO_0000115 [IAO:0000115]	a mortal cell line that is propagated in culture as cells adhering to a solid substrate.	
+INFO	lowercase_definition	mortal fibroblast cell line [ERO:0001997]	IAO_0000115 [IAO:0000115]	an mortal adherent cell line comprised of fibroblast cells that grow with  a particular flattened morphology, and are derived from a connective tissue cell that makes and secretes collagen proteins.	
+INFO	lowercase_definition	mortal suspension cell line [ERO:0001998]	IAO_0000115 [IAO:0000115]	a mortal cell line comprised of cells that are propagated while floating in culture medium, as opposed to adhering to some fixed substrate.	
+INFO	lowercase_definition	mortal lymphocyte cell line [ERO:0001999]	IAO_0000115 [IAO:0000115]	a mortal suspension cell line comprised of lymphocytes, derived from a blood biospecimen containing non-adherent white blood cells	
+INFO	lowercase_definition	serial analysis of gene expression assay [ERO:0002015]	IAO_0000115 [IAO:0000115]	a gene expression analysis assay used to produce a snapshot of the messenger RNA population in a sample of interest in the form of small tags that correspond to fragments of those transcript	
+INFO	lowercase_definition	sterility assay [ERO:0002017]	IAO_0000115 [IAO:0000115]	an assay to determine the sterility of some material, by assaying the presence of microorganisms or other contaminating entities.	
+INFO	lowercase_definition	nanostring-based assay [ERO:0002019]	IAO_0000115 [IAO:0000115]	a molecular gene expression assay based on Nanostring nCounter technology, which uses molecular \"barcodes\" and microscopic imaging to detect and count unique transcripts in one hybridization reaction.	
+INFO	lowercase_definition	has_relationship_to_proband [ERO:0002031]	IAO_0000115 [IAO:0000115]	a property holding between a human subject and a 'reified relationship' that describes the subjects relationship with a 'proband' in the context of a biomedical investigation, i.e. the related family member who is the first affected subject identified in a study.	
+INFO	lowercase_definition	self [ERO:0002036]	IAO_0000115 [IAO:0000115]	a relationship between an individual and itself	
+INFO	lowercase_definition	data transformation objective [ERO:0100002]	IAO_0000115 [IAO:0000115]	objectives to process data in a way that no analysis is performed and no new information is generated	
+INFO	lowercase_definition	process-based data transformation objective [ERO:0100003]	IAO_0000115 [IAO:0000115]	objective of using a particular type of process/operation to process and transform data.  This hierarchy classifies software objectives based on the type of operation that is specified to be performed 	
+INFO	lowercase_definition	data retrieval objective [ERO:0100015]	IAO_0000115 [IAO:0000115]	objective to obtain existing data from some data set, database, or corpus	
+INFO	lowercase_definition	data ingest objective [ERO:0100016]	IAO_0000115 [IAO:0000115]	objective to retrieve an unfiltered/unaltered view of a data set	
+INFO	lowercase_definition	data search and retrieval objective [ERO:0100017]	IAO_0000115 [IAO:0000115]	objective to retrieve some filtered slice of data from a corpus/set based on  user/agent specified search parameters	
+INFO	lowercase_definition	data scaling objective [ERO:0100021]	IAO_0000115 [IAO:0000115]	objective where all, or some of a data set is adjusted by some data transformation according to some scale, for example a user defined minimum or maximum	
+INFO	lowercase_definition	data transfer objective [ERO:0100022]	IAO_0000115 [IAO:0000115]	objective to facilitate delivery of data between two parties	
+INFO	lowercase_definition	file rendering objective [ERO:0100026]	IAO_0000115 [IAO:0000115]	objective whereby data is input is a file and processed to be presented in different ways/views, but no new data generated, and generally no interface for users to directly manipulate the presentaiton (other than altering inputs, parameters, or variables used for configuring the display)	
+INFO	lowercase_definition	image processing objective [ERO:0100030]	IAO_0000115 [IAO:0000115]	objective whereby data from an image are digitized and various mathematical operations are applied to the data, generally with a digital computer, in order to create an enhanced image.	
+INFO	lowercase_definition	sequence comparison objective [ERO:0100031]	IAO_0000115 [IAO:0000115]	objective to compare sequence-based features of tow or more macromolecules	
+INFO	lowercase_definition	sequence alignment objective [ERO:0100032]	IAO_0000115 [IAO:0000115]	objective to display graphically how the sequences of two or more macromolecules align along a linear axis	
+INFO	lowercase_definition	data analysis objective [ERO:0100036]	IAO_0000115 [IAO:0000115]	objective to perform and/or support data analysis, whereby data is input and processed to achieve a better understanding of it.  This will involve generation \"new\" information through algorithmic processing and/or statistical calculations.	
+INFO	lowercase_definition	molecular modeling objective [ERO:0100038]	IAO_0000115 [IAO:0000115]	objective to genrate in silico data-based molecular structures and testing of their physical/chemcial/electronic properties (and that of their interactions with ligands or cofactors)	
+INFO	lowercase_definition	source-based data transformation objective [ERO:0100039]	IAO_0000115 [IAO:0000115]	objective to process and transform data that is output from a specific type of technique, technology, or instrument.	
+INFO	lowercase_definition	subject-based data transformation objective [ERO:0100042]	IAO_0000115 [IAO:0000115]	objective to process and transform data about biological and/or medical phenomenon at a certain level of granularity. This hierarchy classifies software objectives based on the type/granularity of biomedical entity which the data they transform are about.	
+INFO	lowercase_definition	sequence profile processing objective [ERO:0100058]	IAO_0000115 [IAO:0000115]	objective to process a sequence profile (ie a collection of related/aligned sequences)	
+INFO	lowercase_definition	content development objective [ERO:0100063]	IAO_0000115 [IAO:0000115]	objective of software to support user generated content creation, editing, annotation data (e,g, documents, databases, audio/video, etc), that does hae a primary reliance on data analyses or transformations.	
+INFO	lowercase_definition	social networking objective [ERO:0100081]	IAO_0000115 [IAO:0000115]	objective to support entry and querying and presentation and management of personal and/or professional information to be shared in a social network of peers	
+INFO	lowercase_definition	process-based data analysis objective [ERO:0100084]	IAO_0000115 [IAO:0000115]	objective of using a particular type of process/operation to process and analyze data.  This hierarchy classifies software objectives based on the type of operation that is specified to be performed 	
+INFO	lowercase_definition	data collection and processing objective [ERO:0100087]	IAO_0000115 [IAO:0000115]	objective to support measurement of real-world conditions and convert these to a quantifiable numerical representation that can be processed as data by a computer	
+INFO	lowercase_definition	auditory signal collection and processing objective [ERO:0100088]	IAO_0000115 [IAO:0000115]	collection and analysis of an auditory signal (conversion of signal to quantifiable numerical data) 	
+INFO	lowercase_definition	autoradiography data collection and processing objective [ERO:0100090]	IAO_0000115 [IAO:0000115]	collection and analysis (conversion of signal to quantifiable numerical data) of singal from emission of radiation	
+INFO	lowercase_definition	data validation objective [ERO:0100094]	IAO_0000115 [IAO:0000115]	objective to ensure data meets internal quality, format, specification standards	
+INFO	lowercase_definition	inter-rater reliability analysis objective [ERO:0100097]	IAO_0000115 [IAO:0000115]	 objective of determining the concordance or agreement between human judges.	
+INFO	lowercase_definition	image analysis objective [ERO:0100099]	IAO_0000115 [IAO:0000115]	the objective to extract of meaningful information from images; mainly from digital images by means of digital image processing techniques. this information is often quantified or subjected to statistical calculations to generate new information about the subject. (http://en.wikipedia.org/wiki/Image_analysis)	
+INFO	lowercase_definition	feature extraction objective [ERO:0100100]	IAO_0000115 [IAO:0000115]	objective to generate quantified values from a scanned image.	
+INFO	lowercase_definition	text processing and analysis objective [ERO:0100104]	IAO_0000115 [IAO:0000115]	an objective understanding textual data through the application of algorithmic approaches	
+INFO	lowercase_definition	descriptive statistical text analysis objective [ERO:0100105]	IAO_0000115 [IAO:0000115]	an objective to understand general/descriptive statistical attributes of text (e.g. word count, length, etc)	
+INFO	lowercase_definition	natural language processing objective [ERO:0100106]	IAO_0000115 [IAO:0000115]	an objective to understand texual data by leveraging the human-imposed patterns and structures that exist in language	
+INFO	lowercase_definition	part-of-speech tagging objective [ERO:0100107]	IAO_0000115 [IAO:0000115]	an objective to identify and tag terms with information concerning their part-of-speech (e.g. noun, verb, adjective, etc)	
+INFO	lowercase_definition	statistical part-of-speech tagging objective [ERO:0100108]	IAO_0000115 [IAO:0000115]	an objective to apply statistical approaches to identify and tag terms with information concerning their part-of-speech (e.g. noun, verb, adjective, etc)	
+INFO	lowercase_definition	sentiment analysis objective [ERO:0100109]	IAO_0000115 [IAO:0000115]	an objective to identify and extract subjective information in source materials (e.g. the attitude of the speaker, or the overall contextual polarity of a document)	
+INFO	lowercase_definition	text-to-speech articulation analysis objective [ERO:0100110]	IAO_0000115 [IAO:0000115]	an objective to facilitate conversion of written text to accurate and natural spoken language	
+INFO	lowercase_definition	text mining objective [ERO:0100111]	IAO_0000115 [IAO:0000115]	an objective to understand content of text using approaches primarily based on computational/mathematical machine learning techniques (and not based on the inherent structure of human language)	
+INFO	lowercase_definition	supervised text mining objective [ERO:0100112]	IAO_0000115 [IAO:0000115]	an objective to understand the content of text by using machine learning algorithms to train models based on gold standard labeled text 	
+INFO	lowercase_definition	active learning text mining objective [ERO:0100113]	IAO_0000115 [IAO:0000115]	an objective to understand the content of text by using machine learning algorithms that are able to interactively query the user (or some other information source) to obtain the desired outputs at new data points.	
+INFO	lowercase_definition	document classification objective [ERO:0100114]	IAO_0000115 [IAO:0000115]	objective to algorithmically assign a document to one or more classes or categories	
+INFO	lowercase_definition	information extraction objective [ERO:0100117]	IAO_0000115 [IAO:0000115]	the objective to identify specficic informtion within text	
+INFO	lowercase_definition	named-entity recognition objective [ERO:0100118]	IAO_0000115 [IAO:0000115]	an objective to identify and classify atomic elements in text into predefined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc.	
+INFO	lowercase_definition	unsupervised text mining objective [ERO:0100119]	IAO_0000115 [IAO:0000115]	an objective to use machine learning algorithms to group textual entities in the absence of gold standard labeled text	
+INFO	lowercase_definition	source-based data analysis objective [ERO:0100121]	IAO_0000115 [IAO:0000115]	objective to process and analyze data that is output from a specific type of technique, technology, or instrument.	
+INFO	lowercase_definition	subject-based data analysis objective [ERO:0100125]	IAO_0000115 [IAO:0000115]	objective to process and analyze data in order to generate new information about biological and/or medical phenomenon at a certain level of granularity.  This hierarchy classifies software objectives based on the type/granularity of biomedical entity which the data they produce are about.	
+INFO	lowercase_definition	anatomical data analysis objective [ERO:0100126]	IAO_0000115 [IAO:0000115]	objective to analyze data to investigate phenomenon at the level/granularity of gross anatomical structures (ie from anatomical systems and organs/tissues down to multi-cellular structures, inclusive)	
+INFO	lowercase_definition	behavioral data analysis objective [ERO:0100130]	IAO_0000115 [IAO:0000115]	objective to analyze data to investigate phenomenon concerning mental processes and/or resulting behavioral activity of an organism or group of organisms	
+INFO	lowercase_definition	biomechanics data analysis objective [ERO:0100133]	IAO_0000115 [IAO:0000115]	objective to analyze data concerning biomechanical/physical forces	
+INFO	lowercase_definition	cellular data analysis objective [ERO:0100137]	IAO_0000115 [IAO:0000115]	objective to analyze data about phenomenon at the level/granularity of cells (cellular processes, morphology, and interactions, protein expression, etc) or collections of cells.	
+INFO	lowercase_definition	cellular feature detection objective [ERO:0100140]	IAO_0000115 [IAO:0000115]	objective to analyze data about the physical features of cells or a populations of cells	
+INFO	lowercase_definition	disease analysis objective [ERO:0100142]	IAO_0000115 [IAO:0000115]	objective to perform data analysis which generates new information about physiological malfunctioning and anatomical disorders characteristic of disease	
+INFO	lowercase_definition	disease outcome analysis objective [ERO:0100144]	IAO_0000115 [IAO:0000115]	objective to understand factors that effect disease outcomes	
+INFO	lowercase_definition	molecular data analysis objective [ERO:0100149]	IAO_0000115 [IAO:0000115]	objective of analyzing data to generate information about molecules/molecular complexes or the processes in which they are involved (molecular structures, sequences, interactions, networks, actrivities, etc) 	
+INFO	lowercase_definition	OMICs data analysis objective [ERO:0100150]	IAO_0000115 [IAO:0000115]	objective to analyze large scale data sets representing a broad profile of some molecular-level feature of a subject or specimen (e.g. some totality of its genes, proteins, metabolic products, transcripts, etc).  Covers range of objectives related to the analysis of OMICs data (transcriptomics, genomics, proteomics,  metabolomics, etc)	
+INFO	lowercase_definition	genetic mapping and linkage analysis objective [ERO:0100159]	IAO_0000115 [IAO:0000115]	objective to identify, map or analyse genetic markers in DNA sequences, for example to produce a genetic (linkage) map of a chromosome or genome or to analyze genetic linkage and synteny (EDAM)	
+INFO	lowercase_definition	oligonucleotide design objective [ERO:0100167]	IAO_0000115 [IAO:0000115]	objective to analyze sequences for suitability as primers, probes for a particular application	
+INFO	lowercase_definition	sequence classification objective [ERO:0100169]	IAO_0000115 [IAO:0000115]	objective to classify an entire sequence macromolecule or gene as belonging to a particular class (e.g. based on localization, function, evolutionary conservation, etc)	
+INFO	lowercase_definition	sequence feature analysis objective [ERO:0100178]	IAO_0000115 [IAO:0000115]	objective to identify, discover, and/or analyze sequence-based functional regions of sequence macromolecules	
+INFO	lowercase_definition	sequence feature discovery objective [ERO:0100179]	IAO_0000115 [IAO:0000115]	objective to identify new/novel domains or motifs linked to protein or nucleic acid functions (typically through statistical analysis of sequences known to exhibit some common activity)	
+INFO	lowercase_definition	sequence generation objective [ERO:0100195]	IAO_0000115 [IAO:0000115]	objective to generate novel sequence or sequence profiles based on analysis or transformation of input biological sequence data	
+INFO	lowercase_definition	molecular physical property analysis objective [ERO:0100199]	IAO_0000115 [IAO:0000115]	objective to calculate or predict physical or chemical properties of molecules, including any non-positional properties of a macromolecular sequence	
+INFO	lowercase_definition	sequence composition analysis objective [ERO:0100210]	IAO_0000115 [IAO:0000115]	objective to analyze the basic character composition of molecular sequences, for example character or word frequency, ambiguity, complexity or repeats (EDAM)	
+INFO	lowercase_definition	genetic sequence variation analysis [ERO:0100211]	IAO_0000115 [IAO:0000115]	objective to quantify or analyze variations at specific loci in the genomes of organisms (mutation and polymorphism) across or within a species, population, or individual (e.g healthy vs diseased tissue).	
+INFO	lowercase_definition	genetic structural variation analysis objective [ERO:0100212]	IAO_0000115 [IAO:0000115]	objective to analyze variation in chromosome structure including microscopic and submicroscopic types of variation such as deletions, duplications, copy-number variants, insertions, inversions and translocations. (EDAM)	
+INFO	lowercase_definition	hybrid sequence alignment objective [ERO:0100218]	IAO_0000115 [IAO:0000115]	objective to produce a sequence alignments between sequences of different types, for example genomic DNA to EST, cDNA or mRNA. (EDAM)	
+INFO	lowercase_definition	molecular interaction analysis objective [ERO:0100220]	IAO_0000115 [IAO:0000115]	objective to analyze thef physiochemical properties of a direct physical interaction of two or more molecules with each other	
+INFO	lowercase_definition	protein interaction analysis objective [ERO:0100222]	IAO_0000115 [IAO:0000115]	objective to analyze or predict the physiochemical properties of the interaction between a protein with some other molecule(s)	
+INFO	lowercase_definition	gene expression profile pathway mapping objective [ERO:0100228]	IAO_0000115 [IAO:0000115]	objective to map a gene expression profile to known biological pathways, for example, to identify or reconstruct a pathway (EDAM)	
+INFO	lowercase_definition	gene regulatory network analysis objective [ERO:0100229]	IAO_0000115 [IAO:0000115]	objective to analyze dynaimcs of gene regulatory networks to make hypothesis or draw conclusions . . . 	
+INFO	lowercase_definition	gene regulatory network construction objective [ERO:0100230]	IAO_0000115 [IAO:0000115]	objective to define novel networks of genetic interactions at the level of gene regulation	
+INFO	lowercase_definition	molecular signaling network modeling objective [ERO:0100234]	IAO_0000115 [IAO:0000115]	objective to use biological data to model/predict molecular pathway behavior	
+INFO	lowercase_definition	signal transduction network analysis objective [ERO:0100235]	IAO_0000115 [IAO:0000115]	objective to analyzie data about direct molecular cell signaling networks or pathways, including predictions/modeling of how changes at certain nodes will affect the global network, and discovery/construction of new pathways or pathway connections (pathway discovery/construction)	
+INFO	lowercase_definition	signal transduction network construction objective [ERO:0100236]	IAO_0000115 [IAO:0000115]	objective to define novel networks of molecular or geneitc signaling in or between cells, or discover new interactions/connections in a knownn network/pathway	
+INFO	lowercase_definition	molecular structure analysis objective [ERO:0100237]	IAO_0000115 [IAO:0000115]	objective to analyze the structure of a molecular eneity (a chemical small molecule or a macromolecule)	
+INFO	lowercase_definition	chemical structure analysis [ERO:0100238]	IAO_0000115 [IAO:0000115]	objective to analyse the structure of a chemical (ie a non-macromolecule)	
+INFO	lowercase_definition	macromolecular structure generation objective [ERO:0100251]	IAO_0000115 [IAO:0000115]	objective to analyze physical data about an actual macromolecule structure and generate a three-dimensional model of its structure, e.g. taking crystallography/NMR data and using it to generate a 3D structure (not a \"prediction\" based on other inputs such as sequence data).  	
+INFO	lowercase_definition	macromolecular structure prediction objective [ERO:0100252]	IAO_0000115 [IAO:0000115]	objective to infer a predicted structure for a macromolecule based on secondary data/information such as seqeunce or homology (ie not based on physical data colelcted about the actual macromolecule in question, as is done in techniques such as x-ray chrystalography)	
+INFO	lowercase_definition	physiological data analysis objective [ERO:0100264]	IAO_0000115 [IAO:0000115]	objective to analyze data to investigate biological processes at the level of single organism anatomy, including abnormal functioning of physiology in disease	
+INFO	lowercase_definition	physiological process modeling objective [ERO:0100267]	IAO_0000115 [IAO:0000115]	objective to model a physiological process or dynamics of a physiological system or entity	
+INFO	lowercase_definition	population data analysis objective [ERO:0100269]	IAO_0000115 [IAO:0000115]	objective to analyze data to investigate phenomenon at the level of populations or species of organisms . . . including analysis of their genetic make-up	
+INFO	lowercase_definition	familial genetics analysis objective [ERO:0100270]	IAO_0000115 [IAO:0000115]	objective to explore genetic relaationships in families of individuals (e.g. family tree construciton, relatedness, inheritance patterns, etc)	
+INFO	lowercase_definition	population dynamics analysis objective [ERO:0100271]	IAO_0000115 [IAO:0000115]	objective to analyze interactions among, growth or changes in,or evolution of a population of organisms	
+INFO	lowercase_definition	population genetics analysis objective [ERO:0100273]	IAO_0000115 [IAO:0000115]	objective to analyze the genetics of a population of organisms, e.g. the distribution of allele frequencies in a population of organisms and its change subject to evolutionary processes including natural selection, genetic drift, mutation and gene flow (EDAM)	
+INFO	lowercase_definition	phylogenetic analysis objective [ERO:0100274]	IAO_0000115 [IAO:0000115]	objective to analyze evolutionary relatedness across a population of organisms	
+INFO	lowercase_definition	evolutionary modeling objective [ERO:0100275]	IAO_0000115 [IAO:0000115]	objective to model or simulate evolutionary processes	
+INFO	lowercase_definition	feature detection analysis operation [ERO:0100298]	IAO_0000115 [IAO:0000115]	identification of some part of a specimen (e.g. an anatomical, molecular, cellular specimen) that represents a feature of interest	
+INFO	lowercase_definition	statistical parameter determination objective [ERO:0100327]	IAO_0000115 [IAO:0000115]	objective to determine aspects of study design needed to achieve a desired statistical power or rigour	
+INFO	lowercase_definition	human study data analysis objective [ERO:0100348]	IAO_0000115 [IAO:0000115]	objective to analyze data about a population of human subjects in a human study	
+INFO	lowercase_definition	molecular data [ERO:0100354]	IAO_0000115 [IAO:0000115]	data that is about molecules or phenomena occurring at a molecular level (e.g. processes such as molecular interactions, chemical reactions, gene expression etc).	
+INFO	lowercase_definition	sequence similarity calculation objective [ERO:0100363]	IAO_0000115 [IAO:0000115]	objective to calculate level of sequence conservation/similarity between macromolecules	
+INFO	lowercase_definition	organism data [ERO:0100374]	IAO_0000115 [IAO:0000115]	data about organisms and phenomenon at the level/granularity of organisms, their superficial features, and their behavior	
+INFO	lowercase_definition	organismal data analysis objective [ERO:0100376]	IAO_0000115 [IAO:0000115]	objective to analyze data to investigate phenomenon at the level/granularity of organisms, their superficial features, and their behavior	
+INFO	missing_superclass	MRI_Scanner <http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#MRI_Scanner>	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000017 [BFO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0000031 [CLO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0009828 [CLO:0009828]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0009829 [CLO:0009829]	rdfs:subClassOf		
+INFO	missing_superclass	reagent [ERO:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	yeast two-hybrid library [ERO:0000294]	rdfs:subClassOf		
+INFO	missing_superclass	BAC library [ERO:0000429]	rdfs:subClassOf		
+INFO	missing_superclass	expression construct [ERO:0000431]	rdfs:subClassOf		
+INFO	missing_superclass	PAC library [ERO:0000432]	rdfs:subClassOf		
+INFO	missing_superclass	fosmid library [ERO:0000433]	rdfs:subClassOf		
+INFO	missing_superclass	YAC library [ERO:0000434]	rdfs:subClassOf		
+INFO	missing_superclass	cosmid library [ERO:0000435]	rdfs:subClassOf		
+INFO	missing_superclass	lambda phage library [ERO:0000436]	rdfs:subClassOf		
+INFO	missing_superclass	measurement instrument [ERO:0000614]	rdfs:subClassOf		
+INFO	missing_superclass	image acquisition instrument [ERO:0000615]	rdfs:subClassOf		
+INFO	missing_superclass	prokaryotic expression construct [ERO:0000621]	rdfs:subClassOf		
+INFO	missing_superclass	information processing instrument [ERO:0000623]	rdfs:subClassOf		
+INFO	missing_superclass	material separation instrument [ERO:0000624]	rdfs:subClassOf		
+INFO	missing_superclass	sterilization instrument [ERO:0000625]	rdfs:subClassOf		
+INFO	missing_superclass	mechanical instrument [ERO:0000626]	rdfs:subClassOf		
+INFO	missing_superclass	environment control instrument [ERO:0000627]	rdfs:subClassOf		
+INFO	missing_superclass	material transfer instrument [ERO:0000629]	rdfs:subClassOf		
+INFO	missing_superclass	tissue fixation [ERO:0000677]	rdfs:subClassOf		
+INFO	missing_superclass	human biological specimen [ERO:0000988]	rdfs:subClassOf		
+INFO	missing_superclass	mouse biological specimen [ERO:0000989]	rdfs:subClassOf		
+INFO	missing_superclass	transgenic organism [ERO:0001054]	rdfs:subClassOf		
+INFO	missing_superclass	RNA interference plasmid [ERO:0001136]	rdfs:subClassOf		
+INFO	missing_superclass	nucleic acid oligonucleotide library [ERO:0001143]	rdfs:subClassOf		
+INFO	missing_superclass	primer library [ERO:0001145]	rdfs:subClassOf		
+INFO	missing_superclass	RNA interference reagent [ERO:0001210]	rdfs:subClassOf		
+INFO	missing_superclass	mutant organism [ERO:0001280]	rdfs:subClassOf		
+INFO	missing_superclass	immunoassay [ERO:0001362]	rdfs:subClassOf		
+INFO	missing_superclass	immunotechnique [ERO:0001523]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0002020 [ERO:0002020]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0002094 [ERO:0002094]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000007 [IAO:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000064 [IAO:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000098 [IAO:0000098]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000144 [IAO:0000144]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10090 [NCBITaxon:10090]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10239 [NCBITaxon:10239]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_4751 [NCBITaxon:4751]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9443 [NCBITaxon:9443]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000048 [OBI:0000048]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000049 [OBI:0000049]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000050 [OBI:0000050]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000066 [OBI:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000070 [OBI:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000073 [OBI:0000073]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000086 [OBI:0000086]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000094 [OBI:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000105 [OBI:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000136 [OBI:0000136]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000182 [OBI:0000182]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000185 [OBI:0000185]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000201 [OBI:0000201]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000231 [OBI:0000231]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000257 [OBI:0000257]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000288 [OBI:0000288]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000341 [OBI:0000341]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000368 [OBI:0000368]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000369 [OBI:0000369]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000370 [OBI:0000370]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000371 [OBI:0000371]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000372 [OBI:0000372]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000374 [OBI:0000374]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000376 [OBI:0000376]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000377 [OBI:0000377]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000379 [OBI:0000379]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000383 [OBI:0000383]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000387 [OBI:0000387]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000392 [OBI:0000392]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000393 [OBI:0000393]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000397 [OBI:0000397]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000401 [OBI:0000401]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000410 [OBI:0000410]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000415 [OBI:0000415]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000435 [OBI:0000435]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000443 [OBI:0000443]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000453 [OBI:0000453]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000457 [OBI:0000457]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000470 [OBI:0000470]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000471 [OBI:0000471]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000494 [OBI:0000494]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000520 [OBI:0000520]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000555 [OBI:0000555]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000589 [OBI:0000589]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000603 [OBI:0000603]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000626 [OBI:0000626]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000630 [OBI:0000630]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000659 [OBI:0000659]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000690 [OBI:0000690]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000708 [OBI:0000708]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000723 [OBI:0000723]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000734 [OBI:0000734]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000892 [OBI:0000892]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000916 [OBI:0000916]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000930 [OBI:0000930]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000940 [OBI:0000940]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000946 [OBI:0000946]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000989 [OBI:0000989]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000990 [OBI:0000990]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001036 [OBI:0001036]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001046 [OBI:0001046]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001048 [OBI:0001048]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001053 [OBI:0001053]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001057 [OBI:0001057]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001058 [OBI:0001058]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001060 [OBI:0001060]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001065 [OBI:0001065]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001068 [OBI:0001068]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001072 [OBI:0001072]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001077 [OBI:0001077]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001079 [OBI:0001079]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001082 [OBI:0001082]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001105 [OBI:0001105]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001132 [OBI:0001132]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001135 [OBI:0001135]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001138 [OBI:0001138]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001139 [OBI:0001139]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001305 [OBI:0001305]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001573 [OBI:0001573]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001867 [OBI:0001867]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0200000 [OBI:0200000]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0200081 [OBI:0200081]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0200166 [OBI:0200166]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302884 [OBI:0302884]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302886 [OBI:0302886]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302887 [OBI:0302887]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302889 [OBI:0302889]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302905 [OBI:0302905]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302912 [OBI:0302912]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400033 [OBI:0400033]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400065 [OBI:0400065]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400082 [OBI:0400082]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400101 [OBI:0400101]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400103 [OBI:0400103]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400104 [OBI:0400104]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400105 [OBI:0400105]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400106 [OBI:0400106]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400107 [OBI:0400107]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400112 [OBI:0400112]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400115 [OBI:0400115]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400117 [OBI:0400117]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400137 [OBI:0400137]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400143 [OBI:0400143]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400168 [OBI:0400168]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400169 [OBI:0400169]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0400171 [OBI:0400171]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600005 [OBI:0600005]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600014 [OBI:0600014]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600017 [OBI:0600017]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600020 [OBI:0600020]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600024 [OBI:0600024]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600030 [OBI:0600030]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600038 [OBI:0600038]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600040 [OBI:0600040]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600044 [OBI:0600044]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600046 [OBI:0600046]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600052 [OBI:0600052]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600053 [OBI:0600053]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600058 [OBI:0600058]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_1110023 [OBI:1110023]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001894 [PATO:0001894]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001059 [SO:0001059]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001218 [SO:0001218]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000479 [UBERON:0000479]	rdfs:subClassOf		
+INFO	missing_superclass	Interventional_study <http://purl.org/net/OCRe/research.owl#Interventional_study>	rdfs:subClassOf		
+INFO	missing_superclass	Observational_study <http://purl.org/net/OCRe/research.owl#Observational_study>	rdfs:subClassOf		
+INFO	missing_superclass	OCRE100038 <http://purl.org/net/OCRe/study_design.owl#OCRE100038>	rdfs:subClassOf		
+INFO	missing_superclass	Relationship <http://vivoweb.org/ontology/core#Relationship>	rdfs:subClassOf		
+INFO	missing_superclass	ServiceProvidingLaboratory <http://vivoweb.org/ontology/core#ServiceProvidingLaboratory>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_0000140 <http://www.ebi.ac.uk/efo/swo/SWO_0000140>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_0000553 <http://www.ebi.ac.uk/efo/swo/SWO_0000553>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_0000580 <http://www.ebi.ac.uk/efo/swo/SWO_0000580>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_0000624 <http://www.ebi.ac.uk/efo/swo/SWO_0000624>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_0000640 <http://www.ebi.ac.uk/efo/swo/SWO_0000640>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_0000002 <http://www.ebi.ac.uk/swo/SWO_0000002>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_3000008 <http://www.ebi.ac.uk/swo/data/SWO_3000008>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_3000041 <http://www.ebi.ac.uk/swo/data/SWO_3000041>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_400013 <http://www.ebi.ac.uk/swo/obective/SWO_400013>	rdfs:subClassOf		
+INFO	missing_superclass	Agent [foaf:Agent]	rdfs:subClassOf		
+INFO	missing_superclass	Group [foaf:Group]	rdfs:subClassOf		
+INFO	missing_superclass	Organization [foaf:Organization]	rdfs:subClassOf		

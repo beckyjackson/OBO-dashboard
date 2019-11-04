@@ -1,0 +1,12 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	UBERON:2001170	IAO:0000115	Vertebra that is posteriorly adjacent to vertebra 5.	
+ERROR	multiple_equivalent_classes	UBERON:0000378	owl:equivalentClass	36b2578e-04c8-479f-a158-7aa23ad857fe	
+ERROR	duplicate_label	UBERON:0012285	rdfs:label	vegetal hemisphere	
+ERROR	missing_ontology_license	uberon.owl	dc:license		
+WARN	annotation_whitespace	a3201851-e8e4-4408-af38-0d091e3e26df	oboInOwl:source	PMID:6997222 	
+WARN	missing_definition	BFO:0000050	IAO:0000115		
+WARN	duplicate_scoped_synonym	UBERON:0000011	oboInOwl:hasExactSynonym	pars parasympathica divisionis autonomici systematis nervosi	
+WARN	invalid_xref	UBERON:0001572	oboInOwl:hasDbXref	MFMO_0000064	
+WARN	missing_obsolete_label	UBERON:2001259	rdfs:label	forebrain ventricle	
+INFO	lowercase_definition	BSPO:0000096	IAO:0000115	x anterior_to y iff x is further along the antero-posterior axis than y, towards the head. An antero-posterior axis is an axis that bisects an organism from head end to opposite end of body or tail: bearer	
+INFO	missing_superclass	UBERON:0000000	rdfs:subClassOf		

@@ -1,0 +1,39 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	ecocore.owl	dc11:description		
+ERROR	multiple_definitions	sequentially hermaphroditic [ECOCORE:00000120]	IAO_0000115 [IAO:0000115]	Sequential hermaphroditism occurs when the individual changes sex at some point in its life.	
+ERROR	multiple_definitions	sequentially hermaphroditic [ECOCORE:00000120]	IAO_0000115 [IAO:0000115]	a reproductive quality inhering in the bearer by virtue of the bearer changing sex at some point in its life	
+ERROR	missing_ontology_license	ecocore.owl	dc:license		
+ERROR	missing_ontology_title	ecocore.owl	dc11:title		
+ERROR	multiple_labels	A predator that eats primary consumers or herbivores [ECOCORE:00000092]	label [rdfs:label]	A predator that eats primary consumers or herbivores	
+ERROR	multiple_labels	A predator that eats primary consumers or herbivores [ECOCORE:00000092]	label [rdfs:label]	secondary consumer	
+WARN	missing_definition	crepuscular [ECOCORE:00000078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	A predator that eats primary consumers or herbivores [ECOCORE:00000092]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	hermaphroditic [ECOCORE:00000042]	IAO_0000115 [IAO:0000115]	a reproductive quality inhering in the bearer by virtue of the bearer having reproductive organs normally associated with both male and female sexes at the same time	
+INFO	lowercase_definition	protogynous [ECOCORE:00000043]	IAO_0000115 [IAO:0000115]	a reproductive quality inhering in the bearer by virtue of the bearer having female reproductive organs at the beginning of its life and then switching to male reproductive organs	
+INFO	lowercase_definition	lecithotrophic larva [ECOCORE:00000048]	IAO_0000115 [IAO:0000115]	anatomical entity that comprises the organism in a distinct juvenile form that is provided with a source of nutrition, usually a yolk sac, to use before metamorphosing into an adult	
+INFO	lowercase_definition	microphytobenthos [ECOCORE:00000049]	IAO_0000115 [IAO:0000115]	a community of microscopic, unicellular eukaryotic algae and the prokaryotic Cyanobacteria which live on sediment surfaces	
+INFO	lowercase_definition	promiscuity [ECOCORE:00000067]	IAO_0000115 [IAO:0000115]	a member of one sex mates with any member of the opposite sex	
+INFO	lowercase_definition	apex predator [ECOCORE:00000095]	IAO_0000115 [IAO:0000115]	a predator residing at the top of a food chain upon which no other creatures prey.	
+INFO	lowercase_definition	ambush predator [ECOCORE:00000096]	IAO_0000115 [IAO:0000115]	a predator that captures or traps prey by stealth or strategy, rather than by speed or strength.	
+INFO	lowercase_definition	litter transformer [ECOCORE:00000097]	IAO_0000115 [IAO:0000115]	a detritivore that consumes leaf litter	
+INFO	lowercase_definition	bacterivore [ECOCORE:00000098]	IAO_0000115 [IAO:0000115]	a heterotroph that consumes bacteria	
+INFO	lowercase_definition	protandrous [ECOCORE:00000117]	IAO_0000115 [IAO:0000115]	a reproductive quality inhering in the bearer by virtue of the bearer having male reproductive organs at the beginning of its life and then switching to female reproductive organs	
+INFO	lowercase_definition	protogynous hermaphroditism [ECOCORE:00000118]	IAO_0000115 [IAO:0000115]	a reproductive quality inhering in the bearer by virtue of the bearer having female reproductive organs at the beginning of its life and then switching to being a hermaphrodite	
+INFO	lowercase_definition	protandrous hermaphroditism [ECOCORE:00000119]	IAO_0000115 [IAO:0000115]	a reproductive quality inhering in the bearer by virtue of the bearer having male reproductive organs at the beginning of its life and then switching to being a hermaphrodite	
+INFO	lowercase_definition	sequentially hermaphroditic [ECOCORE:00000120]	IAO_0000115 [IAO:0000115]	a reproductive quality inhering in the bearer by virtue of the bearer changing sex at some point in its life	
+INFO	missing_superclass	BFO_0000003 [BFO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000034 [BFO:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000182 [BFO:0000182]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0001010 [CARO:0001010]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002164 [GO:0002164]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032502 [GO:0032502]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2 [NCBITaxon:2]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001434 [PATO:0001434]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001995 [PATO:0001995]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000002 [PCO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000003 [PCO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	RO_0002577 [RO:0002577]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000105 [UBERON:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002548 [UBERON:0002548]	rdfs:subClassOf		

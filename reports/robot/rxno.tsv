@@ -1,0 +1,233 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	rxno.obo.owl	dc11:description		
+ERROR	missing_ontology_license	rxno.obo.owl	dc:license		
+ERROR	missing_ontology_title	rxno.obo.owl	dc11:title		
+WARN	missing_definition	ester condensation reaction [RXNO:0000317]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has specified product [RXNO:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has specified reactant [RXNO:0000424]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_catalyst [RXNO:0000425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_intermediate [RXNO:0000469]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Barton olefination [RXNO:0000495]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cyclic Beckmann rearrangement [RXNO:0000574]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dess-Martin aldehyde oxidation [RXNO:0000575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dess-Martin ketone oxidation [RXNO:0000576]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Friedlander quinoline synthesis [RXNO:0000577]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iodo Sonogashira coupling [RXNO:0000579]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iodo Suzuki coupling [RXNO:0000580]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iodo Suzuki-type coupling [RXNO:0000581]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iodolactonization [RXNO:0000582]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Niementowski quinazoline synthesis [RXNO:0000583]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Niementowski quinoline synthesis [RXNO:0000584]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pomeranz–Fritsch reaction [RXNO:0000585]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Steglich esterification [RXNO:0000586]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	triflyloxy Sonogashira coupling [RXNO:0000587]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	triflyloxy Suzuki coupling [RXNO:0000588]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	triflyloxy Suzuki-type coupling [RXNO:0000589]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Wenker synthesis [RXNO:0000590]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acyclic Beckmann rearrangement [RXNO:0000631]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Baeyer–Emmerling indole synthesis [RXNO:0000632]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bromo Sonogashira coupling [RXNO:0000633]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bromo Suzuki coupling [RXNO:0000634]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bromo Suzuki-type coupling [RXNO:0000635]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bromolactonization [RXNO:0000636]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chloro Sonogashira coupling [RXNO:0000637]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chloro Suzuki coupling [RXNO:0000638]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chloro Suzuki-type coupling [RXNO:0000639]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chlorolactonization [RXNO:0000640]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	ring reaction [RXNO:0000004]	label [rdfs:label]	ring reaction	
+WARN	missing_obsolete_label	Heck-type reaction/cross-coupling [RXNO:0000557]	label [rdfs:label]	Heck-type reaction/cross-coupling	
+WARN	missing_obsolete_label	bromo Heck reaction/Liebeskind-Srogl coupling [RXNO:0000558]	label [rdfs:label]	bromo Heck reaction/Liebeskind-Srogl coupling	
+WARN	missing_obsolete_label	chloro Heck reaction/Fukuyama coupling [RXNO:0000559]	label [rdfs:label]	chloro Heck reaction/Fukuyama coupling	
+WARN	missing_obsolete_label	iodo Heck reaction/chloride Finkelstein reaction [RXNO:0000560]	label [rdfs:label]	iodo Heck reaction/chloride Finkelstein reaction	
+WARN	missing_obsolete_label	triflyloxy Heck reaction/bromide Finkelstein reaction [RXNO:0000561]	label [rdfs:label]	triflyloxy Heck reaction/bromide Finkelstein reaction	
+WARN	missing_obsolete_label	bromo Heck-type reaction/sulfonate ester Finkelstein reaction [RXNO:0000562]	label [rdfs:label]	bromo Heck-type reaction/sulfonate ester Finkelstein reaction	
+WARN	missing_obsolete_label	chloro Heck-type reaction/Sandmeyer fluorination [RXNO:0000563]	label [rdfs:label]	chloro Heck-type reaction/Sandmeyer fluorination	
+WARN	missing_obsolete_label	acyclic Beckmann rearrangement/Sandmeyer chlorination [RXNO:0000564]	label [rdfs:label]	acyclic Beckmann rearrangement/Sandmeyer chlorination	
+WARN	missing_obsolete_label	Baeyer–Emmerling indole synthesis/Sandmeyer bromination [RXNO:0000565]	label [rdfs:label]	Baeyer–Emmerling indole synthesis/Sandmeyer bromination	
+WARN	missing_obsolete_label	bromo Sonogashira coupling/Sandmeyer iodination [RXNO:0000566]	label [rdfs:label]	bromo Sonogashira coupling/Sandmeyer iodination	
+WARN	missing_obsolete_label	bromo Suzuki coupling/iodo Heck reaction [RXNO:0000567]	label [rdfs:label]	bromo Suzuki coupling/iodo Heck reaction	
+WARN	missing_obsolete_label	bromo Suzuki-type coupling/triflyloxy Heck reaction [RXNO:0000568]	label [rdfs:label]	bromo Suzuki-type coupling/triflyloxy Heck reaction	
+WARN	missing_obsolete_label	bromolactonization/bromo Heck-type reaction [RXNO:0000569]	label [rdfs:label]	bromolactonization/bromo Heck-type reaction	
+WARN	missing_obsolete_label	chloro Sonogashira coupling/chloro Heck-type reaction [RXNO:0000570]	label [rdfs:label]	chloro Sonogashira coupling/chloro Heck-type reaction	
+WARN	missing_obsolete_label	chloro Suzuki coupling/Heck-type reaction [RXNO:0000571]	label [rdfs:label]	chloro Suzuki coupling/Heck-type reaction	
+WARN	missing_obsolete_label	chloro Suzuki-type coupling/bromo Heck reaction [RXNO:0000572]	label [rdfs:label]	chloro Suzuki-type coupling/bromo Heck reaction	
+WARN	missing_obsolete_label	chlorolactonization/chloro Heck reaction [RXNO:0000573]	label [rdfs:label]	chlorolactonization/chloro Heck reaction	
+WARN	missing_obsolete_label	Combes quinoline synthesis/Conrad%E2%80%93Limpach_synthesis [RXNO:0000596]	label [rdfs:label]	Combes quinoline synthesis/Conrad%E2%80%93Limpach_synthesis	
+WARN	missing_obsolete_label	bromo Heck reaction [RXNO:0000625]	label [rdfs:label]	bromo Heck reaction	
+INFO	missing_superclass	CHEBI_13759 [CHEBI:13759]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15379 [CHEBI:15379]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15734 [CHEBI:15734]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16227 [CHEBI:16227]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16240 [CHEBI:16240]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16526 [CHEBI:16526]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16670 [CHEBI:16670]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16842 [CHEBI:16842]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17087 [CHEBI:17087]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17478 [CHEBI:17478]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17883 [CHEBI:17883]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18379 [CHEBI:18379]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22213 [CHEBI:22213]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22680 [CHEBI:22680]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22698 [CHEBI:22698]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22715 [CHEBI:22715]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22929 [CHEBI:22929]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23086 [CHEBI:23086]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23128 [CHEBI:23128]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23252 [CHEBI:23252]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24043 [CHEBI:24043]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24079 [CHEBI:24079]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24129 [CHEBI:24129]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24433 [CHEBI:24433]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24469 [CHEBI:24469]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24828 [CHEBI:24828]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25000 [CHEBI:25000]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25698 [CHEBI:25698]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25717 [CHEBI:25717]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25750 [CHEBI:25750]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25996 [CHEBI:25996]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26410 [CHEBI:26410]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26421 [CHEBI:26421]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26455 [CHEBI:26455]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26513 [CHEBI:26513]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26588 [CHEBI:26588]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26708 [CHEBI:26708]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26878 [CHEBI:26878]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26961 [CHEBI:26961]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27363 [CHEBI:27363]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27385 [CHEBI:27385]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27539 [CHEBI:27539]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_278547 [CHEBI:278547]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28112 [CHEBI:28112]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28659 [CHEBI:28659]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28694 [CHEBI:28694]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28802 [CHEBI:28802]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29224 [CHEBI:29224]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30879 [CHEBI:30879]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32816 [CHEBI:32816]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32863 [CHEBI:32863]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32876 [CHEBI:32876]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32877 [CHEBI:32877]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32878 [CHEBI:32878]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32952 [CHEBI:32952]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32955 [CHEBI:32955]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32988 [CHEBI:32988]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33308 [CHEBI:33308]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33341 [CHEBI:33341]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33363 [CHEBI:33363]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33364 [CHEBI:33364]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33521 [CHEBI:33521]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33575 [CHEBI:33575]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33595 [CHEBI:33595]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33641 [CHEBI:33641]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33658 [CHEBI:33658]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33839 [CHEBI:33839]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33853 [CHEBI:33853]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33855 [CHEBI:33855]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33860 [CHEBI:33860]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35255 [CHEBI:35255]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35293 [CHEBI:35293]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35562 [CHEBI:35562]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35636 [CHEBI:35636]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35681 [CHEBI:35681]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35689 [CHEBI:35689]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35715 [CHEBI:35715]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35873 [CHEBI:35873]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35886 [CHEBI:35886]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36587 [CHEBI:36587]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36601 [CHEBI:36601]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36605 [CHEBI:36605]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36606 [CHEBI:36606]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36687 [CHEBI:36687]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37148 [CHEBI:37148]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37579 [CHEBI:37579]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37592 [CHEBI:37592]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37602 [CHEBI:37602]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37613 [CHEBI:37613]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37622 [CHEBI:37622]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37757 [CHEBI:37757]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38101 [CHEBI:38101]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38104 [CHEBI:38104]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38106 [CHEBI:38106]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38269 [CHEBI:38269]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38757 [CHEBI:38757]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38784 [CHEBI:38784]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39447 [CHEBI:39447]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_43176 [CHEBI:43176]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46882 [CHEBI:46882]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46883 [CHEBI:46883]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_47266 [CHEBI:47266]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_47875 [CHEBI:47875]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48420 [CHEBI:48420]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48513 [CHEBI:48513]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49553 [CHEBI:49553]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50075 [CHEBI:50075]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50784 [CHEBI:50784]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50888 [CHEBI:50888]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51080 [CHEBI:51080]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51154 [CHEBI:51154]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51236 [CHEBI:51236]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51454 [CHEBI:51454]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51721 [CHEBI:51721]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51849 [CHEBI:51849]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51929 [CHEBI:51929]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53212 [CHEBI:53212]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53434 [CHEBI:53434]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_55380 [CHEBI:55380]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_5686 [CHEBI:5686]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_59656 [CHEBI:59656]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_59831 [CHEBI:59831]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_73474 [CHEBI:73474]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_73477 [CHEBI:73477]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000005 [IAO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000003 [MOP:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000411 [MOP:0000411]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000422 [MOP:0000422]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000543 [MOP:0000543]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000550 [MOP:0000550]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000555 [MOP:0000555]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000556 [MOP:0000556]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000561 [MOP:0000561]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000562 [MOP:0000562]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000563 [MOP:0000563]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000565 [MOP:0000565]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000566 [MOP:0000566]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000568 [MOP:0000568]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000569 [MOP:0000569]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000572 [MOP:0000572]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000573 [MOP:0000573]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000574 [MOP:0000574]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000580 [MOP:0000580]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000581 [MOP:0000581]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000589 [MOP:0000589]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000596 [MOP:0000596]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000619 [MOP:0000619]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000627 [MOP:0000627]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000628 [MOP:0000628]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000650 [MOP:0000650]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000656 [MOP:0000656]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000671 [MOP:0000671]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000713 [MOP:0000713]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000714 [MOP:0000714]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000715 [MOP:0000715]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000718 [MOP:0000718]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000719 [MOP:0000719]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000720 [MOP:0000720]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000721 [MOP:0000721]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000722 [MOP:0000722]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000723 [MOP:0000723]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000730 [MOP:0000730]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000734 [MOP:0000734]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000740 [MOP:0000740]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000791 [MOP:0000791]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000825 [MOP:0000825]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0001550 [MOP:0001550]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0001713 [MOP:0001713]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0002364 [MOP:0002364]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0002369 [MOP:0002369]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0002411 [MOP:0002411]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0002479 [MOP:0002479]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0003339 [MOP:0003339]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0003479 [MOP:0003479]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0006369 [MOP:0006369]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	Heck reaction [RXNO:0000024]	rdfs:subClassOf		

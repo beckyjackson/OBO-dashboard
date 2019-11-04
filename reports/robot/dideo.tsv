@@ -1,0 +1,159 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	evidence information from CYP450 recombinant drug metabolism identification experiment using chemical inhibitors [DIDEO:00000065]	IAO_0000115 [IAO:0000115]	An evidence information content entity that is about an in vitro assay that has a part of a drug or a drug metabolite, which participate in a metabolic process that has CYP 450 as a participant, as a specified input, and that has human tissue specimen as a specified input, and that has chemical inhibitors as a specified input.@en	
+ERROR	duplicate_definition	evidence information from CYP450 human microsome drug metabolism identification experiment using chemical inhibitors [DIDEO:00000068]	IAO_0000115 [IAO:0000115]	An evidence information content entity that is about an in vitro assay that has a part of a drug or a drug metabolite, which participate in a metabolic process that has CYP 450 as a participant, as a specified input, and that has human tissue specimen as a specified input, and that has chemical inhibitors as a specified input.@en	
+ERROR	duplicate_definition	evidence information from CYP450 recombinant drug metabolism identification experiment using antibody inhibitors [DIDEO:00000066]	IAO_0000115 [IAO:0000115]	An evidence information content entity that is about an in vitro assay that has a part of a drug or a drug metabolite, which participate in a metabolic process that has CYP 450 as a participant, as a specified input, and that has human tissue specimen as a specified input, and that has antibody inhibitors as a specified input.@en	
+ERROR	duplicate_definition	evidence information from CYP450 human microsome drug metabolism identification experiment using antibody inhibitors [DIDEO:00000069]	IAO_0000115 [IAO:0000115]	An evidence information content entity that is about an in vitro assay that has a part of a drug or a drug metabolite, which participate in a metabolic process that has CYP 450 as a participant, as a specified input, and that has human tissue specimen as a specified input, and that has antibody inhibitors as a specified input.@en	
+ERROR	duplicate_definition	diclofenac 4\'-hydroxylation [DIDEO:00000182]	IAO_0000115 [IAO:0000115]	a hydroxylation that has diclofenac as input and 4'-hydroxydiclofenac as output@en	
+ERROR	duplicate_definition	diclofenac 4\'-hydroxylation [DIDEO:00000191]	IAO_0000115 [IAO:0000115]	a hydroxylation that has diclofenac as input and 4'-hydroxydiclofenac as output@en	
+ERROR	missing_ontology_description	dideo.owl	dc11:description		
+ERROR	duplicate_label	diclofenac 4\'-hydroxylation [DIDEO:00000182]	label [rdfs:label]	diclofenac 4'-hydroxylation@en	
+ERROR	duplicate_label	diclofenac 4\'-hydroxylation [DIDEO:00000191]	label [rdfs:label]	diclofenac 4'-hydroxylation@en	
+ERROR	multiple_definitions	evidence information from pharmacokinetic trial [DIDEO:00000075]	IAO_0000115 [IAO:0000115]	@en	
+ERROR	multiple_definitions	evidence information from pharmacokinetic trial [DIDEO:00000075]	IAO_0000115 [IAO:0000115]	An evidence information content entity that is about a clinical drug trial that focusses on pharmacokinetics.@en	
+ERROR	missing_ontology_license	dideo.owl	dc:license		
+ERROR	missing_ontology_title	dideo.owl	dc11:title		
+ERROR	multiple_labels	dideo.owl	label [rdfs:label]	DIDEO@en	
+ERROR	multiple_labels	dideo.owl	label [rdfs:label]	Drug-drug Interaction and Drug-drug Interaction Evidence Ontology @en	
+ERROR	label_whitespace	dideo.owl	label [rdfs:label]	Drug-drug Interaction and Drug-drug Interaction Evidence Ontology @en	
+WARN	missing_definition	is organismally immediately preceded by [DIDEO:00000029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inhibits-catalyzes metabolism of [DIDEO:00000090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	catalyzes a Phase I or Phase II enzymatic reaction involving [DIDEO:00000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ratio value specification [DIDEO:00000126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	realizes substrate role [DIDEO:00000085]	label [rdfs:label]	realizes substrate role@en	
+WARN	missing_obsolete_label	involves substrate [DIDEO:00000086]	label [rdfs:label]	involves substrate@en	
+INFO	lowercase_definition	organismally_begins_to_exist_during [DIDEO:00000027]	IAO_0000115 [IAO:0000115]	there is some extended organism e    & there is some temporal region tr    & p occupies temporal region tr    & p occurs_in e    & c begins to exist during p    & there is some t         (  t part-of tr  & c located-in e at t )@en	
+INFO	lowercase_definition	organismally immediately precedes [DIDEO:00000028]	IAO_0000115 [IAO:0000115]	there is some extended organism e    & p1 occurs_in e    & p2 occurs_in e    & p1 immediately precedes p2@en	
+INFO	lowercase_definition	evidence information from pharmacokinetic trial [DIDEO:00000075]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	cryopreserved human hepatocyte population [DIDEO:00000149]	IAO_0000115 [IAO:0000115]	a cultured cell population that is derived from hepatocytes isolated from a human being and that has undergone cryopreservation@en	
+INFO	lowercase_definition	freshly isolated human hepatocyte population [DIDEO:00000152]	IAO_0000115 [IAO:0000115]	a cultured cell population that is derived from hepatocytes freshly isolated from a human being@en	
+INFO	lowercase_definition	transgenic animal hepatocyte population [DIDEO:00000153]	IAO_0000115 [IAO:0000115]	a cultured cell population that is derived from cells isolated from the liver of a transgenic organism@en	
+INFO	lowercase_definition	sandwich cultured hepatocyte population [DIDEO:00000154]	IAO_0000115 [IAO:0000115]	a cultured cell population derived from hepatocytes, in which, during the culturing process, the cells occupy a region bound by two parallel plates made of gelled collagen@en	
+INFO	lowercase_definition	human intestinal epithelial cell population [DIDEO:00000155]	IAO_0000115 [IAO:0000115]	a cultured cell population derived from cells isolated from human intestinal epithelium@en	
+INFO	lowercase_definition	HepaRG cell [DIDEO:00000157]	IAO_0000115 [IAO:0000115]	an immortal human liver-derived cell line cell that is part of the HepaRG cell line@en	
+INFO	lowercase_definition	Fa2N-4 cell [DIDEO:00000158]	IAO_0000115 [IAO:0000115]	an immortal human liver-derived cell line cell that is part of the Fa2N-4 cell line@en	
+INFO	lowercase_definition	HBG BC2 cell [DIDEO:00000159]	IAO_0000115 [IAO:0000115]	an immortal human liver-derived cell line cell that is part of the HBG BC2 cell line@en	
+INFO	lowercase_definition	human liver cytosolic fraction [DIDEO:00000160]	IAO_0000115 [IAO:0000115]	a processed material that has a supernatant role resulting from high-speed centrifugation of a human liver S9 fraction@en	
+INFO	lowercase_definition	human intestine cytosolic fraction [DIDEO:00000161]	IAO_0000115 [IAO:0000115]	a processed material that has a supernatant role resulting from high-speed centrifugation of a human intestine S9 fraction@en	
+INFO	lowercase_definition	human liver S9 fraction [DIDEO:00000162]	IAO_0000115 [IAO:0000115]	a processed material that has a supernatant role resulting from medium-speed centrifugation of a human liver homogenate@en	
+INFO	lowercase_definition	individual human intestinal microsomal fraction [DIDEO:00000163]	IAO_0000115 [IAO:0000115]	a processed material that has a centrifuge pellet role resulting from high-speed centrifugation of a human intestine S9 fraction, which is derived from a single donor@en	
+INFO	lowercase_definition	pooled human liver microsomal fraction [DIDEO:00000164]	IAO_0000115 [IAO:0000115]	a processed material that has a centrifuge pellet role resulting from high-speed centrifugation of a pool of human liver S9 fractions, which is derived from multiple donors@en	
+INFO	lowercase_definition	individual human liver microsomal fraction [DIDEO:00000165]	IAO_0000115 [IAO:0000115]	a processed material that has a centrifuge pellet role resulting from high-speed centrifugation of a human liver S9 fraction, which is derived from a single donor@en	
+INFO	lowercase_definition	pooled human intestinal microsomal fraction [DIDEO:00000166]	IAO_0000115 [IAO:0000115]	a processed material that has a centrifuge pellet role resulting from high-speed centrifugation of a pool of human intestine S9 fractions, which is derived from multiple donors@en	
+INFO	lowercase_definition	human intestine S9 fraction [DIDEO:00000167]	IAO_0000115 [IAO:0000115]	a processed material that has a supernatant role resulting from medium-speed centrifugation of a human intestine homogenate@en	
+INFO	lowercase_definition	baculovirus-insect recombinant protein production host cell [DIDEO:00000168]	IAO_0000115 [IAO:0000115]	a cultured cell that is part of a culture derived from an insect and has a recombinant protein production host role@en	
+INFO	lowercase_definition	E. coli recombinant protein production host cell [DIDEO:00000169]	IAO_0000115 [IAO:0000115]	a cultured cell of the species Escherichia coli that bears a recombinant protein production host role@en	
+INFO	lowercase_definition	percent inhibition [DIDEO:00000170]	IAO_0000115 [IAO:0000115]	a measurement datum that describes the decrease in activity of a transporter or enzyme in the presence of a compound from activity in the control experiment@en	
+INFO	lowercase_definition	midazolam 1\'-hydroxylation [DIDEO:00000171]	IAO_0000115 [IAO:0000115]	a hydroxylation that has midazolam as input and 1'-hydroxymidazolam as output@en	
+INFO	lowercase_definition	7-ethoxyresorufin O-deethylation [DIDEO:00000172]	IAO_0000115 [IAO:0000115]	a deethylation that has 7-ethoxyresorufin as input and resorufin as output@en	
+INFO	lowercase_definition	nifedipine dehydrogenation [DIDEO:00000173]	IAO_0000115 [IAO:0000115]	a dehydrogenation that has nifedipine as input and has dehydronifedipine as output@en	
+INFO	lowercase_definition	bufuralol 1\'-hydroxylation [DIDEO:00000174]	IAO_0000115 [IAO:0000115]	a hydroxylation that has bufuralol as input and 1'-hydroxybufurolol as output@en	
+INFO	lowercase_definition	omeprazole 5-hydroxylation [DIDEO:00000175]	IAO_0000115 [IAO:0000115]	a hydroxylation that has omeprazole as input and has 5-hydroxyomeprazole as output@en	
+INFO	lowercase_definition	bupropion hydroxylation [DIDEO:00000176]	IAO_0000115 [IAO:0000115]	a hydroxylation that has bupropion as input and 1-hydroxybupropion as output@en	
+INFO	lowercase_definition	paclitaxel 6-alpha hydroxylation [DIDEO:00000177]	IAO_0000115 [IAO:0000115]	a hydroxylation that has paclitaxel as input and 6-alpha-hydroxypaclitaxel as output@en	
+INFO	lowercase_definition	phenacetin O-deethylation [DIDEO:00000178]	IAO_0000115 [IAO:0000115]	a deethylation that has phenacetin as input and acetaminophen as output@en	
+INFO	lowercase_definition	coumarin 7-hydroxylation [DIDEO:00000179]	IAO_0000115 [IAO:0000115]	a hydroxylation that has coumarin as input and has 7-hydroxycoumarin as output@en	
+INFO	lowercase_definition	testosterone 6-beta-hydroxylation [DIDEO:00000180]	IAO_0000115 [IAO:0000115]	a hydroxylation that has testosterone as input and 6-beta-hydroxytestosterone as output@en	
+INFO	lowercase_definition	dextromethorphan O-demethylation [DIDEO:00000181]	IAO_0000115 [IAO:0000115]	a demethylation that has dextromethorphan as input and has dextrorphan as output@en	
+INFO	lowercase_definition	diclofenac 4\'-hydroxylation [DIDEO:00000182]	IAO_0000115 [IAO:0000115]	a hydroxylation that has diclofenac as input and 4'-hydroxydiclofenac as output@en	
+INFO	lowercase_definition	recombinant protein production host role [DIDEO:00000183]	IAO_0000115 [IAO:0000115]	a target of material addition role that is borne by a cultured cell and, if realized, is realized in recombinant protein production@en	
+INFO	lowercase_definition	number of doses in a day [DIDEO:00000184]	IAO_0000115 [IAO:0000115]	a count of administrations of a substance to an organism over a duration of 24 hours@en	
+INFO	lowercase_definition	Hep G2 cell [DIDEO:00000185]	IAO_0000115 [IAO:0000115]	an immortal human liver-derived cell line cell that is part of the Hep G2 cell line@en	
+INFO	lowercase_definition	CHO transfected cell [DIDEO:00000186]	IAO_0000115 [IAO:0000115]	a CHO cell that is a specified output of a transfection@en	
+INFO	lowercase_definition	Hep G2 transfected cell [DIDEO:00000187]	IAO_0000115 [IAO:0000115]	a Hep G2 cell that has a target of material addition role and is a specified input of a transfection@en	
+INFO	lowercase_definition	siRNA knockout Caco-2 cell [DIDEO:00000188]	IAO_0000115 [IAO:0000115]	a Caco-2 cell that is a specified output of a gene knockout that has specified input siRNA@en	
+INFO	lowercase_definition	293 transfected cell [DIDEO:00000189]	IAO_0000115 [IAO:0000115]	a 293-derived cell that is a specified output of a transfection@en	
+INFO	lowercase_definition	number of liver donors [DIDEO:00000190]	IAO_0000115 [IAO:0000115]	a count of human beings from whom originate hepatocytes to be used in an investigation@en	
+INFO	lowercase_definition	diclofenac 4\'-hydroxylation [DIDEO:00000191]	IAO_0000115 [IAO:0000115]	a hydroxylation that has diclofenac as input and 4'-hydroxydiclofenac as output@en	
+INFO	lowercase_definition	tolbutamide methylhydroxylation [DIDEO:00000192]	IAO_0000115 [IAO:0000115]	a hydroxylation that has tolbutamide as input and 4-hydroxytolbutamide as output@en	
+INFO	lowercase_definition	estradiol glucuronosylation [DIDEO:00000193]	IAO_0000115 [IAO:0000115]	a glucuronosylation that has estradiol as input and has estradiol-3-glucuronide as output@en	
+INFO	lowercase_definition	MDCK transfected cell [DIDEO:00000194]	IAO_0000115 [IAO:0000115]	an MDCK cell that is the specified output of a transfection@en	
+INFO	lowercase_definition	lamotrigine glucuronosylation [DIDEO:00000196]	IAO_0000115 [IAO:0000115]	a glucuronosylation that has lamotrigine as input and has lamotrigine glucoronide as output@en	
+INFO	lowercase_definition	chlorzoxazone 6-hydroxylation [DIDEO:00000197]	IAO_0000115 [IAO:0000115]	a hydroxylation that has chlorzoxazone as input and 6-hydroxychlorzoxazone as output@en	
+INFO	missing_superclass	APOLLO_SV_00000032 [APOLLO:SV:00000032]	rdfs:subClassOf		
+INFO	missing_superclass	APOLLO_SV_00000461 [APOLLO:SV:00000461]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000001 [BFO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000003 [BFO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000034 [BFO:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24431 [CHEBI:24431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25212 [CHEBI:25212]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29133 [CHEBI:29133]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33697 [CHEBI:33697]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_34480 [CHEBI:34480]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35222 [CHEBI:35222]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36080 [CHEBI:36080]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38559 [CHEBI:38559]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_4470 [CHEBI:4470]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_47381 [CHEBI:47381]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51602 [CHEBI:51602]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_59613 [CHEBI:59613]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_59999 [CHEBI:59999]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63840 [CHEBI:63840]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_7772 [CHEBI:7772]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0000001 [CLO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0000031 [CLO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0002172 [CLO:0002172]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0002421 [CLO:0002421]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0007646 [CLO:0007646]	rdfs:subClassOf		
+INFO	missing_superclass	CLO_0037237 [CLO:0037237]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000010 [CL:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	DRON_00000005 [DRON:00000005]	rdfs:subClassOf		
+INFO	missing_superclass	DRON_00000031 [DRON:00000031]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0000923 [ERO:0000923]	rdfs:subClassOf		
+INFO	missing_superclass	ERO_0001209 [ERO:0001209]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003824 [GO:0003824]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008152 [GO:0008152]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009892 [GO:0009892]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032410 [GO:0032410]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042571 [GO:0042571]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0098739 [GO:0098739]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000032 [IAO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000100 [IAO:0000100]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000104 [IAO:0000104]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000109 [IAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000310 [IAO:0000310]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000311 [IAO:0000311]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0020000 [IAO:0020000]	rdfs:subClassOf		
+INFO	missing_superclass	INO_0000114 [INO:0000114]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000156 [MOP:0000156]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000590 [MOP:0000590]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0000673 [MOP:0000673]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0001364 [MOP:0001364]	rdfs:subClassOf		
+INFO	missing_superclass	MOP_0001385 [MOP:0001385]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_562 [NCBITaxon:562]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0000005 [OAE:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000047 [OBI:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000070 [OBI:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000272 [OBI:0000272]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000427 [OBI:0000427]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000444 [OBI:0000444]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000659 [OBI:0000659]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001148 [OBI:0001148]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001152 [OBI:0001152]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001211 [OBI:0001211]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001285 [OBI:0001285]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001479 [OBI:0001479]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001933 [OBI:0001933]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100060 [OBI:0100060]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0300311 [OBI:0300311]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0302900 [OBI:0302900]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500001 [OBI:0500001]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500006 [OBI:0500006]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000001891 [PR:000001891]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000015223 [PR:000015223]	rdfs:subClassOf		
+INFO	missing_superclass	PR_000015224 [PR:000015224]	rdfs:subClassOf		
+INFO	missing_superclass	STATO_0000209 [STATO:0000209]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001007 [UBERON:0001007]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000190 [UO:0000190]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003824 <http://purl.org/obo/owl/GO#GO_0003824>	rdfs:subClassOf		
+INFO	missing_superclass	GO_0017144 <http://purl.org/obo/owl/GO#GO_0017144>	rdfs:subClassOf		
+INFO	missing_superclass	EFO_0000750 <http://www.ebi.ac.uk/efo/EFO_0000750>	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

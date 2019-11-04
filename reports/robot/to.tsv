@@ -1,0 +1,529 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	floral bract development trait [TO:0006025]	IAO_0000115 [IAO:0000115]	Traits associated with observing effects on the development of the floral bracts.	
+ERROR	duplicate_definition	inflorescence bract development trait [TO:0006027]	IAO_0000115 [IAO:0000115]	Traits associated with observing effects on the development of the floral bracts.	
+ERROR	duplicate_definition	momilactone A content [TO:0002670]	IAO_0000115 [IAO:0000115]	Measures the momilactone A content in a plant or plant part.	
+ERROR	duplicate_definition	momilactone B content [TO:0002671]	IAO_0000115 [IAO:0000115]	Measures the momilactone A content in a plant or plant part.	
+ERROR	duplicate_definition	root epidermis cell length [TO:0000459]	IAO_0000115 [IAO:0000115]	Length of the root epidermal cell length.	
+ERROR	duplicate_definition	root cortical cell length [TO:0020108]	IAO_0000115 [IAO:0000115]	Length of the root epidermal cell length.	
+ERROR	duplicate_definition	rice bacterial blight disease resistance [TO:0000175]	IAO_0000115 [IAO:0000115]	Causal agent: Xanthomonas oryzae pv. oryzae.	
+ERROR	duplicate_definition	rice seedling blight disease resistance [TO:0000204]	IAO_0000115 [IAO:0000115]	Causal agent: Xanthomonas oryzae pv. oryzae.	
+ERROR	duplicate_definition	barley spot blotch disease resistance [TO:0020052]	IAO_0000115 [IAO:0000115]	Causal agent: Cochliobolus sativus (Bipolaris sorokiniana).	
+ERROR	duplicate_definition	wheat spot blotch disease resistance [TO:0020053]	IAO_0000115 [IAO:0000115]	Causal agent: Cochliobolus sativus (Bipolaris sorokiniana).	
+ERROR	missing_ontology_description	to.owl	dc11:description		
+ERROR	duplicate_label	stem senescence [TO:0001036]	label [rdfs:label]	stem senescence	
+ERROR	duplicate_label	stem senescence [TO:0020085]	label [rdfs:label]	stem senescence	
+ERROR	duplicate_label	grain length to width ratio [TO:0000411]	label [rdfs:label]	grain length to width ratio	
+ERROR	duplicate_label	grain length to width ratio [TO:0002731]	label [rdfs:label]	grain length to width ratio	
+ERROR	missing_ontology_license	to.owl	dc:license		
+ERROR	missing_ontology_title	to.owl	dc11:title		
+WARN	annotation_whitespace	sterility or fertility trait [TO:0000392]	IAO_0000115 [IAO:0000115]	 A plant trait (TO:0000387) which is a measure of either the fertility or sterility, contributed by nonfunctional male and or female plant parts or their incompatible interaction. This also includes traits on seed setting behavior in the fruit (caryopsis) of a grass plant that can be assayed in terms of spikelet sterility or fertility.	
+WARN	annotation_whitespace	inflorescence width [TO:0000804]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	 INFLWD (related)	
+WARN	annotation_whitespace	kernel number per row [TO:0000938]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	 78114   (related)	
+WARN	annotation_whitespace	shoot system molybdenum content [TO:1000065]	IAO_0000115 [IAO:0000115]	A molybdenum content trait (TO:0006056) which is the (CHEBI:37239) in a shoot system (PO:0009006). 	
+WARN	duplicate_exact_synonym	iodine content trait [TO:0001046]	hasExactSynonym [oboInOwl:hasExactSynonym]	I content (exact)	
+WARN	duplicate_exact_synonym	lead content trait [TO:0001047]	hasExactSynonym [oboInOwl:hasExactSynonym]	I content (exact)	
+WARN	missing_definition	black streak dwarf virus resistance [TO:0000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	silicon sensitivity [TO:0000031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	selenium sensitivity [TO:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iodine sensitivity [TO:0000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	incompatibility trait [TO:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hybrid incompatibility [TO:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fluorine sensitivity [TO:0000038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	f1-hybrid incompatibility [TO:0000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	f2-generation sterility [TO:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sporophytic incompatibility [TO:0000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gametophytic incompatibility [TO:0000049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain moisture [TO:0000057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	node shattering [TO:0000061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phenol reaction [TO:0000062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mimic response [TO:0000063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	variegated leaf [TO:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	root pulling force [TO:0000093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flooding related trait [TO:0000114]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genic male sterility [TO:0000199]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crop damage resistance [TO:0000236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	other nutrient sensitivity [TO:0000247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seed dormancy [TO:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflorescence length [TO:0000271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nodal tillering [TO:0000285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seed viability [TO:0000345]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	female sterility [TO:0000358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shoot elongation rate [TO:0000368]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consistency viscosity [TO:0000376]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cooked grain elongation [TO:0000377]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cool paste viscosity [TO:0000379]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hot paste viscosity [TO:0000408]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peak viscosity [TO:0000409]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	white rice protein content [TO:0000414]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fertility related trait [TO:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pollen fertility [TO:0000421]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anther culturability [TO:0000425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	callus induction [TO:0000428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	root activity [TO:0000434]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seed longevity [TO:0000435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	humidity related trait [TO:0000441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parasitic weed [TO:0000444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	total biomass yield [TO:0000457]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	light intensity sensitivity [TO:0000460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basic vegetative phase [TO:0000461]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	albino plantlet differentiation frequency [TO:0000464]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adventitious root thickness [TO:0000475]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sterility related trait [TO:0000485]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seed composition quality trait [TO:0000488]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carbohydrate composition related trait [TO:0000489]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fat and essential oil composition related trait [TO:0000491]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pigment content trait [TO:0000494]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fertility restoration trait [TO:0000497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	submergence tolerance [TO:0000524]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	total shoot elongation under submergence [TO:0000528]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tiller angle [TO:0000567]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	white-backed planthopper egg mortality [TO:0000569]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	watery lesion percentage [TO:0000570]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cytoplasmic male sterility [TO:0000580]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relative phosphorus distribution between shoot and root [TO:0000626]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relative phosphorus utilization efficiency [TO:0000627]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	green plantlet differentiation frequency [TO:0000631]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	green plantlet yield frequency [TO:0000632]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relative total dry weight [TO:0000633]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	popping expansion volume [TO:0000635]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relative shoot dry weight [TO:0000636]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spike width [TO:0000638]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seed fertility [TO:0000639]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relative phosphorus concentration [TO:0000645]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cauline axillary branch number [TO:0000646]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relative acid phosphatase activity [TO:0000647]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relative phosphorus uptake [TO:0000648]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flour color [TO:0000651]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	axillary bud dormancy [TO:0000660]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tiller bud dormancy [TO:0000661]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fungal blight disease resistance [TO:0000664]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	brown rice yield [TO:0000666]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pre-flowering flower abortion [TO:0000671]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bran percentage [TO:0000672]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflorescence circumference [TO:0000680]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain tenderness [TO:0000689]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	NCLB incubation period [TO:0000692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	NCLB area under disease progress curve [TO:0000693]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	starchiness [TO:0000698]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wrinkled seed [TO:0000718]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leaf midrib color [TO:0000720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lignin monomer content [TO:0000732]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shoot branching [TO:0002639]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rhizome formation [TO:0002767]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quantum yield [TO:0012004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chlorophyll fluorescence induction kinetics [TO:0012005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fluorescence related trait [TO:0012006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quantum yield determined by the light curve [TO:0012007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quantum yield at a given wavelength [TO:0012008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	continuous fluorescence yield [TO:0012009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain weight to panicle weight ratio [TO:0020002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chickpea pod borer [TO:0020006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chickpea botrytis grey mold resistance [TO:0020011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chickpea fusarium wild resistance [TO:0020012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chickpea colleotrichum blight resistance [TO:0020013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chickpea ascochyta blight resistance [TO:0020014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sorghum leaf blight resistance [TO:0020015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tertiary shoot branch number [TO:0020018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary shoot branch number [TO:0020019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary shoot branch number [TO:0020020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basal axillary tertiary branch number [TO:0020021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basal axillary secondary branch number [TO:0020022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basal axillary primary branch number [TO:0020023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basal axillary branch number [TO:0020024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	apical axillary tertiary branch number [TO:0020025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	apical axillary secondary branch number [TO:0020026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	apical axillary primary branch number [TO:0020027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	apical axillary branch number [TO:0020028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	epigenetic trait [TO:0000002]	label [rdfs:label]	epigenetic trait	
+WARN	missing_obsolete_label	male sterility extent [TO:0000037]	label [rdfs:label]	male sterility extent	
+WARN	missing_obsolete_label	yield component [TO:0000039]	label [rdfs:label]	yield component	
+WARN	missing_obsolete_label	spot disease [TO:0000066]	label [rdfs:label]	spot disease	
+WARN	missing_obsolete_label	inflorescence feature [TO:0000076]	label [rdfs:label]	inflorescence feature	
+WARN	missing_obsolete_label	leafhopper [TO:0000091]	label [rdfs:label]	leafhopper	
+WARN	missing_obsolete_label	stature or vigor trait [TO:0000133]	label [rdfs:label]	stature or vigor trait	
+WARN	missing_obsolete_label	height trait [TO:0000171]	label [rdfs:label]	height trait	
+WARN	missing_obsolete_label	maturity trait [TO:0000174]	label [rdfs:label]	maturity trait	
+WARN	missing_obsolete_label	environmental stress related trait [TO:0000186]	label [rdfs:label]	environmental stress related trait	
+WARN	missing_obsolete_label	grassy stunt virus disease [TO:0000216]	label [rdfs:label]	grassy stunt virus disease	
+WARN	missing_obsolete_label	stem morphology [TO:0000219]	label [rdfs:label]	stem morphology	
+WARN	missing_obsolete_label	plant genetic trait unknown [TO:0000239]	label [rdfs:label]	plant genetic trait unknown	
+WARN	missing_obsolete_label	genetic trait [TO:0000256]	label [rdfs:label]	genetic trait	
+WARN	missing_obsolete_label	plant survivability [TO:0000272]	label [rdfs:label]	plant survivability	
+WARN	missing_obsolete_label	enzymatic activity and protein content related trait [TO:0000282]	label [rdfs:label]	enzymatic activity and protein content related trait	
+WARN	missing_obsolete_label	smut disease [TO:0000302]	label [rdfs:label]	smut disease	
+WARN	missing_obsolete_label	hybrid evaluation [TO:0000334]	label [rdfs:label]	hybrid evaluation	
+WARN	missing_obsolete_label	plant genetic trait [TO:0000341]	label [rdfs:label]	plant genetic trait	
+WARN	missing_obsolete_label	rot disease [TO:0000362]	label [rdfs:label]	rot disease	
+WARN	missing_obsolete_label	planthopper [TO:0000380]	label [rdfs:label]	planthopper	
+WARN	missing_obsolete_label	yield and yield component [TO:0000393]	label [rdfs:label]	yield and yield component	
+WARN	missing_obsolete_label	hoppers [TO:0000407]	label [rdfs:label]	hoppers	
+WARN	missing_obsolete_label	plant volume (sensu Poaceae) [TO:0000596]	label [rdfs:label]	plant volume (sensu Poaceae)	
+WARN	missing_obsolete_label	cooking or brewing quality [TO:0000667]	label [rdfs:label]	cooking or brewing quality	
+WARN	missing_obsolete_label	stem senescence [TO:0001036]	label [rdfs:label]	stem senescence	
+WARN	missing_obsolete_label	chlorophyll content in an extract [TO:0012003]	label [rdfs:label]	chlorophyll content in an extract	
+INFO	lowercase_definition	sterility or fertility trait [TO:0000392]	IAO_0000115 [IAO:0000115]	 A plant trait (TO:0000387) which is a measure of either the fertility or sterility, contributed by nonfunctional male and or female plant parts or their incompatible interaction. This also includes traits on seed setting behavior in the fruit (caryopsis) of a grass plant that can be assayed in terms of spikelet sterility or fertility.	
+INFO	missing_superclass	CHEBI_10022 [CHEBI:10022]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_10362 [CHEBI:10362]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_138938 [CHEBI:138938]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15948 [CHEBI:15948]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16196 [CHEBI:16196]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16240 [CHEBI:16240]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16411 [CHEBI:16411]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16634 [CHEBI:16634]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16646 [CHEBI:16646]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17234 [CHEBI:17234]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17351 [CHEBI:17351]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17514 [CHEBI:17514]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17579 [CHEBI:17579]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17620 [CHEBI:17620]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17632 [CHEBI:17632]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17855 [CHEBI:17855]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17992 [CHEBI:17992]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18133 [CHEBI:18133]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18154 [CHEBI:18154]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18230 [CHEBI:18230]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18246 [CHEBI:18246]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18292 [CHEBI:18292]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22152 [CHEBI:22152]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22676 [CHEBI:22676]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22921 [CHEBI:22921]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23042 [CHEBI:23042]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23044 [CHEBI:23044]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23336 [CHEBI:23336]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23378 [CHEBI:23378]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23530 [CHEBI:23530]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24431 [CHEBI:24431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24875 [CHEBI:24875]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25155 [CHEBI:25155]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25212 [CHEBI:25212]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25442 [CHEBI:25442]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25501 [CHEBI:25501]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25516 [CHEBI:25516]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25681 [CHEBI:25681]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26020 [CHEBI:26020]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26130 [CHEBI:26130]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26271 [CHEBI:26271]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27295 [CHEBI:27295]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27325 [CHEBI:27325]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27432 [CHEBI:27432]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27547 [CHEBI:27547]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27594 [CHEBI:27594]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27888 [CHEBI:27888]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27897 [CHEBI:27897]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28017 [CHEBI:28017]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28057 [CHEBI:28057]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28102 [CHEBI:28102]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28425 [CHEBI:28425]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28757 [CHEBI:28757]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28793 [CHEBI:28793]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28833 [CHEBI:28833]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28838 [CHEBI:28838]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28842 [CHEBI:28842]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28966 [CHEBI:28966]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29352 [CHEBI:29352]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33411 [CHEBI:33411]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33466 [CHEBI:33466]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33516 [CHEBI:33516]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33610 [CHEBI:33610]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33709 [CHEBI:33709]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35162 [CHEBI:35162]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35163 [CHEBI:35163]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35218 [CHEBI:35218]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35381 [CHEBI:35381]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35829 [CHEBI:35829]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36080 [CHEBI:36080]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36897 [CHEBI:36897]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37126 [CHEBI:37126]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37239 [CHEBI:37239]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37246 [CHEBI:37246]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37247 [CHEBI:37247]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37684 [CHEBI:37684]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37763 [CHEBI:37763]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37848 [CHEBI:37848]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39123 [CHEBI:39123]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39126 [CHEBI:39126]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39127 [CHEBI:39127]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39129 [CHEBI:39129]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_47916 [CHEBI:47916]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49191 [CHEBI:49191]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49713 [CHEBI:49713]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50699 [CHEBI:50699]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_5417 [CHEBI:5417]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_60249 [CHEBI:60249]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_60250 [CHEBI:60250]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_60272 [CHEBI:60272]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_60952 [CHEBI:60952]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_62431 [CHEBI:62431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63056 [CHEBI:63056]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63063 [CHEBI:63063]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63299 [CHEBI:63299]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_6457 [CHEBI:6457]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_70206 [CHEBI:70206]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_8027 [CHEBI:8027]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000278 [GO:0000278]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003824 [GO:0003824]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003993 [GO:0003993]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0004556 [GO:0004556]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0004564 [GO:0004564]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007049 [GO:0007049]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007585 [GO:0007585]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008878 [GO:0008878]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009835 [GO:0009835]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009908 [GO:0009908]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0010148 [GO:0010148]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0010150 [GO:0010150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0010229 [GO:0010229]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016157 [GO:0016157]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016160 [GO:0016160]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016161 [GO:0016161]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016791 [GO:0016791]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035618 [GO:0035618]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043036 [GO:0043036]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0046524 [GO:0046524]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048437 [GO:0048437]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048467 [GO:0048467]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051321 [GO:0051321]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0052736 [GO:0052736]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0090332 [GO:0090332]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000001 [PATO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000011 [PATO:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000014 [PATO:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000025 [PATO:0000025]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000037 [PATO:0000037]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000043 [PATO:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000048 [PATO:0000048]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000052 [PATO:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000117 [PATO:0000117]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000119 [PATO:0000119]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000122 [PATO:0000122]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000125 [PATO:0000125]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000128 [PATO:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000133 [PATO:0000133]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000140 [PATO:0000140]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000146 [PATO:0000146]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000150 [PATO:0000150]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000161 [PATO:0000161]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000165 [PATO:0000165]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000169 [PATO:0000169]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000274 [PATO:0000274]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000320 [PATO:0000320]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000328 [PATO:0000328]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000345 [PATO:0000345]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000402 [PATO:0000402]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000454 [PATO:0000454]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000462 [PATO:0000462]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000585 [PATO:0000585]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000586 [PATO:0000586]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000622 [PATO:0000622]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000631 [PATO:0000631]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000700 [PATO:0000700]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000915 [PATO:0000915]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000918 [PATO:0000918]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000921 [PATO:0000921]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000951 [PATO:0000951]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001019 [PATO:0001019]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001206 [PATO:0001206]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001230 [PATO:0001230]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001236 [PATO:0001236]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001241 [PATO:0001241]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001259 [PATO:0001259]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001309 [PATO:0001309]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001320 [PATO:0001320]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001323 [PATO:0001323]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001334 [PATO:0001334]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001353 [PATO:0001353]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001362 [PATO:0001362]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001470 [PATO:0001470]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001499 [PATO:0001499]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001533 [PATO:0001533]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001540 [PATO:0001540]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001543 [PATO:0001543]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001555 [PATO:0001555]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001595 [PATO:0001595]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001648 [PATO:0001648]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001662 [PATO:0001662]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001711 [PATO:0001711]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001810 [PATO:0001810]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001861 [PATO:0001861]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001883 [PATO:0001883]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002326 [PATO:0002326]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002381 [PATO:0002381]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002474 [PATO:0002474]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000003 [PO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000004 [PO:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000042 [PO:0000042]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000043 [PO:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000046 [PO:0000046]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000055 [PO:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000256 [PO:0000256]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000282 [PO:0000282]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000431 [PO:0000431]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0003023 [PO:0003023]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0004540 [PO:0004540]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0004542 [PO:0004542]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0004547 [PO:0004547]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0004709 [PO:0004709]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005001 [PO:0005001]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005004 [PO:0005004]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005020 [PO:0005020]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005352 [PO:0005352]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005360 [PO:0005360]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005417 [PO:0005417]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005848 [PO:0005848]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006001 [PO:0006001]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006012 [PO:0006012]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006033 [PO:0006033]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006321 [PO:0006321]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006323 [PO:0006323]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006342 [PO:0006342]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006503 [PO:0006503]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0006504 [PO:0006504]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0007520 [PO:0007520]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0008001 [PO:0008001]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0008002 [PO:0008002]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009000 [PO:0009000]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009001 [PO:0009001]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009002 [PO:0009002]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009005 [PO:0009005]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009006 [PO:0009006]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009007 [PO:0009007]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009008 [PO:0009008]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009009 [PO:0009009]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009010 [PO:0009010]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009011 [PO:0009011]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009015 [PO:0009015]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009025 [PO:0009025]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009026 [PO:0009026]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009027 [PO:0009027]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009028 [PO:0009028]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009029 [PO:0009029]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009030 [PO:0009030]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009031 [PO:0009031]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009032 [PO:0009032]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009033 [PO:0009033]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009034 [PO:0009034]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009036 [PO:0009036]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009037 [PO:0009037]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009038 [PO:0009038]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009039 [PO:0009039]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009040 [PO:0009040]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009046 [PO:0009046]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009047 [PO:0009047]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009049 [PO:0009049]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009051 [PO:0009051]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009052 [PO:0009052]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009053 [PO:0009053]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009054 [PO:0009054]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009055 [PO:0009055]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009058 [PO:0009058]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009059 [PO:0009059]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009061 [PO:0009061]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009062 [PO:0009062]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009066 [PO:0009066]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009072 [PO:0009072]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009073 [PO:0009073]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009074 [PO:0009074]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009080 [PO:0009080]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009081 [PO:0009081]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009082 [PO:0009082]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009084 [PO:0009084]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009085 [PO:0009085]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009086 [PO:0009086]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009087 [PO:0009087]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009088 [PO:0009088]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009089 [PO:0009089]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009100 [PO:0009100]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020030 [PO:0020030]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020031 [PO:0020031]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020033 [PO:0020033]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020037 [PO:0020037]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020038 [PO:0020038]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020039 [PO:0020039]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020041 [PO:0020041]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020047 [PO:0020047]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020049 [PO:0020049]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020050 [PO:0020050]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020060 [PO:0020060]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020063 [PO:0020063]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020100 [PO:0020100]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020103 [PO:0020103]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020104 [PO:0020104]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020105 [PO:0020105]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020106 [PO:0020106]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020121 [PO:0020121]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020122 [PO:0020122]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020126 [PO:0020126]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020128 [PO:0020128]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020136 [PO:0020136]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020138 [PO:0020138]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020139 [PO:0020139]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020141 [PO:0020141]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020142 [PO:0020142]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025001 [PO:0025001]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025002 [PO:0025002]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025004 [PO:0025004]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025005 [PO:0025005]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025007 [PO:0025007]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025009 [PO:0025009]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025018 [PO:0025018]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025023 [PO:0025023]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025025 [PO:0025025]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025029 [PO:0025029]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025034 [PO:0025034]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025066 [PO:0025066]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025073 [PO:0025073]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025075 [PO:0025075]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025082 [PO:0025082]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025131 [PO:0025131]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025173 [PO:0025173]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025178 [PO:0025178]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025183 [PO:0025183]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025204 [PO:0025204]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025242 [PO:0025242]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025248 [PO:0025248]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025269 [PO:0025269]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025281 [PO:0025281]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025290 [PO:0025290]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025291 [PO:0025291]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025294 [PO:0025294]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025295 [PO:0025295]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025332 [PO:0025332]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025349 [PO:0025349]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025395 [PO:0025395]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025423 [PO:0025423]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025470 [PO:0025470]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025471 [PO:0025471]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025476 [PO:0025476]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025496 [PO:0025496]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025497 [PO:0025497]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025498 [PO:0025498]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025517 [PO:0025517]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025522 [PO:0025522]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025597 [PO:0025597]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025612 [PO:0025612]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025620 [PO:0025620]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025623 [PO:0025623]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030091 [PO:0030091]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030092 [PO:0030092]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030093 [PO:0030093]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030094 [PO:0030094]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030095 [PO:0030095]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030096 [PO:0030096]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030097 [PO:0030097]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030098 [PO:0030098]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030099 [PO:0030099]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030100 [PO:0030100]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030101 [PO:0030101]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030102 [PO:0030102]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030103 [PO:0030103]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030104 [PO:0030104]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030105 [PO:0030105]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030106 [PO:0030106]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030107 [PO:0030107]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030108 [PO:0030108]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030109 [PO:0030109]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030110 [PO:0030110]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030111 [PO:0030111]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030117 [PO:0030117]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0030123 [PO:0030123]	rdfs:subClassOf		

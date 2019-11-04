@@ -1,0 +1,2130 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal animal hemisphere [XPO:0100067]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal tail region [XPO:0100296]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal vegetal hemisphere [XPO:0100309]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal optic field [XPO:0100455]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal prime meridian [XPO:0100557]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal thoracic region [XPO:0100643]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal head region [XPO:0100703]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal intersomitic region [XPO:0100762]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal interdigital region [XPO:0100852]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal joint region [XPO:0101200]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal hindlimb region [XPO:0101347]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal trunk region [XPO:0101349]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal marginal zone (sensu neural) [XPO:0101411]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal left-right organizer [XPO:0101439]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal forelimb region [XPO:0101570]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	obsolete abnormal morphology of anatomical region [XPO:0101700]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal anatomical side [XPO:0107263]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal apical region [XPO:0107271]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal axial region [XPO:0107272]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal basal region [XPO:0107273]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	obsolete abnormal anterior region [XPO:0107274]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	obsolete abnormal posterior region [XPO:0107275]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal dorsal region [XPO:0107276]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal ventral region [XPO:0107277]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal medial region [XPO:0107278]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	obsolete abnormal antero-dorsal region [XPO:0107279]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal antero-ventral region [XPO:0107280]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	abnormal postero-dorsal region [XPO:0107281]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	obsolete abnormal postero-ventral region [XPO:0107282]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	obsolete abnormal ventro-lateral region [XPO:0107337]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	obsolete abnormal dorso-lateral region [XPO:0107338]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	absent anatomical region [XPO:0124841]	
+ERROR	deprecated_class_reference	abnormal anatomical region [XPO:0100068]	rdfs:subClassOf	Abnormally localised anatomical region [XPO:0126450]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal animal hemisphere morphology [XPO:0101699]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal tail region morphology [XPO:0101928]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal vegetal hemisphere morphology [XPO:0101941]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal anterior entopeduncular region morphology [XPO:0102007]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal animal pole morphology [XPO:0102008]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal optic field morphology [XPO:0102087]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal prime meridian morphology [XPO:0102189]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal central retina morphology [XPO:0102196]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal pharyngeal region morphology [XPO:0102259]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal thoracic region morphology [XPO:0102275]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal periocular region morphology [XPO:0102296]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal periotic region morphology [XPO:0102319]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal head region morphology [XPO:0102335]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal intersomitic region morphology [XPO:0102394]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal interdigital region morphology [XPO:0102484]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal retinal stem cell region morphology [XPO:0102505]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal ventricular zone morphology [XPO:0102633]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal vegetal pole morphology [XPO:0102689]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal retinal progenitor cell region morphology [XPO:0102784]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal proximal tubule branch morphology [XPO:0102807]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal optic disc morphology [XPO:0102831]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal joint region morphology [XPO:0102832]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal hindlimb region morphology [XPO:0102979]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of trunk region [XPO:0102981]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal marginal zone (sensu neural) morphology [XPO:0103043]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal left-right organizer morphology [XPO:0103071]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal peripheral retina morphology [XPO:0103186]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal forelimb region morphology [XPO:0103202]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal anatomical side morphology [XPO:0107350]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of apical region [XPO:0107358]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal axial region morphology [XPO:0107359]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of basal region [XPO:0107360]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal anterior region morphology [XPO:0107361]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of posterior region [XPO:0107362]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal dorsal region morphology [XPO:0107363]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal ventral region morphology [XPO:0107364]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal medial region morphology [XPO:0107365]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal antero-dorsal region morphology [XPO:0107366]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of antero-ventral region [XPO:0107367]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of postero-dorsal region [XPO:0107368]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of postero-ventral region [XPO:0107369]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	abnormal ventro-lateral region morphology [XPO:0107424]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	obsolete abnormal morphology of dorso-lateral region [XPO:0107425]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	decreased size of the anatomical region [XPO:0128091]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of anatomical region [XPO:0101700]	rdfs:subClassOf	increased size of the anatomical region [XPO:0129571]	
+ERROR	deprecated_class_reference	abnormal tail region morphology [XPO:0101928]	rdfs:subClassOf	obsolete decreased size of the tail region [XPO:0103366]	
+ERROR	deprecated_class_reference	abnormal tail region morphology [XPO:0101928]	rdfs:subClassOf	obsolete increased size of the tail region [XPO:0103747]	
+ERROR	deprecated_class_reference	abnormal tail region morphology [XPO:0101928]	rdfs:subClassOf	obsolete abnormal(ly) undulate of tail region (T) [XPO:0115365]	
+ERROR	deprecated_class_reference	abnormal head region morphology [XPO:0102335]	rdfs:subClassOf	decreased size of the head region [XPO:0128582]	
+ERROR	deprecated_class_reference	abnormal head region morphology [XPO:0102335]	rdfs:subClassOf	increased size of the head region [XPO:0130062]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of trunk region [XPO:0102981]	rdfs:subClassOf	obsolete decreased size of the trunk region [XPO:0103369]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of trunk region [XPO:0102981]	rdfs:subClassOf	increased size of the trunk region [XPO:0103750]	
+ERROR	deprecated_class_reference	obsolete decreased size of the tail region [XPO:0103366]	rdfs:subClassOf	obsolete abnormal(ly) decreased length of tail region (T) [XPO:0115363]	
+ERROR	deprecated_class_reference	obsolete decreased size of the trunk region [XPO:0103369]	rdfs:subClassOf	abnormal(ly) decreased length of trunk region (T) [XPO:0115334]	
+ERROR	deprecated_class_reference	obsolete abnormal anterior region [XPO:0107274]	rdfs:subClassOf	abnormal anterior region morphology [XPO:0107361]	
+ERROR	deprecated_class_reference	obsolete abnormal anterior region [XPO:0107274]	rdfs:subClassOf	absent anterior region [XPO:0126110]	
+ERROR	deprecated_class_reference	obsolete abnormal anterior region [XPO:0107274]	rdfs:subClassOf	Abnormally localised anterior region [XPO:0127771]	
+ERROR	deprecated_class_reference	obsolete abnormal posterior region [XPO:0107275]	rdfs:subClassOf	obsolete abnormal morphology of posterior region [XPO:0107362]	
+ERROR	deprecated_class_reference	obsolete abnormal posterior region [XPO:0107275]	rdfs:subClassOf	absent posterior region [XPO:0125580]	
+ERROR	deprecated_class_reference	obsolete abnormal posterior region [XPO:0107275]	rdfs:subClassOf	Abnormally localised posterior region [XPO:0127220]	
+ERROR	deprecated_class_reference	abnormal ventral region [XPO:0107277]	rdfs:subClassOf	abnormal ventral region morphology [XPO:0107364]	
+ERROR	deprecated_class_reference	abnormal ventral region [XPO:0107277]	rdfs:subClassOf	absent ventral region [XPO:0126060]	
+ERROR	deprecated_class_reference	abnormal ventral region [XPO:0107277]	rdfs:subClassOf	Abnormally localised ventral region [XPO:0127720]	
+ERROR	deprecated_class_reference	obsolete abnormal antero-dorsal region [XPO:0107279]	rdfs:subClassOf	abnormal antero-dorsal region morphology [XPO:0107366]	
+ERROR	deprecated_class_reference	obsolete abnormal antero-dorsal region [XPO:0107279]	rdfs:subClassOf	absent antero-dorsal region [XPO:0126199]	
+ERROR	deprecated_class_reference	obsolete abnormal antero-dorsal region [XPO:0107279]	rdfs:subClassOf	Abnormally localised antero-dorsal region [XPO:0127861]	
+ERROR	deprecated_class_reference	abnormal antero-ventral region [XPO:0107280]	rdfs:subClassOf	obsolete abnormal morphology of antero-ventral region [XPO:0107367]	
+ERROR	deprecated_class_reference	abnormal antero-ventral region [XPO:0107280]	rdfs:subClassOf	absent antero-ventral region [XPO:0126167]	
+ERROR	deprecated_class_reference	abnormal antero-ventral region [XPO:0107280]	rdfs:subClassOf	Abnormally localised antero-ventral region [XPO:0127829]	
+ERROR	deprecated_class_reference	abnormal postero-dorsal region [XPO:0107281]	rdfs:subClassOf	obsolete abnormal morphology of postero-dorsal region [XPO:0107368]	
+ERROR	deprecated_class_reference	abnormal postero-dorsal region [XPO:0107281]	rdfs:subClassOf	absent postero-dorsal region [XPO:0125841]	
+ERROR	deprecated_class_reference	abnormal postero-dorsal region [XPO:0107281]	rdfs:subClassOf	Abnormally localised postero-dorsal region [XPO:0127494]	
+ERROR	deprecated_class_reference	obsolete abnormal postero-ventral region [XPO:0107282]	rdfs:subClassOf	obsolete abnormal morphology of postero-ventral region [XPO:0107369]	
+ERROR	deprecated_class_reference	obsolete abnormal postero-ventral region [XPO:0107282]	rdfs:subClassOf	absent postero-ventral region [XPO:0125614]	
+ERROR	deprecated_class_reference	obsolete abnormal postero-ventral region [XPO:0107282]	rdfs:subClassOf	Abnormally localised postero-ventral region [XPO:0127256]	
+ERROR	deprecated_class_reference	obsolete abnormal ventro-lateral region [XPO:0107337]	rdfs:subClassOf	abnormal ventro-lateral region morphology [XPO:0107424]	
+ERROR	deprecated_class_reference	obsolete abnormal ventro-lateral region [XPO:0107337]	rdfs:subClassOf	absent ventro-lateral region [XPO:0125931]	
+ERROR	deprecated_class_reference	obsolete abnormal ventro-lateral region [XPO:0107337]	rdfs:subClassOf	Abnormally localised ventro-lateral region [XPO:0127585]	
+ERROR	deprecated_class_reference	obsolete abnormal dorso-lateral region [XPO:0107338]	rdfs:subClassOf	obsolete abnormal morphology of dorso-lateral region [XPO:0107425]	
+ERROR	deprecated_class_reference	obsolete abnormal dorso-lateral region [XPO:0107338]	rdfs:subClassOf	absent dorso-lateral region [XPO:0126035]	
+ERROR	deprecated_class_reference	obsolete abnormal dorso-lateral region [XPO:0107338]	rdfs:subClassOf	Abnormally localised dorso-lateral region [XPO:0127694]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of apical region [XPO:0107358]	rdfs:subClassOf	decreased size of the apical region [XPO:0128691]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of apical region [XPO:0107358]	rdfs:subClassOf	increased size of the apical region [XPO:0130170]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of basal region [XPO:0107360]	rdfs:subClassOf	decreased size of the basal region [XPO:0128688]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of basal region [XPO:0107360]	rdfs:subClassOf	increased size of the basal region [XPO:0130167]	
+ERROR	deprecated_class_reference	abnormal anterior region morphology [XPO:0107361]	rdfs:subClassOf	increased size of the anterior region [XPO:0103763]	
+ERROR	deprecated_class_reference	abnormal anterior region morphology [XPO:0107361]	rdfs:subClassOf	decreased size of the anterior region [XPO:0129467]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of posterior region [XPO:0107362]	rdfs:subClassOf	decreased size of the posterior region [XPO:0128923]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of posterior region [XPO:0107362]	rdfs:subClassOf	increased size of the posterior region [XPO:0130401]	
+ERROR	deprecated_class_reference	abnormal dorsal region morphology [XPO:0107363]	rdfs:subClassOf	increased size of the dorsal region [XPO:0103765]	
+ERROR	deprecated_class_reference	abnormal dorsal region morphology [XPO:0107363]	rdfs:subClassOf	decreased size of the dorsal region [XPO:0129353]	
+ERROR	deprecated_class_reference	abnormal ventral region morphology [XPO:0107364]	rdfs:subClassOf	decreased size of the ventral region [XPO:0129075]	
+ERROR	deprecated_class_reference	abnormal ventral region morphology [XPO:0107364]	rdfs:subClassOf	increased size of the ventral region [XPO:0130552]	
+ERROR	deprecated_class_reference	abnormal medial region morphology [XPO:0107365]	rdfs:subClassOf	decreased size of the medial region [XPO:0129293]	
+ERROR	deprecated_class_reference	abnormal medial region morphology [XPO:0107365]	rdfs:subClassOf	increased size of the medial region [XPO:0130769]	
+ERROR	deprecated_class_reference	abnormal antero-dorsal region morphology [XPO:0107366]	rdfs:subClassOf	decreased size of the antero-dorsal region [XPO:0129390]	
+ERROR	deprecated_class_reference	abnormal antero-dorsal region morphology [XPO:0107366]	rdfs:subClassOf	increased size of the antero-dorsal region [XPO:0130865]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of antero-ventral region [XPO:0107367]	rdfs:subClassOf	increased size of the antero-ventral region [XPO:0103764]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of antero-ventral region [XPO:0107367]	rdfs:subClassOf	decreased size of the antero-ventral region [XPO:0129333]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of postero-dorsal region [XPO:0107368]	rdfs:subClassOf	decreased size of the postero-dorsal region [XPO:0129119]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of postero-dorsal region [XPO:0107368]	rdfs:subClassOf	increased size of the postero-dorsal region [XPO:0130595]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of postero-ventral region [XPO:0107369]	rdfs:subClassOf	obsolete increased size of the postero-ventral region [XPO:0103768]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of postero-ventral region [XPO:0107369]	rdfs:subClassOf	decreased size of the postero-ventral region [XPO:0128628]	
+ERROR	deprecated_class_reference	abnormal ventro-lateral region morphology [XPO:0107424]	rdfs:subClassOf	decreased size of the ventro-lateral region [XPO:0129147]	
+ERROR	deprecated_class_reference	abnormal ventro-lateral region morphology [XPO:0107424]	rdfs:subClassOf	increased size of the ventro-lateral region [XPO:0130623]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of dorso-lateral region [XPO:0107425]	rdfs:subClassOf	decreased size of the dorso-lateral region [XPO:0128508]	
+ERROR	deprecated_class_reference	obsolete abnormal morphology of dorso-lateral region [XPO:0107425]	rdfs:subClassOf	increased size of the dorso-lateral region [XPO:0129988]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) curved of tail (T) [XPO:0115536]	rdfs:subClassOf	tail abnormally curved dorsally [XPO:0103599]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) curved of tail (T) [XPO:0115536]	rdfs:subClassOf	abnormal(ly) curved ventral of tail (T) [XPO:0115547]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) fused with of hindlimb digit (T) [XPO:0115577]	rdfs:subClassOf	abnormal(ly) fused with of hindlimb digit 2 (T) [XPO:0115739]	
+ERROR	deprecated_class_reference	abnormal(ly) quality of heart in left atrium (T) [XPO:0115851]	rdfs:subClassOf	obsolete abnormal(ly) oblique orientation of heart in left atrium (T) [XPO:0116162]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	rdfs:subClassOf	abnormal(ly) incomplete structure of Meckel\'s cartilage (T) [XPO:0115608]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	rdfs:subClassOf	obsolete abnormal(ly) incomplete structure of ceratohyal (T) [XPO:0115708]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	rdfs:subClassOf	abnormal(ly) incomplete structure of basihyal (T) [XPO:0115724]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	rdfs:subClassOf	abnormal(ly) incomplete structure of infrarostral (T) [XPO:0115729]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	rdfs:subClassOf	abnormal(ly) incomplete structure of palatoquadrati (T) [XPO:0115731]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	rdfs:subClassOf	abnormal(ly) incomplete structure of trabecula cranii (T) [XPO:0115734]	
+ERROR	deprecated_class_reference	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	rdfs:subClassOf	abnormal(ly) incomplete structure of cartilage element in branchial arch (T) [XPO:0116166]	
+ERROR	multiple_labels	Abnormally localised cement gland [XPO:0103842]	label [rdfs:label]	Abnormally localised cement gland	
+ERROR	multiple_labels	Abnormally localised cement gland [XPO:0103842]	label [rdfs:label]	mislocalized cement gland	
+ERROR	multiple_labels	mislocalized head [XPO:0103843]	label [rdfs:label]	Abnormally localised head	
+ERROR	multiple_labels	mislocalized head [XPO:0103843]	label [rdfs:label]	mislocalized head	
+ERROR	multiple_labels	mislocalized neural tube [XPO:0103844]	label [rdfs:label]	Abnormally localised neural tube	
+ERROR	multiple_labels	mislocalized neural tube [XPO:0103844]	label [rdfs:label]	mislocalized neural tube	
+ERROR	multiple_labels	mislocalized tail [XPO:0103845]	label [rdfs:label]	Abnormally localised tail	
+ERROR	multiple_labels	mislocalized tail [XPO:0103845]	label [rdfs:label]	mislocalized tail	
+ERROR	multiple_labels	mislocalized utricle [XPO:0103846]	label [rdfs:label]	Abnormally localised utricle	
+ERROR	multiple_labels	mislocalized utricle [XPO:0103846]	label [rdfs:label]	mislocalized utricle	
+ERROR	label_whitespace	abnormal anterior-posterior axis, curved dorsal  [XPO:0103602]	label [rdfs:label]	abnormal anterior-posterior axis, curved dorsal 	
+ERROR	label_whitespace	obsolete malformed right eye  [XPO:0103659]	label [rdfs:label]	obsolete malformed right eye 	
+ERROR	label_whitespace	abnormal bending of anterior-posterior axis  [XPO:0103699]	label [rdfs:label]	abnormal bending of anterior-posterior axis 	
+ERROR	label_whitespace	abnormal bending of humerus  [XPO:0103700]	label [rdfs:label]	abnormal bending of humerus 	
+ERROR	label_whitespace	abnormal bending of anterior neural tube  [XPO:0103701]	label [rdfs:label]	abnormal bending of anterior neural tube 	
+ERROR	label_whitespace	abnormal bending of tail  [XPO:0103702]	label [rdfs:label]	abnormal bending of tail 	
+ERROR	label_whitespace	obsolete abnormal bending of dorsal tail [XPO:0103703]	label [rdfs:label]	abnormal bending of dorsal tail 	
+ERROR	label_whitespace	abnormal bending of dorsal trunk  [XPO:0103704]	label [rdfs:label]	abnormal bending of dorsal trunk 	
+ERROR	label_whitespace	abnormal bending of left-right axis  [XPO:0103705]	label [rdfs:label]	abnormal bending of left-right axis 	
+ERROR	label_whitespace	abnormal anterior-posterior axis, curved lateral  [XPO:0131424]	label [rdfs:label]	abnormal anterior-posterior axis, curved lateral 	
+ERROR	label_whitespace	abnormal anterior-posterior axis, curved ventral  [XPO:0131425]	label [rdfs:label]	abnormal anterior-posterior axis, curved ventral 	
+WARN	missing_obsolete_label	abnormal anatomical region [XPO:0100068]	label [rdfs:label]	abnormal anatomical region	
+WARN	missing_obsolete_label	obsolete abnormal morphology of anatomical region [XPO:0101700]	label [rdfs:label]	abnormal anatomical region morphology	
+WARN	missing_obsolete_label	abnormal tail region morphology [XPO:0101928]	label [rdfs:label]	abnormal tail region morphology	
+WARN	missing_obsolete_label	abnormal head region morphology [XPO:0102335]	label [rdfs:label]	abnormal head region morphology	
+WARN	missing_obsolete_label	obsolete abnormal morphology of trunk region [XPO:0102981]	label [rdfs:label]	abnormal trunk region morphology	
+WARN	missing_obsolete_label	obsolete decreased size of the tail region [XPO:0103366]	label [rdfs:label]	decreased size of the tail region	
+WARN	missing_obsolete_label	obsolete decreased size of the trunk region [XPO:0103369]	label [rdfs:label]	decreased size of the trunk region	
+WARN	missing_obsolete_label	obsolete Increased number of multiciliated cell in the epidermis inner layer [XPO:0103403]	label [rdfs:label]	Increased number of multiciliated cell in the epidermis inner layer	
+WARN	missing_obsolete_label	obsolete decreased length of posterior region [XPO:0103581]	label [rdfs:label]	decreased length of posterior region	
+WARN	missing_obsolete_label	obsolete Increased number of multiciliated cell in the epidermis outer layer [XPO:0103651]	label [rdfs:label]	Decreased number of multiciliated cell in the epidermis outer layer	
+WARN	missing_obsolete_label	malformed tarsus in regenerating hindlimb [XPO:0103679]	label [rdfs:label]	malformed tarsus in regenerating hindlimb	
+WARN	missing_obsolete_label	obsolete abnormal bending of dorsal tail [XPO:0103703]	label [rdfs:label]	abnormal bending of dorsal tail 	
+WARN	missing_obsolete_label	obsolete increased size of the tail region [XPO:0103747]	label [rdfs:label]	increased size of the tail region	
+WARN	missing_obsolete_label	increased size of the trunk region [XPO:0103750]	label [rdfs:label]	increased size of the trunk region	
+WARN	missing_obsolete_label	increased size of the anterior region [XPO:0103763]	label [rdfs:label]	increased size of the anterior region	
+WARN	missing_obsolete_label	increased size of the antero-ventral region [XPO:0103764]	label [rdfs:label]	increased size of the antero-ventral region	
+WARN	missing_obsolete_label	increased size of the dorsal region [XPO:0103765]	label [rdfs:label]	increased size of the dorsal region	
+WARN	missing_obsolete_label	obsolete increased size of the postero-ventral region [XPO:0103768]	label [rdfs:label]	increased size of the postero-ventral region	
+WARN	missing_obsolete_label	obsolete abnormal anterior region [XPO:0107274]	label [rdfs:label]	abnormal anterior region	
+WARN	missing_obsolete_label	obsolete abnormal posterior region [XPO:0107275]	label [rdfs:label]	abnormal posterior region	
+WARN	missing_obsolete_label	abnormal ventral region [XPO:0107277]	label [rdfs:label]	abnormal ventral region	
+WARN	missing_obsolete_label	obsolete abnormal antero-dorsal region [XPO:0107279]	label [rdfs:label]	abnormal antero-dorsal region	
+WARN	missing_obsolete_label	abnormal antero-ventral region [XPO:0107280]	label [rdfs:label]	abnormal antero-ventral region	
+WARN	missing_obsolete_label	abnormal postero-dorsal region [XPO:0107281]	label [rdfs:label]	abnormal postero-dorsal region	
+WARN	missing_obsolete_label	obsolete abnormal postero-ventral region [XPO:0107282]	label [rdfs:label]	abnormal postero-ventral region	
+WARN	missing_obsolete_label	obsolete abnormal ventro-lateral region [XPO:0107337]	label [rdfs:label]	abnormal ventro-lateral region	
+WARN	missing_obsolete_label	obsolete abnormal dorso-lateral region [XPO:0107338]	label [rdfs:label]	abnormal dorso-lateral region	
+WARN	missing_obsolete_label	obsolete abnormal morphology of apical region [XPO:0107358]	label [rdfs:label]	abnormal apical region morphology	
+WARN	missing_obsolete_label	obsolete abnormal morphology of basal region [XPO:0107360]	label [rdfs:label]	abnormal basal region morphology	
+WARN	missing_obsolete_label	abnormal anterior region morphology [XPO:0107361]	label [rdfs:label]	abnormal anterior region morphology	
+WARN	missing_obsolete_label	obsolete abnormal morphology of posterior region [XPO:0107362]	label [rdfs:label]	abnormal posterior region morphology	
+WARN	missing_obsolete_label	abnormal dorsal region morphology [XPO:0107363]	label [rdfs:label]	abnormal dorsal region morphology	
+WARN	missing_obsolete_label	abnormal ventral region morphology [XPO:0107364]	label [rdfs:label]	abnormal ventral region morphology	
+WARN	missing_obsolete_label	abnormal medial region morphology [XPO:0107365]	label [rdfs:label]	abnormal medial region morphology	
+WARN	missing_obsolete_label	abnormal antero-dorsal region morphology [XPO:0107366]	label [rdfs:label]	abnormal antero-dorsal region morphology	
+WARN	missing_obsolete_label	obsolete abnormal morphology of antero-ventral region [XPO:0107367]	label [rdfs:label]	abnormal antero-ventral region morphology	
+WARN	missing_obsolete_label	obsolete abnormal morphology of postero-dorsal region [XPO:0107368]	label [rdfs:label]	abnormal postero-dorsal region morphology	
+WARN	missing_obsolete_label	obsolete abnormal morphology of postero-ventral region [XPO:0107369]	label [rdfs:label]	abnormal postero-ventral region morphology	
+WARN	missing_obsolete_label	abnormal ventro-lateral region morphology [XPO:0107424]	label [rdfs:label]	abnormal ventro-lateral region morphology	
+WARN	missing_obsolete_label	obsolete abnormal morphology of dorso-lateral region [XPO:0107425]	label [rdfs:label]	abnormal dorso-lateral region morphology	
+WARN	missing_obsolete_label	abnormal(ly) decreased length of trunk region (T) [XPO:0115334]	label [rdfs:label]	abnormal(ly) decreased length of trunk region (T)	
+WARN	missing_obsolete_label	abnormal(ly) fused with of somite (T) [XPO:0115343]	label [rdfs:label]	abnormal(ly) fused with of somite (T)	
+WARN	missing_obsolete_label	abnormal(ly) disorganized of somite (T) [XPO:0115344]	label [rdfs:label]	abnormal(ly) disorganized of somite (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) decreased length of tail region (T) [XPO:0115363]	label [rdfs:label]	abnormal(ly) decreased length of tail region (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) undulate of tail region (T) [XPO:0115365]	label [rdfs:label]	abnormal(ly) undulate of tail region (T)	
+WARN	missing_obsolete_label	abnormal(ly) disorganized of midgut (T) [XPO:0115375]	label [rdfs:label]	abnormal(ly) disorganized of midgut (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) truncated of tail bud (T) [XPO:0115380]	label [rdfs:label]	abnormal(ly) truncated of tail bud (T)	
+WARN	missing_obsolete_label	abnormal(ly) disorganized of intestine (T) [XPO:0115398]	label [rdfs:label]	abnormal(ly) disorganized of intestine (T)	
+WARN	missing_obsolete_label	abnormal(ly) decreased diameter of eye (T) [XPO:0115418]	label [rdfs:label]	abnormal(ly) decreased diameter of eye (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) disorganized of dermatome (T) [XPO:0115438]	label [rdfs:label]	abnormal(ly) disorganized of dermatome (T)	
+WARN	missing_obsolete_label	abnormal(ly) disorganized of foregut (T) [XPO:0115443]	label [rdfs:label]	abnormal(ly) disorganized of foregut (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) truncated of head (T) [XPO:0115519]	label [rdfs:label]	abnormal(ly) truncated of head (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) truncated of trunk (T) [XPO:0115530]	label [rdfs:label]	abnormal(ly) truncated of trunk (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) curved of tail (T) [XPO:0115536]	label [rdfs:label]	abnormal(ly) curved of tail (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) delayed of tail (T) [XPO:0115538]	label [rdfs:label]	abnormal(ly) delayed of tail (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) truncated of tail (T) [XPO:0115544]	label [rdfs:label]	abnormal(ly) truncated of tail (T)	
+WARN	missing_obsolete_label	abnormal(ly) undulate of tail (T) [XPO:0115545]	label [rdfs:label]	abnormal(ly) undulate of tail (T)	
+WARN	missing_obsolete_label	abnormal(ly) immature of tail (T) [XPO:0115549]	label [rdfs:label]	abnormal(ly) immature of tail (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) deformed of tail (T) [XPO:0115550]	label [rdfs:label]	abnormal(ly) deformed of tail (T)	
+WARN	missing_obsolete_label	abnormal(ly) kinked of tail (T) [XPO:0115551]	label [rdfs:label]	abnormal(ly) kinked of tail (T)	
+WARN	missing_obsolete_label	abnormal(ly) circular of mouth (T) [XPO:0115554]	label [rdfs:label]	abnormal(ly) circular of mouth (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) triangular of mouth (T) [XPO:0115557]	label [rdfs:label]	abnormal(ly) triangular of mouth (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) fused with of hindlimb digit (T) [XPO:0115577]	label [rdfs:label]	abnormal(ly) fused with of hindlimb digit (T)	
+WARN	missing_obsolete_label	abnormal(ly) incomplete structure of Meckel\'s cartilage (T) [XPO:0115608]	label [rdfs:label]	abnormal(ly) incomplete structure of Meckel's cartilage (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) surrounding of retinal pigmented epithelium (T) [XPO:0115644]	label [rdfs:label]	abnormal(ly) surrounding of retinal pigmented epithelium (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) fused with of anterior branchial crest (T) [XPO:0115701]	label [rdfs:label]	abnormal(ly) fused with of anterior branchial crest (T)	
+WARN	missing_obsolete_label	abnormal(ly) disorganized of motor neuron (T) [XPO:0115703]	label [rdfs:label]	abnormal(ly) disorganized of motor neuron (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) incomplete structure of ceratohyal (T) [XPO:0115708]	label [rdfs:label]	abnormal(ly) incomplete structure of ceratohyal (T)	
+WARN	missing_obsolete_label	abnormal(ly) incomplete structure of basihyal (T) [XPO:0115724]	label [rdfs:label]	abnormal(ly) incomplete structure of basihyal (T)	
+WARN	missing_obsolete_label	abnormal(ly) incomplete structure of infrarostral (T) [XPO:0115729]	label [rdfs:label]	abnormal(ly) incomplete structure of infrarostral (T)	
+WARN	missing_obsolete_label	abnormal(ly) incomplete structure of palatoquadrati (T) [XPO:0115731]	label [rdfs:label]	abnormal(ly) incomplete structure of palatoquadrati (T)	
+WARN	missing_obsolete_label	abnormal(ly) incomplete structure of trabecula cranii (T) [XPO:0115734]	label [rdfs:label]	abnormal(ly) incomplete structure of trabecula cranii (T)	
+WARN	missing_obsolete_label	abnormal(ly) fused with of hindlimb digit 2 (T) [XPO:0115739]	label [rdfs:label]	abnormal(ly) fused with of hindlimb digit 2 (T)	
+WARN	missing_obsolete_label	abnormal(ly) quality of heart in left atrium (T) [XPO:0115851]	label [rdfs:label]	abnormal(ly) quality of heart in left atrium (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) quality of hindlimb in metacarpus (T) [XPO:0115852]	label [rdfs:label]	abnormal(ly) quality of hindlimb in metacarpus (T)	
+WARN	missing_obsolete_label	abnormal(ly) quality of metacarpus in hindlimb digit 5 (T) [XPO:0115884]	label [rdfs:label]	abnormal(ly) quality of metacarpus in hindlimb digit 5 (T)	
+WARN	missing_obsolete_label	abnormal(ly) absent of eye in left (T) [XPO:0115948]	label [rdfs:label]	abnormal(ly) absent of eye in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) absent of inner ear in left (T) [XPO:0115949]	label [rdfs:label]	abnormal(ly) absent of inner ear in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) absent of olfactory pit in left (T) [XPO:0115950]	label [rdfs:label]	abnormal(ly) absent of olfactory pit in left (T)	
+WARN	missing_obsolete_label	abnormal(ly) increased amount of neuroectoderm in head region (T) [XPO:0115961]	label [rdfs:label]	abnormal(ly) increased amount of neuroectoderm in head region (T)	
+WARN	missing_obsolete_label	abnormal(ly) increased amount of mesoderm in trunk region (T) [XPO:0115962]	label [rdfs:label]	abnormal(ly) increased amount of mesoderm in trunk region (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) increased size of eye in left (T) [XPO:0115997]	label [rdfs:label]	abnormal(ly) increased size of eye in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) decreased size of branchial arch skeleton in left (T) [XPO:0116000]	label [rdfs:label]	abnormal(ly) decreased size of branchial arch skeleton in left (T)	
+WARN	missing_obsolete_label	abnormal(ly) malformed of eye in lens (T) [XPO:0116026]	label [rdfs:label]	abnormal(ly) malformed of eye in lens (T)	
+WARN	missing_obsolete_label	abnormal(ly) malformed of epithelium in foregut (T) [XPO:0116027]	label [rdfs:label]	abnormal(ly) malformed of epithelium in foregut (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) malformed of ventral in trunk (T) [XPO:0116029]	label [rdfs:label]	abnormal(ly) malformed of ventral in trunk (T)	
+WARN	missing_obsolete_label	abnormal(ly) malformed of brain in left (T) [XPO:0116030]	label [rdfs:label]	abnormal(ly) malformed of brain in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) malformed of eye in left (T) [XPO:0116031]	label [rdfs:label]	abnormal(ly) malformed of eye in left (T)	
+WARN	missing_obsolete_label	abnormal(ly) malformed of inner ear in left (T) [XPO:0116032]	label [rdfs:label]	abnormal(ly) malformed of inner ear in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) malformed of optic vesicle in left (T) [XPO:0116033]	label [rdfs:label]	abnormal(ly) malformed of optic vesicle in left (T)	
+WARN	missing_obsolete_label	abnormal(ly) malformed of olfactory pit in left (T) [XPO:0116034]	label [rdfs:label]	abnormal(ly) malformed of olfactory pit in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) malformed of Meckel\'s cartilage in left (T) [XPO:0116035]	label [rdfs:label]	abnormal(ly) malformed of Meckel's cartilage in left (T)	
+WARN	missing_obsolete_label	abnormal(ly) malformed of branchial arch skeleton in left (T) [XPO:0116036]	label [rdfs:label]	abnormal(ly) malformed of branchial arch skeleton in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) malformed of eye in right (T) [XPO:0116037]	label [rdfs:label]	abnormal(ly) malformed of eye in right (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) malformed of inner ear in right (T) [XPO:0116038]	label [rdfs:label]	abnormal(ly) malformed of inner ear in right (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) truncated of anterior in embryo (T) [XPO:0116042]	label [rdfs:label]	abnormal(ly) truncated of anterior in embryo (T)	
+WARN	missing_obsolete_label	abnormal(ly) truncated of posterior in tail (T) [XPO:0116043]	label [rdfs:label]	abnormal(ly) truncated of posterior in tail (T)	
+WARN	missing_obsolete_label	abnormal(ly) disorganized of myofibril assembly in heart (T) [XPO:0116044]	label [rdfs:label]	abnormal(ly) disorganized of myofibril assembly in heart (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) disorganized of muscle fiber development in skeletal muscle (T) [XPO:0116045]	label [rdfs:label]	abnormal(ly) disorganized of muscle fiber development in skeletal muscle (T)	
+WARN	missing_obsolete_label	abnormal(ly) disorganized of regenerating tail in neuron (T) [XPO:0116046]	label [rdfs:label]	abnormal(ly) disorganized of regenerating tail in neuron (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) duplicated of brain in left (T) [XPO:0116070]	label [rdfs:label]	abnormal(ly) duplicated of brain in left (T)	
+WARN	missing_obsolete_label	abnormal(ly) duplicated of eye in left (T) [XPO:0116071]	label [rdfs:label]	abnormal(ly) duplicated of eye in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) duplicated of forelimb in left (T) [XPO:0116072]	label [rdfs:label]	abnormal(ly) duplicated of forelimb in left (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) bifurcated of hindlimb in left (T) [XPO:0116082]	label [rdfs:label]	abnormal(ly) bifurcated of hindlimb in left (T)	
+WARN	missing_obsolete_label	abnormal(ly) decreased amount of neuroectoderm in head region (T) [XPO:0116095]	label [rdfs:label]	abnormal(ly) decreased amount of neuroectoderm in head region (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) oblique orientation of heart in left atrium (T) [XPO:0116162]	label [rdfs:label]	abnormal(ly) oblique orientation of heart in left atrium (T)	
+WARN	missing_obsolete_label	abnormal(ly) incomplete structure of cartilage element in branchial arch (T) [XPO:0116166]	label [rdfs:label]	abnormal(ly) incomplete structure of cartilage element in branchial arch (T)	
+WARN	missing_obsolete_label	obsolete abnormal(ly) incomplete structure of cartilage element in head (T) [XPO:0116167]	label [rdfs:label]	abnormal(ly) incomplete structure of cartilage element in head (T)	
+INFO	lowercase_definition	decreased width of the cartilage element in head [XPO:0103698]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the cartilage element in head.	
+INFO	lowercase_definition	increased length of the somite [XPO:0103785]	IAO_0000115 [IAO:0000115]	longer, increased length of, somite	
+INFO	lowercase_definition	increased length of the anterior-posterior axis [XPO:0103786]	IAO_0000115 [IAO:0000115]	longer, increased length of, anterior-posterior axis	
+INFO	lowercase_definition	decreased width of the cement gland [XPO:0103825]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the cement gland.	
+INFO	lowercase_definition	decreased width of the craniofacial region [XPO:0103826]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the craniofacial region.	
+INFO	lowercase_definition	decreased width of the head [XPO:0103827]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the head.	
+INFO	lowercase_definition	decreased width of the mouth [XPO:0103828]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the mouth.	
+INFO	lowercase_definition	decreased width of the neural plate [XPO:0103829]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the neural plate.	
+INFO	lowercase_definition	decreased width of the pre-chordal neural plate [XPO:0103830]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the pre-chordal neural plate.	
+INFO	missing_superclass	BSPO_0000000 [BSPO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000007 [BSPO:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000016 [BSPO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000085 [BSPO:0000085]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000679 [BSPO:0000679]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000235 [GO:0000235]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000281 [GO:0000281]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001654 [GO:0001654]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001822 [GO:0001822]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001823 [GO:0001823]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001889 [GO:0001889]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001947 [GO:0001947]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002520 [GO:0002520]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003015 [GO:0003015]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003205 [GO:0003205]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003231 [GO:0003231]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0003401 [GO:0003401]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005773 [GO:0005773]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005876 [GO:0005876]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007369 [GO:0007369]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007398 [GO:0007398]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007399 [GO:0007399]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007417 [GO:0007417]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007420 [GO:0007420]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007423 [GO:0007423]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007492 [GO:0007492]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007498 [GO:0007498]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007507 [GO:0007507]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007517 [GO:0007517]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007610 [GO:0007610]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007617 [GO:0007617]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007619 [GO:0007619]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007626 [GO:0007626]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007631 [GO:0007631]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007632 [GO:0007632]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007634 [GO:0007634]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007638 [GO:0007638]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008283 [GO:0008283]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008406 [GO:0008406]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008544 [GO:0008544]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009790 [GO:0009790]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009798 [GO:0009798]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009888 [GO:0009888]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009946 [GO:0009946]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009948 [GO:0009948]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009950 [GO:0009950]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009952 [GO:0009952]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0014032 [GO:0014032]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016477 [GO:0016477]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0021510 [GO:0021510]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030017 [GO:0030017]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030182 [GO:0030182]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030239 [GO:0030239]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030323 [GO:0030323]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030324 [GO:0030324]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030325 [GO:0030325]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030878 [GO:0030878]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0030903 [GO:0030903]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031016 [GO:0031016]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031045 [GO:0031045]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031103 [GO:0031103]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031941 [GO:0031941]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032502 [GO:0032502]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0033333 [GO:0033333]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035176 [GO:0035176]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035187 [GO:0035187]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035270 [GO:0035270]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0035844 [GO:0035844]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036269 [GO:0036269]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036342 [GO:0036342]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042048 [GO:0042048]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042692 [GO:0042692]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043009 [GO:0043009]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043010 [GO:0043010]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043583 [GO:0043583]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043584 [GO:0043584]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045214 [GO:0045214]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048266 [GO:0048266]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048513 [GO:0048513]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048534 [GO:0048534]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048536 [GO:0048536]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048538 [GO:0048538]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048546 [GO:0048546]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048565 [GO:0048565]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048568 [GO:0048568]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048598 [GO:0048598]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048732 [GO:0048732]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048747 [GO:0048747]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048793 [GO:0048793]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048856 [GO:0048856]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048864 [GO:0048864]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0055123 [GO:0055123]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060037 [GO:0060037]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060047 [GO:0060047]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060066 [GO:0060066]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060157 [GO:0060157]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060322 [GO:0060322]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060433 [GO:0060433]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0060541 [GO:0060541]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061008 [GO:0061008]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061010 [GO:0061010]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061053 [GO:0061053]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0061351 [GO:0061351]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0062094 [GO:0062094]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0070986 [GO:0070986]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071570 [GO:0071570]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071599 [GO:0071599]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0071625 [GO:0071625]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0072001 [GO:0072001]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0072359 [GO:0072359]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0140014 [GO:0140014]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000001 [PATO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000051 [PATO:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000052 [PATO:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000070 [PATO:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000133 [PATO:0000133]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000297 [PATO:0000297]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000330 [PATO:0000330]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000375 [PATO:0000375]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000406 [PATO:0000406]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000411 [PATO:0000411]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000415 [PATO:0000415]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000460 [PATO:0000460]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000462 [PATO:0000462]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000467 [PATO:0000467]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000470 [PATO:0000470]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000502 [PATO:0000502]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000569 [PATO:0000569]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000570 [PATO:0000570]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000573 [PATO:0000573]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000574 [PATO:0000574]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000584 [PATO:0000584]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000586 [PATO:0000586]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000587 [PATO:0000587]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000591 [PATO:0000591]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000592 [PATO:0000592]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000595 [PATO:0000595]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000596 [PATO:0000596]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000599 [PATO:0000599]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000600 [PATO:0000600]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000608 [PATO:0000608]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000609 [PATO:0000609]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000610 [PATO:0000610]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000613 [PATO:0000613]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000615 [PATO:0000615]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000617 [PATO:0000617]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000620 [PATO:0000620]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000625 [PATO:0000625]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000628 [PATO:0000628]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000630 [PATO:0000630]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000636 [PATO:0000636]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000638 [PATO:0000638]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000642 [PATO:0000642]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000644 [PATO:0000644]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000645 [PATO:0000645]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000646 [PATO:0000646]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000647 [PATO:0000647]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000763 [PATO:0000763]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000912 [PATO:0000912]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000936 [PATO:0000936]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000937 [PATO:0000937]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000967 [PATO:0000967]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001052 [PATO:0001052]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001201 [PATO:0001201]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001236 [PATO:0001236]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001422 [PATO:0001422]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001450 [PATO:0001450]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001468 [PATO:0001468]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001469 [PATO:0001469]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001473 [PATO:0001473]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001485 [PATO:0001485]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001499 [PATO:0001499]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001501 [PATO:0001501]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001503 [PATO:0001503]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001507 [PATO:0001507]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001542 [PATO:0001542]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001558 [PATO:0001558]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001562 [PATO:0001562]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001566 [PATO:0001566]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001571 [PATO:0001571]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001598 [PATO:0001598]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001617 [PATO:0001617]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001645 [PATO:0001645]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001646 [PATO:0001646]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001649 [PATO:0001649]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001654 [PATO:0001654]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001671 [PATO:0001671]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001714 [PATO:0001714]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001715 [PATO:0001715]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001752 [PATO:0001752]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001755 [PATO:0001755]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001770 [PATO:0001770]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001772 [PATO:0001772]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001784 [PATO:0001784]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001786 [PATO:0001786]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001796 [PATO:0001796]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001798 [PATO:0001798]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001799 [PATO:0001799]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001802 [PATO:0001802]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001847 [PATO:0001847]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001873 [PATO:0001873]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001875 [PATO:0001875]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001879 [PATO:0001879]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001894 [PATO:0001894]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001905 [PATO:0001905]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001920 [PATO:0001920]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001921 [PATO:0001921]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001922 [PATO:0001922]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001924 [PATO:0001924]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001930 [PATO:0001930]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001935 [PATO:0001935]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001956 [PATO:0001956]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001958 [PATO:0001958]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001959 [PATO:0001959]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001997 [PATO:0001997]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001999 [PATO:0001999]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002001 [PATO:0002001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002002 [PATO:0002002]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002011 [PATO:0002011]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002019 [PATO:0002019]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002021 [PATO:0002021]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002034 [PATO:0002034]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002037 [PATO:0002037]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002053 [PATO:0002053]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002057 [PATO:0002057]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002058 [PATO:0002058]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002083 [PATO:0002083]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002100 [PATO:0002100]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002105 [PATO:0002105]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002106 [PATO:0002106]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002118 [PATO:0002118]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002125 [PATO:0002125]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002135 [PATO:0002135]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002168 [PATO:0002168]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002177 [PATO:0002177]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002248 [PATO:0002248]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002250 [PATO:0002250]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002251 [PATO:0002251]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002259 [PATO:0002259]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002260 [PATO:0002260]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002282 [PATO:0002282]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002283 [PATO:0002283]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002285 [PATO:0002285]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002291 [PATO:0002291]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002302 [PATO:0002302]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002312 [PATO:0002312]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002334 [PATO:0002334]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002364 [PATO:0002364]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002395 [PATO:0002395]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002463 [PATO:0002463]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002481 [PATO:0002481]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002508 [PATO:0002508]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002516 [PATO:0002516]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0005013 [PATO:0005013]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0005020 [PATO:0005020]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0030000 [PATO:0030000]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0030001 [PATO:0030001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0030002 [PATO:0030002]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0030003 [PATO:0030003]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000001 [XAO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000002 [XAO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000003 [XAO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000004 [XAO:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000005 [XAO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000006 [XAO:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000007 [XAO:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000008 [XAO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000009 [XAO:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000010 [XAO:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000011 [XAO:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000012 [XAO:0000012]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000013 [XAO:0000013]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000014 [XAO:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000015 [XAO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000016 [XAO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000017 [XAO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000018 [XAO:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000020 [XAO:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000021 [XAO:0000021]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000022 [XAO:0000022]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000023 [XAO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000024 [XAO:0000024]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000025 [XAO:0000025]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000026 [XAO:0000026]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000027 [XAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000028 [XAO:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000029 [XAO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000030 [XAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000031 [XAO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000032 [XAO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000033 [XAO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000034 [XAO:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000035 [XAO:0000035]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000036 [XAO:0000036]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000037 [XAO:0000037]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000038 [XAO:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000040 [XAO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000041 [XAO:0000041]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000042 [XAO:0000042]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000043 [XAO:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000044 [XAO:0000044]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000045 [XAO:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000046 [XAO:0000046]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000047 [XAO:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000048 [XAO:0000048]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000049 [XAO:0000049]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000050 [XAO:0000050]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000051 [XAO:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000052 [XAO:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000053 [XAO:0000053]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000054 [XAO:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000055 [XAO:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000056 [XAO:0000056]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000057 [XAO:0000057]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000058 [XAO:0000058]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000062 [XAO:0000062]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000063 [XAO:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000064 [XAO:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000065 [XAO:0000065]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000066 [XAO:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000067 [XAO:0000067]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000068 [XAO:0000068]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000069 [XAO:0000069]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000070 [XAO:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000071 [XAO:0000071]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000072 [XAO:0000072]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000074 [XAO:0000074]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000075 [XAO:0000075]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000076 [XAO:0000076]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000077 [XAO:0000077]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000078 [XAO:0000078]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000079 [XAO:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000080 [XAO:0000080]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000081 [XAO:0000081]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000082 [XAO:0000082]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000083 [XAO:0000083]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000084 [XAO:0000084]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000085 [XAO:0000085]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000086 [XAO:0000086]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000087 [XAO:0000087]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000088 [XAO:0000088]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000089 [XAO:0000089]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000090 [XAO:0000090]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000091 [XAO:0000091]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000092 [XAO:0000092]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000093 [XAO:0000093]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000094 [XAO:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000095 [XAO:0000095]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000096 [XAO:0000096]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000097 [XAO:0000097]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000098 [XAO:0000098]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000099 [XAO:0000099]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000100 [XAO:0000100]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000101 [XAO:0000101]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000102 [XAO:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000103 [XAO:0000103]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000104 [XAO:0000104]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000105 [XAO:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000106 [XAO:0000106]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000107 [XAO:0000107]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000108 [XAO:0000108]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000109 [XAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000110 [XAO:0000110]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000111 [XAO:0000111]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000113 [XAO:0000113]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000114 [XAO:0000114]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000115 [XAO:0000115]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000116 [XAO:0000116]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000117 [XAO:0000117]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000118 [XAO:0000118]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000119 [XAO:0000119]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000120 [XAO:0000120]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000121 [XAO:0000121]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000122 [XAO:0000122]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000123 [XAO:0000123]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000124 [XAO:0000124]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000125 [XAO:0000125]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000126 [XAO:0000126]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000127 [XAO:0000127]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000128 [XAO:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000129 [XAO:0000129]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000130 [XAO:0000130]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000131 [XAO:0000131]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000132 [XAO:0000132]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000133 [XAO:0000133]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000134 [XAO:0000134]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000135 [XAO:0000135]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000136 [XAO:0000136]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000137 [XAO:0000137]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000138 [XAO:0000138]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000139 [XAO:0000139]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000140 [XAO:0000140]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000141 [XAO:0000141]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000142 [XAO:0000142]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000143 [XAO:0000143]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000144 [XAO:0000144]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000146 [XAO:0000146]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000148 [XAO:0000148]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000151 [XAO:0000151]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000153 [XAO:0000153]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000154 [XAO:0000154]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000155 [XAO:0000155]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000156 [XAO:0000156]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000157 [XAO:0000157]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000158 [XAO:0000158]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000159 [XAO:0000159]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000160 [XAO:0000160]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000162 [XAO:0000162]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000163 [XAO:0000163]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000164 [XAO:0000164]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000165 [XAO:0000165]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000166 [XAO:0000166]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000167 [XAO:0000167]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000168 [XAO:0000168]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000169 [XAO:0000169]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000170 [XAO:0000170]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000171 [XAO:0000171]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000172 [XAO:0000172]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000173 [XAO:0000173]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000174 [XAO:0000174]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000175 [XAO:0000175]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000176 [XAO:0000176]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000177 [XAO:0000177]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000178 [XAO:0000178]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000179 [XAO:0000179]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000180 [XAO:0000180]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000181 [XAO:0000181]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000182 [XAO:0000182]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000183 [XAO:0000183]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000185 [XAO:0000185]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000186 [XAO:0000186]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000187 [XAO:0000187]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000188 [XAO:0000188]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000189 [XAO:0000189]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000190 [XAO:0000190]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000191 [XAO:0000191]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000192 [XAO:0000192]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000193 [XAO:0000193]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000195 [XAO:0000195]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000196 [XAO:0000196]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000197 [XAO:0000197]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000198 [XAO:0000198]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000199 [XAO:0000199]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000200 [XAO:0000200]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000202 [XAO:0000202]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000204 [XAO:0000204]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000205 [XAO:0000205]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000206 [XAO:0000206]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000207 [XAO:0000207]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000208 [XAO:0000208]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000209 [XAO:0000209]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000210 [XAO:0000210]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000211 [XAO:0000211]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000213 [XAO:0000213]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000214 [XAO:0000214]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000215 [XAO:0000215]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000217 [XAO:0000217]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000218 [XAO:0000218]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000220 [XAO:0000220]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000223 [XAO:0000223]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000224 [XAO:0000224]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000225 [XAO:0000225]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000226 [XAO:0000226]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000227 [XAO:0000227]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000228 [XAO:0000228]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000229 [XAO:0000229]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000230 [XAO:0000230]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000231 [XAO:0000231]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000232 [XAO:0000232]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000233 [XAO:0000233]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000234 [XAO:0000234]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000235 [XAO:0000235]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000236 [XAO:0000236]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000237 [XAO:0000237]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000238 [XAO:0000238]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000239 [XAO:0000239]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000240 [XAO:0000240]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000241 [XAO:0000241]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000242 [XAO:0000242]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000243 [XAO:0000243]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000244 [XAO:0000244]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000245 [XAO:0000245]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000246 [XAO:0000246]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000247 [XAO:0000247]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000248 [XAO:0000248]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000249 [XAO:0000249]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000250 [XAO:0000250]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000251 [XAO:0000251]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000252 [XAO:0000252]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000253 [XAO:0000253]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000254 [XAO:0000254]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000255 [XAO:0000255]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000256 [XAO:0000256]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000257 [XAO:0000257]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000258 [XAO:0000258]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000259 [XAO:0000259]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000260 [XAO:0000260]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000261 [XAO:0000261]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000262 [XAO:0000262]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000263 [XAO:0000263]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000264 [XAO:0000264]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000265 [XAO:0000265]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000266 [XAO:0000266]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000267 [XAO:0000267]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000268 [XAO:0000268]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000269 [XAO:0000269]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000270 [XAO:0000270]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000271 [XAO:0000271]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000272 [XAO:0000272]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000273 [XAO:0000273]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000274 [XAO:0000274]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000275 [XAO:0000275]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000276 [XAO:0000276]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000277 [XAO:0000277]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000278 [XAO:0000278]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000279 [XAO:0000279]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000280 [XAO:0000280]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000281 [XAO:0000281]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000282 [XAO:0000282]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000283 [XAO:0000283]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000284 [XAO:0000284]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000285 [XAO:0000285]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000286 [XAO:0000286]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000287 [XAO:0000287]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000288 [XAO:0000288]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000289 [XAO:0000289]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000291 [XAO:0000291]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000292 [XAO:0000292]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000294 [XAO:0000294]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000295 [XAO:0000295]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000298 [XAO:0000298]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000299 [XAO:0000299]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000305 [XAO:0000305]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000306 [XAO:0000306]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000307 [XAO:0000307]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000309 [XAO:0000309]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000310 [XAO:0000310]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000311 [XAO:0000311]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000313 [XAO:0000313]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000314 [XAO:0000314]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000315 [XAO:0000315]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000316 [XAO:0000316]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000318 [XAO:0000318]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000319 [XAO:0000319]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000320 [XAO:0000320]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000323 [XAO:0000323]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000324 [XAO:0000324]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000326 [XAO:0000326]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000327 [XAO:0000327]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000328 [XAO:0000328]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000329 [XAO:0000329]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000330 [XAO:0000330]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000331 [XAO:0000331]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000332 [XAO:0000332]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000333 [XAO:0000333]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000334 [XAO:0000334]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000336 [XAO:0000336]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000337 [XAO:0000337]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000338 [XAO:0000338]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000339 [XAO:0000339]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000340 [XAO:0000340]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000341 [XAO:0000341]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000342 [XAO:0000342]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000343 [XAO:0000343]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000344 [XAO:0000344]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000345 [XAO:0000345]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000349 [XAO:0000349]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000352 [XAO:0000352]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000353 [XAO:0000353]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000354 [XAO:0000354]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000355 [XAO:0000355]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000356 [XAO:0000356]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000357 [XAO:0000357]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000358 [XAO:0000358]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000361 [XAO:0000361]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000362 [XAO:0000362]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000363 [XAO:0000363]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000364 [XAO:0000364]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000365 [XAO:0000365]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000366 [XAO:0000366]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000367 [XAO:0000367]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000368 [XAO:0000368]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000369 [XAO:0000369]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000370 [XAO:0000370]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000371 [XAO:0000371]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000372 [XAO:0000372]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000373 [XAO:0000373]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000374 [XAO:0000374]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000375 [XAO:0000375]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000376 [XAO:0000376]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000377 [XAO:0000377]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000378 [XAO:0000378]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000379 [XAO:0000379]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000380 [XAO:0000380]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000381 [XAO:0000381]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000382 [XAO:0000382]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000383 [XAO:0000383]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000384 [XAO:0000384]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000385 [XAO:0000385]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000386 [XAO:0000386]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000387 [XAO:0000387]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000388 [XAO:0000388]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000389 [XAO:0000389]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000390 [XAO:0000390]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000391 [XAO:0000391]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000392 [XAO:0000392]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000393 [XAO:0000393]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000394 [XAO:0000394]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000395 [XAO:0000395]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000396 [XAO:0000396]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000397 [XAO:0000397]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000399 [XAO:0000399]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000401 [XAO:0000401]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000403 [XAO:0000403]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000404 [XAO:0000404]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000405 [XAO:0000405]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000406 [XAO:0000406]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000407 [XAO:0000407]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000408 [XAO:0000408]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000409 [XAO:0000409]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000410 [XAO:0000410]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000411 [XAO:0000411]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000412 [XAO:0000412]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000414 [XAO:0000414]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000415 [XAO:0000415]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000416 [XAO:0000416]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000417 [XAO:0000417]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000418 [XAO:0000418]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000419 [XAO:0000419]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000420 [XAO:0000420]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000421 [XAO:0000421]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000422 [XAO:0000422]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000423 [XAO:0000423]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000424 [XAO:0000424]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000425 [XAO:0000425]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000426 [XAO:0000426]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000427 [XAO:0000427]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000428 [XAO:0000428]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000429 [XAO:0000429]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000430 [XAO:0000430]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000431 [XAO:0000431]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000439 [XAO:0000439]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000440 [XAO:0000440]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000441 [XAO:0000441]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000442 [XAO:0000442]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000443 [XAO:0000443]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000444 [XAO:0000444]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000445 [XAO:0000445]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000446 [XAO:0000446]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000447 [XAO:0000447]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000448 [XAO:0000448]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000449 [XAO:0000449]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000451 [XAO:0000451]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000452 [XAO:0000452]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000453 [XAO:0000453]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000454 [XAO:0000454]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000455 [XAO:0000455]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000457 [XAO:0000457]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000458 [XAO:0000458]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000459 [XAO:0000459]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000460 [XAO:0000460]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000461 [XAO:0000461]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000462 [XAO:0000462]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000463 [XAO:0000463]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000464 [XAO:0000464]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000465 [XAO:0000465]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000467 [XAO:0000467]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000469 [XAO:0000469]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000470 [XAO:0000470]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000471 [XAO:0000471]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000472 [XAO:0000472]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000474 [XAO:0000474]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0000475 [XAO:0000475]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001001 [XAO:0001001]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001002 [XAO:0001002]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001010 [XAO:0001010]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001011 [XAO:0001011]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001012 [XAO:0001012]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001013 [XAO:0001013]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001014 [XAO:0001014]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001015 [XAO:0001015]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001016 [XAO:0001016]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001017 [XAO:0001017]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001018 [XAO:0001018]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001019 [XAO:0001019]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001020 [XAO:0001020]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001021 [XAO:0001021]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001101 [XAO:0001101]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001102 [XAO:0001102]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0001103 [XAO:0001103]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0002000 [XAO:0002000]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003000 [XAO:0003000]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003001 [XAO:0003001]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003002 [XAO:0003002]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003004 [XAO:0003004]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003005 [XAO:0003005]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003006 [XAO:0003006]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003007 [XAO:0003007]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003008 [XAO:0003008]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003009 [XAO:0003009]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003010 [XAO:0003010]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003011 [XAO:0003011]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003012 [XAO:0003012]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003013 [XAO:0003013]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003014 [XAO:0003014]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003015 [XAO:0003015]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003016 [XAO:0003016]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003017 [XAO:0003017]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003018 [XAO:0003018]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003019 [XAO:0003019]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003020 [XAO:0003020]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003022 [XAO:0003022]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003023 [XAO:0003023]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003024 [XAO:0003024]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003025 [XAO:0003025]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003026 [XAO:0003026]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003027 [XAO:0003027]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003028 [XAO:0003028]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003029 [XAO:0003029]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003030 [XAO:0003030]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003031 [XAO:0003031]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003032 [XAO:0003032]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003033 [XAO:0003033]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003034 [XAO:0003034]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003035 [XAO:0003035]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003036 [XAO:0003036]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003037 [XAO:0003037]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003038 [XAO:0003038]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003039 [XAO:0003039]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003040 [XAO:0003040]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003041 [XAO:0003041]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003042 [XAO:0003042]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003043 [XAO:0003043]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003044 [XAO:0003044]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003045 [XAO:0003045]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003046 [XAO:0003046]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003047 [XAO:0003047]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003048 [XAO:0003048]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003049 [XAO:0003049]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003050 [XAO:0003050]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003051 [XAO:0003051]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003052 [XAO:0003052]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003053 [XAO:0003053]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003054 [XAO:0003054]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003055 [XAO:0003055]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003056 [XAO:0003056]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003057 [XAO:0003057]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003059 [XAO:0003059]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003060 [XAO:0003060]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003061 [XAO:0003061]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003062 [XAO:0003062]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003063 [XAO:0003063]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003064 [XAO:0003064]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003065 [XAO:0003065]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003066 [XAO:0003066]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003073 [XAO:0003073]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003074 [XAO:0003074]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003075 [XAO:0003075]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003076 [XAO:0003076]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003077 [XAO:0003077]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003078 [XAO:0003078]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003079 [XAO:0003079]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003080 [XAO:0003080]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003081 [XAO:0003081]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003083 [XAO:0003083]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003084 [XAO:0003084]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003085 [XAO:0003085]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003086 [XAO:0003086]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003087 [XAO:0003087]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003088 [XAO:0003088]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003090 [XAO:0003090]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003091 [XAO:0003091]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003092 [XAO:0003092]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003093 [XAO:0003093]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003094 [XAO:0003094]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003095 [XAO:0003095]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003096 [XAO:0003096]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003097 [XAO:0003097]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003098 [XAO:0003098]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003099 [XAO:0003099]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003100 [XAO:0003100]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003101 [XAO:0003101]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003102 [XAO:0003102]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003103 [XAO:0003103]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003104 [XAO:0003104]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003105 [XAO:0003105]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003106 [XAO:0003106]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003107 [XAO:0003107]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003108 [XAO:0003108]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003109 [XAO:0003109]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003110 [XAO:0003110]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003111 [XAO:0003111]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003112 [XAO:0003112]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003113 [XAO:0003113]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003114 [XAO:0003114]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003115 [XAO:0003115]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003116 [XAO:0003116]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003117 [XAO:0003117]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003118 [XAO:0003118]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003119 [XAO:0003119]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003120 [XAO:0003120]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003121 [XAO:0003121]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003122 [XAO:0003122]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003123 [XAO:0003123]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003124 [XAO:0003124]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003125 [XAO:0003125]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003126 [XAO:0003126]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003127 [XAO:0003127]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003128 [XAO:0003128]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003129 [XAO:0003129]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003130 [XAO:0003130]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003131 [XAO:0003131]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003132 [XAO:0003132]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003133 [XAO:0003133]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003134 [XAO:0003134]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003135 [XAO:0003135]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003136 [XAO:0003136]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003137 [XAO:0003137]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003138 [XAO:0003138]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003139 [XAO:0003139]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003140 [XAO:0003140]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003141 [XAO:0003141]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003142 [XAO:0003142]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003143 [XAO:0003143]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003144 [XAO:0003144]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003145 [XAO:0003145]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003146 [XAO:0003146]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003147 [XAO:0003147]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003149 [XAO:0003149]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003150 [XAO:0003150]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003151 [XAO:0003151]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003152 [XAO:0003152]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003153 [XAO:0003153]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003154 [XAO:0003154]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003155 [XAO:0003155]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003156 [XAO:0003156]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003157 [XAO:0003157]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003158 [XAO:0003158]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003159 [XAO:0003159]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003160 [XAO:0003160]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003161 [XAO:0003161]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003162 [XAO:0003162]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003163 [XAO:0003163]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003164 [XAO:0003164]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003165 [XAO:0003165]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003166 [XAO:0003166]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003169 [XAO:0003169]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003170 [XAO:0003170]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003171 [XAO:0003171]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003172 [XAO:0003172]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003173 [XAO:0003173]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003174 [XAO:0003174]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003175 [XAO:0003175]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003176 [XAO:0003176]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003177 [XAO:0003177]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003178 [XAO:0003178]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003179 [XAO:0003179]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003180 [XAO:0003180]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003181 [XAO:0003181]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003182 [XAO:0003182]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003183 [XAO:0003183]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003184 [XAO:0003184]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003186 [XAO:0003186]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003190 [XAO:0003190]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003191 [XAO:0003191]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003192 [XAO:0003192]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003193 [XAO:0003193]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003194 [XAO:0003194]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003195 [XAO:0003195]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003196 [XAO:0003196]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003197 [XAO:0003197]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003198 [XAO:0003198]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003199 [XAO:0003199]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003200 [XAO:0003200]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003201 [XAO:0003201]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003202 [XAO:0003202]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003203 [XAO:0003203]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003204 [XAO:0003204]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003205 [XAO:0003205]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003206 [XAO:0003206]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003207 [XAO:0003207]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003208 [XAO:0003208]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003209 [XAO:0003209]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003210 [XAO:0003210]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003211 [XAO:0003211]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003212 [XAO:0003212]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003213 [XAO:0003213]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003214 [XAO:0003214]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003215 [XAO:0003215]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003216 [XAO:0003216]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003217 [XAO:0003217]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003218 [XAO:0003218]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003219 [XAO:0003219]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003220 [XAO:0003220]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003221 [XAO:0003221]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003222 [XAO:0003222]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003223 [XAO:0003223]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003224 [XAO:0003224]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003225 [XAO:0003225]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003226 [XAO:0003226]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003227 [XAO:0003227]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003228 [XAO:0003228]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003229 [XAO:0003229]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003230 [XAO:0003230]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003231 [XAO:0003231]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003232 [XAO:0003232]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003233 [XAO:0003233]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003234 [XAO:0003234]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003235 [XAO:0003235]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003236 [XAO:0003236]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003237 [XAO:0003237]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003238 [XAO:0003238]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003239 [XAO:0003239]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003240 [XAO:0003240]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003241 [XAO:0003241]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003242 [XAO:0003242]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003244 [XAO:0003244]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003245 [XAO:0003245]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003246 [XAO:0003246]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003247 [XAO:0003247]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003248 [XAO:0003248]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003249 [XAO:0003249]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003250 [XAO:0003250]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003251 [XAO:0003251]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003252 [XAO:0003252]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003253 [XAO:0003253]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003254 [XAO:0003254]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003255 [XAO:0003255]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003256 [XAO:0003256]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003257 [XAO:0003257]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003258 [XAO:0003258]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003259 [XAO:0003259]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003260 [XAO:0003260]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003261 [XAO:0003261]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003262 [XAO:0003262]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003263 [XAO:0003263]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003264 [XAO:0003264]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003265 [XAO:0003265]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003266 [XAO:0003266]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003267 [XAO:0003267]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003268 [XAO:0003268]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0003269 [XAO:0003269]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004000 [XAO:0004000]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004001 [XAO:0004001]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004002 [XAO:0004002]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004003 [XAO:0004003]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004004 [XAO:0004004]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004005 [XAO:0004005]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004006 [XAO:0004006]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004007 [XAO:0004007]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004008 [XAO:0004008]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004009 [XAO:0004009]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004010 [XAO:0004010]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004011 [XAO:0004011]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004012 [XAO:0004012]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004013 [XAO:0004013]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004014 [XAO:0004014]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004015 [XAO:0004015]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004016 [XAO:0004016]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004017 [XAO:0004017]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004018 [XAO:0004018]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004019 [XAO:0004019]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004020 [XAO:0004020]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004021 [XAO:0004021]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004022 [XAO:0004022]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004023 [XAO:0004023]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004024 [XAO:0004024]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004025 [XAO:0004025]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004026 [XAO:0004026]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004027 [XAO:0004027]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004028 [XAO:0004028]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004029 [XAO:0004029]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004030 [XAO:0004030]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004031 [XAO:0004031]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004032 [XAO:0004032]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004033 [XAO:0004033]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004034 [XAO:0004034]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004035 [XAO:0004035]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004036 [XAO:0004036]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004037 [XAO:0004037]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004038 [XAO:0004038]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004039 [XAO:0004039]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004040 [XAO:0004040]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004041 [XAO:0004041]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004042 [XAO:0004042]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004043 [XAO:0004043]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004044 [XAO:0004044]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004045 [XAO:0004045]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004046 [XAO:0004046]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004047 [XAO:0004047]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004048 [XAO:0004048]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004049 [XAO:0004049]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004050 [XAO:0004050]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004051 [XAO:0004051]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004052 [XAO:0004052]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004053 [XAO:0004053]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004054 [XAO:0004054]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004055 [XAO:0004055]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004056 [XAO:0004056]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004057 [XAO:0004057]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004058 [XAO:0004058]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004059 [XAO:0004059]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004060 [XAO:0004060]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004061 [XAO:0004061]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004062 [XAO:0004062]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004063 [XAO:0004063]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004064 [XAO:0004064]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004065 [XAO:0004065]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004066 [XAO:0004066]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004067 [XAO:0004067]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004068 [XAO:0004068]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004069 [XAO:0004069]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004070 [XAO:0004070]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004071 [XAO:0004071]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004072 [XAO:0004072]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004074 [XAO:0004074]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004075 [XAO:0004075]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004076 [XAO:0004076]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004077 [XAO:0004077]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004078 [XAO:0004078]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004079 [XAO:0004079]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004080 [XAO:0004080]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004081 [XAO:0004081]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004082 [XAO:0004082]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004083 [XAO:0004083]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004084 [XAO:0004084]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004085 [XAO:0004085]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004086 [XAO:0004086]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004087 [XAO:0004087]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004088 [XAO:0004088]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004089 [XAO:0004089]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004090 [XAO:0004090]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004091 [XAO:0004091]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004092 [XAO:0004092]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004093 [XAO:0004093]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004094 [XAO:0004094]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004095 [XAO:0004095]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004096 [XAO:0004096]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004097 [XAO:0004097]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004098 [XAO:0004098]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004099 [XAO:0004099]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004100 [XAO:0004100]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004101 [XAO:0004101]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004102 [XAO:0004102]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004103 [XAO:0004103]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004104 [XAO:0004104]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004105 [XAO:0004105]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004106 [XAO:0004106]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004107 [XAO:0004107]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004108 [XAO:0004108]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004109 [XAO:0004109]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004110 [XAO:0004110]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004111 [XAO:0004111]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004112 [XAO:0004112]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004113 [XAO:0004113]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004114 [XAO:0004114]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004115 [XAO:0004115]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004116 [XAO:0004116]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004117 [XAO:0004117]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004118 [XAO:0004118]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004119 [XAO:0004119]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004120 [XAO:0004120]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004121 [XAO:0004121]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004122 [XAO:0004122]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004123 [XAO:0004123]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004124 [XAO:0004124]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004125 [XAO:0004125]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004126 [XAO:0004126]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004127 [XAO:0004127]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004128 [XAO:0004128]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004129 [XAO:0004129]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004130 [XAO:0004130]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004131 [XAO:0004131]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004132 [XAO:0004132]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004133 [XAO:0004133]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004134 [XAO:0004134]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004135 [XAO:0004135]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004136 [XAO:0004136]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004137 [XAO:0004137]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004138 [XAO:0004138]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004139 [XAO:0004139]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004140 [XAO:0004140]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004141 [XAO:0004141]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004142 [XAO:0004142]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004143 [XAO:0004143]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004144 [XAO:0004144]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004145 [XAO:0004145]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004146 [XAO:0004146]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004147 [XAO:0004147]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004148 [XAO:0004148]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004149 [XAO:0004149]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004150 [XAO:0004150]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004151 [XAO:0004151]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004152 [XAO:0004152]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004153 [XAO:0004153]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004154 [XAO:0004154]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004155 [XAO:0004155]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004156 [XAO:0004156]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004157 [XAO:0004157]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004158 [XAO:0004158]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004159 [XAO:0004159]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004160 [XAO:0004160]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004161 [XAO:0004161]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004162 [XAO:0004162]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004163 [XAO:0004163]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004164 [XAO:0004164]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004165 [XAO:0004165]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004166 [XAO:0004166]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004167 [XAO:0004167]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004168 [XAO:0004168]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004169 [XAO:0004169]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004170 [XAO:0004170]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004171 [XAO:0004171]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004172 [XAO:0004172]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004173 [XAO:0004173]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004174 [XAO:0004174]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004175 [XAO:0004175]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004176 [XAO:0004176]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004177 [XAO:0004177]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004178 [XAO:0004178]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004179 [XAO:0004179]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004180 [XAO:0004180]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004181 [XAO:0004181]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004182 [XAO:0004182]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004183 [XAO:0004183]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004184 [XAO:0004184]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004185 [XAO:0004185]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004186 [XAO:0004186]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004187 [XAO:0004187]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004188 [XAO:0004188]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004189 [XAO:0004189]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004190 [XAO:0004190]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004191 [XAO:0004191]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004192 [XAO:0004192]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004193 [XAO:0004193]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004194 [XAO:0004194]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004195 [XAO:0004195]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004196 [XAO:0004196]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004197 [XAO:0004197]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004198 [XAO:0004198]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004199 [XAO:0004199]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004200 [XAO:0004200]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004201 [XAO:0004201]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004202 [XAO:0004202]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004203 [XAO:0004203]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004204 [XAO:0004204]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004205 [XAO:0004205]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004206 [XAO:0004206]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004207 [XAO:0004207]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004208 [XAO:0004208]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004209 [XAO:0004209]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004210 [XAO:0004210]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004211 [XAO:0004211]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004212 [XAO:0004212]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004213 [XAO:0004213]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004214 [XAO:0004214]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004215 [XAO:0004215]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004216 [XAO:0004216]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004217 [XAO:0004217]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004218 [XAO:0004218]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004219 [XAO:0004219]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004220 [XAO:0004220]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004221 [XAO:0004221]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004222 [XAO:0004222]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004223 [XAO:0004223]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004224 [XAO:0004224]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004225 [XAO:0004225]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004226 [XAO:0004226]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004227 [XAO:0004227]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004228 [XAO:0004228]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004229 [XAO:0004229]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004230 [XAO:0004230]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004231 [XAO:0004231]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004232 [XAO:0004232]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004233 [XAO:0004233]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004234 [XAO:0004234]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004235 [XAO:0004235]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004236 [XAO:0004236]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004237 [XAO:0004237]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004238 [XAO:0004238]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004239 [XAO:0004239]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004240 [XAO:0004240]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004241 [XAO:0004241]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004242 [XAO:0004242]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004243 [XAO:0004243]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004244 [XAO:0004244]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004245 [XAO:0004245]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004246 [XAO:0004246]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004247 [XAO:0004247]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004248 [XAO:0004248]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004249 [XAO:0004249]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004250 [XAO:0004250]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004251 [XAO:0004251]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004252 [XAO:0004252]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004253 [XAO:0004253]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004254 [XAO:0004254]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004255 [XAO:0004255]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004256 [XAO:0004256]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004257 [XAO:0004257]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004258 [XAO:0004258]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004259 [XAO:0004259]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004260 [XAO:0004260]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004261 [XAO:0004261]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004262 [XAO:0004262]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004263 [XAO:0004263]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004264 [XAO:0004264]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004265 [XAO:0004265]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004266 [XAO:0004266]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004267 [XAO:0004267]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004268 [XAO:0004268]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004269 [XAO:0004269]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004270 [XAO:0004270]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004271 [XAO:0004271]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004272 [XAO:0004272]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004274 [XAO:0004274]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004275 [XAO:0004275]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004276 [XAO:0004276]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004277 [XAO:0004277]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004278 [XAO:0004278]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004279 [XAO:0004279]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004280 [XAO:0004280]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004281 [XAO:0004281]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004282 [XAO:0004282]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004283 [XAO:0004283]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004284 [XAO:0004284]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004285 [XAO:0004285]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004286 [XAO:0004286]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004287 [XAO:0004287]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004288 [XAO:0004288]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004289 [XAO:0004289]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004290 [XAO:0004290]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004291 [XAO:0004291]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004292 [XAO:0004292]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004293 [XAO:0004293]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004294 [XAO:0004294]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004295 [XAO:0004295]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004296 [XAO:0004296]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004297 [XAO:0004297]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004298 [XAO:0004298]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004299 [XAO:0004299]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004300 [XAO:0004300]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004301 [XAO:0004301]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004302 [XAO:0004302]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004303 [XAO:0004303]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004304 [XAO:0004304]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004305 [XAO:0004305]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004306 [XAO:0004306]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004307 [XAO:0004307]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004308 [XAO:0004308]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004309 [XAO:0004309]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004310 [XAO:0004310]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004311 [XAO:0004311]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004312 [XAO:0004312]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004313 [XAO:0004313]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004314 [XAO:0004314]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004315 [XAO:0004315]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004316 [XAO:0004316]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004317 [XAO:0004317]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004318 [XAO:0004318]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004319 [XAO:0004319]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004320 [XAO:0004320]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004321 [XAO:0004321]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004322 [XAO:0004322]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004323 [XAO:0004323]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004324 [XAO:0004324]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004325 [XAO:0004325]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004326 [XAO:0004326]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004327 [XAO:0004327]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004328 [XAO:0004328]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004329 [XAO:0004329]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004330 [XAO:0004330]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004331 [XAO:0004331]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004332 [XAO:0004332]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004333 [XAO:0004333]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004334 [XAO:0004334]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004335 [XAO:0004335]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004336 [XAO:0004336]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004337 [XAO:0004337]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004338 [XAO:0004338]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004339 [XAO:0004339]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004340 [XAO:0004340]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004341 [XAO:0004341]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004342 [XAO:0004342]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004343 [XAO:0004343]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004344 [XAO:0004344]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004345 [XAO:0004345]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004346 [XAO:0004346]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004349 [XAO:0004349]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004350 [XAO:0004350]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004351 [XAO:0004351]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004352 [XAO:0004352]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004353 [XAO:0004353]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004354 [XAO:0004354]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004355 [XAO:0004355]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004356 [XAO:0004356]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004357 [XAO:0004357]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004358 [XAO:0004358]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004359 [XAO:0004359]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004360 [XAO:0004360]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004361 [XAO:0004361]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004362 [XAO:0004362]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004363 [XAO:0004363]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004364 [XAO:0004364]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004365 [XAO:0004365]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004366 [XAO:0004366]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004367 [XAO:0004367]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004368 [XAO:0004368]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004369 [XAO:0004369]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004370 [XAO:0004370]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004371 [XAO:0004371]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004372 [XAO:0004372]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004373 [XAO:0004373]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004374 [XAO:0004374]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004375 [XAO:0004375]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004376 [XAO:0004376]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004377 [XAO:0004377]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004378 [XAO:0004378]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004379 [XAO:0004379]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004380 [XAO:0004380]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004381 [XAO:0004381]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004384 [XAO:0004384]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004385 [XAO:0004385]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004387 [XAO:0004387]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004388 [XAO:0004388]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004389 [XAO:0004389]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004390 [XAO:0004390]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004391 [XAO:0004391]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004392 [XAO:0004392]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004393 [XAO:0004393]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004394 [XAO:0004394]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004395 [XAO:0004395]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004396 [XAO:0004396]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004397 [XAO:0004397]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004398 [XAO:0004398]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004399 [XAO:0004399]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004400 [XAO:0004400]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004401 [XAO:0004401]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004402 [XAO:0004402]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004403 [XAO:0004403]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004404 [XAO:0004404]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004405 [XAO:0004405]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004406 [XAO:0004406]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004407 [XAO:0004407]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004408 [XAO:0004408]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004409 [XAO:0004409]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004410 [XAO:0004410]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004411 [XAO:0004411]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004412 [XAO:0004412]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004413 [XAO:0004413]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004414 [XAO:0004414]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004415 [XAO:0004415]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004416 [XAO:0004416]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004417 [XAO:0004417]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004418 [XAO:0004418]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004419 [XAO:0004419]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004420 [XAO:0004420]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004421 [XAO:0004421]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004422 [XAO:0004422]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004423 [XAO:0004423]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004424 [XAO:0004424]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004425 [XAO:0004425]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004426 [XAO:0004426]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004427 [XAO:0004427]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004428 [XAO:0004428]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004429 [XAO:0004429]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004430 [XAO:0004430]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004431 [XAO:0004431]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004432 [XAO:0004432]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004433 [XAO:0004433]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004434 [XAO:0004434]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004435 [XAO:0004435]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004436 [XAO:0004436]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004437 [XAO:0004437]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004438 [XAO:0004438]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004439 [XAO:0004439]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004440 [XAO:0004440]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004441 [XAO:0004441]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004442 [XAO:0004442]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004443 [XAO:0004443]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004444 [XAO:0004444]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004445 [XAO:0004445]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004446 [XAO:0004446]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004447 [XAO:0004447]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004448 [XAO:0004448]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004449 [XAO:0004449]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004450 [XAO:0004450]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004451 [XAO:0004451]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004452 [XAO:0004452]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004453 [XAO:0004453]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004454 [XAO:0004454]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004455 [XAO:0004455]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004456 [XAO:0004456]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004457 [XAO:0004457]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004458 [XAO:0004458]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004459 [XAO:0004459]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004460 [XAO:0004460]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004461 [XAO:0004461]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004462 [XAO:0004462]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004463 [XAO:0004463]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004464 [XAO:0004464]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004465 [XAO:0004465]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004466 [XAO:0004466]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004467 [XAO:0004467]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004468 [XAO:0004468]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004469 [XAO:0004469]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004470 [XAO:0004470]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004471 [XAO:0004471]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004472 [XAO:0004472]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004473 [XAO:0004473]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004474 [XAO:0004474]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004475 [XAO:0004475]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004476 [XAO:0004476]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004477 [XAO:0004477]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004478 [XAO:0004478]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004479 [XAO:0004479]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004480 [XAO:0004480]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004481 [XAO:0004481]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004482 [XAO:0004482]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004483 [XAO:0004483]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004484 [XAO:0004484]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004485 [XAO:0004485]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004486 [XAO:0004486]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004487 [XAO:0004487]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004488 [XAO:0004488]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004489 [XAO:0004489]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004490 [XAO:0004490]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004491 [XAO:0004491]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004492 [XAO:0004492]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004493 [XAO:0004493]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004494 [XAO:0004494]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004495 [XAO:0004495]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004496 [XAO:0004496]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004497 [XAO:0004497]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004498 [XAO:0004498]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004499 [XAO:0004499]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004500 [XAO:0004500]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004501 [XAO:0004501]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004502 [XAO:0004502]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004503 [XAO:0004503]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004504 [XAO:0004504]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004505 [XAO:0004505]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004506 [XAO:0004506]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004507 [XAO:0004507]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004508 [XAO:0004508]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004509 [XAO:0004509]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004510 [XAO:0004510]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004511 [XAO:0004511]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004512 [XAO:0004512]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004513 [XAO:0004513]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004514 [XAO:0004514]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004515 [XAO:0004515]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004516 [XAO:0004516]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004517 [XAO:0004517]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004518 [XAO:0004518]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004519 [XAO:0004519]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004520 [XAO:0004520]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004521 [XAO:0004521]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004522 [XAO:0004522]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004523 [XAO:0004523]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004524 [XAO:0004524]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004525 [XAO:0004525]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004526 [XAO:0004526]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004527 [XAO:0004527]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004528 [XAO:0004528]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004529 [XAO:0004529]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004530 [XAO:0004530]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004531 [XAO:0004531]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004532 [XAO:0004532]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004533 [XAO:0004533]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004534 [XAO:0004534]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004535 [XAO:0004535]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004536 [XAO:0004536]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004537 [XAO:0004537]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004538 [XAO:0004538]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004539 [XAO:0004539]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004540 [XAO:0004540]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004541 [XAO:0004541]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004542 [XAO:0004542]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004543 [XAO:0004543]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004544 [XAO:0004544]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004545 [XAO:0004545]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004546 [XAO:0004546]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004547 [XAO:0004547]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004548 [XAO:0004548]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004549 [XAO:0004549]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004551 [XAO:0004551]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004552 [XAO:0004552]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004553 [XAO:0004553]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004554 [XAO:0004554]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004555 [XAO:0004555]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004556 [XAO:0004556]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004557 [XAO:0004557]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004558 [XAO:0004558]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004559 [XAO:0004559]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004560 [XAO:0004560]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004562 [XAO:0004562]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004563 [XAO:0004563]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004564 [XAO:0004564]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004565 [XAO:0004565]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004566 [XAO:0004566]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004567 [XAO:0004567]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004568 [XAO:0004568]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004570 [XAO:0004570]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004571 [XAO:0004571]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004573 [XAO:0004573]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004574 [XAO:0004574]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004575 [XAO:0004575]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004576 [XAO:0004576]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004578 [XAO:0004578]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004579 [XAO:0004579]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004580 [XAO:0004580]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004581 [XAO:0004581]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004582 [XAO:0004582]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004583 [XAO:0004583]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004584 [XAO:0004584]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004585 [XAO:0004585]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004586 [XAO:0004586]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004587 [XAO:0004587]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004588 [XAO:0004588]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004589 [XAO:0004589]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004590 [XAO:0004590]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004591 [XAO:0004591]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004592 [XAO:0004592]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004593 [XAO:0004593]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004594 [XAO:0004594]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004595 [XAO:0004595]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004596 [XAO:0004596]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004597 [XAO:0004597]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004598 [XAO:0004598]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004599 [XAO:0004599]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004600 [XAO:0004600]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004601 [XAO:0004601]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004602 [XAO:0004602]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004605 [XAO:0004605]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004606 [XAO:0004606]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004607 [XAO:0004607]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004608 [XAO:0004608]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004609 [XAO:0004609]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004610 [XAO:0004610]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004611 [XAO:0004611]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004612 [XAO:0004612]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004613 [XAO:0004613]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004614 [XAO:0004614]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004615 [XAO:0004615]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004616 [XAO:0004616]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004617 [XAO:0004617]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004618 [XAO:0004618]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004619 [XAO:0004619]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004620 [XAO:0004620]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004621 [XAO:0004621]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004622 [XAO:0004622]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004623 [XAO:0004623]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004624 [XAO:0004624]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004625 [XAO:0004625]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004626 [XAO:0004626]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004627 [XAO:0004627]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0004628 [XAO:0004628]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005000 [XAO:0005000]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005001 [XAO:0005001]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005002 [XAO:0005002]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005003 [XAO:0005003]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005004 [XAO:0005004]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005005 [XAO:0005005]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005006 [XAO:0005006]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005007 [XAO:0005007]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005008 [XAO:0005008]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005009 [XAO:0005009]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005010 [XAO:0005010]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005011 [XAO:0005011]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005012 [XAO:0005012]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005013 [XAO:0005013]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005014 [XAO:0005014]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005015 [XAO:0005015]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005016 [XAO:0005016]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005017 [XAO:0005017]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005018 [XAO:0005018]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005019 [XAO:0005019]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005020 [XAO:0005020]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005021 [XAO:0005021]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005022 [XAO:0005022]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005023 [XAO:0005023]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005024 [XAO:0005024]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005025 [XAO:0005025]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005026 [XAO:0005026]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005027 [XAO:0005027]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005028 [XAO:0005028]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005029 [XAO:0005029]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005030 [XAO:0005030]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005031 [XAO:0005031]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005032 [XAO:0005032]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005033 [XAO:0005033]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005034 [XAO:0005034]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005035 [XAO:0005035]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005036 [XAO:0005036]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005037 [XAO:0005037]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005038 [XAO:0005038]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005039 [XAO:0005039]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005040 [XAO:0005040]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005041 [XAO:0005041]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005042 [XAO:0005042]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005043 [XAO:0005043]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005044 [XAO:0005044]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005045 [XAO:0005045]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005046 [XAO:0005046]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005047 [XAO:0005047]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005048 [XAO:0005048]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005049 [XAO:0005049]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005050 [XAO:0005050]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005051 [XAO:0005051]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005052 [XAO:0005052]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005053 [XAO:0005053]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005054 [XAO:0005054]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005055 [XAO:0005055]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005056 [XAO:0005056]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005057 [XAO:0005057]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005058 [XAO:0005058]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005059 [XAO:0005059]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005060 [XAO:0005060]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005061 [XAO:0005061]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005062 [XAO:0005062]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005063 [XAO:0005063]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005064 [XAO:0005064]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005065 [XAO:0005065]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005066 [XAO:0005066]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005067 [XAO:0005067]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005068 [XAO:0005068]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005069 [XAO:0005069]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005070 [XAO:0005070]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005071 [XAO:0005071]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005072 [XAO:0005072]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005073 [XAO:0005073]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005074 [XAO:0005074]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005075 [XAO:0005075]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005076 [XAO:0005076]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005077 [XAO:0005077]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005078 [XAO:0005078]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005079 [XAO:0005079]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005080 [XAO:0005080]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005081 [XAO:0005081]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005082 [XAO:0005082]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005083 [XAO:0005083]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005084 [XAO:0005084]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005085 [XAO:0005085]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005086 [XAO:0005086]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005087 [XAO:0005087]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005088 [XAO:0005088]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005089 [XAO:0005089]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005090 [XAO:0005090]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005091 [XAO:0005091]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005092 [XAO:0005092]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005093 [XAO:0005093]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005094 [XAO:0005094]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005095 [XAO:0005095]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005096 [XAO:0005096]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005097 [XAO:0005097]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005098 [XAO:0005098]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005099 [XAO:0005099]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005100 [XAO:0005100]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005101 [XAO:0005101]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005102 [XAO:0005102]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005103 [XAO:0005103]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005104 [XAO:0005104]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005105 [XAO:0005105]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005106 [XAO:0005106]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005107 [XAO:0005107]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005108 [XAO:0005108]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005109 [XAO:0005109]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005110 [XAO:0005110]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005111 [XAO:0005111]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005112 [XAO:0005112]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005113 [XAO:0005113]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005114 [XAO:0005114]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005115 [XAO:0005115]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005116 [XAO:0005116]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005117 [XAO:0005117]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005118 [XAO:0005118]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005119 [XAO:0005119]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005120 [XAO:0005120]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005121 [XAO:0005121]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005122 [XAO:0005122]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005123 [XAO:0005123]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005124 [XAO:0005124]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005125 [XAO:0005125]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005126 [XAO:0005126]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005127 [XAO:0005127]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005128 [XAO:0005128]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005129 [XAO:0005129]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005130 [XAO:0005130]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005131 [XAO:0005131]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005132 [XAO:0005132]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005133 [XAO:0005133]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005134 [XAO:0005134]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005135 [XAO:0005135]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005136 [XAO:0005136]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005137 [XAO:0005137]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005138 [XAO:0005138]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005139 [XAO:0005139]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005140 [XAO:0005140]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005141 [XAO:0005141]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005142 [XAO:0005142]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005143 [XAO:0005143]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005144 [XAO:0005144]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005145 [XAO:0005145]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005146 [XAO:0005146]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005147 [XAO:0005147]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005148 [XAO:0005148]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005149 [XAO:0005149]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005150 [XAO:0005150]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005151 [XAO:0005151]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005152 [XAO:0005152]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005153 [XAO:0005153]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005154 [XAO:0005154]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005155 [XAO:0005155]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005156 [XAO:0005156]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005157 [XAO:0005157]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005158 [XAO:0005158]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005159 [XAO:0005159]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005160 [XAO:0005160]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005161 [XAO:0005161]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005162 [XAO:0005162]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005163 [XAO:0005163]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005164 [XAO:0005164]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005165 [XAO:0005165]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005166 [XAO:0005166]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005167 [XAO:0005167]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005168 [XAO:0005168]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005169 [XAO:0005169]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005170 [XAO:0005170]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005171 [XAO:0005171]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005172 [XAO:0005172]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005173 [XAO:0005173]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005174 [XAO:0005174]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005175 [XAO:0005175]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005176 [XAO:0005176]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005177 [XAO:0005177]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005178 [XAO:0005178]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005179 [XAO:0005179]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005180 [XAO:0005180]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005181 [XAO:0005181]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005182 [XAO:0005182]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005183 [XAO:0005183]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005184 [XAO:0005184]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005185 [XAO:0005185]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005186 [XAO:0005186]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005187 [XAO:0005187]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005188 [XAO:0005188]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005189 [XAO:0005189]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005190 [XAO:0005190]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005191 [XAO:0005191]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005192 [XAO:0005192]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005193 [XAO:0005193]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005194 [XAO:0005194]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005195 [XAO:0005195]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005196 [XAO:0005196]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005197 [XAO:0005197]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005198 [XAO:0005198]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005199 [XAO:0005199]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005200 [XAO:0005200]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005201 [XAO:0005201]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005202 [XAO:0005202]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005203 [XAO:0005203]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005204 [XAO:0005204]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005205 [XAO:0005205]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005206 [XAO:0005206]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005207 [XAO:0005207]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005208 [XAO:0005208]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005209 [XAO:0005209]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005210 [XAO:0005210]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005211 [XAO:0005211]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005212 [XAO:0005212]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005213 [XAO:0005213]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005214 [XAO:0005214]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005215 [XAO:0005215]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005216 [XAO:0005216]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005217 [XAO:0005217]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005218 [XAO:0005218]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005219 [XAO:0005219]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005220 [XAO:0005220]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005221 [XAO:0005221]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005222 [XAO:0005222]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005223 [XAO:0005223]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005224 [XAO:0005224]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005225 [XAO:0005225]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005226 [XAO:0005226]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005227 [XAO:0005227]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005228 [XAO:0005228]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005229 [XAO:0005229]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005230 [XAO:0005230]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005231 [XAO:0005231]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005232 [XAO:0005232]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005233 [XAO:0005233]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005234 [XAO:0005234]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005235 [XAO:0005235]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005236 [XAO:0005236]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005238 [XAO:0005238]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005239 [XAO:0005239]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005240 [XAO:0005240]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005241 [XAO:0005241]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005242 [XAO:0005242]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005243 [XAO:0005243]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005244 [XAO:0005244]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005245 [XAO:0005245]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005246 [XAO:0005246]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005247 [XAO:0005247]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005248 [XAO:0005248]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005249 [XAO:0005249]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005250 [XAO:0005250]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005251 [XAO:0005251]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005252 [XAO:0005252]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005253 [XAO:0005253]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005254 [XAO:0005254]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005255 [XAO:0005255]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005256 [XAO:0005256]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005257 [XAO:0005257]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005258 [XAO:0005258]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005259 [XAO:0005259]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005260 [XAO:0005260]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005261 [XAO:0005261]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005262 [XAO:0005262]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005263 [XAO:0005263]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005264 [XAO:0005264]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005265 [XAO:0005265]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005266 [XAO:0005266]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005267 [XAO:0005267]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005268 [XAO:0005268]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005269 [XAO:0005269]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005270 [XAO:0005270]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005271 [XAO:0005271]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005272 [XAO:0005272]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005273 [XAO:0005273]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005274 [XAO:0005274]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005275 [XAO:0005275]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005276 [XAO:0005276]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005277 [XAO:0005277]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005278 [XAO:0005278]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005279 [XAO:0005279]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005280 [XAO:0005280]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005281 [XAO:0005281]	rdfs:subClassOf		
+INFO	missing_superclass	XAO_0005282 [XAO:0005282]	rdfs:subClassOf		

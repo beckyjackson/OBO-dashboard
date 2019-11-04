@@ -1,0 +1,273 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	CARO_0000000 [CARO:0000000]	label [rdfs:label]		
+ERROR	missing_ontology_description	ido.owl	dc11:description		
+ERROR	duplicate_label	_obsolete_invasin [IDO:0000042]	label [rdfs:label]	_obsolete_invasin@en	
+ERROR	duplicate_label	_obsolete_invasin [IDO:0000574]	label [rdfs:label]	_obsolete_invasin@en	
+ERROR	missing_ontology_license	ido.owl	dc:license		
+ERROR	missing_ontology_title	ido.owl	dc11:title		
+WARN	annotation_whitespace	symbiont host role [IDO:0000408]	IAO_0000115 [IAO:0000115]	A host role borne by an organism in virtue of the fact that its extended organism contains a second organism and provides an environment supportive for the survival, growth, maturation, or reproduction of that organism.  @en	
+WARN	annotation_whitespace	definitive host role [IDO:0000409]	IAO_0000115 [IAO:0000115]	A symbiont host role borne by an organism in virtue of the fact that its partner in symbiosis reaches developmental maturity or reproduces sexually in the host.  @en	
+WARN	annotation_whitespace	paratenic host role [IDO:0000411]	IAO_0000115 [IAO:0000115]	A symbiont host role borne by an organism in virtue of the fact that its partner in symbiosis utilizes the host to undergo a developmental stage transition, but the host is not required for continuation of the partner's life cycle. @en	
+WARN	annotation_whitespace	infectious agent transporter role [IDO:0000417]	IAO_0000115 [IAO:0000115]	A role borne by a material entity in virtue of the fact that an infectious agent is located in or on the entity and the entity has the capability to transfer (either actively or passively) the infectious agent from one location to another. @en	
+WARN	annotation_whitespace	disinfectant role [IDO:0000432]	IAO_0000115 [IAO:0000115]	A role borne by a material entity in virtue of the fact that it has an antimicrobial disposition and is applied to a non-living entity.  @en	
+WARN	annotation_whitespace	antiseptic role [IDO:0000433]	IAO_0000115 [IAO:0000115]	A role borne by a material entity in virtue of the fact that it has an antimicrobial disposition and is applied to an anatomical entity of a living organism.  @en	
+WARN	annotation_whitespace	collective disposition [IDO:0000455]	IAO_0000115 [IAO:0000115]	A disposition that inheres in a collection of entities in virtue of the individual dispositions of the constituents of that collection. @en	
+WARN	annotation_whitespace	virulence [IDO:0000466]	IAO_0000115 [IAO:0000115]	A quality that inheres in an infectious agent and is the degree to which realizations of the infectious disease caused by the infectious agent become severe or fatal. @en	
+WARN	annotation_whitespace	infectious disease incidence proportion [IDO:0000481]	IAO_0000115 [IAO:0000115]	A quality that inheres in an organism population and is the proportion of members of the population not experiencing an infectious disease course at the beginning of a specified period of time and in whom the infectious disease begins during the specified period of time. @en	
+WARN	annotation_whitespace	infection incidence proportion [IDO:0000482]	IAO_0000115 [IAO:0000115]	A quality that inheres in an organism population and is the proportion of members of the population not infected at the beginning of a specified period of time who become infected during the specified period of time. @en	
+WARN	annotation_whitespace	infectious disease endemic level [IDO:0000491]	IAO_0000115 [IAO:0000115]	An infectious disease prevalence that is typical for an infectious disease in an organism population. @en	
+WARN	annotation_whitespace	infectious disease endemic rate [IDO:0000492]	IAO_0000115 [IAO:0000115]	An infectious disease incidence rate that is typical for an infectious disease in an organism population. @en	
+WARN	annotation_whitespace	infectious disease hyper-endemicity [IDO:0000493]	IAO_0000115 [IAO:0000115]	An infectious disease endemicity that inheres in an organism population in virtue of the fact that the infectious disease endemic level for an infectious disease is persistently high in the population.  @en	
+WARN	annotation_whitespace	infectious disease epidemic [IDO:0000502]	IAO_0000116 [IAO:0000116]	For a particular instance of infectious disease epidemic, signficance is determined based on the infectious disease incidence that is typical for an infectious disease for the particular population and time period.  @en	
+WARN	missing_definition	CARO_0000000 [CARO:0000000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	results_in [IDO:0000660]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_material_basis_in [IDO:0000664]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	_obsolete_process [IDO:0000000]	label [rdfs:label]	_obsolete_process@en	
+WARN	missing_obsolete_label	_obsolete_role [IDO:0000001]	label [rdfs:label]	_obsolete_role@en	
+WARN	missing_obsolete_label	_obsolete_quality [IDO:0000002]	label [rdfs:label]	_obsolete_quality@en	
+WARN	missing_obsolete_label	_obsolete_object [IDO:0000003]	label [rdfs:label]	_obsolete_object@en	
+WARN	missing_obsolete_label	_obsolete_virulence [IDO:0000004]	label [rdfs:label]	_obsolete_virulence@en	
+WARN	missing_obsolete_label	_obsolete_swollen [IDO:0000005]	label [rdfs:label]	_obsolete_swollen@en	
+WARN	missing_obsolete_label	_obsolete_toxicity [IDO:0000006]	label [rdfs:label]	_obsolete_toxicity@en	
+WARN	missing_obsolete_label	_obsolete_active [IDO:0000007]	label [rdfs:label]	_obsolete_active@en	
+WARN	missing_obsolete_label	_obsolete_contagious [IDO:0000008]	label [rdfs:label]	_obsolete_contagious@en	
+WARN	missing_obsolete_label	_obsolete_latency [IDO:0000009]	label [rdfs:label]	_obsolete_latency@en	
+WARN	missing_obsolete_label	_obsolete_immunosuppressed [IDO:0000010]	label [rdfs:label]	_obsolete_immunosuppressed@en	
+WARN	missing_obsolete_label	_obsolete_exogenous [IDO:0000011]	label [rdfs:label]	_obsolete_exogenous@en	
+WARN	missing_obsolete_label	_obsolete_immunity [IDO:0000012]	label [rdfs:label]	_obsolete_immunity@en	
+WARN	missing_obsolete_label	_obsolete_protective [IDO:0000013]	label [rdfs:label]	_obsolete_protective@en	
+WARN	missing_obsolete_label	_obsolete_temperature [IDO:0000015]	label [rdfs:label]	_obsolete_temperature@en	
+WARN	missing_obsolete_label	_obsolete_inactivated [IDO:0000016]	label [rdfs:label]	_obsolete_inactivated@en	
+WARN	missing_obsolete_label	_obsolete_mortality [IDO:0000017]	label [rdfs:label]	_obsolete_mortality@en	
+WARN	missing_obsolete_label	_obsolete_pandemic [IDO:0000018]	label [rdfs:label]	_obsolete_pandemic@en	
+WARN	missing_obsolete_label	_obsolete_prevalence [IDO:0000019]	label [rdfs:label]	_obsolete_prevalence@en	
+WARN	missing_obsolete_label	_obsolete_epidemic [IDO:0000020]	label [rdfs:label]	_obsolete_epidemic@en	
+WARN	missing_obsolete_label	_obsolete_infected [IDO:0000021]	label [rdfs:label]	_obsolete_infected@en	
+WARN	missing_obsolete_label	_obsolete_live [IDO:0000022]	label [rdfs:label]	_obsolete_live@en	
+WARN	missing_obsolete_label	_obsolete_zoonotic [IDO:0000023]	label [rdfs:label]	_obsolete_zoonotic@en	
+WARN	missing_obsolete_label	_obsolete_immunocompromised [IDO:0000024]	label [rdfs:label]	_obsolete_immunocompromised@en	
+WARN	missing_obsolete_label	_obsolete_pathogenicity [IDO:0000025]	label [rdfs:label]	_obsolete_pathogenicity@en	
+WARN	missing_obsolete_label	_obsolete_tropism [IDO:0000026]	label [rdfs:label]	_obsolete_tropism@en	
+WARN	missing_obsolete_label	_obsolete_drug resistance [IDO:0000027]	label [rdfs:label]	_obsolete_drug resistance@en	
+WARN	missing_obsolete_label	_obsolete_antibiotic resistance [IDO:0000028]	label [rdfs:label]	_obsolete_antibiotic resistance@en	
+WARN	missing_obsolete_label	_obsolete_incidence [IDO:0000029]	label [rdfs:label]	_obsolete_incidence@en	
+WARN	missing_obsolete_label	_obsolete_invasive [IDO:0000030]	label [rdfs:label]	_obsolete_invasive@en	
+WARN	missing_obsolete_label	_obsolete_endogenous [IDO:0000031]	label [rdfs:label]	_obsolete_endogenous@en	
+WARN	missing_obsolete_label	_obsolete_attenuated [IDO:0000032]	label [rdfs:label]	_obsolete_attenuated@en	
+WARN	missing_obsolete_label	_obsolete_morbidity [IDO:0000033]	label [rdfs:label]	_obsolete_morbidity@en	
+WARN	missing_obsolete_label	_obsolete_endemic [IDO:0000034]	label [rdfs:label]	_obsolete_endemic@en	
+WARN	missing_obsolete_label	_obsolete_fusion protein [IDO:0000035]	label [rdfs:label]	_obsolete_fusion protein@en	
+WARN	missing_obsolete_label	_obsolete_colonizer [IDO:0000036]	label [rdfs:label]	_obsolete_colonizer@en	
+WARN	missing_obsolete_label	_obsolete_commensal [IDO:0000037]	label [rdfs:label]	_obsolete_commensal@en	
+WARN	missing_obsolete_label	_obsolete_parasite [IDO:0000038]	label [rdfs:label]	_obsolete_parasite@en	
+WARN	missing_obsolete_label	_obsolete_symbiant [IDO:0000039]	label [rdfs:label]	_obsolete_symbiant@en	
+WARN	missing_obsolete_label	_obsolete_virulence factor [IDO:0000040]	label [rdfs:label]	_obsolete_virulence factor@en	
+WARN	missing_obsolete_label	_obsolete_route of entry [IDO:0000041]	label [rdfs:label]	_obsolete_route of entry@en	
+WARN	missing_obsolete_label	_obsolete_invasin [IDO:0000042]	label [rdfs:label]	_obsolete_invasin@en	
+WARN	missing_obsolete_label	_obsolete_toxin [IDO:0000043]	label [rdfs:label]	_obsolete_toxin@en	
+WARN	missing_obsolete_label	_obsolete_endotoxin [IDO:0000044]	label [rdfs:label]	_obsolete_endotoxin@en	
+WARN	missing_obsolete_label	_obsolete_exotoxin [IDO:0000045]	label [rdfs:label]	_obsolete_exotoxin@en	
+WARN	missing_obsolete_label	_obsolete_sign [IDO:0000046]	label [rdfs:label]	_obsolete_sign@en	
+WARN	missing_obsolete_label	_obsolete_treatment [IDO:0000047]	label [rdfs:label]	_obsolete_treatment@en	
+WARN	missing_obsolete_label	_obsolete_symptom [IDO:0000048]	label [rdfs:label]	_obsolete_symptom@en	
+WARN	missing_obsolete_label	_obsolete_antimicrobial [IDO:0000049]	label [rdfs:label]	_obsolete_antimicrobial@en	
+WARN	missing_obsolete_label	_obsolete_medicine [IDO:0000050]	label [rdfs:label]	_obsolete_medicine@en	
+WARN	missing_obsolete_label	_obsolete_therapeutic [IDO:0000051]	label [rdfs:label]	_obsolete_therapeutic@en	
+WARN	missing_obsolete_label	_obsolete_vaccine [IDO:0000052]	label [rdfs:label]	_obsolete_vaccine@en	
+WARN	missing_obsolete_label	_obsolete_antibiotic [IDO:0000053]	label [rdfs:label]	_obsolete_antibiotic@en	
+WARN	missing_obsolete_label	_obsolete_colonization factor [IDO:0000054]	label [rdfs:label]	_obsolete_colonization factor@en	
+WARN	missing_obsolete_label	_obsolete_adhesion factor [IDO:0000055]	label [rdfs:label]	_obsolete_adhesion factor@en	
+WARN	missing_obsolete_label	_obsolete_host [IDO:0000056]	label [rdfs:label]	_obsolete_host@en	
+WARN	missing_obsolete_label	_obsolete_carrier [IDO:0000057]	label [rdfs:label]	_obsolete_carrier@en	
+WARN	missing_obsolete_label	_obsolete_chronic carrier [IDO:0000058]	label [rdfs:label]	_obsolete_chronic carrier@en	
+WARN	missing_obsolete_label	_obsolete_reservoir [IDO:0000059]	label [rdfs:label]	_obsolete_reservoir@en	
+WARN	missing_obsolete_label	_obsolete_fomite [IDO:0000060]	label [rdfs:label]	_obsolete_fomite@en	
+WARN	missing_obsolete_label	_obsolete_mobile genetic element [IDO:0000061]	label [rdfs:label]	_obsolete_mobile genetic element@en	
+WARN	missing_obsolete_label	_obsolete_pathogenicity island [IDO:0000062]	label [rdfs:label]	_obsolete_pathogenicity island@en	
+WARN	missing_obsolete_label	_obsolete_vector [IDO:0000063]	label [rdfs:label]	_obsolete_vector@en	
+WARN	missing_obsolete_label	_obsolete_pathogen [IDO:0000064]	label [rdfs:label]	_obsolete_pathogen@en	
+WARN	missing_obsolete_label	_obsolete_dependovirus [IDO:0000065]	label [rdfs:label]	_obsolete_dependovirus@en	
+WARN	missing_obsolete_label	_obsolete_infectious agent [IDO:0000066]	label [rdfs:label]	_obsolete_infectious agent@en	
+WARN	missing_obsolete_label	_obsolete_opportunistic pathogen [IDO:0000067]	label [rdfs:label]	_obsolete_opportunistic pathogen@en	
+WARN	missing_obsolete_label	_obsolete_emerging pathogen [IDO:0000068]	label [rdfs:label]	_obsolete_emerging pathogen@en	
+WARN	missing_obsolete_label	_obsolete_primary pathogen [IDO:0000069]	label [rdfs:label]	_obsolete_primary pathogen@en	
+WARN	missing_obsolete_label	_obsolete_prion [IDO:0000070]	label [rdfs:label]	_obsolete_prion@en	
+WARN	missing_obsolete_label	_obsolete_initiation of infection [IDO:0000071]	label [rdfs:label]	_obsolete_initiation of infection@en	
+WARN	missing_obsolete_label	_obsolete_disruption of body surface [IDO:0000072]	label [rdfs:label]	_obsolete_disruption of body surface@en	
+WARN	missing_obsolete_label	_obsolete_disruption of normal microbioflora [IDO:0000073]	label [rdfs:label]	_obsolete_disruption of normal microbioflora@en	
+WARN	missing_obsolete_label	_obsolete_pathogen adherence to host cell [IDO:0000074]	label [rdfs:label]	_obsolete_pathogen adherence to host cell@en	
+WARN	missing_obsolete_label	_obsolete_nonspecific adherence [IDO:0000075]	label [rdfs:label]	_obsolete_nonspecific adherence@en	
+WARN	missing_obsolete_label	_obsolete_specific adherence [IDO:0000076]	label [rdfs:label]	_obsolete_specific adherence@en	
+WARN	missing_obsolete_label	_obsolete_afimbrial specific adherence [IDO:0000077]	label [rdfs:label]	_obsolete_afimbrial specific adherence@en	
+WARN	missing_obsolete_label	_obsolete_fimbrial specific adherence [IDO:0000078]	label [rdfs:label]	_obsolete_fimbrial specific adherence@en	
+WARN	missing_obsolete_label	_obsolete_penetration of epithelial barrier [IDO:0000079]	label [rdfs:label]	_obsolete_penetration of epithelial barrier@en	
+WARN	missing_obsolete_label	_obsolete_penetration via injury of epithelial barrier [IDO:0000080]	label [rdfs:label]	_obsolete_penetration via injury of epithelial barrier@en	
+WARN	missing_obsolete_label	_obsolete_transcytosis [IDO:0000081]	label [rdfs:label]	_obsolete_transcytosis@en	
+WARN	missing_obsolete_label	_obsolete_utilization of membranous cell gateway [IDO:0000082]	label [rdfs:label]	_obsolete_utilization of membranous cell gateway@en	
+WARN	missing_obsolete_label	_obsolete_transmission [IDO:0000083]	label [rdfs:label]	_obsolete_transmission@en	
+WARN	missing_obsolete_label	_obsolete_pathogenesis [IDO:0000084]	label [rdfs:label]	_obsolete_pathogenesis@en	
+WARN	missing_obsolete_label	_obsolete_penetration of host cell [IDO:0000085]	label [rdfs:label]	_obsolete_penetration of host cell@en	
+WARN	missing_obsolete_label	_obsolete_engulfment [IDO:0000086]	label [rdfs:label]	_obsolete_engulfment@en	
+WARN	missing_obsolete_label	_obsolete_fusion with host cell membrane [IDO:0000087]	label [rdfs:label]	_obsolete_fusion with host cell membrane@en	
+WARN	missing_obsolete_label	_obsolete_membrane invagination [IDO:0000088]	label [rdfs:label]	_obsolete_membrane invagination@en	
+WARN	missing_obsolete_label	_obsolete_passage through cell membrane [IDO:0000089]	label [rdfs:label]	_obsolete_passage through cell membrane@en	
+WARN	missing_obsolete_label	_obsolete_engulfment by nonphagocyte [IDO:0000090]	label [rdfs:label]	_obsolete_engulfment by nonphagocyte@en	
+WARN	missing_obsolete_label	_obsolete_engulfment by phagocyte [IDO:0000091]	label [rdfs:label]	_obsolete_engulfment by phagocyte@en	
+WARN	missing_obsolete_label	_obsolete_damaging host cells and tissues in subepithelial space [IDO:0000092]	label [rdfs:label]	_obsolete_damaging host cells and tissues in subepithelial space@en	
+WARN	missing_obsolete_label	_obsolete_induction of damaging host immune response [IDO:0000093]	label [rdfs:label]	_obsolete_induction of damaging host immune response@en	
+WARN	missing_obsolete_label	_obsolete_pathogen-induced apoptosis [IDO:0000094]	label [rdfs:label]	_obsolete_pathogen-induced apoptosis@en	
+WARN	missing_obsolete_label	_obsolete_pathogen-induced necrosis [IDO:0000095]	label [rdfs:label]	_obsolete_pathogen-induced necrosis@en	
+WARN	missing_obsolete_label	_obsolete_virus-induced cytopathogenesis [IDO:0000096]	label [rdfs:label]	_obsolete_virus-induced cytopathogenesis@en	
+WARN	missing_obsolete_label	_obsolete_pathogen spread through host [IDO:0000097]	label [rdfs:label]	_obsolete_pathogen spread through host@en	
+WARN	missing_obsolete_label	_obsolete_infectious disease [IDO:0000098]	label [rdfs:label]	_obsolete_infectious disease@en	
+WARN	missing_obsolete_label	_obsolete_pathogen evasion of host immune response [IDO:0000100]	label [rdfs:label]	_obsolete_pathogen evasion of host immune response@en	
+WARN	missing_obsolete_label	_obsolete_emergence [IDO:0000101]	label [rdfs:label]	_obsolete_emergence@en	
+WARN	missing_obsolete_label	_obsolete_epidemiological spread of disease [IDO:0000102]	label [rdfs:label]	_obsolete_epidemiological spread of disease@en	
+WARN	missing_obsolete_label	_obsolete_outbreak [IDO:0000103]	label [rdfs:label]	_obsolete_outbreak@en	
+WARN	missing_obsolete_label	_obsolete_infection [IDO:0000104]	label [rdfs:label]	_obsolete_infection@en	
+WARN	missing_obsolete_label	_obsolete_infection treatment process [IDO:0000105]	label [rdfs:label]	_obsolete_infection treatment process@en	
+WARN	missing_obsolete_label	_obsolete_immunization [IDO:0000106]	label [rdfs:label]	_obsolete_immunization@en	
+WARN	missing_obsolete_label	_obsolete_prevention of infection [IDO:0000107]	label [rdfs:label]	_obsolete_prevention of infection@en	
+WARN	missing_obsolete_label	_obsolete_transport by blood [IDO:0000108]	label [rdfs:label]	_obsolete_transport by blood@en	
+WARN	missing_obsolete_label	_obsolete_transport by lymph [IDO:0000109]	label [rdfs:label]	_obsolete_transport by lymph@en	
+WARN	missing_obsolete_label	_obsolete_modulation of inflammatory response [IDO:0000110]	label [rdfs:label]	_obsolete_modulation of inflammatory response@en	
+WARN	missing_obsolete_label	_obsolete_antigenic variation [IDO:0000111]	label [rdfs:label]	_obsolete_antigenic variation@en	
+WARN	missing_obsolete_label	_obsolete_resist phagocytosis in subepithelial space [IDO:0000112]	label [rdfs:label]	_obsolete_resist phagocytosis in subepithelial space@en	
+WARN	missing_obsolete_label	_obsolete_serum resistance [IDO:0000113]	label [rdfs:label]	_obsolete_serum resistance@en	
+WARN	missing_obsolete_label	_obsolete_phase variation [IDO:0000114]	label [rdfs:label]	_obsolete_phase variation@en	
+WARN	missing_obsolete_label	_obsolete_genetic diversification [IDO:0000115]	label [rdfs:label]	_obsolete_genetic diversification@en	
+WARN	missing_obsolete_label	_obsolete_complement resistance [IDO:0000116]	label [rdfs:label]	_obsolete_complement resistance@en	
+WARN	missing_obsolete_label	_obsolete_epidemic spread of disease [IDO:0000117]	label [rdfs:label]	_obsolete_epidemic spread of disease@en	
+WARN	missing_obsolete_label	_obsolete_pandemic spread of disease [IDO:0000118]	label [rdfs:label]	_obsolete_pandemic spread of disease@en	
+WARN	missing_obsolete_label	_obsolete_vaccination [IDO:0000119]	label [rdfs:label]	_obsolete_vaccination@en	
+WARN	missing_obsolete_label	_obsolete_mode of transmission [IDO:0000200]	label [rdfs:label]	_obsolete_mode of transmission@en	
+WARN	missing_obsolete_label	_obsolete_end reservoir [IDO:0000201]	label [rdfs:label]	_obsolete_end reservoir@en	
+WARN	missing_obsolete_label	_obsolete_factor [IDO:0000204]	label [rdfs:label]	_obsolete_factor@en	
+WARN	missing_obsolete_label	_obsolete_colonization [IDO:0000205]	label [rdfs:label]	_obsolete_colonization@en	
+WARN	missing_obsolete_label	_obsolete_biotic [IDO:0000206]	label [rdfs:label]	_obsolete_biotic@en	
+WARN	missing_obsolete_label	_obsolete_adhesin [IDO:0000207]	label [rdfs:label]	_obsolete_adhesin@en	
+WARN	missing_obsolete_label	_obsolete_seroprevalence [IDO:0000208]	label [rdfs:label]	_obsolete_seroprevalence@en	
+WARN	missing_obsolete_label	_obsolete_dormancy [IDO:0000209]	label [rdfs:label]	_obsolete_dormancy@en	
+WARN	missing_obsolete_label	_obsolete_quality of host [IDO:0000210]	label [rdfs:label]	_obsolete_quality of host@en	
+WARN	missing_obsolete_label	_obsolete_quality of pathogen [IDO:0000211]	label [rdfs:label]	_obsolete_quality of pathogen@en	
+WARN	missing_obsolete_label	_obsolete_susceptibility [IDO:0000212]	label [rdfs:label]	_obsolete_susceptibility@en	
+WARN	missing_obsolete_label	_obsolete_resistance [IDO:0000213]	label [rdfs:label]	_obsolete_resistance@en	
+WARN	missing_obsolete_label	_obsolete_refractoriness [IDO:0000214]	label [rdfs:label]	_obsolete_refractoriness@en	
+WARN	missing_obsolete_label	_obsolete_quality of host population [IDO:0000215]	label [rdfs:label]	_obsolete_quality of host population@en	
+WARN	missing_obsolete_label	_obsolete_herd immunity [IDO:0000216]	label [rdfs:label]	_obsolete_herd immunity@en	
+WARN	missing_obsolete_label	_obsolete_quality of infectious disease [IDO:0000217]	label [rdfs:label]	_obsolete_quality of infectious disease@en	
+WARN	missing_obsolete_label	_obsolete_case of infectious disease [IDO:0000218]	label [rdfs:label]	_obsolete_case of infectious disease@en	
+WARN	missing_obsolete_label	_obsolete_incubation period [IDO:0000219]	label [rdfs:label]	_obsolete_incubation period@en	
+WARN	missing_obsolete_label	_obsolete_infectivity period [IDO:0000220]	label [rdfs:label]	_obsolete_infectivity period@en	
+WARN	missing_obsolete_label	_obsolete_infectious disease progression [IDO:0000221]	label [rdfs:label]	_obsolete_infectious disease progression@en	
+WARN	missing_obsolete_label	_obsolete_infectious disease course [IDO:0000222]	label [rdfs:label]	_obsolete_infectious disease course@en	
+WARN	missing_obsolete_label	_obsolete_host recovery period [IDO:0000223]	label [rdfs:label]	_obsolete_host recovery period@en	
+WARN	missing_obsolete_label	_obsolete_intrinsic incubation period [IDO:0000224]	label [rdfs:label]	_obsolete_intrinsic incubation period@en	
+WARN	missing_obsolete_label	_obsolete_extrinsic incubation period [IDO:0000225]	label [rdfs:label]	_obsolete_extrinsic incubation period@en	
+WARN	missing_obsolete_label	_obsolete_pathogen life cycle [IDO:0000226]	label [rdfs:label]	_obsolete_pathogen life cycle@en	
+WARN	missing_obsolete_label	_obsolete_dormancy period [IDO:0000227]	label [rdfs:label]	_obsolete_dormancy period@en	
+WARN	missing_obsolete_label	_obsolete_pathogen outbreak [IDO:0000228]	label [rdfs:label]	_obsolete_pathogen outbreak@en	
+WARN	missing_obsolete_label	_obsolete_oral-fecal transmission [IDO:0000229]	label [rdfs:label]	_obsolete_oral-fecal transmission@en	
+WARN	missing_obsolete_label	_obsolete_vertical transmission [IDO:0000230]	label [rdfs:label]	_obsolete_vertical transmission@en	
+WARN	missing_obsolete_label	_obsolete_horizontal transmission [IDO:0000231]	label [rdfs:label]	_obsolete_horizontal transmission@en	
+WARN	missing_obsolete_label	_obsolete_pathogen life cycle stage [IDO:0000232]	label [rdfs:label]	_obsolete_pathogen life cycle stage@en	
+WARN	missing_obsolete_label	_obsolete_infectious disease progression stage [IDO:0000233]	label [rdfs:label]	_obsolete_infectious disease progression stage@en	
+WARN	missing_obsolete_label	_obsolete_progression rate [IDO:0000300]	label [rdfs:label]	_obsolete_progression rate@en	
+WARN	missing_obsolete_label	_obsolete_rapid progression [IDO:0000301]	label [rdfs:label]	_obsolete_rapid progression@en	
+WARN	missing_obsolete_label	_obsolete_long-term non-progression [IDO:0000302]	label [rdfs:label]	_obsolete_long-term non-progression@en	
+WARN	missing_obsolete_label	_obsolete_highly exposed persistently seronegative [IDO:0000303]	label [rdfs:label]	_obsolete_highly exposed persistently seronegative@en	
+WARN	missing_obsolete_label	_obsolete_co-infected [IDO:0000305]	label [rdfs:label]	_obsolete_co-infected@en	
+WARN	missing_obsolete_label	_obsolete_fitness [IDO:0000306]	label [rdfs:label]	_obsolete_fitness@en	
+WARN	missing_obsolete_label	enterotoxin disposition [IDO:0000428]	label [rdfs:label]	_obsolete_enterotoxin disposition@en	
+WARN	missing_obsolete_label	enterotoxin disposition [IDO:0000428]	label [rdfs:label]	enterotoxin disposition@en	
+WARN	missing_obsolete_label	endotoxin disposition [IDO:0000429]	label [rdfs:label]	_obsolete_endotoxin disposition@en	
+WARN	missing_obsolete_label	endotoxin disposition [IDO:0000429]	label [rdfs:label]	endotoxin disposition@en	
+WARN	missing_obsolete_label	_obsolete_symptomatic host [IDO:0000462]	label [rdfs:label]	_obsolete_symptomatic host@en	
+WARN	missing_obsolete_label	_obsolete_chronic quality of infection [IDO:0000478]	label [rdfs:label]	_obsolete_chronic quality of infection@en	
+WARN	missing_obsolete_label	_obsolete_septicemia [IDO:0000507]	label [rdfs:label]	_obsolete_septicemia@en	
+WARN	missing_obsolete_label	_obsolete_configured infectious organism population [IDO:0000516]	label [rdfs:label]	_obsolete_configured infectious organism population@en	
+WARN	missing_obsolete_label	_obsolete_infectious organism [IDO:0000527]	label [rdfs:label]	_obsolete_infectious organism@en	
+WARN	missing_obsolete_label	_obsolete_end reservoir of infectious agent [IDO:0000546]	label [rdfs:label]	_obsolete_end reservoir of infectious agent@en	
+WARN	missing_obsolete_label	_obsolete_invasin [IDO:0000574]	label [rdfs:label]	_obsolete_invasin@en	
+WARN	missing_obsolete_label	_obsolete_viral latency [IDO:0000575]	label [rdfs:label]	_obsolete_viral latency@en	
+WARN	missing_obsolete_label	_obsolete_adaptive immunity to infectious agent [IDO:0000577]	label [rdfs:label]	_obsolete_adaptive immunity to infectious agent@en	
+WARN	missing_obsolete_label	_obsolete_communicable disposition [IDO:0000591]	label [rdfs:label]	_obsolete_communicable disposition@en	
+WARN	missing_obsolete_label	_obsolete_biological object colony [IDO:0000605]	label [rdfs:label]	_obsolete_biological object colony@en	
+WARN	missing_obsolete_label	_obsolete_biological object [IDO:0000613]	label [rdfs:label]	_obsolete_biological object@en	
+WARN	missing_obsolete_label	_obsolete_replicating biological material entity [IDO:0000614]	label [rdfs:label]	_obsolete_replicating biological material entity@en	
+WARN	missing_obsolete_label	_obsolete_host range [IDO:0000624]	label [rdfs:label]	_obsolete_contagiousness quality@en	
+WARN	missing_obsolete_label	_obsolete_host range [IDO:0000624]	label [rdfs:label]	_obsolete_host range@en	
+INFO	lowercase_definition	_obsolete_virulence [IDO:0000004]	IAO_0000115 [IAO:0000115]	'the degree of pathogenicitynnpathogenicity and virulence are used in some communities as synonyms.'-ID[O]:0000004: the degree of pathogenicitynnpathogenicity and virulence are used in some communities as synonyms.@en	
+INFO	lowercase_definition	_obsolete_latency [IDO:0000009]	IAO_0000115 [IAO:0000115]	'infection has occurred, but it might not have manifested itselfnquality of being in a non replicative statentime to manifest itself na pathogen when it is in a non replicative state'-ID[O]:0000009: infection has occurred, but it might not have manifested itselfnquality of being in a non replicative statentime to manifest itself na pathogen when it is in a non replicative state@en	
+INFO	lowercase_definition	_obsolete_prevalence [IDO:0000019]	IAO_0000115 [IAO:0000115]	'total number of cases of a particular disease at a given time in a particular population divided by the number of individuals in that particular populationnnthe burden of a disease in a population'-ID[O]:0000019: total number of cases of a particular disease at a given time in a particular population divided by the number of individuals in that particular populationnnthe burden of a disease in a population@en	
+INFO	lowercase_definition	_obsolete_pathogenicity [IDO:0000025]	IAO_0000115 [IAO:0000115]	'the ability of the biotic entity to cause disease in a host of a given typenndo we need to say damage instead of disease?nnpathogenicity and virulence are used as synonyms in some communities'-ID[O]:0000025: the ability of the biotic entity to cause disease in a host of a given typenndo we need to say damage instead of disease?nnpathogenicity and virulence are used as synonyms in some communities@en	
+INFO	lowercase_definition	_obsolete_incidence [IDO:0000029]	IAO_0000115 [IAO:0000115]	'number of new cases in a given period of time'-ID[O]:0000029: number of new cases in a given period of time@en	
+INFO	lowercase_definition	_obsolete_virulence factor [IDO:0000040]	IAO_0000115 [IAO:0000115]	'role played by a portion of substance to promote virulencennmagnitudendegree of pathogenesis'-ID[O]:0000040: role played by a portion of substance to promote virulencennmagnitudendegree of pathogenesis@en	
+INFO	lowercase_definition	_obsolete_symptom [IDO:0000048]	IAO_0000115 [IAO:0000115]	'look at mathias's ontology of cancer to get all the subterms...its under quality there'-ID[O]:0000048: look at mathias's ontology of cancer to get all the subterms...its under quality there@en	
+INFO	lowercase_definition	_obsolete_colonization factor [IDO:0000054]	IAO_0000115 [IAO:0000115]	'role played by portion of physical substance which promotes colonization'-ID[O]:0000054: role played by portion of physical substance which promotes colonization@en	
+INFO	lowercase_definition	_obsolete_adhesion factor [IDO:0000055]	IAO_0000115 [IAO:0000115]	'role played by portion of physical substance utilized by an organism in order to establish adherence to a surface in a host'-ID[O]:0000055: role played by portion of physical substance utilized by an organism in order to establish adherence to a surface in a host@en	
+INFO	lowercase_definition	_obsolete_reservoir [IDO:0000059]	IAO_0000115 [IAO:0000115]	'holding place for a potential pathogen...animate or inanimate'-ID[O]:0000059: holding place for a potential pathogen...animate or inanimate@en	
+INFO	lowercase_definition	_obsolete_fomite [IDO:0000060]	IAO_0000115 [IAO:0000115]	'inanimate holder, is water a fomite or only a reservoir?'-ID[O]:0000060: inanimate holder, is water a fomite or only a reservoir?@en	
+INFO	lowercase_definition	_obsolete_vector [IDO:0000063]	IAO_0000115 [IAO:0000115]	'holder and a carrier (actively transmits) and living: potentially make a cross product.  every vector comes into contact with the target. (from one host to another?)'-ID[O]:0000063: holder and a carrier (actively transmits) and living: potentially make a cross product.  every vector comes into contact with the target. (from one host to another?)@en	
+INFO	lowercase_definition	_obsolete_pathogen adherence to host cell [IDO:0000074]	IAO_0000115 [IAO:0000115]	'create cross products for \"host\" and \"pathogen\" that will be part of this process.'-ID[O]:0000074: create cross products for \"host\" and \"pathogen\" that will be part of this process.@en	
+INFO	lowercase_definition	_obsolete_transmission [IDO:0000083]	IAO_0000115 [IAO:0000115]	'the process by which an infectious agent passes from one organism to another organism'-ID[O]:0000083: the process by which an infectious agent passes from one organism to another organism@en	
+INFO	lowercase_definition	_obsolete_pathogenesis [IDO:0000084]	IAO_0000115 [IAO:0000115]	'GO:nthe specific processes that generate the ability of an organism to cause disease in anothernnnThis is defined in GO so import.'-ID[O]:0000084: GO:nthe specific processes that generate the ability of an organism to cause disease in anothernnnThis is defined in GO so import.@en	
+INFO	lowercase_definition	_obsolete_infectious disease [IDO:0000098]	IAO_0000115 [IAO:0000115]	'comment about the instances:nncollections of etiologically connected cases of infectious disease in a given population'-ID[O]:0000098: comment about the instances:nncollections of etiologically connected cases of infectious disease in a given population@en	
+INFO	lowercase_definition	_obsolete_emergence [IDO:0000101]	IAO_0000115 [IAO:0000115]	'the process by which an infectious disease establishes itself in a new population (or at a sufficiently higher rate? higher prevalence and/or higher incidence)'-ID[O]:0000101: the process by which an infectious disease establishes itself in a new population (or at a sufficiently higher rate? higher prevalence and/or higher incidence)@en	
+INFO	lowercase_definition	_obsolete_factor [IDO:0000204]	IAO_0000115 [IAO:0000115]	'Role played by portion of physical substance in a biological process'-ID[O]:0000204: Role played by portion of physical substance in a biological process@en	
+INFO	lowercase_definition	_obsolete_colonization [IDO:0000205]	IAO_0000115 [IAO:0000115]	'the process by which a biotic entity establishes multiple copies of itself in a new environment (including an organismal environment).nnfix idn\"native\" environment term'-ID[O]:0000205: the process by which a biotic entity establishes multiple copies of itself in a new environment (including an organismal environment).nnfix idn\"native\" environment term@en	
+INFO	lowercase_definition	_obsolete_seroprevalence [IDO:0000208]	IAO_0000115 [IAO:0000115]	'prevalence as measured by antibody'-ID[O]:0000208: prevalence as measured by antibody@en	
+INFO	lowercase_definition	_obsolete_dormancy [IDO:0000209]	IAO_0000115 [IAO:0000115]	'quality [state] of an organism that during its life cycle in which its growth. development, metabolism, etc is temporarily suspended nnnsuspended state, non-replicative state, resting state'-ID[O]:0000209: quality [state] of an organism that during its life cycle in which its growth. development, metabolism, etc is temporarily suspended nnnsuspended state, non-replicative state, resting state@en	
+INFO	lowercase_definition	_obsolete_susceptibility [IDO:0000212]	IAO_0000115 [IAO:0000115]	'can change depending on environmentnnwhere should susceptibility factors go?'-ID[O]:0000212: can change depending on environmentnnwhere should susceptibility factors go?@en	
+INFO	lowercase_definition	_obsolete_incubation period [IDO:0000219]	IAO_0000115 [IAO:0000115]	'agent is incubated?ndisease is incubated?'-ID[O]:0000219: agent is incubated?ndisease is incubated?@en	
+INFO	lowercase_definition	_obsolete_infectious disease progression [IDO:0000221]	IAO_0000115 [IAO:0000115]	'the unfolding or course of infectious diseasennwhat do we say about infectious disease that always remain latent nwhat about when a pathogen continues its progression nnwe need to think about whether we need a term called stagenlife cycle?nprogression?ndevelopment?'-ID[O]:0000221: the unfolding or course of infectious diseasennwhat do we say about infectious disease that always remain latent nwhat about when a pathogen continues its progression nnwe need to think about whether we need a term called stagenlife cycle?nprogression?ndevelopment?@en	
+INFO	lowercase_definition	_obsolete_pathogen life cycle [IDO:0000226]	IAO_0000115 [IAO:0000115]	'is this just the part of the life cycle of the biotic entity that has role pathogen for the period of time while it has role pathogen?nncan include phases in the existence of the entity before it becomes a pathogen'-ID[O]:0000226: is this just the part of the life cycle of the biotic entity that has role pathogen for the period of time while it has role pathogen?nncan include phases in the existence of the entity before it becomes a pathogen@en	
+INFO	lowercase_definition	_obsolete_dormancy period [IDO:0000227]	IAO_0000115 [IAO:0000115]	'is a period a process?'-ID[O]:0000227: is a period a process?@en	
+INFO	lowercase_definition	_obsolete_fitness [IDO:0000306]	IAO_0000115 [IAO:0000115]	'is a quality relating to both bacteria and host'-ID[O]:0000306: is a quality relating to both bacteria and host@en	
+INFO	lowercase_definition	_obsolete_invasin [IDO:0000574]	IAO_0000115 [IAO:0000115]	synonym of invasion factor@en	
+INFO	lowercase_definition	_obsolete_viral latency [IDO:0000575]	IAO_0000115 [IAO:0000115]	@en	
+INFO	lowercase_definition	_obsolete_biological object [IDO:0000613]	IAO_0000115 [IAO:0000115]	primitive@en	
+INFO	lowercase_definition	immunosuppressed organism experiencing chronic systemic steroid use-based immunosuppression [IDO:0001012]	IAO_0000115 [IAO:0000115]	a pathologically immunosuppressed organism that is experiencing chronic systemic steroid use-based immunosuppression.	
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000027 [BFO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000038 [BFO:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000000 [CARO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23367 [CHEBI:23367]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000000 [CL:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000738 [CL:0000738]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0000003 [GO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002250 [GO:0002250]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0002443 [GO:0002443]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006955 [GO:0006955]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006959 [GO:0006959]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019814 [GO:0019814]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0019815 [GO:0019815]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032502 [GO:0032502]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0042101 [GO:0042101]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0043093 [GO:0043093]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0044403 [GO:0044403]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0044406 [GO:0044406]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0044411 [GO:0044411]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045087 [GO:0045087]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048525 [GO:0048525]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0051234 [GO:0051234]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0065007 [GO:0065007]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0085030 [GO:0085030]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0085031 [GO:0085031]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10239 [NCBITaxon:10239]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2 [NCBITaxon:2]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000031 [OGMS:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000045 [OGMS:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000063 [OGMS:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000087 [OGMS:0000087]	rdfs:subClassOf		
+INFO	missing_superclass	TRANS_0000000 [TRANS:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	TRANS_0000002 [TRANS:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000178 [UBERON:0000178]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0035944 [UBERON:0035944]	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

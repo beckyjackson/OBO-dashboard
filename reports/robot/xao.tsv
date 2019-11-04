@@ -1,0 +1,42 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	neurocoel [XAO:0000252]	IAO_0000115 [IAO:0000115]	Spinal cord structure that is part of the ventricular system and is filled with cerebral-spinal fluid and runs the length of the spinal cord.	
+ERROR	duplicate_definition	central canal [XAO:0004543]	IAO_0000115 [IAO:0000115]	Spinal cord structure that is part of the ventricular system and is filled with cerebral-spinal fluid and runs the length of the spinal cord.	
+ERROR	duplicate_definition	left [XAO:0005005]	IAO_0000115 [IAO:0000115]	Spatial concept pertaining to being located on or directed toward the side of the body to the west when facing north.	
+ERROR	duplicate_definition	right [XAO:0005006]	IAO_0000115 [IAO:0000115]	Spatial concept pertaining to being located on or directed toward the side of the body to the west when facing north.	
+ERROR	missing_ontology_description	xao.owl	dc11:description		
+ERROR	missing_ontology_license	xao.owl	dc:license		
+ERROR	missing_ontology_title	xao.owl	dc11:title		
+WARN	annotation_whitespace	trunk somite 1 [XAO:0000406]	hasExactSynonym [oboInOwl:hasExactSynonym]	somite 1 	
+WARN	annotation_whitespace	cardiac valve [XAO:0004126]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	heart valve 	
+WARN	missing_obsolete_label	anatomical site [XAO:0000039]	label [rdfs:label]	anatomical site	
+WARN	missing_obsolete_label	pronephros [XAO:0000059]	label [rdfs:label]	pronephros	
+WARN	missing_obsolete_label	pronephric capsule [XAO:0000061]	label [rdfs:label]	pronephric capsule	
+WARN	missing_obsolete_label	deep (mesenchymal) layer [XAO:0000073]	label [rdfs:label]	deep (mesenchymal) layer	
+WARN	missing_obsolete_label	glomerus [XAO:0000147]	label [rdfs:label]	glomerus	
+WARN	missing_obsolete_label	renal proximal convoluted tubule [XAO:0000149]	label [rdfs:label]	renal proximal convoluted tubule	
+WARN	missing_obsolete_label	loop of Henle [XAO:0000150]	label [rdfs:label]	loop of Henle	
+WARN	missing_obsolete_label	renal distal convoluted tubule [XAO:0000152]	label [rdfs:label]	renal distal convoluted tubule	
+WARN	missing_obsolete_label	olfactory apparatus [XAO:0000201]	label [rdfs:label]	olfactory apparatus	
+WARN	missing_obsolete_label	archencephalic region [XAO:0000203]	label [rdfs:label]	archencephalic region	
+WARN	missing_obsolete_label	cortex [XAO:0000216]	label [rdfs:label]	cortex	
+WARN	missing_obsolete_label	superficial (epithelial) layer [XAO:0000219]	label [rdfs:label]	superficial (epithelial) layer	
+WARN	missing_obsolete_label	deuterencephalic region [XAO:0000221]	label [rdfs:label]	deuterencephalic region	
+WARN	missing_obsolete_label	ear placode [XAO:0000222]	label [rdfs:label]	ear placode	
+WARN	missing_obsolete_label	pronephric nephron segment S1 [XAO:0000290]	label [rdfs:label]	pronephric nephron segment S1	
+WARN	missing_obsolete_label	neural fold (obsolete) [XAO:0000293]	label [rdfs:label]	neural fold (obsolete)	
+WARN	missing_obsolete_label	secondary vessel [XAO:0000351]	label [rdfs:label]	secondary vessel	
+WARN	missing_obsolete_label	spinal cord neuron [XAO:0003021]	label [rdfs:label]	spinal cord neuron	
+WARN	missing_obsolete_label	larval structure [XAO:0003058]	label [rdfs:label]	larval structure	
+WARN	missing_obsolete_label	fore epipodium [XAO:0003067]	label [rdfs:label]	fore epipodium	
+WARN	missing_obsolete_label	fore mesopodium [XAO:0003068]	label [rdfs:label]	fore mesopodium	
+WARN	missing_obsolete_label	hind propodium [XAO:0003069]	label [rdfs:label]	hind propodium	
+WARN	missing_obsolete_label	hind metapodium [XAO:0003070]	label [rdfs:label]	hind metapodium	
+WARN	missing_obsolete_label	fore propodium [XAO:0003071]	label [rdfs:label]	fore propodium	
+WARN	missing_obsolete_label	hind epipodium [XAO:0003072]	label [rdfs:label]	hind epipodium	
+WARN	missing_obsolete_label	sucker [XAO:0003082]	label [rdfs:label]	sucker	
+WARN	missing_obsolete_label	germ line cell [XAO:0003148]	label [rdfs:label]	germ line cell	
+WARN	missing_obsolete_label	fore metapodium [XAO:0003167]	label [rdfs:label]	fore metapodium	
+WARN	missing_obsolete_label	hind mesopodium [XAO:0003168]	label [rdfs:label]	hind mesopodium	
+WARN	missing_obsolete_label	frog [XAO:1000009]	label [rdfs:label]	frog	
+INFO	missing_superclass	Xenopus anatomical entity [XAO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	Xenopus developmental stage [XAO:1000000]	rdfs:subClassOf		

@@ -1,0 +1,43 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	pathological invasion [OGMS:0000082]	IAO_0000115 [IAO:0000115]	TODO: Define.@en	
+ERROR	duplicate_definition	physical examination finding [OGMS:0000083]	IAO_0000115 [IAO:0000115]	TODO: Define.@en	
+ERROR	duplicate_definition	pathological formation [OGMS:0000077]	IAO_0000115 [IAO:0000115]	TODO: Define, relate to disorder, and place in the OGMS hierarchy.@en	
+ERROR	duplicate_definition	portion of pathological body substance [OGMS:0000079]	IAO_0000115 [IAO:0000115]	TODO: Define, relate to disorder, and place in the OGMS hierarchy.@en	
+ERROR	duplicate_definition	hospitalization [OGMS:0000098]	IAO_0000115 [IAO:0000115]	TODO@en	
+ERROR	duplicate_definition	outpatient encounter [OGMS:0000099]	IAO_0000115 [IAO:0000115]	TODO@en	
+ERROR	duplicate_definition	inpatient encounter [OGMS:0000100]	IAO_0000115 [IAO:0000115]	TODO@en	
+ERROR	duplicate_definition	ED encounter [OGMS:0000101]	IAO_0000115 [IAO:0000115]	TODO@en	
+ERROR	missing_ontology_description	ogms.owl	dc11:description		
+ERROR	missing_ontology_license	ogms.owl	dc:license		
+ERROR	missing_ontology_title	ogms.owl	dc11:title		
+ERROR	label_whitespace	health care process biomaterial transformation  [OGMS:0000109]	label [rdfs:label]	health care process biomaterial transformation 	
+WARN	annotation_whitespace	convalescence [OGMS:0000091]	IAO_0000115 [IAO:0000115]	A processual entity during which a patient participating in a disease course gradually returns to participating in a canonical life course. @en	
+WARN	annotation_whitespace	inflammatory process [OGMS:0000095]	IAO_0000115 [IAO:0000115]	A bodily process caused by some disorder that results in recruitment of leukocytes into a localized tissue site, typically causing localized pain and swelling. @en	
+WARN	annotation_whitespace	remission [OGMS:0000106]	IAO_0000116 [IAO:0000116]	A part of a disease course in which the extent or rate of change of the signs and symptoms of a disorder has decreased. @en	
+WARN	annotation_whitespace	health care process biomaterial transformation  [OGMS:0000109]	IAO_0000115 [IAO:0000115]	A health care process which results in physical changes in a specified input material 	
+WARN	missing_definition	homeostasis [OGMS:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bodily process [OGMS:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	_undefined primitive term [OGMS:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clinically abnormal [OGMS:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physical basis [OGMS:0000070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	realization [OGMS:0000071]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	acute disease course [OGMS:0000094]	IAO_0000115 [IAO:0000115]	a disease course with an acute onset@en	
+INFO	lowercase_definition	relapse [OGMS:0000105]	IAO_0000115 [IAO:0000115]	a disease stage which is preceded by a remission and characterized by the return of a manifestation of a disease.	
+INFO	lowercase_definition	remission [OGMS:0000106]	IAO_0000115 [IAO:0000115]	a disease stage which is characterized by the lack of a manifestation of a disease.	
+INFO	lowercase_definition	physical therapy procedure [OGMS:0000115]	IAO_0000115 [IAO:0000115]	a therapeutic procedure that uses physical conditioning	
+INFO	lowercase_definition	asymptomatic [OGMS:0000117]	IAO_0000115 [IAO:0000115]	a disease stage characterized by the lack of symptoms associated with a given disease	
+INFO	lowercase_definition	onset [OGMS:0000118]	IAO_0000115 [IAO:0000115]	a disease stage that marks the beginning of a disease	
+INFO	lowercase_definition	acute onset [OGMS:0000119]	IAO_0000115 [IAO:0000115]	a disease stage with a rapid unfolding of signs and symptoms	
+INFO	lowercase_definition	complete remission [OGMS:0000120]	IAO_0000115 [IAO:0000115]	a remission which is characterized by a prolonged lack of all manifestations of a disease	
+INFO	lowercase_definition	partial remission [OGMS:0000121]	IAO_0000115 [IAO:0000115]	a remission which is characterized by a prolonged lack of some manifestations of a disease	
+INFO	lowercase_definition	clinical data item [OGMS:0000123]	IAO_0000115 [IAO:0000115]	a data item that is about a patient and is the specified output of a health care process assay or diagnostic process	
+INFO	missing_superclass	BFO_0000001 [BFO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000031 [BFO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	disease_stage <http://purl.obolibrary.org/obo/ogms.owl#disease_stage>	rdfs:subClassOf		

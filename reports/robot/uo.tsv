@@ -1,0 +1,108 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	kilo [UO:0000294]	IAO_0000115 [IAO:0000115]	A prefix in the metric system denoting a factor of one thousand.	
+ERROR	duplicate_definition	milli [UO:0000297]	IAO_0000115 [IAO:0000115]	A prefix in the metric system denoting a factor of one thousand.	
+ERROR	duplicate_definition	hecto [UO:0000287]	IAO_0000115 [IAO:0000115]	A prefix in the metric system denoting a factor of one hundred.	
+ERROR	duplicate_definition	centi [UO:0000298]	IAO_0000115 [IAO:0000115]	A prefix in the metric system denoting a factor of one hundred.	
+ERROR	missing_ontology_description	uo.owl	dc11:description		
+ERROR	duplicate_label	ratio [UO:0000190]	label [rdfs:label]	ratio	
+ERROR	duplicate_label	ratio [UO:0010006]	label [rdfs:label]	ratio	
+ERROR	duplicate_label	milli [UO:0000297]	label [rdfs:label]	milli	
+ERROR	duplicate_label	milli [UO:0010009]	label [rdfs:label]	milli	
+ERROR	missing_ontology_license	uo.owl	dc:license		
+ERROR	missing_ontology_title	uo.owl	dc11:title		
+WARN	annotation_whitespace	siemens [UO:0000264]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	mho 	
+WARN	annotation_whitespace	electric field strength unit [UO:0000267]	hasExactSynonym [oboInOwl:hasExactSynonym]	E-field strength 	
+WARN	duplicate_exact_synonym	micrometer [UO:0000017]	hasExactSynonym [oboInOwl:hasExactSynonym]	um	
+WARN	duplicate_exact_synonym	micromolal [UO:0000070]	hasExactSynonym [oboInOwl:hasExactSynonym]	um	
+WARN	duplicate_exact_synonym	tesla [UO:0000228]	hasExactSynonym [oboInOwl:hasExactSynonym]	T	
+WARN	duplicate_exact_synonym	tera [UO:0000291]	hasExactSynonym [oboInOwl:hasExactSynonym]	T	
+WARN	duplicate_exact_synonym	picometer [UO:0000020]	hasExactSynonym [oboInOwl:hasExactSynonym]	pm	
+WARN	duplicate_exact_synonym	picomolal [UO:0000072]	hasExactSynonym [oboInOwl:hasExactSynonym]	pm	
+WARN	duplicate_exact_synonym	poise [UO:0000258]	hasExactSynonym [oboInOwl:hasExactSynonym]	P	
+WARN	duplicate_exact_synonym	peta [UO:0000290]	hasExactSynonym [oboInOwl:hasExactSynonym]	P	
+WARN	duplicate_exact_synonym	nanometer [UO:0000018]	hasExactSynonym [oboInOwl:hasExactSynonym]	nm	
+WARN	duplicate_exact_synonym	nanomolal [UO:0000071]	hasExactSynonym [oboInOwl:hasExactSynonym]	nm	
+WARN	duplicate_exact_synonym	normal [UO:0000075]	hasExactSynonym [oboInOwl:hasExactSynonym]	N	
+WARN	duplicate_exact_synonym	newton [UO:0000108]	hasExactSynonym [oboInOwl:hasExactSynonym]	N	
+WARN	duplicate_exact_synonym	nano [UO:0000300]	hasExactSynonym [oboInOwl:hasExactSynonym]	n	
+WARN	duplicate_exact_synonym	pico [UO:0000302]	hasExactSynonym [oboInOwl:hasExactSynonym]	n	
+WARN	duplicate_exact_synonym	millimeter [UO:0000016]	hasExactSynonym [oboInOwl:hasExactSynonym]	mm	
+WARN	duplicate_exact_synonym	millimolal [UO:0000069]	hasExactSynonym [oboInOwl:hasExactSynonym]	mm	
+WARN	duplicate_exact_synonym	millimeter [UO:0000016]	hasExactSynonym [oboInOwl:hasExactSynonym]	micrometre	
+WARN	duplicate_exact_synonym	micrometer [UO:0000017]	hasExactSynonym [oboInOwl:hasExactSynonym]	micrometre	
+WARN	duplicate_exact_synonym	meter [UO:0000008]	hasExactSynonym [oboInOwl:hasExactSynonym]	m	
+WARN	duplicate_exact_synonym	molar [UO:0000062]	hasExactSynonym [oboInOwl:hasExactSynonym]	M	
+WARN	duplicate_exact_synonym	molal [UO:0000068]	hasExactSynonym [oboInOwl:hasExactSynonym]	m	
+WARN	duplicate_exact_synonym	mega [UO:0000293]	hasExactSynonym [oboInOwl:hasExactSynonym]	M	
+WARN	duplicate_exact_synonym	milli [UO:0000297]	hasExactSynonym [oboInOwl:hasExactSynonym]	m	
+WARN	duplicate_exact_synonym	hour [UO:0000032]	hasExactSynonym [oboInOwl:hasExactSynonym]	h	
+WARN	duplicate_exact_synonym	hecto [UO:0000287]	hasExactSynonym [oboInOwl:hasExactSynonym]	h	
+WARN	duplicate_exact_synonym	degree Celsius [UO:0000027]	hasExactSynonym [oboInOwl:hasExactSynonym]	C	
+WARN	duplicate_exact_synonym	coulomb [UO:0000220]	hasExactSynonym [oboInOwl:hasExactSynonym]	C	
+WARN	duplicate_exact_synonym	metric cup [UO:0010045]	hasExactSynonym [oboInOwl:hasExactSynonym]	C	
+WARN	duplicate_exact_synonym	magnetic flux density unit [UO:0000227]	hasExactSynonym [oboInOwl:hasExactSynonym]	B	
+WARN	duplicate_exact_synonym	byte [UO:0000233]	hasExactSynonym [oboInOwl:hasExactSynonym]	B	
+WARN	duplicate_exact_synonym	parts per billion [UO:0000170]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-9]	
+WARN	duplicate_exact_synonym	nano [UO:0000300]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-9]	
+WARN	duplicate_exact_synonym	parts per million [UO:0000169]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-6]	
+WARN	duplicate_exact_synonym	micro [UO:0000299]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-6]	
+WARN	duplicate_exact_synonym	parts per thousand [UO:0000168]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-3]	
+WARN	duplicate_exact_synonym	milli [UO:0000297]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-3]	
+WARN	duplicate_exact_synonym	parts per hundred [UO:0000167]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-2]	
+WARN	duplicate_exact_synonym	centi [UO:0000298]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-2]	
+WARN	duplicate_exact_synonym	parts per quadrillion [UO:0000172]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-15]	
+WARN	duplicate_exact_synonym	femto [UO:0000303]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-15]	
+WARN	duplicate_exact_synonym	parts per trillion [UO:0000171]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-12]	
+WARN	duplicate_exact_synonym	pico [UO:0000302]	hasExactSynonym [oboInOwl:hasExactSynonym]	10^[-12]	
+WARN	missing_definition	prefix [UO:0000046]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	formazin nephelometric unit [UO:0000318]	IAO_0000115 [IAO:0000115]	1000 formazin turbidity units (FNU) on the empirical formazin turbidity scale represents reflectance of insol. reaction products of 0.0725 g hydrazine sulfate with 0.7250 g hexamethylenetetramine diluted to 1 L.	
+INFO	missing_superclass	PATO_0000008 [PATO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000033 [PATO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000044 [PATO:0000044]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000125 [PATO:0000125]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000128 [PATO:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000133 [PATO:0000133]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000146 [PATO:0000146]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000165 [PATO:0000165]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000992 [PATO:0000992]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001019 [PATO:0001019]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001021 [PATO:0001021]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001022 [PATO:0001022]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001023 [PATO:0001023]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001024 [PATO:0001024]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001025 [PATO:0001025]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001026 [PATO:0001026]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001028 [PATO:0001028]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001035 [PATO:0001035]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001296 [PATO:0001296]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001299 [PATO:0001299]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001309 [PATO:0001309]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001350 [PATO:0001350]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001351 [PATO:0001351]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001352 [PATO:0001352]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001353 [PATO:0001353]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001413 [PATO:0001413]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001414 [PATO:0001414]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001428 [PATO:0001428]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001461 [PATO:0001461]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001464 [PATO:0001464]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001521 [PATO:0001521]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001574 [PATO:0001574]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001674 [PATO:0001674]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001680 [PATO:0001680]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001681 [PATO:0001681]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001682 [PATO:0001682]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001708 [PATO:0001708]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001709 [PATO:0001709]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001710 [PATO:0001710]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001717 [PATO:0001717]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001718 [PATO:0001718]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001740 [PATO:0001740]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001744 [PATO:0001744]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001745 [PATO:0001745]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001746 [PATO:0001746]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001747 [PATO:0001747]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001756 [PATO:0001756]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001757 [PATO:0001757]	rdfs:subClassOf		
+INFO	missing_superclass	unit [UO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	prefix [UO:0000046]	rdfs:subClassOf		

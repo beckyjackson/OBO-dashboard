@@ -1,0 +1,234 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	has_qualifying_environment [GENO:0000847]	IAO_0000115 [IAO:0000115]	A relation used to describe  an environment contextualizing the identity of an entity.	
+ERROR	duplicate_definition	microsatellite alteration [GENO:0000873]	IAO_0000115 [IAO:0000115]	A relation used to describe  an environment contextualizing the identity of an entity.	
+ERROR	duplicate_definition	has_qualifying_process [GENO:0000846]	IAO_0000115 [IAO:0000115]	A relation used to describe  a process contextualizing the identity of an entity.	
+ERROR	duplicate_definition	repeat region alteration [GENO:0000874]	IAO_0000115 [IAO:0000115]	A relation used to describe  a process contextualizing the identity of an entity.	
+ERROR	duplicate_definition	intrinsic genotype [GENO:0000719]	IAO_0000115 [IAO:0000115]	A genotype that describes the total variation in heritable genomic sequence of a cell or organism, typically in terms of alterations from some reference or background genotype.	
+ERROR	duplicate_definition	genomic genotype [GENO:0000899]	IAO_0000115 [IAO:0000115]	A genotype that describes the total variation in heritable genomic sequence of a cell or organism, typically in terms of alterations from some reference or background genotype.	
+ERROR	misused_obsolete_label	obsolete_sequence feature collection [GENO:0000019]	label [rdfs:label]	obsolete_sequence feature collection	
+ERROR	misused_obsolete_label	obsolete_genomic feature collection [GENO:0000022]	label [rdfs:label]	obsolete_genomic feature collection	
+ERROR	misused_obsolete_label	obsolete_reference single locus complement [GENO:0000029]	label [rdfs:label]	obsolete_reference single locus complement	
+ERROR	misused_obsolete_label	obsolete_unspecified feature [GENO:0000037]	label [rdfs:label]	obsolete_unspecified feature	
+ERROR	misused_obsolete_label	obsolete_reference junction [GENO:0000042]	label [rdfs:label]	obsolete_reference junction	
+ERROR	misused_obsolete_label	obsolete_reference gene allele [GENO:0000060]	label [rdfs:label]	obsolete_reference gene allele	
+ERROR	misused_obsolete_label	obsolete_experimental insertion [GENO:0000091]	label [rdfs:label]	obsolete_experimental insertion	
+ERROR	misused_obsolete_label	obsolete_sequence feature collection attribute [GENO:0000125]	label [rdfs:label]	obsolete_sequence feature collection attribute	
+ERROR	misused_obsolete_label	obsolete_dominant inheritance [GENO:0000142]	label [rdfs:label]	obsolete_dominant inheritance	
+ERROR	misused_obsolete_label	obsolete_autosomal recessive inheritance [GENO:0000150]	label [rdfs:label]	obsolete_autosomal recessive inheritance	
+ERROR	misused_obsolete_label	obsolete_specifies [GENO:0000242]	label [rdfs:label]	obsolete_specifies	
+ERROR	misused_obsolete_label	obsolete_approximates_sequence [GENO:0000243]	label [rdfs:label]	obsolete_approximates_sequence	
+ERROR	misused_obsolete_label	obsolete_resolves_to_sequence [GENO:0000244]	label [rdfs:label]	obsolete_resolves_to_sequence	
+ERROR	misused_obsolete_label	obsolete_is_specified_by [GENO:0000253]	label [rdfs:label]	obsolete_is_specified_by	
+ERROR	misused_obsolete_label	obsolete_chromosome complement [GENO:0000324]	label [rdfs:label]	obsolete_chromosome complement	
+ERROR	misused_obsolete_label	obsolete_is_phenotype_of_genotype [GENO:0000359]	label [rdfs:label]	obsolete_is_phenotype_of_genotype	
+ERROR	misused_obsolete_label	obsolete_participates_in_inheritance_process [GENO:0000368]	label [rdfs:label]	obsolete_participates_in_inheritance_process	
+ERROR	misused_obsolete_label	obsolete_is_genetic_variant_of [GENO:0000410]	label [rdfs:label]	obsolete_is_genetic_variant_of	
+ERROR	misused_obsolete_label	obsolete_has_genetic_variant [GENO:0000411]	label [rdfs:label]	obsolete_has_genetic_variant	
+ERROR	misused_obsolete_label	obsolete_reagent sequence feature [GENO:0000415]	label [rdfs:label]	obsolete_reagent sequence feature	
+ERROR	misused_obsolete_label	obsolete_is_variant_with [GENO:0000486]	label [rdfs:label]	obsolete_is_variant_with@en	
+ERROR	misused_obsolete_label	obsolete_is_expression_variant_with [GENO:0000488]	label [rdfs:label]	obsolete_is_expression_variant_with@en	
+ERROR	misused_obsolete_label	obsolete_mutant allele [GENO:0000491]	label [rdfs:label]	obsolete_mutant allele	
+ERROR	misused_obsolete_label	obsolete_null feature [GENO:0000680]	label [rdfs:label]	obsolete_null feature@en	
+ERROR	misused_obsolete_label	ObsoleteDataProperty [GENO:0000712]	label [rdfs:label]	ObsoleteDataProperty@en	
+ERROR	misused_obsolete_label	obsolete_biological sequence or collection [GENO:0000724]	label [rdfs:label]	obsolete_biological sequence or collection@en	
+ERROR	misused_obsolete_label	obsolete_biological sequence collection [GENO:0000725]	label [rdfs:label]	obsolete_biological sequence collection@en	
+ERROR	misused_obsolete_label	obsolete_has_regulatory_part [GENO:0000741]	label [rdfs:label]	obsolete_has_regulatory_part@en	
+ERROR	misused_obsolete_label	obsolete_is_alteration_within [GENO:0000742]	label [rdfs:label]	obsolete_is_alteration_within@en	
+ERROR	misused_obsolete_label	obsolete_has_position_component [GENO:0000767]	label [rdfs:label]	obsolete_has_position_component@en	
+ERROR	misused_obsolete_label	obsolete_genomic position [GENO:0000768]	label [rdfs:label]	obsolete_genomic position	
+ERROR	misused_obsolete_label	obsolete_unspecified [GENO:0000772]	label [rdfs:label]	obsolete_unspecified@en	
+ERROR	misused_obsolete_label	obsolete_sequence information entity [GENO:0000778]	label [rdfs:label]	obsolete_sequence information entity@en	
+ERROR	misused_obsolete_label	obsolete_coding sequence alteration [GENO:0000848]	label [rdfs:label]	obsolete_coding sequence alteration@en	
+ERROR	misused_obsolete_label	obsolete_sequence feature collection [GENO:0000870]	label [rdfs:label]	obsolete_sequence feature collection@en	
+ERROR	misused_obsolete_label	obsolete_genetic dosage [GENO:0000876]	label [rdfs:label]	obsolete_genetic dosage@en	
+ERROR	misused_obsolete_label	obsolete_gametic [GENO:0000883]	label [rdfs:label]	obsolete_gametic@en	
+ERROR	misused_obsolete_label	obsolete_canonical allele [GENO:0000890]	label [rdfs:label]	obsolete_canonical allele	
+ERROR	misused_obsolete_label	obsolete_contextual allele [GENO:0000891]	label [rdfs:label]	obsolete_contextual allele	
+ERROR	misused_obsolete_label	obsolete_allele cellular context [GENO:0000901]	label [rdfs:label]	obsolete_allele cellular context	
+ERROR	misused_obsolete_label	obsolete_haplotype [GENO:0000915]	label [rdfs:label]	obsolete_haplotype@en	
+ERROR	misused_obsolete_label	obsolete_haplotype block [GENO:0000916]	label [rdfs:label]	obsolete_haplotype block@en	
+ERROR	misused_obsolete_label	obsolete_functional copy number complement [GENO:0000923]	label [rdfs:label]	obsolete_functional copy number complement	
+ERROR	misused_obsolete_label	obsolete_intrinsic sequence feature attribute [GENO:0000924]	label [rdfs:label]	obsolete_intrinsic sequence feature attribute@en	
+ERROR	misused_obsolete_label	obsolete_extrinsic sequence feature attribute [GENO:0000925]	label [rdfs:label]	obsolete_extrinsic sequence feature attribute@en	
+ERROR	misused_obsolete_label	obsolete_variant copy number complement [GENO:0000955]	label [rdfs:label]	obsolete_variant copy number complement	
+ERROR	misused_obsolete_label	obsolete_copy number complement [GENO:0000956]	label [rdfs:label]	obsolete_copy number complement@en	
+ERROR	missing_ontology_description	geno.owl	dc11:description		
+ERROR	missing_ontology_license	geno.owl	dc:license		
+ERROR	missing_ontology_title	geno.owl	dc11:title		
+WARN	annotation_whitespace	obsolete_approximates_sequence [GENO:0000243]	IAO_0000116 [IAO:0000116]	Created subproperties 'approximates_sequence' and 'resolves to sequence'. Genotypes and other sequence variant artifacts are not always expected to completely specify a sequence, but rather provide some approximation based on available knowledge. The 'resolves_to_sequence' property can be used when the sequence variant artifact is able to completely resolve a sequence, and the 'approximates_sequence' property can be used when it does not. 	
+WARN	annotation_whitespace	obsolete_resolves_to_sequence [GENO:0000244]	IAO_0000116 [IAO:0000116]	Created subproperties 'approximates_sequence' and 'resolves to sequence'. Genotypes and other sequence variant artifacts are not always expected to completely specify a sequence, but rather provide some approximation based on available knowledge. The 'resolves_to_sequence' property can be used when the sequence variant artifact is able to completely resolve a sequence, and the 'approximates_sequence' property can be used when it does not. 	
+WARN	duplicate_label_synonym	reference sequence [GENO:0000017]	IAO_0000118 [IAO:0000118]	reference sequence	
+WARN	duplicate_label_synonym	wild-type allele [GENO:0000501]	IAO_0000118 [IAO:0000118]	wild-type allele	
+WARN	missing_definition	obsolete_experimental insertion [GENO:0000091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene trap insertion [GENO:0000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	taxonomic group [GENO:0000113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mus musculus strain [GENO:0000118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	danio rerio strain [GENO:0000119]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemizygous [GENO:0000134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heterozygous [GENO:0000135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	homozygous [GENO:0000136]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unspecified zygosity [GENO:0000137]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heritable [GENO:0000139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-heritable [GENO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_autosomal recessive inheritance [GENO:0000150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unspecified life cycle stage [GENO:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic insertion technique [GENO:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mutagen treatment technique [GENO:0000165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	random genetic insertion technique [GENO:0000169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	targeted genetic insertion technique [GENO:0000170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enhancer trapping technique [GENO:0000171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene trapping technique [GENO:0000172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	promoter trapping technique [GENO:0000173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	targeted knock-in technique [GENO:0000174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	random transgene insertion technique [GENO:0000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_genotype_of [GENO:0000220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_approximates_sequence [GENO:0000243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_resolves_to_sequence [GENO:0000244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_sequence_of [GENO:0000251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_subject_of [GENO:0000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_is_specified_by [GENO:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biological process [GENO:0000351]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_variant_part_of [GENO:0000383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_reference_part_of [GENO:0000387]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disomic zygosity [GENO:0000391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aneusomic zygosity [GENO:0000392]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trisomic homozygous [GENO:0000393]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trisomic heterozygous [GENO:0000394]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	simple heterozygous [GENO:0000458]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	expression construct [GENO:0000495]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wild-type gene [GENO:0000502]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene knockdown reagent [GENO:0000533]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zebrafish phenotype [GENO:0000575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemizygous X-linked [GENO:0000604]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemizygous Y-linked [GENO:0000605]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemizygous insertion-linked [GENO:0000606]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosome sub-band [GENO:0000616]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosomal band intensity [GENO:0000618]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gpos [GENO:0000619]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gneg [GENO:0000620]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gvar [GENO:0000621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gpos100 [GENO:0000622]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gpos75 [GENO:0000623]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gpos50 [GENO:0000624]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gpos25 [GENO:0000625]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_staining_intensity [GENO:0000626]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gpos66 [GENO:0000632]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gpos33 [GENO:0000633]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reporter region [GENO:0000640]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_sex_agnostic_part [GENO:0000650]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_mutant_allele_of [GENO:0000651]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_sequence_part_of [GENO:0000655]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	faldo properties [GENO:0000708]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ObsoleteDataProperty [GENO:0000712]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DNA sequence [GENO:0000720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA sequence [GENO:0000721]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amino acid sequence [GENO:0000722]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_biological sequence or collection [GENO:0000724]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_biological sequence collection [GENO:0000725]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_inferred_phenotype [GENO:0000740]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_has_regulatory_part [GENO:0000741]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_asserted_phenotype [GENO:0000743]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_regulatory_part_of [GENO:0000761]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phenotypic inheritance process [GENO:0000770]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biological sequence unit [GENO:0000779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DNA residue [GENO:0000780]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA residue [GENO:0000781]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amino acid residue [GENO:0000782]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	related_condition [GENO:0000790]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferred_to_cause_condition [GENO:0000791]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferred_to_contribute_to_condition [GENO:0000793]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferred_to_correlate_with_condition [GENO:0000794]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genotype-phenotype association [GENO:0000833]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	knockdown reagent targeted gene complement [GENO:0000839]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pathogenic_for_condition [GENO:0000840]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	likely_pathogenic_for_condition [GENO:0000841]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	benign_for_condition [GENO:0000843]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	likely_benign_for_condition [GENO:0000844]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_uncertain_significance_for_condition [GENO:0000845]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_candidate_variant_for [GENO:0000849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	proabalistic_quantifier [GENO:0000867]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_genetic dosage [GENO:0000876]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oryzias latipes strain [GENO:0000887]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mixin [GENO:0000905]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	on strand [GENO:0000906]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene symbol [GENO:0000909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reporter role [GENO:0000910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	selectable marker role [GENO:0000911]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	selectable marker region [GENO:0000912]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mosaic [GENO:0000964]	IAO_0000115 [IAO:0000115]		
+WARN	invalid_xref	background genome [GENO:0000010]	hasDbXref [oboInOwl:hasDbXref]	OBI:genetic population background information	
+WARN	invalid_xref	gene allele [GENO:0000014]	hasDbXref [oboInOwl:hasDbXref]	http://purl.obolibrary.org/obo/SO_0001023 ! allele	
+WARN	invalid_xref	obsolete_sequence feature collection [GENO:0000019]	hasDbXref [oboInOwl:hasDbXref]	perhaps not same as SO:sequence collection, as here we explicitly include features that can have an extent of zero (and SO:sequence collection is a collection of regions that have an extent of at least one)	
+WARN	invalid_xref	variant genome [GENO:0000033]	hasDbXref [oboInOwl:hasDbXref]	http://purl.obolibrary.org/obo/SO_0001506 ! variant_genome (definition of SO term here is too vague to know if has same meaning as GENO class here)	
+WARN	invalid_xref	gene part [GENO:0000666]	hasDbXref [oboInOwl:hasDbXref]	SO:0000831 (gene member region)	
+WARN	invalid_xref	obsolete_sequence feature collection [GENO:0000870]	hasDbXref [oboInOwl:hasDbXref]	http://purl.obolibrary.org/obo/SO_0001260 ! sequence_collection	
+INFO	lowercase_definition	obsolete_sequence feature collection [GENO:0000019]	IAO_0000115 [IAO:0000115]	a collection more than one sequence features (ie a collection of discontinuous sequence features)	
+INFO	lowercase_definition	human population [GENO:0000111]	IAO_0000115 [IAO:0000115]	a population of homo sapiens grouped together in virtue of their sharing some commonality (either an inherent attribute or an externally assigned role)	
+INFO	lowercase_definition	obsolete_sequence feature collection attribute [GENO:0000125]	IAO_0000115 [IAO:0000115]	sequence attribute that can inhere only in a collection of more than one sequence features	
+INFO	lowercase_definition	obsolete_dominant inheritance [GENO:0000142]	IAO_0000115 [IAO:0000115]	disposition inhering in a genetic locus variant that is realized in its inheritance by some offspring such that at least a partial variant-associated phenotype is apparent in heterozygotes	
+INFO	lowercase_definition	targeted gene mutation technique [GENO:0000166]	IAO_0000115 [IAO:0000115]	a genetic alteration technique that creates a variant/allele of a known gene - either by prospective targeting of a specific the gene through homologous recombination, or by retrospective sequence analysis to determine the insertion locus of a randomly integrated transgene (e.g. as done in gene trapping).	
+INFO	lowercase_definition	obsolete_is_phenotype_of_genotype [GENO:0000359]	IAO_0000115 [IAO:0000115]	shortcut relation used to link a phenotype directly to a genotype of an organism	
+INFO	lowercase_definition	aneusomic [GENO:0000513]	IAO_0000115 [IAO:0000115]	a sequence attribute of a chromosome or chromosomal region that has been abnormally duplicated or lost, as the result of a non-disjunction event or unbalanced translocation.	
+INFO	lowercase_definition	homoplasmic [GENO:0000602]	IAO_0000115 [IAO:0000115]	an allelic state where a single allele exists at a particular location in the organellar genome (mitochondrial or plastid) of a cell/organism.	
+INFO	lowercase_definition	heteroplasmic [GENO:0000603]	IAO_0000115 [IAO:0000115]	an allelic state where more than one type of allele exists at a particular location in the organellar genome (mitochondrial or plastid) of a cell/organism.	
+INFO	lowercase_definition	has_zygosity [GENO:0000608]	IAO_0000115 [IAO:0000115]	a relation to link a single locus complement to its zygosity.	
+INFO	lowercase_definition	is_targeted_by [GENO:0000634]	IAO_0000115 [IAO:0000115]	relation between an molecular agent and its molecular target	
+INFO	lowercase_definition	obsolete_gametic [GENO:0000883]	IAO_0000115 [IAO:0000115]	a quality inhering in a feature in virtue of its presence only in the genome of gametes (germ cells).	
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000020 [BFO:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000031 [BFO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33696 [CHEBI:33696]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000000 [CL:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_01000254 [ENVO:01000254]	rdfs:subClassOf		
+INFO	missing_superclass	genomic variation complement [GENO:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	reference sequence [GENO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	variant single locus complement [GENO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	reference allele [GENO:0000036]	rdfs:subClassOf		
+INFO	missing_superclass	danio rerio gene [GENO:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	homo sapiens gene [GENO:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	mus musculus gene [GENO:0000057]	rdfs:subClassOf		
+INFO	missing_superclass	transgene part [GENO:0000460]	rdfs:subClassOf		
+INFO	missing_superclass	extrachromosomal replicon [GENO:0000494]	rdfs:subClassOf		
+INFO	missing_superclass	allele [GENO:0000512]	rdfs:subClassOf		
+INFO	missing_superclass	gene part [GENO:0000666]	rdfs:subClassOf		
+INFO	missing_superclass	DNA sequence [GENO:0000720]	rdfs:subClassOf		
+INFO	missing_superclass	RNA sequence [GENO:0000721]	rdfs:subClassOf		
+INFO	missing_superclass	amino acid sequence [GENO:0000722]	rdfs:subClassOf		
+INFO	missing_superclass	variant genomic genotype [GENO:0000777]	rdfs:subClassOf		
+INFO	missing_superclass	biological sequence unit [GENO:0000779]	rdfs:subClassOf		
+INFO	missing_superclass	allelic genotype [GENO:0000823]	rdfs:subClassOf		
+INFO	missing_superclass	diplotype [GENO:0000885]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0032502 [GO:0032502]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000102 [IAO:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10090 [NCBITaxon:10090]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10239 [NCBITaxon:10239]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_7955 [NCBITaxon:7955]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_8090 [NCBITaxon:8090]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000086 [OBI:0000086]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000181 [OBI:0000181]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600043 [OBI:0600043]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000000 [PCO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000105 [SO:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000110 [SO:0000110]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000340 [SO:0000340]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000341 [SO:0000341]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000667 [SO:0000667]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000704 [SO:0000704]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000783 [SO:0000783]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000804 [SO:0000804]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000830 [SO:0000830]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0000902 [SO:0000902]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001026 [SO:0001026]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001059 [SO:0001059]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001218 [SO:0001218]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0001505 [SO:0001505]	rdfs:subClassOf		
+INFO	missing_superclass	SO_0005836 [SO:0005836]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000105 [UBERON:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	UPHENO_0001001 [UPHENO:0001001]	rdfs:subClassOf		
+INFO	missing_superclass	association <http://purl.org/oban/association>	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

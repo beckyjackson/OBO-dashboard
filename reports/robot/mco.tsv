@@ -1,0 +1,1008 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	mco.owl	dc11:description		
+ERROR	missing_ontology_license	mco.owl	dc:license		
+ERROR	missing_ontology_title	mco.owl	dc11:title		
+WARN	missing_definition	mco [MCO:00000000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	equipment and supplies [MCO:0000013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	conditioned culture medium [MCO:0000017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	N-C- medium [MCO:0000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	M56 medium [MCO:0000021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minimal essential medium [MCO:0000023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MOPS minimal medium [MCO:0000024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	T-broth [MCO:0000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TGYEP [MCO:0000028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	LB medium, Lennox [MCO:0000030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	LB medium, Luria [MCO:0000031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	LB medium, Miller [MCO:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	penassay broth [MCO:0000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L broth [MCO:0000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L agar [MCO:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	LB broth [MCO:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Luria broth [MCO:0000037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	overexpression mutant [MCO:0000041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	knockout mutant [MCO:0000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insertion mutant [MCO:0000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lysogenic mutant [MCO:0000044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transposable element mutant [MCO:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	knockin mutant [MCO:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	λ(soxR) [MCO:0000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	λ(truncated soxR) [MCO:0000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Φ(soxR) [MCO:0000049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	knockdown mutant [MCO:0000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid mutant [MCO:0000052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid mutant [MCO:0000053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid backbone mutant [MCO:0000054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy harbored plasmid mutant [MCO:0000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unicopy plasmid mutant [MCO:0000056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unicopy plasmid backbone mutant [MCO:0000057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unicopy harbored plasmid mutant [MCO:0000058]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.3 [MCO:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 from 0.4 to 0.5 [MCO:0000061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.25 [MCO:0000062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 1.5 [MCO:0000063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.5 [MCO:0000064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 below 0.7 [MCO:0000065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.4 [MCO:0000066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 from 0.4 to 0.6 [MCO:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.65 [MCO:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	greA overexpression mutant [MCO:0000070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mlc knockout mutant [MCO:0000071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethyl acetate extract of LB [MCO:0000072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethyl acetate extract of conditioned medium [MCO:0000073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pAMC35 (dps) mutant [MCO:0000074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pRGM258 (marRAB) mutant [MCO:0000075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pCX16 (sdiA) mutant [MCO:0000076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	10 to 40 MPa [MCO:0000079]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	0.1 MPa [MCO:0000080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vitamin assay casamino acids [MCO:0000081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nanR knockout mutant [MCO:0000082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	high cell density [MCO:0000083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	low cell density [MCO:0000084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	planktonic growth [MCO:0000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mini-Tn5 transposon [MCO:0000086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mini-Tn5-nrdEF transposon [MCO:0000087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mini-Tn10 transposon [MCO:0000088]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	IS10R [MCO:0000089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	IS186 [MCO:0000090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	IS3E [MCO:0000091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	allS knockout mutant [MCO:0000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcA knockout mutant [MCO:0000093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cra knockout mutant [MCO:0000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crp knockout mutant [MCO:0000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cyaA knockout mutant [MCO:0000097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fhlA knockout mutant [MCO:0000098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fnr knockout mutant [MCO:0000099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	himA knockout mutant [MCO:0000100]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydG knockout mutant [MCO:0000101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iclR knockout mutant [MCO:0000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ihfB knockout mutant [MCO:0000103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lrp knockout mutant [MCO:0000104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bioA knockout mutant [MCO:0000105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metC knockout mutant [MCO:0000106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metE knockout mutant [MCO:0000107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metR knockout mutant [MCO:0000108]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	narL knockout mutant [MCO:0000109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bioD knockout mutant [MCO:0000110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oxyR knockout mutant [MCO:0000111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pdhR knockout mutant [MCO:0000112]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relA knockout mutant [MCO:0000113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rsd knockout mutant [MCO:0000115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sdiA knockout mutant [MCO:0000116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	soxR knockout mutant [MCO:0000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	soxS knockout mutant [MCO:0000119]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spoT knockout mutant [MCO:0000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yiaJ knockout mutant [MCO:0000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zntR knockout mutant [MCO:0000122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	znuA knockout mutant [MCO:0000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	znuB knockout mutant [MCO:0000124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-coding region variant mutant [MCO:0000125]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	C-T transition at nt -10 from bioA translational start site [MCO:0000126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pRB38 (arcA) mutant [MCO:0000127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pUA524 (nrdEF) mutant [MCO:0000128]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pAMC35 (pexB) mutant [MCO:0000129]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pGS623 (pdhR-lpd) mutant [MCO:0000130]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pDEL15 (maoB) mutant [MCO:0000131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pGS613 (pdhR) mutant [MCO:0000132]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicopy plasmid pBA11 (birA) mutant [MCO:0000133]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSXS (IPTG-induced soxS) mutant [MCO:0000135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pBF1 (arabinose-induced rpoS) mutant [MCO:0000136]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSXR (IPTG-induced soxR) mutant [MCO:0000137]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSKOG (K. oxytoca hydG) mutant [MCO:0000138]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pRL48 (from nt -1398 to nt +70 relative to rpoS translational start site) mutant [MCO:0000139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pUBAD::rpoS (arabinose-induced rpoS) mutant [MCO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pKB1A (from nt -153 to nt +1166 relative to bioA translational start site) mutant [MCO:0000141]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pBADBaeR (arabinose-induced baeR) mutant [MCO:0000142]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pKB1B (from nt -1256 to nt +63 relative to bioB translational start site) mutant [MCO:0000143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSE190 (crp H21A) mutant [MCO:0000144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pKB11A (from nt -153 to nt +12 relative to bioA translational start site) mutant [MCO:0000145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSE188 (crp G162A) mutant [MCO:0000146]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pACYCRsd (rsd) mutant [MCO:0000147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pALS13 (IPTG-induced truncated relA) mutant [MCO:0000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSXR (not induced soxR) mutant [MCO:0000150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSE186 (crp) mutant [MCO:0000151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pKB11B (from nt -102 to nt +63 relative to bioB translational start site) mutant [MCO:0000152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pALS13 (not induced truncated relA) mutant [MCO:0000153]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSE189 (crp H19A) mutant [MCO:0000154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pBAD/Myc-HisA mutant [MCO:0000156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pBAD22A mutant [MCO:0000157]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSE380 mutant [MCO:0000158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pGB2 mutant [MCO:0000159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pSU2719 mutant [MCO:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pACYC184 mutant [MCO:0000161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marA knockout mutant [MCO:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acid stress [MCO:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alkylation damage [MCO:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	antibiotic stress [MCO:0000165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	copper stress [MCO:0000166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrosative stress [MCO:0000167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phosphosugar stress [MCO:0000168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zinc stress [MCO:0000169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperature stress treatment [MCO:0000170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cold stress treatment [MCO:0000171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heat stress treatment [MCO:0000172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nutrient availability stress treatment [MCO:0000173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nutrient depletion treatment [MCO:0000174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nutrient excess treatment [MCO:0000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nutrient limitation treatment [MCO:0000176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron depletion [MCO:0000177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carbon starvation [MCO:0000178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrogen starvation [MCO:0000179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phosphate starvation [MCO:0000180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyrimidine limitation [MCO:0000181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron limitation [MCO:0000182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carbon limitation [MCO:0000183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrogen limitation [MCO:0000184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phosphate limitation [MCO:0000185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	potassium limitation [MCO:0000186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyrimidine excess [MCO:0000187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dessication [MCO:0000188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	envelope stress [MCO:0000189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nlpE overexpression mutant [MCO:0000191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ompC overexpression mutant [MCO:0000192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ompF overexpression mutant [MCO:0000193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ompX overexpression mutant [MCO:0000194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rpoE overexpression mutant [MCO:0000195]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	28.0 C [MCO:0000196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	30.0 C [MCO:0000197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	32.0 C [MCO:0000198]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	37.0 C [MCO:0000199]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	(NH4)2Fe(SO4)2 10 mM [MCO:0000200]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	(NH4)2Fe(SO4)2 30 µM [MCO:0000201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CCCP 10 µM [MCO:0000202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CTP 800 µM [MCO:0000203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Cd(II) 1 to 100 µM [MCO:0000204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cadmium dichloride 0.5 mM [MCO:0000205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	copper(II) sulfate 3 mM [MCO:0000206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	D-xylose 120 µM [MCO:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	N-Decanoyl-DL-homoserine lactone 1 µM [MCO:0000208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DNP 0.5 mM [MCO:0000209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2,2\'-bipyridine 150 μm [MCO:0000210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2,2’-bipyridine 20 mM [MCO:0000211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2,2’-bipyridine 200 µM [MCO:0000212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	EGTA 50 mM [MCO:0000213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron(2+) sulfate (anhydrous) 20 µM [MCO:0000214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GTP 800 µM [MCO:0000215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	S-nitrosoglutathione 50 µM [MCO:0000216]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 100 µM [MCO:0000217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 120 µM [MCO:0000218]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Hg(II) 1 to 10 µM [MCO:0000219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L-ascorbate 60 mM [MCO:0000220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L-fucose 60 mM [MCO:0000221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L-glutamine 0.2% [MCO:0000222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L-rhamnose 0.2% [MCO:0000223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	maltose 0.2% [MCO:0000224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	methyl methanesulfonate 0.05% [MCO:0000225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MnCl2 1 mM [MCO:0000226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ammonium chloride 10 mM [MCO:0000227]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 0.35 M [MCO:0000228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pb(II) 0.5 mM [MCO:0000229]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PbCl2 1 mM [MCO:0000230]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	T-broth 0.02% [MCO:0000231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tetrachlorosalicylanilide 10 µM [MCO:0000232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TMAO 50 mM [MCO:0000233]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	N,N,N\',N\'-tetrakis(2-pyridylmethyl)ethylenediamine 1.5 µM [MCO:0000234]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	UMP 0.25 mM [MCO:0000235]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	UTP 50 µM [MCO:0000236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	UTP 800 µM [MCO:0000237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	N-(3-oxohexanoyl)-L-homoserine lactone 1 µM [MCO:0000238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	V. harveyi autoinducer 1 µM [MCO:0000239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Zn(II) 1 mM [MCO:0000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Zn(II) 1.1 mM [MCO:0000241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ZnCl2 0.2 to 1 mM [MCO:0000242]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ZnCl2 1 mM [MCO:0000243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zinc sulfate 1 mM [MCO:0000244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zinc sulfate 5 µM [MCO:0000245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acetate 0.009% [MCO:0000246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acetate 0.4% [MCO:0000247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acetate 4 g/L [MCO:0000248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acetate 50 mM [MCO:0000249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	allantoin 60 mM [MCO:0000250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amino acids 50 µg [MCO:0000251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ammonium sulfate 0.5 mM [MCO:0000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ammonium sulfate 20 mM [MCO:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arginine 1 mM [MCO:0000254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aspartate 50 mM [MCO:0000255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biotin 4 µM [MCO:0000256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cAMP 1 mM [MCO:0000257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cAMP 2 mM [MCO:0000258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cAMP 5 mM [MCO:0000259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cadmium dichloride 600 µM [MCO:0000260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	casamino acids 0.05% [MCO:0000261]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	casamino acids 0.2% [MCO:0000262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	casamino acids 0.4% [MCO:0000263]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	casamino acids 0.5% [MCO:0000264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	desferrioxamine B mesylate 20 mM [MCO:0000265]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	desferrioxamine B mesylate 5 µM [MCO:0000266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethidium bromide 250 µM [MCO:0000267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ferri-desferal 10 µM [MCO:0000268]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fructose 0.4% [MCO:0000269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fumarate 50 mM [MCO:0000270]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 0.05% [MCO:0000271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 0.2% [MCO:0000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 0.4% [MCO:0000273]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 0.5% [MCO:0000274]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 10 mM [MCO:0000275]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 11 mM [MCO:0000276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 120 mM [MCO:0000277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 2 mg/mL [MCO:0000278]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 2% [MCO:0000279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 4 g/L [MCO:0000280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 60 mM [MCO:0000281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 0.4% [MCO:0000282]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 1% [MCO:0000283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	homocysteine 1 mM [MCO:0000284]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	homoserine lactone 10 mM [MCO:0000285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydroxyurea 50 mM [MCO:0000286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leucine 0.76 mM [MCO:0000287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	malate 50 mM [MCO:0000288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	maleate 50 mM [MCO:0000289]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	methionine 200 µg/mL [MCO:0000290]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nalidixic acid 160 µM [MCO:0000291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nickel dichloride 5 µM [MCO:0000292]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrate 50 mM [MCO:0000293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	novobiocin 12.5 µg/mL [MCO:0000294]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dioxygen 10 µM [MCO:0000295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dioxygen < 10 µM [MCO:0000296]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dioxygen > 10 µM [MCO:0000297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	p-aminobenzoic acid 40 µM [MCO:0000298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	p-hydroxybenzoic acid 40 µM [MCO:0000299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraquat 0.25 mM [MCO:0000300]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraquat 0.5 mM [MCO:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraquat 50 µM [MCO:0000302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraquat 500 µM [MCO:0000303]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyruvate 40 mM [MCO:0000304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phenylalanine 1 mM [MCO:0000305]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phenylalanine 0.1 mg/mL [MCO:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	potassium glutamate 300 mM [MCO:0000307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	potassium glutamate 50 mM [MCO:0000308]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rifampicin 500 µg/mL [MCO:0000309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	salicylate 5 mM [MCO:0000310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium acetate 2% [MCO:0000311]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium arsenite 50 µM [MCO:0000312]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium citrate 10 mM [MCO:0000313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium formate 30 mM [MCO:0000314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium molybdate 1 µM [MCO:0000315]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium nitrate 20 mM [MCO:0000316]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium nitrite 2.5 mM [MCO:0000317]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium nitroprusside 50 µM [MCO:0000318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium salicylate 5 mM [MCO:0000319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium selenite 1 µM [MCO:0000320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	succinate 0.5% [MCO:0000321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	succinate 40 mM [MCO:0000322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	succinate 50 mM [MCO:0000323]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	succinate 60 mM [MCO:0000324]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thiamine 0.2 µg/mL [MCO:0000325]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thiamine 1 µg/mL [MCO:0000326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thiamine 10 µg/mL [MCO:0000327]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thiamine 5 µg/mL [MCO:0000328]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thiamine hydrochloride 0.015 mM [MCO:0000329]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trehalose 0.5 to 0.7 M [MCO:0000330]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trehalose 0.7 M [MCO:0000331]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trehalose 1.2 M [MCO:0000332]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trehalose 1 M [MCO:0000333]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tryptophan 1 mM [MCO:0000334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tryptone 10 g/L [MCO:0000335]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tyramine 3 mM [MCO:0000336]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tyrosine 0.1 mg/mL [MCO:0000337]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tyrosine 1 mM [MCO:0000338]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uracil 1 mM [MCO:0000339]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vitamin assay casamino acids 0.5% [MCO:0000340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yeast extract 5 g/L [MCO:0000341]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth phase [MCO:0000342]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protox assay [MCO:0000343]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isoosmotic treatment [MCO:0000344]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 of 0.2 [MCO:0000345]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 of 0.4 [MCO:0000346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 of 0.5 [MCO:0000347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 of 0.8 [MCO:0000348]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 from 0.5 to 0.7 [MCO:0000349]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	allR knockout mutant [MCO:0000350]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	﻿arsR knockout mutant [MCO:0000351]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hyperosmotic treatment [MCO:0000352]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypochlorite stress [MCO:0000353]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	magnesium limitation [MCO:0000354]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypoosmotic treatment [MCO:0000355]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 5.0 [MCO:0000356]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 5.8 [MCO:0000357]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 6.0 [MCO:0000358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 6.5 [MCO:0000359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 7.0 [MCO:0000360]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 7.6 [MCO:0000361]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrogen rich [MCO:0000362]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trehalose above 1.2 M [MCO:0000363]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydH knockout mutant [MCO:0000376]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marR knockout mutant [MCO:0000378]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marB knockout mutant [MCO:0000379]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nrdA knockout mutant [MCO:0000380]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nrdB knockout mutant [MCO:0000381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genotype [MCO:0000383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insertion sequence mutant [MCO:0000384]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transposon mutant [MCO:0000385]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.08 h-1 [MCO:0000386]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.11 h-1 [MCO:0000387]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.1 h-1 [MCO:0000388]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.2 h-1 [MCO:0000389]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.21 h-1 [MCO:0000390]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.26 h-1 [MCO:0000391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.29 h-1 [MCO:0000392]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.3 h-1 [MCO:0000393]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.31 h-1 [MCO:0000394]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.36 h-1 [MCO:0000395]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.39 h-1 [MCO:0000396]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.4 h-1 [MCO:0000397]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.46 h-1 [MCO:0000398]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.48 h-1 [MCO:0000399]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.6 h-1 [MCO:0000400]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth rate of 0.7 h-1 [MCO:0000401]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	D82G variant of GyrA [MCO:0000402]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Hha13D6 variant of Hha [MCO:0000403]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Hha24E9 variant of Hha [MCO:0000404]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	133 variant of FhlA [MCO:0000405]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	K57N variant of H-NS [MCO:0000406]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2-1 variant of MqsR [MCO:0000407]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kanamycin 30µg/mL [MCO:0000408]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kanamycin 5µg/mL [MCO:0000409]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium benzoate 0.5% vol/vol [MCO:0000410]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CORM 3 100 µM [MCO:0000411]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	indole-3-acetic acid 0.5mM [MCO:0000412]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carbon dioxide 5% VOL [MCO:0000413]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	galactose 4 g/L [MCO:0000414]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lactose 0.15% [MCO:0000415]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycine betaine 1mM [MCO:0000416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gentamycin 5µg/mL [MCO:0000417]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cefotaxime 0.13µg/ml [MCO:0000418]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mevalonate 0.01 M [MCO:0000419]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mevalonate 0.02 M [MCO:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peroxynitrite 300 µM [MCO:0000421]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	amoxicillin 1 μg/mL [MCO:0000422]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glyphosate 0.2 M [MCO:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cisplatin 150 µM [MCO:0000424]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dimethyl sulfoxide 1 µg/ml [MCO:0000425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	butan-1-ol    0.8% vol/vol [MCO:0000426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	butan-1-ol 0.9% vol/vol [MCO:0000427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	butan-1-ol    1% vol/vol [MCO:0000428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isobutanol 0.5% vol/vol [MCO:0000429]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isobutanol 1% vol/vol [MCO:0000430]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	azlocillin 10 μg/mL [MCO:0000431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	potassium cyanide 100 µM [MCO:0000432]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cefsulodin 10 µg/mL [MCO:0000433]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cefsulodin 60 µg/mL [MCO:0000434]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enrofloxacin 0.125 µg/ml [MCO:0000435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enrofloxacin 128 µg/ml [MCO:0000436]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mannose 1% [MCO:0000437]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	erythromycin 0.075 g/L [MCO:0000438]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mecillinam 0.03 µg/ml [MCO:0000439]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mecillinam 0.3 µg/ml [MCO:0000440]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bicozamycin 100 mcg/ml [MCO:0000441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bicozamycin 10 mcg/ml [MCO:0000442]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bicozamycin 25 mcg/ml [MCO:0000443]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isopropyl beta-D-thiogalactopyranoside 1 mM [MCO:0000444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isopropyl beta-D-thiogalactopyranoside 2 mM [MCO:0000445]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	serine hydroxamate 0.5mg/ml [MCO:0000446]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isopentenol 0.2% vol/vol [MCO:0000447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ampicillin 20 µg/mL [MCO:0000448]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ampicillin 5 µg/mL [MCO:0000449]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 0.01 mM [MCO:0000450]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nrdB overexpression mutant [MCO:0000451]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	umuD overexpression mutant [MCO:0000452]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	recA overexpression mutant [MCO:0000453]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cpxR overexpression mutant [MCO:0000454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nupC overexpression mutant [MCO:0000455]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	galF overexpression mutant [MCO:0000456]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accA overexpression mutant [MCO:0000457]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mcrB overexpression mutant [MCO:0000458]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	menC overexpression mutant [MCO:0000459]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cspF overexpression mutant [MCO:0000460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dpiA overexpression mutant [MCO:0000461]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accC overexpression mutant [MCO:0000462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ruvA overexpression mutant [MCO:0000463]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minD overexpression mutant [MCO:0000464]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uspA overexpression mutant [MCO:0000465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	folA overexpression mutant [MCO:0000466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hlpA overexpression mutant [MCO:0000467]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	xylR overexpression mutant [MCO:0000468]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyrC overexpression mutant [MCO:0000469]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ghoS overexpression mutant [MCO:0000470]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ihfB overexpression mutant [MCO:0000471]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yebF overexpression mutant [MCO:0000472]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fadR overexpression mutant [MCO:0000473]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dinP overexpression mutant [MCO:0000474]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nrdA overexpression mutant [MCO:0000475]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	holD overexpression mutant [MCO:0000476]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fklB overexpression mutant [MCO:0000477]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rpoS overexpression mutant [MCO:0000478]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mqsR overexpression mutant [MCO:0000479]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gyrI overexpression mutant [MCO:0000480]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	greB overexpression mutant [MCO:0000481]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dinI overexpression mutant [MCO:0000483]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relE overexpression mutant [MCO:0000484]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mqsA overexpression mutant [MCO:0000485]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rpoH overexpression mutant [MCO:0000486]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yoeB overexpression mutant [MCO:0000487]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rimI overexpression mutant [MCO:0000488]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gyrA overexpression mutant [MCO:0000489]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minE overexpression mutant [MCO:0000490]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rstB overexpression mutant [MCO:0000491]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mazF overexpression mutant [MCO:0000492]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dnaN overexpression mutant [MCO:0000493]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uvrA overexpression mutant [MCO:0000494]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dnaT overexpression mutant [MCO:0000495]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ldrA overexpression mutant [MCO:0000496]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ruvC overexpression mutant [MCO:0000497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sulA overexpression mutant [MCO:0000498]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sdiA overexpression mutant [MCO:0000499]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gcvR overexpression mutant [MCO:0000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dnaA overexpression mutant [MCO:0000501]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hcaR overexpression mutant [MCO:0000502]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	murI overexpression mutant [MCO:0000503]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bglJ overexpression mutant [MCO:0000504]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accD overexpression mutant [MCO:0000505]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yfjF overexpression mutant [MCO:0000506]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rraA overexpression mutant [MCO:0000507]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	menB overexpression mutant [MCO:0000508]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hscA overexpression mutant [MCO:0000509]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accB overexpression mutant [MCO:0000510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zipA overexpression mutant [MCO:0000511]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crcB overexpression mutant [MCO:0000512]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sbcB overexpression mutant [MCO:0000513]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mcrC overexpression mutant [MCO:0000514]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lexA overexpression mutant [MCO:0000515]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bcp overexpression mutant [MCO:0000516]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crp overexpression mutant [MCO:0000517]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dam overexpression mutant [MCO:0000518]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dinJ overexpression mutant [MCO:0000519]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 0.3mM [MCO:0000520]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	era overexpression mutant [MCO:0000521]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fis overexpression mutant [MCO:0000522]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hha overexpression mutant [MCO:0000523]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lon overexpression mutant [MCO:0000524]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rsd overexpression mutant [MCO:0000525]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ybjN overexpression mutant [MCO:0000526]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aceE knockout mutant [MCO:0000527]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adiA knockout mutant [MCO:0000528]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	appY knockout mutant [MCO:0000529]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	argR knockout mutant [MCO:0000530]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cadA knockout mutant [MCO:0000531]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cadB knockout mutant [MCO:0000532]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cnu knockout mutant [MCO:0000533]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cpxA knockout mutant [MCO:0000534]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	creB knockout mutant [MCO:0000535]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crl knockout mutant [MCO:0000536]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cueO knockout mutant [MCO:0000537]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cysB knockout mutant [MCO:0000538]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cysQ knockout mutant [MCO:0000539]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dam knockout mutant [MCO:0000540]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dksA knockout mutant [MCO:0000541]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dnaJ knockout mutant [MCO:0000542]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dppA knockout mutant [MCO:0000543]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dppB knockout mutant [MCO:0000544]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dppC knockout mutant [MCO:0000545]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dppD knockout mutant [MCO:0000546]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dppF knockout mutant [MCO:0000547]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eno knockout mutant [MCO:0000548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fis knockout mutant [MCO:0000549]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flhC knockout mutant [MCO:0000550]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flhD knockout mutant [MCO:0000551]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fur knockout mutant [MCO:0000552]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gadB knockout mutant [MCO:0000553]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gadW knockout mutant [MCO:0000554]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gadX knockout mutant [MCO:0000555]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gcvP knockout mutant [MCO:0000556]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gcvT knockout mutant [MCO:0000557]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grxA knockout mutant [MCO:0000558]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gss knockout mutant [MCO:0000559]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hda knockout mutant [MCO:0000560]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hcaR knockout mutant [MCO:0000561]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hdeA knockout mutant [MCO:0000562]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hdeB knockout mutant [MCO:0000563]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hfq knockout mutant [MCO:0000564]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hha knockout mutant [MCO:0000565]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hmp knockout mutant [MCO:0000566]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hns knockout mutant [MCO:0000567]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hslJ knockout mutant [MCO:0000568]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ihfA knockout mutant [MCO:0000569]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iscR knockout mutant [MCO:0000570]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kdpE knockout mutant [MCO:0000571]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ldcC knockout mutant [MCO:0000572]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lexA knockout mutant [MCO:0000573]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lon knockout mutant [MCO:0000574]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lsrK knockout mutant [MCO:0000575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lsrR knockout mutant [MCO:0000576]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	luxS knockout mutant [MCO:0000577]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mazF knockout mutant [MCO:0000578]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	melR knockout mutant [MCO:0000579]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metJ knockout mutant [MCO:0000580]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mgrR knockout mutant [MCO:0000581]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mnmE knockout mutant [MCO:0000582]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mntR knockout mutant [MCO:0000583]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mqsR knockout mutant [MCO:0000584]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mutS knockout mutant [MCO:0000585]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	narP knockout mutant [MCO:0000586]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	narX knockout mutant [MCO:0000587]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	norR knockout mutant [MCO:0000588]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nusA knockout mutant [MCO:0000589]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nusG knockout mutant [MCO:0000590]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pgi knockout mutant [MCO:0000591]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phoB knockout mutant [MCO:0000592]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phoH knockout mutant [MCO:0000593]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phoP knockout mutant [MCO:0000594]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phoQ knockout mutant [MCO:0000595]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phoU knockout mutant [MCO:0000596]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pnp knockout mutant [MCO:0000597]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ppsA knockout mutant [MCO:0000598]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ptsN knockout mutant [MCO:0000599]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	qor knockout mutant [MCO:0000600]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	qseB knockout mutant [MCO:0000601]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	qseC knockout mutant [MCO:0000602]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	recA knockout mutant [MCO:0000603]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	recE knockout mutant [MCO:0000604]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rhlB knockout mutant [MCO:0000605]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ribB knockout mutant [MCO:0000606]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rne knockout mutant [MCO:0000607]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rng knockout mutant [MCO:0000608]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rpoN knockout mutant [MCO:0000609]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rraA knockout mutant [MCO:0000610]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rseA knockout mutant [MCO:0000611]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rutR knockout mutant [MCO:0000612]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seqA knockout mutant [MCO:0000613]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sgrR knockout mutant [MCO:0000614]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sgrS knockout mutant [MCO:0000615]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	speA knockout mutant [MCO:0000616]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	speB knockout mutant [MCO:0000617]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	speC knockout mutant [MCO:0000618]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	speD knockout mutant [MCO:0000619]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	speE knockout mutant [MCO:0000620]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	speF knockout mutant [MCO:0000621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spy knockout mutant [MCO:0000622]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stpA knockout mutant [MCO:0000623]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sucA knockout mutant [MCO:0000624]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sucB knockout mutant [MCO:0000625]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tnaA knockout mutant [MCO:0000626]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trpE knockout mutant [MCO:0000627]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trpR knockout mutant [MCO:0000628]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ubiE knockout mutant [MCO:0000629]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ycaD knockout mutant [MCO:0000630]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yceB knockout mutant [MCO:0000631]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yceP knockout mutant [MCO:0000632]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ycfR knockout mutant [MCO:0000633]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ychH knockout mutant [MCO:0000634]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ydcR knockout mutant [MCO:0000635]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ygiN knockout mutant [MCO:0000636]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ygiW knockout mutant [MCO:0000637]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yjbJ knockout mutant [MCO:0000638]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yjiR knockout mutant [MCO:0000639]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yliH knockout mutant [MCO:0000640]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ymgB knockout mutant [MCO:0000641]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yncC knockout mutant [MCO:0000642]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yqhC knockout mutant [MCO:0000643]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cobB knockout mutant [MCO:0000644]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nsrR knockout mutant [MCO:0000645]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	patZ knockout mutant [MCO:0000646]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mazE knockout mutant [MCO:0000647]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bdcA knockout mutant [MCO:0000648]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ybjN knockout mutant [MCO:0000649]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yjjP knockout mutant [MCO:0000650]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bglJ knockout mutant [MCO:0000651]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trpA knockout mutant [MCO:0000652]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yjjQ knockout mutant [MCO:0000653]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rcsB knockout mutant [MCO:0000654]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rimO knockout mutant [MCO:0000655]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pflB knockout mutant [MCO:0000656]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ycaO knockout mutant [MCO:0000657]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ldhA knockout mutant [MCO:0000658]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leuO knockout mutant [MCO:0000659]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tabA knockout mutant [MCO:0000660]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glrR knockout mutant [MCO:0000661]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human urine [MCO:0000662]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MOPS rich medium [MCO:0000663]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 1 mM [MCO:0000665]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	osmoprotectants medium [MCO:0000668]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD536 of 0.1 [MCO:0000670]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.03 [MCO:0000672]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.05 [MCO:0000673]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.1 [MCO:0000674]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.15 [MCO:0000675]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.2 [MCO:0000676]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.35 [MCO:0000677]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.6 [MCO:0000678]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.7 [MCO:0000679]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.8 [MCO:0000680]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.9 [MCO:0000681]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 0.95 [MCO:0000682]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 1.0 [MCO:0000683]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 1.1 [MCO:0000684]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 1.6 [MCO:0000685]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 1.7 [MCO:0000686]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 10 [MCO:0000687]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 15 [MCO:0000688]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 2 [MCO:0000689]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 2.4 [MCO:0000690]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 4 [MCO:0000691]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 1.3 [MCO:0000692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 2.7 [MCO:0000693]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 4.5 [MCO:0000694]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 4.7 [MCO:0000695]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 of 4.8 [MCO:0000696]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	20.0 C [MCO:0000697]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	25.0 C [MCO:0000698]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	26.0 C [MCO:0000699]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	33.0 C [MCO:0000700]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	34.0 C [MCO:0000701]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	35.7 C [MCO:0000702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	23.0 C [MCO:0000703]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	16.0 C [MCO:0000704]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	15.0 C [MCO:0000705]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 2mM [MCO:0000706]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	43.0 C [MCO:0000707]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	50.0 C [MCO:0000708]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	58.0 C [MCO:0000709]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	60.0 C [MCO:0000710]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	71.0 C [MCO:0000711]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	42.0 C [MCO:0000712]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	45.0 C [MCO:0000713]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 5.5 [MCO:0000714]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 4.5 [MCO:0000715]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 5.7 [MCO:0000716]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 8.5 [MCO:0000717]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 8.7 [MCO:0000718]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 11.8 [MCO:0000719]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 3.5 [MCO:0000720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 5.3 [MCO:0000721]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pH 7.4 [MCO:0000722]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 5.88mM [MCO:0000723]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 10mM [MCO:0000724]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 20mM [MCO:0000725]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrogen peroxide 30mM [MCO:0000726]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	N,N,N\',N\'-tetrakis(2-pyridylmethyl)ethylenediamine 10 µM [MCO:0000727]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyruvate 2 g/L [MCO:0000728]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acetate 2 g/L [MCO:0000729]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alanine 2 g/L [MCO:0000730]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	autoinducer-2 0.1 mM [MCO:0000731]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	benzalconium chloride 50 ppm [MCO:0000732]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CCCP 800 µM [MCO:0000733]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethanol 1.5% vol/vol [MCO:0000734]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethanol 15% vol/vol [MCO:0000735]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethanol 2% vol/vol [MCO:0000736]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethanol 20% vol/vol [MCO:0000737]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethanol 3% vol/vol [MCO:0000738]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethanol 4% vol/vol [MCO:0000739]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	formate 0.02 M [MCO:0000740]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron(2+) sulfate (anhydrous) 50 µM [MCO:0000741]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose 8.8 g/L [MCO:0000743]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 0.001 g/L [MCO:0000744]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 0.1 g/L [MCO:0000745]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 0.4 g/L [MCO:0000746]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 0.68 g/L [MCO:0000747]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 1 g/L [MCO:0000748]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 2 g/L [MCO:0000749]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycerol 4 g/L [MCO:0000750]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	indole 0.1mM [MCO:0000751]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	indole 0.5M [MCO:0000752]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	indole 1 mM [MCO:0000753]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitomycin C 0.3 µM [MCO:0000754]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	manganese(II) chloride 0.00001 M [MCO:0000755]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nalidixic acid 10µg/ml [MCO:0000756]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nalidixic acid 100µg/ml [MCO:0000757]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nalidixic acid 2 µg/ml [MCO:0000758]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrate 0.01 M [MCO:0000759]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrate 0.02 M [MCO:0000760]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	norfloxacin 0.025 µg/ml [MCO:0000761]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	norfloxacin 0.05 µg/ml [MCO:0000762]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	norfloxacin 0.075 µg/ml [MCO:0000763]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	norfloxacin 1 µg/mL [MCO:0000764]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	norfloxacin 2.5 µg/ml [MCO:0000765]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 0.3 M [MCO:0000766]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 0.55 M [MCO:0000767]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 1 M [MCO:0000768]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 1.37 M [MCO:0000769]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 2 M [MCO:0000770]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 3.5 M [MCO:0000771]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 4 M [MCO:0000772]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 4.5 M [MCO:0000773]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 5.5 M [MCO:0000774]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 5 M [MCO:0000775]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 10 M [MCO:0000776]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	octanoic acid 10 mM [MCO:0000777]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pantothenic acid 1mg/L [MCO:0000778]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sucrose 1250 mM [MCO:0000779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tellurite 0.05 µg/ml [MCO:0000780]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tellurite 16 µgml [MCO:0000781]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tetracycline 16 µg/mL [MCO:0000782]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tetracycline 0.25 µg/mL [MCO:0000783]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron dichloride 0.1 mM [MCO:0000784]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	titanium dioxide nanoparticle 100 mg/L [MCO:0000785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bicozamycin 20 µg/mL [MCO:0000786]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L-arginine 1 g/L [MCO:0000787]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ammonium chloride 0.1% [MCO:0000788]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leucine 10 mM [MCO:0000789]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ompR  knockout mutant [MCO:0000790]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epitope tagged variant mutant [MCO:0000791]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fur-8myc [MCO:0000792]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	8myc tagged variant mutant [MCO:0000793]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chebi_requests [MCO:0000794]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arcA-8myc [MCO:0000811]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	argR-8myc [MCO:0000812]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fis-3xflag [MCO:0000813]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fnr-8myc [MCO:0000814]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fnr-3xflag [MCO:0000815]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gadE-8myc [MCO:0000816]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gadW-8myc [MCO:0000817]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gadX-8myc [MCO:0000818]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hns-3xflag [MCO:0000819]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lrp-8myc [MCO:0000820]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nsrR-3xflag [MCO:0000821]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ompR-8myc [MCO:0000822]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oxyR-8myc [MCO:0000823]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sirA-flag [MCO:0000824]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	soxR-8myc [MCO:0000825]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	soxS-8myc [MCO:0000826]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trpR-8myc [MCO:0000827]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uvrY-flag [MCO:0000828]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flag tagged variant mutant [MCO:0000829]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3xflag tagged variant mutant [MCO:0000830]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gadE knockout mutant [MCO:0000831]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ompR knockout mutant [MCO:0000832]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid PK8263 (16 µM IPTG-induced fnr) [MCO:0000833]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid PK8263 (8 µM IPTG-induced fnr) [MCO:0000834]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid PK8263 (4 µM IPTG-induced fnr) [MCO:0000835]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	W2 minimal medium [MCO:0000836]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 from 0.3 to 0.6 [MCO:0000837]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 from 0.3 to 0.7 [MCO:0000838]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 from 0.3 to 0.4 [MCO:0000839]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 from 0.3 to 0.5 [MCO:0000840]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 from 0.3 to 0.6 [MCO:0000841]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adenine 100  mg/L [MCO:0000842]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	70% N2, 5% CO2, and O2 25% [MCO:0000843]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arginine 1 g/L [MCO:0000844]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamine 2 g/L [MCO:0000845]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sodium chloride 0.5% [MCO:0000846]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	salicylic acid 5 µM [MCO:0000847]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tryptophan 20 mg/L [MCO:0000848]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	N2 95% and CO2 5% [MCO:0000849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isopropyl beta-D-thiogalactopyranoside 5 µM [MCO:0000850]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Escherichia coli P4X [MCO:0000852]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L-arginine 100 µg/ml [MCO:0000853]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	L-methionine 100 µg/ml [MCO:0000854]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pT7-FLAG-4 (IPTG-induced csiR) mutant [MCO:0000855]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid pT7-FLAG-4 (IPTG-induced nac) mutant [MCO:0000856]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	potassium nitrate 20 mM [MCO:0000857]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sucrose 15% [MCO:0000858]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zinc depletion [MCO:0000861]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	carbon source [MCO:0000864]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrogen source [MCO:0000865]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD660 [MCO:0000868]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD660 of 0.5 [MCO:0000869]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acetate 0.2% [MCO:0000870]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cra-8myc [MCO:0000871]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fructose 0.2% [MCO:0000872]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rifampicin 150 mg/ml [MCO:0000873]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arginine 2 g/L [MCO:0000875]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraquat 250 µM [MCO:0000876]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rifampicin 50 µM [MCO:0000877]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD600 from 0.27 to 0.33 [MCO:0000878]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OD650 from 0.3 to 0.6 [MCO:0000879]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	500 ml flask [MCO:0000880]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agitation at 250 rpm [MCO:0000884]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agitation for 20 min [MCO:0000885]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agitation for 30 min [MCO:0000886]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	natural medium [MCO:0000014]	IAO_0000115 [IAO:0000115]	a liquid or solid substance or entity that naturally exists, where microorganims are able to grow.	
+INFO	lowercase_definition	artificial medium [MCO:0000015]	IAO_0000115 [IAO:0000115]	a culture medium made specifically for the grow, storage, isolation, identification or transportation of microorganisms.	
+INFO	lowercase_definition	poor medium [MCO:0000016]	IAO_0000115 [IAO:0000115]	minimal salts plus glycerol and fumarate	
+INFO	lowercase_definition	gene variant mutant [MCO:0000051]	IAO_0000115 [IAO:0000115]	a mutant genotype in which one or more genes can have modifications (subtitutions, indels, partial truncations, etc), but they conserve functionality	
+INFO	lowercase_definition	OD600 [MCO:0000059]	IAO_0000115 [IAO:0000115]	an optical density that specifies the amount of light of 600 nm of wavelenght the bearer is able to transmit	
+INFO	lowercase_definition	OD650 [MCO:0000069]	IAO_0000115 [IAO:0000115]	an optical density that specifies the amount of light of 650 nm of wavelenght the bearer is able to transmit	
+INFO	lowercase_definition	aeration [MCO:0000078]	IAO_0000115 [IAO:0000115]	a physical quality that inheres in a bearer by virtue of the amount of oxygen or air the bearer contains	
+INFO	lowercase_definition	rpoS knockout mutant [MCO:0000114]	IAO_0000115 [IAO:0000115]	a knockout mutant in which the function of ﻿rpoS gene has been disrupted	
+INFO	lowercase_definition	lag phase [MCO:0000364]	IAO_0000115 [IAO:0000115]	a growth phase in which growth rate is null	
+INFO	lowercase_definition	acceleration phase [MCO:0000365]	IAO_0000115 [IAO:0000115]	a growth phase in wich growth rate increases	
+INFO	lowercase_definition	exponential phase [MCO:0000366]	IAO_0000115 [IAO:0000115]	a growth phase in which growth rate is constant	
+INFO	lowercase_definition	retardation phase [MCO:0000367]	IAO_0000115 [IAO:0000115]	a growth phase in which growth rate decreases	
+INFO	lowercase_definition	stationary phase [MCO:0000368]	IAO_0000115 [IAO:0000115]	a growth phase after retardation phase in which growth rate is null	
+INFO	lowercase_definition	phase of decline [MCO:0000369]	IAO_0000115 [IAO:0000115]	a growth phase in which growth rate is negative	
+INFO	lowercase_definition	early exponential phase [MCO:0000370]	IAO_0000115 [IAO:0000115]	is a growth phase that is part of exponential phase and that is located between acceleration phase and mid exponential phase	
+INFO	lowercase_definition	early stationary phase [MCO:0000371]	IAO_0000115 [IAO:0000115]	a growth phase that is part of stationary phase and locates right after retardation phase	
+INFO	lowercase_definition	early to mid exponential phase [MCO:0000372]	IAO_0000115 [IAO:0000115]	is a growth phase that comprises early exponential phase and mid exponential phase	
+INFO	lowercase_definition	late exponential phase [MCO:0000373]	IAO_0000115 [IAO:0000115]	is a growth phase that is part of exponential phase and locates between mid exponential phase and retardation phase	
+INFO	lowercase_definition	mid exponential phase [MCO:0000374]	IAO_0000115 [IAO:0000115]	growth phase that is part of exponential phase and locates in the middle of the exponential phase	
+INFO	lowercase_definition	mid to late exponential phase [MCO:0000375]	IAO_0000115 [IAO:0000115]	is a growth phase that comprises mid exponential phase and late exponential phase	
+INFO	lowercase_definition	leuO overexpression mutant [MCO:0000377]	IAO_0000115 [IAO:0000115]	an overexpression mutant in which leuO is expressed at higher levels than in the wild type	
+INFO	lowercase_definition	mprA overexpression mutant [MCO:0000482]	IAO_0000115 [IAO:0000115]	an overexpression mutant in which mprA is expressed at higher levels than the wild type	
+INFO	lowercase_definition	ammonia fiber expansion corn stover hydrolysate [MCO:0000664]	IAO_0000115 [IAO:0000115]	a hydrolysate prepared from corn stover pretreated by ammonia fiber expansion	
+INFO	lowercase_definition	synH medium [MCO:0000666]	IAO_0000115 [IAO:0000115]	an artificial medium with a defined chemical composition designed to mimic AFEX-pretreated corn stover hydrolysate (ACSH)	
+INFO	lowercase_definition	lignotoxins medium [MCO:0000667]	IAO_0000115 [IAO:0000115]	an artificial medium made up of inhibitory compounds that are lignin derivatives resulting from pretreatment and enzymatic hydrolysis of lignocellulose (lignotoxins)	
+INFO	lowercase_definition	OD536 [MCO:0000669]	IAO_0000115 [IAO:0000115]	an optical density that specifies the amount of light of 536 nm of wavelenght the bearer is able to transmit	
+INFO	lowercase_definition	OD550 [MCO:0000671]	IAO_0000115 [IAO:0000115]	an optical density that specifies the amount of light of 550 nm of wavelenght the bearer is able to transmit	
+INFO	lowercase_definition	minimal defined medium [MCO:0000881]	IAO_0000115 [IAO:0000115]	a defined microbiological culture medium that provides the minimum requirements (e.g., inorganic salts, but no amino acids) needed for growth of a particular bacterium or cell.	
+INFO	lowercase_definition	agitation [MCO:0000883]	IAO_0000115 [IAO:0000115]	moving back and forth or with an irregular, rapid, or violent action	
+INFO	missing_superclass	BFO_0000011 [BFO:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000030 [BFO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_100147 [CHEBI:100147]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_100246 [CHEBI:100246]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_113455 [CHEBI:113455]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_132943 [CHEBI:132943]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_132951 [CHEBI:132951]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_137081 [CHEBI:137081]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15361 [CHEBI:15361]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15379 [CHEBI:15379]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15676 [CHEBI:15676]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15713 [CHEBI:15713]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15724 [CHEBI:15724]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15740 [CHEBI:15740]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15760 [CHEBI:15760]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15956 [CHEBI:15956]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15996 [CHEBI:15996]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16236 [CHEBI:16236]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16240 [CHEBI:16240]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16411 [CHEBI:16411]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16449 [CHEBI:16449]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16467 [CHEBI:16467]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16526 [CHEBI:16526]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16643 [CHEBI:16643]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16695 [CHEBI:16695]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16708 [CHEBI:16708]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16793 [CHEBI:16793]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16811 [CHEBI:16811]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16914 [CHEBI:16914]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17230 [CHEBI:17230]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17234 [CHEBI:17234]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17289 [CHEBI:17289]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17306 [CHEBI:17306]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17489 [CHEBI:17489]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17568 [CHEBI:17568]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17632 [CHEBI:17632]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17677 [CHEBI:17677]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17716 [CHEBI:17716]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17750 [CHEBI:17750]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17754 [CHEBI:17754]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17833 [CHEBI:17833]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17992 [CHEBI:17992]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18050 [CHEBI:18050]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18186 [CHEBI:18186]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18287 [CHEBI:18287]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_204928 [CHEBI:204928]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23414 [CHEBI:23414]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24431 [CHEBI:24431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25017 [CHEBI:25017]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25115 [CHEBI:25115]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25255 [CHEBI:25255]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25350 [CHEBI:25350]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25941 [CHEBI:25941]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26710 [CHEBI:26710]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_2676 [CHEBI:2676]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26806 [CHEBI:26806]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26948 [CHEBI:26948]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27082 [CHEBI:27082]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27504 [CHEBI:27504]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27744 [CHEBI:27744]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27897 [CHEBI:27897]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27899 [CHEBI:27899]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27902 [CHEBI:27902]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28044 [CHEBI:28044]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28077 [CHEBI:28077]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28260 [CHEBI:28260]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28262 [CHEBI:28262]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28300 [CHEBI:28300]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28368 [CHEBI:28368]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28757 [CHEBI:28757]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28837 [CHEBI:28837]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28885 [CHEBI:28885]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28971 [CHEBI:28971]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29016 [CHEBI:29016]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29105 [CHEBI:29105]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29321 [CHEBI:29321]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_2956 [CHEBI:2956]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29678 [CHEBI:29678]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30089 [CHEBI:30089]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_3020 [CHEBI:3020]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30351 [CHEBI:30351]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30477 [CHEBI:30477]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30740 [CHEBI:30740]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30753 [CHEBI:30753]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30762 [CHEBI:30762]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30763 [CHEBI:30763]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30812 [CHEBI:30812]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_31206 [CHEBI:31206]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_31460 [CHEBI:31460]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_3259 [CHEBI:3259]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32954 [CHEBI:32954]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33191 [CHEBI:33191]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33709 [CHEBI:33709]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_34887 [CHEBI:34887]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_34905 [CHEBI:34905]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_3507 [CHEBI:3507]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35176 [CHEBI:35176]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35456 [CHEBI:35456]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35581 [CHEBI:35581]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35720 [CHEBI:35720]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37684 [CHEBI:37684]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_38290 [CHEBI:38290]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_40646 [CHEBI:40646]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_42017 [CHEBI:42017]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_44423 [CHEBI:44423]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46645 [CHEBI:46645]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48775 [CHEBI:48775]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_4883 [CHEBI:4883]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48843 [CHEBI:48843]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48923 [CHEBI:48923]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49105 [CHEBI:49105]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49807 [CHEBI:49807]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49976 [CHEBI:49976]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50091 [CHEBI:50091]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_5044 [CHEBI:5044]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51050 [CHEBI:51050]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51208 [CHEBI:51208]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_52211 [CHEBI:52211]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53258 [CHEBI:53258]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_60004 [CHEBI:60004]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_60584 [CHEBI:60584]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_6104 [CHEBI:6104]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_61448 [CHEBI:61448]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_62345 [CHEBI:62345]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_62946 [CHEBI:62946]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_62965 [CHEBI:62965]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63005 [CHEBI:63005]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63041 [CHEBI:63041]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63043 [CHEBI:63043]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63789 [CHEBI:63789]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_65327 [CHEBI:65327]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_75215 [CHEBI:75215]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_75494 [CHEBI:75494]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_75832 [CHEBI:75832]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_77922 [CHEBI:77922]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_78870 [CHEBI:78870]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_7916 [CHEBI:7916]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_88212 [CHEBI:88212]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_88217 [CHEBI:88217]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_9180 [CHEBI:9180]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_9473 [CHEBI:9473]	rdfs:subClassOf		
+INFO	missing_superclass	MICRO_0000067 [MICRO:0000067]	rdfs:subClassOf		
+INFO	missing_superclass	MICRO_0000068 [MICRO:0000068]	rdfs:subClassOf		
+INFO	missing_superclass	MICRO_0000182 [MICRO:0000182]	rdfs:subClassOf		
+INFO	missing_superclass	MICRO_0000184 [MICRO:0000184]	rdfs:subClassOf		
+INFO	missing_superclass	MICRO_0000201 [MICRO:0000201]	rdfs:subClassOf		
+INFO	missing_superclass	MICRO_0000562 [MICRO:0000562]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_562 [NCBITaxon:562]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_83333 [NCBITaxon:83333]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C120538 [NCIT:C120538]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C25360 [NCIT:C25360]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C96144 [NCIT:C96144]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000079 [OBI:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000094 [OBI:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	OMP_0007115 [OMP:0007115]	rdfs:subClassOf		
+INFO	missing_superclass	OMP_0007156 [OMP:0007156]	rdfs:subClassOf		
+INFO	missing_superclass	OMP_0007167 [OMP:0007167]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000146 [PATO:0000146]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001018 [PATO:0001018]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001025 [PATO:0001025]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001300 [PATO:0001300]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001305 [PATO:0001305]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001306 [PATO:0001306]	rdfs:subClassOf		
+INFO	missing_superclass	PECO_0001036 [PECO:0001036]	rdfs:subClassOf		
+INFO	missing_superclass	PECO_0001037 [PECO:0001037]	rdfs:subClassOf		
+INFO	missing_superclass	PECO_0001038 [PECO:0001038]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001088 [UBERON:0001088]	rdfs:subClassOf		
+INFO	missing_superclass	ZECO_0000200 <http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000200>	rdfs:subClassOf		
+INFO	missing_superclass	ZECO_0000201 <http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000201>	rdfs:subClassOf		
+INFO	missing_superclass	ZECO_0000202 <http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000202>	rdfs:subClassOf		

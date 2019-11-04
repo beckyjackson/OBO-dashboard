@@ -1,0 +1,7 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	multiple_equivalent_classes	confidence information statement [CIO:0000000]	owl:equivalentClass	blank node <13367dbcd24aaaed17b3a3efee775f96>	
+ERROR	multiple_equivalent_classes	confidence information statement [CIO:0000000]	owl:equivalentClass	blank node <be519fac8cc452a9141f180130621eba>	
+ERROR	missing_ontology_description	cio.owl	dc11:description		
+ERROR	missing_ontology_license	cio.owl	dc:license		
+ERROR	missing_ontology_title	cio.owl	dc11:title		
+INFO	missing_superclass	confidence information element [CIO:0000040]	rdfs:subClassOf		

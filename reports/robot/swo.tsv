@@ -1,0 +1,9 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	http://www.ebi.ac.uk/swo/swo.owl	dc11:description		
+ERROR	missing_ontology_title	http://www.ebi.ac.uk/swo/swo.owl	dc11:title		
+INFO	missing_superclass	SWO_0000001 <http://www.ebi.ac.uk/swo/SWO_0000001>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_1000002 <http://www.ebi.ac.uk/swo/license/SWO_1000002>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_1000046 <http://www.ebi.ac.uk/swo/license/SWO_1000046>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_1000047 <http://www.ebi.ac.uk/swo/license/SWO_1000047>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_9000074 <http://www.ebi.ac.uk/swo/license/SWO_9000074>	rdfs:subClassOf		
+INFO	missing_superclass	SWO_9000085 <http://www.ebi.ac.uk/swo/license/SWO_9000085>	rdfs:subClassOf		

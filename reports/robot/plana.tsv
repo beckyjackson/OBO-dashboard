@@ -1,0 +1,100 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	dorsal region of the whole animal [PLANA:0000141]	IAO_0000115 [IAO:0000115]	Three dimensional compartment along the dorsoventral axis that is above the anteroposterior axis,  containing the eyes.	
+ERROR	duplicate_definition	dorsal compartment [PLANA:0007504]	IAO_0000115 [IAO:0000115]	Three dimensional compartment along the dorsoventral axis that is above the anteroposterior axis,  containing the eyes.	
+ERROR	duplicate_definition	posterior compartment of the whole animal [PLANA:0000142]	IAO_0000115 [IAO:0000115]	Three dimensional compartment along the anteroposterior axis that is closer to the tail rather than the head, from the anterior boundary of the pharyngeal pouch to the tip of the tail.	
+ERROR	duplicate_definition	posterior compartment [PLANA:0007507]	IAO_0000115 [IAO:0000115]	Three dimensional compartment along the anteroposterior axis that is closer to the tail rather than the head, from the anterior boundary of the pharyngeal pouch to the tip of the tail.	
+ERROR	duplicate_definition	ventral compartment of the whole animal [PLANA:0000143]	IAO_0000115 [IAO:0000115]	Compartment along the dorsoventral axis that is below the anteroposterior axis.	
+ERROR	duplicate_definition	ventral compartment [PLANA:0007505]	IAO_0000115 [IAO:0000115]	Compartment along the dorsoventral axis that is below the anteroposterior axis.	
+ERROR	duplicate_definition	anterior region of the whole animal [PLANA:0000140]	IAO_0000115 [IAO:0000115]	Compartment along the anteroposterior axis closer to the head rather than the tail, from the head margin to the esophagus.	
+ERROR	duplicate_definition	anterior compartment [PLANA:0007506]	IAO_0000115 [IAO:0000115]	Compartment along the anteroposterior axis closer to the head rather than the tail, from the head margin to the esophagus.	
+ERROR	missing_ontology_description	plana	dc11:description		
+ERROR	missing_ontology_license	plana	dc:license		
+ERROR	missing_ontology_title	plana	dc11:title		
+ERROR	multiple_labels	dorsoventral margin [PLANA:0000043]	label [rdfs:label]	dorsal ventral margin	
+ERROR	multiple_labels	dorsoventral margin [PLANA:0000043]	label [rdfs:label]	dorsoventral margin	
+ERROR	multiple_labels	ventral epidermis [PLANA:0000096]	label [rdfs:label]	ventral epidermis	
+ERROR	multiple_labels	ventral epidermis [PLANA:0000096]	label [rdfs:label]	ventral region of the epidermal compartment	
+WARN	missing_definition	organogenesis stage [PLANA:0000077]	IAO_0000115 [IAO:0000115]		
+WARN	invalid_xref	obsolete anatomical space [PLANA:0000403]	hasDbXref [oboInOwl:hasDbXref]	C94478	
+WARN	invalid_xref	optic chiasma [PLANA:0000459]	hasDbXref [oboInOwl:hasDbXref]	C90609	
+WARN	invalid_xref	neuropil [PLANA:0000470]	hasDbXref [oboInOwl:hasDbXref]	C12617	
+WARN	invalid_xref	nerve plexus [PLANA:0000492]	hasDbXref [oboInOwl:hasDbXref]	C12929	
+WARN	invalid_xref	nervous system commissure [PLANA:0000493]	hasDbXref [oboInOwl:hasDbXref]	C32349	
+WARN	invalid_xref	cell part [PLANA:0000500]	hasDbXref [oboInOwl:hasDbXref]	C34070	
+WARN	invalid_xref	cell projection [PLANA:0000501]	hasDbXref [oboInOwl:hasDbXref]	GO_0042995	
+WARN	invalid_xref	actin-based cell projection [PLANA:0000502]	hasDbXref [oboInOwl:hasDbXref]	GO_0098858	
+WARN	invalid_xref	cilium [PLANA:0000503]	hasDbXref [oboInOwl:hasDbXref]	GO_0005929	
+WARN	invalid_xref	cell-cell contact zone [PLANA:0000505]	hasDbXref [oboInOwl:hasDbXref]	GO_0044291	
+WARN	invalid_xref	acidophilic cytoplasm [PLANA:0000511]	hasDbXref [oboInOwl:hasDbXref]	CP_0000027	
+WARN	invalid_xref	basophilic cytoplasm [PLANA:0000512]	hasDbXref [oboInOwl:hasDbXref]	CP_0000028	
+WARN	invalid_xref	cytoplasmic part [PLANA:0000513]	hasDbXref [oboInOwl:hasDbXref]	GO_0044444	
+WARN	invalid_xref	cytoskeleton organization [PLANA:0000516]	hasDbXref [oboInOwl:hasDbXref]	GO_0007010	
+WARN	invalid_xref	intracellular organelle [PLANA:0000518]	hasDbXref [oboInOwl:hasDbXref]	GO_0043229	
+WARN	invalid_xref	intracellular non-membrane-bounded organelle [PLANA:0000519]	hasDbXref [oboInOwl:hasDbXref]	GO_0043232	
+WARN	invalid_xref	membrane [PLANA:0000520]	hasDbXref [oboInOwl:hasDbXref]	GO_0016020	
+WARN	invalid_xref	bounding membrane of organelle [PLANA:0000521]	hasDbXref [oboInOwl:hasDbXref]	GO_0098588	
+WARN	invalid_xref	membrane part [PLANA:0000522]	hasDbXref [oboInOwl:hasDbXref]	GO_0044425	
+WARN	invalid_xref	plasma membrane part [PLANA:0000523]	hasDbXref [oboInOwl:hasDbXref]	GO_0044459	
+WARN	invalid_xref	organelle membrane [PLANA:0000524]	hasDbXref [oboInOwl:hasDbXref]	GO_0031090	
+WARN	invalid_xref	organelle [PLANA:0000525]	hasDbXref [oboInOwl:hasDbXref]	GO_0043226	
+WARN	invalid_xref	intracellular membrane-bounded organelle [PLANA:0000527]	hasDbXref [oboInOwl:hasDbXref]	GO_0043231	
+WARN	invalid_xref	Golgi apparatus [PLANA:0000528]	hasDbXref [oboInOwl:hasDbXref]	GO_0005794	
+WARN	invalid_xref	nucleus [PLANA:0000529]	hasDbXref [oboInOwl:hasDbXref]	GO_0005634	
+WARN	invalid_xref	secretory vesicle [PLANA:0000530]	hasDbXref [oboInOwl:hasDbXref]	GO_0099503	
+WARN	invalid_xref	non-membrane-bounded organelle [PLANA:0000531]	hasDbXref [oboInOwl:hasDbXref]	GO_0043228	
+WARN	invalid_xref	nuclear part [PLANA:0000532]	hasDbXref [oboInOwl:hasDbXref]	GO_0044428	
+WARN	invalid_xref	nucleolus [PLANA:0000533]	hasDbXref [oboInOwl:hasDbXref]	GO_0005730	
+WARN	invalid_xref	chromatin [PLANA:0000534]	hasDbXref [oboInOwl:hasDbXref]	GO_0000785	
+WARN	invalid_xref	heterochromatin [PLANA:0000535]	hasDbXref [oboInOwl:hasDbXref]	GO_0000792	
+WARN	invalid_xref	euchromatin [PLANA:0000536]	hasDbXref [oboInOwl:hasDbXref]	GO_0000791	
+WARN	invalid_xref	ribosome [PLANA:0000537]	hasDbXref [oboInOwl:hasDbXref]	GO_0005840	
+WARN	invalid_xref	basal lamina of epithelium [PLANA:0001005]	hasDbXref [oboInOwl:hasDbXref]	C32186	
+INFO	lowercase_definition	definitive pharynx progenitor [PLANA:0000110]	IAO_0000115 [IAO:0000115]	foxA1+ neoblasts and their post-mitotic, differentiating daughters required for maintenance and regeneration of the definitive pharynx.	
+INFO	lowercase_definition	circular muscle progenitor cell [PLANA:0000130]	IAO_0000115 [IAO:0000115]	piwi-1+, nkx1-1+ progenitor neoblasts required for specification of circular muscle fibers.	
+INFO	lowercase_definition	longitudinal muscle progenitor cell [PLANA:0000134]	IAO_0000115 [IAO:0000115]	piwi-1+, myoD+, snail-1+ progenitor neoblasts required for specification and creation of longitudinal muscle fibers.	
+INFO	lowercase_definition	male germline stem cell [PLANA:0000219]	IAO_0000115 [IAO:0000115]	gh4+, nanos+ cells residing at the testis periphery that self-renew and give rise to differentiating daughters that will ultimately produce haploid sperm.	
+INFO	lowercase_definition	germ cell [PLANA:0000227]	IAO_0000115 [IAO:0000115]	1. A gamete (as an egg or sperm cell) or one of its antecedent cells. 2. A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.	
+INFO	lowercase_definition	brain commissure [PLANA:0000494]	IAO_0000115 [IAO:0000115]	any of the nerve fiber tracts that span the longitudinal fissure between the cerebral and/or cerebellar hemispheres of the brain	
+INFO	lowercase_definition	testis somatic gonadal cell [PLANA:0004506]	IAO_0000115 [IAO:0000115]	dmd-1+ expressing somatic cells within the testis that promote male GSC maintenance. dmd-1+, ophis-1+ somatic gonadal cells ensheath germ cells via long cytoplasmic processes and promote differentiation.	
+INFO	lowercase_definition	ovarian somatic gonadal cell [PLANA:0004507]	IAO_0000115 [IAO:0000115]	ophis+ somatic cells (gh4-, nanos-) in the ovary that may provide trophic support to female germline stem cells and differentiating oogonia.	
+INFO	lowercase_definition	temporary embryonic pharynx epithelial cell [PLANA:0004521]	IAO_0000115 [IAO:0000115]	foxA1+ epithelial cell contained in the temporary embryonic pharynx.	
+INFO	lowercase_definition	specific_to [PLANA:0007536]	IAO_0000115 [IAO:0000115]	feature restricted to	
+INFO	lowercase_definition	TrpA+ neural progenitor cell [PLANA:0007546]	IAO_0000115 [IAO:0000115]	piwi-1+, runt-1+, ap2+ progenitor neoblasts required for production of TrpA+ neurons.	
+INFO	lowercase_definition	anterior pole progenitor cell [PLANA:0007547]	IAO_0000115 [IAO:0000115]	piwi-1+, foxD+, prep+ progenitor neoblasts required for formation of the anterior pole.	
+INFO	lowercase_definition	serotonergic neural progenitor cell [PLANA:0007550]	IAO_0000115 [IAO:0000115]	piwi-1+, lhx1/5-1+, pitx+ progenitor neoblasts required for specification of tph+ serotonergic neurons.	
+INFO	lowercase_definition	klf+ sensory neuron progenitor cell [PLANA:0007551]	IAO_0000115 [IAO:0000115]	piwi-1+, klf+ progenitor neoblasts required for production of cintillo+ sensory neurons.	
+INFO	lowercase_definition	pax3/7+ neural progenitor cell [PLANA:0007555]	IAO_0000115 [IAO:0000115]	piwi-1+, pax3/7+ progenitor neoblasts implicated in the production of DBH+ ventral midline neurons.	
+INFO	missing_superclass	BFO_0000002 [BFO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000004 [BFO:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000005 [BSPO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000013 [BSPO:0000013]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000015 [BSPO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000016 [BSPO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000017 [BSPO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000071 [BSPO:0000071]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000072 [BSPO:0000072]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000079 [BSPO:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000084 [BSPO:0000084]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000086 [BSPO:0000086]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000094 [BSPO:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000198 [BSPO:0000198]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000373 [BSPO:0000373]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000374 [BSPO:0000374]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000400 [BSPO:0000400]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000417 [BSPO:0000417]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0001001 [BSPO:0001001]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007338 [GO:0007338]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009653 [GO:0009653]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048609 [GO:0048609]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0048856 [GO:0048856]	rdfs:subClassOf		
+INFO	missing_superclass	biotype [PLANA:0000021]	rdfs:subClassOf		
+INFO	missing_superclass	Schmidtea mediterranea developmental stage [PLANA:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	Schmidtea mediterranea developmental term [PLANA:0000112]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000061 [UBERON:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000111 [UBERON:0000111]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000475 [UBERON:0000475]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000476 [UBERON:0000476]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002553 [UBERON:0002553]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005423 [UBERON:0005423]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0007567 [UBERON:0007567]	rdfs:subClassOf		

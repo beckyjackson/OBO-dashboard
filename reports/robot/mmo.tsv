@@ -1,0 +1,93 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	mmo.owl	dc11:description		
+ERROR	duplicate_label	optical coherence tomography [MMO:0000695]	label [rdfs:label]	optical coherence tomography	
+ERROR	duplicate_label	optical coherence tomography [MMO:0000696]	label [rdfs:label]	optical coherence tomography	
+ERROR	missing_ontology_license	mmo.owl	dc:license		
+ERROR	missing_ontology_title	mmo.owl	dc11:title		
+WARN	missing_definition	continuous flow air displacement plethysmography [MMO:0000007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	volume pressure recording [MMO:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular transducer tipped catheter [MMO:0000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body weighing method [MMO:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intravascular electromagnetic flow sensor [MMO:0000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stop flow air displacement plethysmography [MMO:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	balloon tipped catheter with pressure transducer in isolated perfused heart [MMO:0000029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tail cuff plethysmography [MMO:0000031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated standard complete blood count (CBC) test [MMO:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CM-5 lead electrocardiography [MMO:0000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Colin STBP-780 automated blood pressure monitor [MMO:0000044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large adult cuff Colin STBP-780 automated blood pressure monitor [MMO:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adult cuff Colin STBP-780 automated blood pressure monitor [MMO:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	child cuff Colin STBP-780 automated blood pressure monitor [MMO:0000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dinamap 1846 SX/P blood pressure monitor [MMO:0000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large adult cuff Dinamap 1846 SX/P blood pressure monitor [MMO:0000049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adult cuff Dinamap 1846 SX/P blood pressure monitor [MMO:0000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	child cuff Dinamap 1846 SX/P blood pressure monitor [MMO:0000051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tail cuff volume pressure recording [MMO:0000054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large adult cuff auscultatory sphygmomanometer [MMO:0000056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adult cuff auscultatory sphygmomanometer [MMO:0000057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	child cuff auscultatory sphygmomanometer [MMO:0000058]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	small adult cuff Dinamap 1846 SX/P blood pressure monitor [MMO:0000059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thigh cuff Dinamap 1846 SX/P blood pressure monitor [MMO:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	small adult cuff auscultatory sphygmomanometer [MMO:0000061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thigh cuff auscultatory sphygmomanometer [MMO:0000062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	random zero sphygmomanometer [MMO:0000063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Hawksley random zero sphygomomanometer [MMO:0000064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adult cuff Hawksley random zero sphygomomanometer [MMO:0000065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large adult cuff Hawksley random zero sphygomomanometer [MMO:0000066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	child cuff Hawksley random zero sphygomomanometer [MMO:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	small adult cuff Hawksley random zero sphygomomanometer [MMO:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thigh cuff Hawksley random zero sphygomomanometer [MMO:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolated organ perfusion method [MMO:0000082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolated perfused liver method [MMO:0000084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolated perfused kidney method [MMO:0000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	balance beam platform medical scale [MMO:0000086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sliding weight scale [MMO:0000087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	height scale [MMO:0000089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pan type baby weighing scale [MMO:0000101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spring type baby weighing scale [MMO:0000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beam type baby weighing scale [MMO:0000103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	HP Sonos 5500 echo ultrasound [MMO:0000107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Health-O-Meter balance beam Scale [MMO:0000116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Detecto balance beam scale [MMO:0000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Grafco fiberglass anthropometric tape [MMO:0000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Seritex stadiometer [MMO:0000131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated serum non-ionized calcium test [MMO:0000138]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated serum magnesium test [MMO:0000139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated serum phosphate test [MMO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated total white blood cell count test [MMO:0000144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated differential white blood cell count test [MMO:0000145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolated perfused lung vascular effluent collection [MMO:0000152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood uric acid analysis [MMO:0000155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	manual palpation method [MMO:0000158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	machine read urine amylase test strip [MMO:0000182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	machine read urine glucose test strip [MMO:0000183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	machine read urine cortisol test strip [MMO:0000184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	machine read urine uric acid test strip [MMO:0000188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fluid-filled catheter in isolated perfused lung [MMO:0000197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fluid-filled catheter with pressure transducer in isolated perfused lung [MMO:0000203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	balloon tipped catheter in isolated perfused heartr [MMO:0000205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wire myography using a Digi-Med tissue force analysis system with force transducer [MMO:0000208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucose uptake assay [MMO:0000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasma creatinine analysis [MMO:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasma urea nitrogen analysis [MMO:0000307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ex vivo television microscopy [MMO:0000319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	in vivo television microscopy [MMO:0000416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isolated tissue free fatty acid measurement test [MMO:0000674]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated chemiluminescent-based plasma total cholesterol analysis [MMO:0000692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	automated chemiluminescent-based plasma low-density lipoprotein-cholesterol analysis [MMO:0000694]	IAO_0000115 [IAO:0000115]		
+WARN	duplicate_scoped_synonym	quantitative reverse transcription polymerase chain reaction [MMO:0000462]	hasExactSynonym [oboInOwl:hasExactSynonym]	qRT-PCR	
+WARN	duplicate_scoped_synonym	quantitative reverse transcription polymerase chain reaction [MMO:0000462]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	qRT-PCR	
+WARN	duplicate_scoped_synonym	ribonuclease protection assay [MMO:0000652]	hasExactSynonym [oboInOwl:hasExactSynonym]	RNase protection	
+WARN	duplicate_scoped_synonym	ribonuclease protection assay [MMO:0000652]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	RNase protection	
+WARN	duplicate_scoped_synonym	reverse transcription polymerase chain reaction assay [MMO:0000655]	hasExactSynonym [oboInOwl:hasExactSynonym]	RT-PCR	
+WARN	duplicate_scoped_synonym	reverse transcription polymerase chain reaction assay [MMO:0000655]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	RT-PCR	
+WARN	duplicate_scoped_synonym	in situ reverse transcription polymerase chain reaction assay [MMO:0000657]	hasExactSynonym [oboInOwl:hasExactSynonym]	in situ RT-PCR	
+WARN	duplicate_scoped_synonym	in situ reverse transcription polymerase chain reaction assay [MMO:0000657]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	in situ RT-PCR	
+WARN	duplicate_scoped_synonym	serial analysis of gene expression assay [MMO:0000660]	hasExactSynonym [oboInOwl:hasExactSynonym]	SAGE	
+WARN	duplicate_scoped_synonym	serial analysis of gene expression assay [MMO:0000660]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	SAGE	
+WARN	missing_obsolete_label	digital scale [MMO:0000035]	label [rdfs:label]	digital scale	
+WARN	missing_obsolete_label	western blot [MMO:0000338]	label [rdfs:label]	western blot	
+WARN	missing_obsolete_label	phospholipid analysis of serum lipoprotein fraction [MMO:0000467]	label [rdfs:label]	phospholipid analysis of serum lipoprotein fraction	
+WARN	missing_obsolete_label	co-fractionation [MMO:0000681]	label [rdfs:label]	co-fractionation	
+WARN	missing_obsolete_label	optical coherence tomography [MMO:0000695]	label [rdfs:label]	optical coherence tomography	
+INFO	missing_superclass	measurement method [MMO:0000000]	rdfs:subClassOf		

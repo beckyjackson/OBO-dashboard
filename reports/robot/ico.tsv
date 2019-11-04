@@ -1,0 +1,58 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_label	obsolete benefit [ICO:0000077]	label [rdfs:label]	obsolete benefit	
+ERROR	duplicate_label	obsolete benefit [ICO:0000270]	label [rdfs:label]	obsolete benefit	
+ERROR	missing_ontology_license	ICO.owl	dc:license		
+ERROR	missing_ontology_title	ICO.owl	dc11:title		
+WARN	missing_definition	term_mapping_to_UMLS [ICO:0000091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	term_mapping_to_NCIT [ICO:0000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	term_mapping_to_HL7v3 [ICO:0000093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has agent [ICO:0000224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	description of voluntary participation [ICO:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	description of expected study participation duration [ICO:0000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	description of breach of confidentiality [ICO:0000281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RUBRIC [ICO:0000321]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	research assistant role [ICO:0000080]	IAO_0000115 [IAO:0000115]	a role inhering in a homo sapiens that, if realized, is realized in assisting with a research process.@en	
+INFO	lowercase_definition	obsolete informed consent [ICO:0000155]	IAO_0000115 [IAO:0000115]	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777303/@en	
+INFO	lowercase_definition	assenter role [ICO:0000169]	IAO_0000115 [IAO:0000115]	a role that inheres in a human subject who participates in an assending process.@en	
+INFO	lowercase_definition	act of data sharing [ICO:0000228]	IAO_0000115 [IAO:0000115]	a planned process in which data possessed by one person or organization is shared with one or more other persons or organizations.@en	
+INFO	missing_superclass	BFO_0000003 [BFO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000008 [BFO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000029 [BFO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000030 [BFO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000034 [BFO:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000038 [BFO:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000001 [IAO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000005 [IAO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000028 [IAO:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000033 [IAO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000055 [IAO:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000109 [IAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000300 [IAO:0000300]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000310 [IAO:0000310]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000314 [IAO:0000314]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021003 [IAO:0021003]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021007 [IAO:0021007]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021008 [IAO:0021008]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021009 [IAO:0021009]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000066 [OBI:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000181 [OBI:0000181]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000245 [OBI:0000245]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000272 [OBI:0000272]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000810 [OBI:0000810]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001000 [OBI:0001000]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0001622 [OBI:0001622]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100051 [OBI:0100051]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000090 [OGMS:0000090]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000102 [OGMS:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	SDGIO_00000024 <http://purl.unep.org/sdg/SDGIO_00000024>	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		
+INFO	missing_superclass	DescriptiveInformationContentEntity <http://www.ontologyrepository.com/CommonCoreOntologies/DescriptiveInformationContentEntity>	rdfs:subClassOf		
+INFO	missing_superclass	StasisOfGenericallyDependentContinuant <http://www.ontologyrepository.com/CommonCoreOntologies/StasisOfGenericallyDependentContinuant>	rdfs:subClassOf		

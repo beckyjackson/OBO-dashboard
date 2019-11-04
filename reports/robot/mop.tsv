@@ -1,0 +1,636 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	endothermic reaction [MOP:0000767]	IAO_0000115 [IAO:0000115]	A reaction for which the overall standard enthalpy change is positive.	
+ERROR	duplicate_definition	exothermic reaction [MOP:0000768]	IAO_0000115 [IAO:0000115]	A reaction for which the overall standard enthalpy change is positive.	
+ERROR	duplicate_definition	hydron transfer [MOP:0000682]	IAO_0000115 [IAO:0000115]	A process where a hydron is transferred from one binding site to another.	
+ERROR	duplicate_definition	deuteron transfer [MOP:0000683]	IAO_0000115 [IAO:0000115]	A process where a hydron is transferred from one binding site to another.	
+ERROR	missing_ontology_description	mop.owl	dc11:description		
+ERROR	missing_ontology_license	mop.owl	dc:license		
+ERROR	missing_ontology_title	mop.owl	dc11:title		
+WARN	duplicate_label_synonym	methanidylation [MOP:0000001]	hasExactSynonym [oboInOwl:hasExactSynonym]	methanidylation	
+WARN	duplicate_label_synonym	azaniumylation [MOP:0000002]	hasExactSynonym [oboInOwl:hasExactSynonym]	azaniumylation	
+WARN	duplicate_label_synonym	formylation [MOP:0000003]	hasExactSynonym [oboInOwl:hasExactSynonym]	formylation	
+WARN	duplicate_label_synonym	acetonylation [MOP:0000004]	hasExactSynonym [oboInOwl:hasExactSynonym]	acetonylation	
+WARN	duplicate_label_synonym	L-cystylation [MOP:0000005]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-cystylation	
+WARN	duplicate_label_synonym	L-cystinylation [MOP:0000006]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-cystinylation	
+WARN	duplicate_label_synonym	D-cystylation [MOP:0000007]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-cystylation	
+WARN	duplicate_label_synonym	cystinylation [MOP:0000008]	hasExactSynonym [oboInOwl:hasExactSynonym]	cystinylation	
+WARN	duplicate_label_synonym	cystylation [MOP:0000009]	hasExactSynonym [oboInOwl:hasExactSynonym]	cystylation	
+WARN	duplicate_label_synonym	cysteinylation [MOP:0000010]	hasExactSynonym [oboInOwl:hasExactSynonym]	cysteinylation	
+WARN	duplicate_label_synonym	L-cysteinylation [MOP:0000011]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-cysteinylation	
+WARN	duplicate_label_synonym	D-cysteinylation [MOP:0000012]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-cysteinylation	
+WARN	duplicate_label_synonym	cystein-S-ylation [MOP:0000013]	hasExactSynonym [oboInOwl:hasExactSynonym]	cystein-S-ylation	
+WARN	duplicate_label_synonym	D-cystein-S-ylation [MOP:0000014]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-cystein-S-ylation	
+WARN	duplicate_label_synonym	L-cystein-S-ylation [MOP:0000015]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-cystein-S-ylation	
+WARN	duplicate_label_synonym	methionylation [MOP:0000016]	hasExactSynonym [oboInOwl:hasExactSynonym]	methionylation	
+WARN	duplicate_label_synonym	L-methionylation [MOP:0000017]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-methionylation	
+WARN	duplicate_label_synonym	N-formyl-L-methionylation [MOP:0000018]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-formyl-L-methionylation	
+WARN	duplicate_label_synonym	D-methionylation [MOP:0000019]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-methionylation	
+WARN	duplicate_label_synonym	(R)-lipoylation [MOP:0000020]	hasExactSynonym [oboInOwl:hasExactSynonym]	(R)-lipoylation	
+WARN	duplicate_label_synonym	(S)-lipoylation [MOP:0000021]	hasExactSynonym [oboInOwl:hasExactSynonym]	(S)-lipoylation	
+WARN	duplicate_label_synonym	lipoylation [MOP:0000022]	hasExactSynonym [oboInOwl:hasExactSynonym]	lipoylation	
+WARN	duplicate_label_synonym	(R)-dihydrolipoylation [MOP:0000023]	hasExactSynonym [oboInOwl:hasExactSynonym]	(R)-dihydrolipoylation	
+WARN	duplicate_label_synonym	(S)-dihydrolipoylation [MOP:0000024]	hasExactSynonym [oboInOwl:hasExactSynonym]	(S)-dihydrolipoylation	
+WARN	duplicate_label_synonym	alpha-sialoylation [MOP:0000025]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-sialoylation	
+WARN	duplicate_label_synonym	beta-sialoylation [MOP:0000026]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-sialoylation	
+WARN	duplicate_label_synonym	glyceroylation [MOP:0000027]	hasExactSynonym [oboInOwl:hasExactSynonym]	glyceroylation	
+WARN	duplicate_label_synonym	carboacylation [MOP:0000028]	hasExactSynonym [oboInOwl:hasExactSynonym]	carboacylation	
+WARN	duplicate_label_synonym	univalent carboacylation [MOP:0000029]	hasExactSynonym [oboInOwl:hasExactSynonym]	univalent carboacylation	
+WARN	duplicate_label_synonym	acetylation [MOP:0000030]	hasExactSynonym [oboInOwl:hasExactSynonym]	acetylation	
+WARN	duplicate_label_synonym	alpha-aminoacylation [MOP:0000031]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-aminoacylation	
+WARN	duplicate_label_synonym	alanylation [MOP:0000032]	hasExactSynonym [oboInOwl:hasExactSynonym]	alanylation	
+WARN	duplicate_label_synonym	L-alanylation [MOP:0000033]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-alanylation	
+WARN	duplicate_label_synonym	D-alanylation [MOP:0000034]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-alanylation	
+WARN	duplicate_label_synonym	alpha-aspartylation [MOP:0000035]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-aspartylation	
+WARN	duplicate_label_synonym	L-alpha-aspartylation [MOP:0000036]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-alpha-aspartylation	
+WARN	duplicate_label_synonym	D-alpha-aspartylation [MOP:0000037]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-alpha-aspartylation	
+WARN	duplicate_label_synonym	alpha-glutamylation [MOP:0000038]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-glutamylation	
+WARN	duplicate_label_synonym	L-alpha-glutamylation [MOP:0000039]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-alpha-glutamylation	
+WARN	duplicate_label_synonym	D-alpha-glutamylation [MOP:0000040]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-alpha-glutamylation	
+WARN	duplicate_label_synonym	pteroylglutamylation [MOP:0000041]	hasExactSynonym [oboInOwl:hasExactSynonym]	pteroylglutamylation	
+WARN	duplicate_label_synonym	phenylalanylation [MOP:0000042]	hasExactSynonym [oboInOwl:hasExactSynonym]	phenylalanylation	
+WARN	duplicate_label_synonym	L-phenylalanylation [MOP:0000043]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-phenylalanylation	
+WARN	duplicate_label_synonym	D-phenylalanylation [MOP:0000044]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-phenylalanylation	
+WARN	duplicate_label_synonym	glycylation [MOP:0000045]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycylation	
+WARN	duplicate_label_synonym	histidylation [MOP:0000046]	hasExactSynonym [oboInOwl:hasExactSynonym]	histidylation	
+WARN	duplicate_label_synonym	L-histidylation [MOP:0000047]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-histidylation	
+WARN	duplicate_label_synonym	D-histidylation [MOP:0000048]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-histidylation	
+WARN	duplicate_label_synonym	isoleucylation [MOP:0000049]	hasExactSynonym [oboInOwl:hasExactSynonym]	isoleucylation	
+WARN	duplicate_label_synonym	L-isoleucylation [MOP:0000050]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-isoleucylation	
+WARN	duplicate_label_synonym	D-isoleucylation [MOP:0000051]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-isoleucylation	
+WARN	duplicate_label_synonym	lysylation [MOP:0000052]	hasExactSynonym [oboInOwl:hasExactSynonym]	lysylation	
+WARN	duplicate_label_synonym	L-lysylation [MOP:0000053]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-lysylation	
+WARN	duplicate_label_synonym	deoxyhypusinylation [MOP:0000054]	hasExactSynonym [oboInOwl:hasExactSynonym]	deoxyhypusinylation	
+WARN	duplicate_label_synonym	D-lysylation [MOP:0000055]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-lysylation	
+WARN	duplicate_label_synonym	leucylation [MOP:0000056]	hasExactSynonym [oboInOwl:hasExactSynonym]	leucylation	
+WARN	duplicate_label_synonym	L-leucylation [MOP:0000057]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-leucylation	
+WARN	duplicate_label_synonym	D-leucylation [MOP:0000058]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-leucylation	
+WARN	duplicate_label_synonym	asparaginylation [MOP:0000059]	hasExactSynonym [oboInOwl:hasExactSynonym]	asparaginylation	
+WARN	duplicate_label_synonym	L-asparaginylation [MOP:0000060]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-asparaginylation	
+WARN	duplicate_label_synonym	D-asparaginylation [MOP:0000061]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-asparaginylation	
+WARN	duplicate_label_synonym	prolylation [MOP:0000062]	hasExactSynonym [oboInOwl:hasExactSynonym]	prolylation	
+WARN	duplicate_label_synonym	L-prolylation [MOP:0000063]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-prolylation	
+WARN	duplicate_label_synonym	D-prolylation [MOP:0000064]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-prolylation	
+WARN	duplicate_label_synonym	glutaminylation [MOP:0000065]	hasExactSynonym [oboInOwl:hasExactSynonym]	glutaminylation	
+WARN	duplicate_label_synonym	L-glutaminylation [MOP:0000066]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-glutaminylation	
+WARN	duplicate_label_synonym	D-glutaminylation [MOP:0000067]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-glutaminylation	
+WARN	duplicate_label_synonym	serylation [MOP:0000068]	hasExactSynonym [oboInOwl:hasExactSynonym]	serylation	
+WARN	duplicate_label_synonym	L-serylation [MOP:0000069]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-serylation	
+WARN	duplicate_label_synonym	D-serylation [MOP:0000070]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-serylation	
+WARN	duplicate_label_synonym	threonylation [MOP:0000071]	hasExactSynonym [oboInOwl:hasExactSynonym]	threonylation	
+WARN	duplicate_label_synonym	L-threonylation [MOP:0000072]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-threonylation	
+WARN	duplicate_label_synonym	D-threonylation [MOP:0000073]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-threonylation	
+WARN	duplicate_label_synonym	selenocysteinylation [MOP:0000074]	hasExactSynonym [oboInOwl:hasExactSynonym]	selenocysteinylation	
+WARN	duplicate_label_synonym	L-selenocysteinylation [MOP:0000075]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-selenocysteinylation	
+WARN	duplicate_label_synonym	D-selenocysteinylation [MOP:0000076]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-selenocysteinylation	
+WARN	duplicate_label_synonym	valylation [MOP:0000077]	hasExactSynonym [oboInOwl:hasExactSynonym]	valylation	
+WARN	duplicate_label_synonym	L-valylation [MOP:0000078]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-valylation	
+WARN	duplicate_label_synonym	D-valylation [MOP:0000079]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-valylation	
+WARN	duplicate_label_synonym	tryptophylation [MOP:0000080]	hasExactSynonym [oboInOwl:hasExactSynonym]	tryptophylation	
+WARN	duplicate_label_synonym	L-tryptophylation [MOP:0000081]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-tryptophylation	
+WARN	duplicate_label_synonym	D-tryptophylation [MOP:0000082]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-tryptophylation	
+WARN	duplicate_label_synonym	tyrosylation [MOP:0000083]	hasExactSynonym [oboInOwl:hasExactSynonym]	tyrosylation	
+WARN	duplicate_label_synonym	L-tyrosylation [MOP:0000084]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-tyrosylation	
+WARN	duplicate_label_synonym	D-tyrosylation [MOP:0000085]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-tyrosylation	
+WARN	duplicate_label_synonym	arginylation [MOP:0000086]	hasExactSynonym [oboInOwl:hasExactSynonym]	arginylation	
+WARN	duplicate_label_synonym	L-arginylation [MOP:0000087]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-arginylation	
+WARN	duplicate_label_synonym	D-arginylation [MOP:0000088]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-arginylation	
+WARN	duplicate_label_synonym	benzoylation [MOP:0000089]	hasExactSynonym [oboInOwl:hasExactSynonym]	benzoylation	
+WARN	duplicate_label_synonym	beta-aspartylation [MOP:0000090]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-aspartylation	
+WARN	duplicate_label_synonym	D-beta-aspartylation [MOP:0000091]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-beta-aspartylation	
+WARN	duplicate_label_synonym	L-beta-aspartylation [MOP:0000092]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-beta-aspartylation	
+WARN	duplicate_label_synonym	biotinylation [MOP:0000093]	hasExactSynonym [oboInOwl:hasExactSynonym]	biotinylation	
+WARN	duplicate_label_synonym	butyrylation [MOP:0000094]	hasExactSynonym [oboInOwl:hasExactSynonym]	butyrylation	
+WARN	duplicate_label_synonym	carbamoylation [MOP:0000095]	hasExactSynonym [oboInOwl:hasExactSynonym]	carbamoylation	
+WARN	duplicate_label_synonym	C-aminocarbonohydrazonoylation [MOP:0000096]	hasExactSynonym [oboInOwl:hasExactSynonym]	C-aminocarbonohydrazonoylation	
+WARN	duplicate_label_synonym	2-(aminomethylidene)hydrazinylation [MOP:0000097]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-(aminomethylidene)hydrazinylation	
+WARN	duplicate_label_synonym	carbamoylcarbamoylation [MOP:0000098]	hasExactSynonym [oboInOwl:hasExactSynonym]	carbamoylcarbamoylation	
+WARN	duplicate_label_synonym	carbamothioylation [MOP:0000099]	hasExactSynonym [oboInOwl:hasExactSynonym]	carbamothioylation	
+WARN	duplicate_label_synonym	acetylazanediylation [MOP:0000100]	hasExactSynonym [oboInOwl:hasExactSynonym]	acetylazanediylation	
+WARN	duplicate_label_synonym	oxamoylation [MOP:0000101]	hasExactSynonym [oboInOwl:hasExactSynonym]	oxamoylation	
+WARN	duplicate_label_synonym	cholylation [MOP:0000102]	hasExactSynonym [oboInOwl:hasExactSynonym]	cholylation	
+WARN	duplicate_label_synonym	enoylation [MOP:0000103]	hasExactSynonym [oboInOwl:hasExactSynonym]	enoylation	
+WARN	duplicate_label_synonym	fatty-acylation [MOP:0000104]	hasExactSynonym [oboInOwl:hasExactSynonym]	fatty-acylation	
+WARN	duplicate_label_synonym	arachidonoylation [MOP:0000105]	hasExactSynonym [oboInOwl:hasExactSynonym]	arachidonoylation	
+WARN	duplicate_label_synonym	arachidoylation [MOP:0000106]	hasExactSynonym [oboInOwl:hasExactSynonym]	arachidoylation	
+WARN	duplicate_label_synonym	behenoylation [MOP:0000107]	hasExactSynonym [oboInOwl:hasExactSynonym]	behenoylation	
+WARN	duplicate_label_synonym	cerotoylation [MOP:0000108]	hasExactSynonym [oboInOwl:hasExactSynonym]	cerotoylation	
+WARN	duplicate_label_synonym	decanoylation [MOP:0000109]	hasExactSynonym [oboInOwl:hasExactSynonym]	decanoylation	
+WARN	duplicate_label_synonym	dodecenoylation [MOP:0000110]	hasExactSynonym [oboInOwl:hasExactSynonym]	dodecenoylation	
+WARN	duplicate_label_synonym	eleostearoylation [MOP:0000111]	hasExactSynonym [oboInOwl:hasExactSynonym]	eleostearoylation	
+WARN	duplicate_label_synonym	mycolylation [MOP:0000112]	hasExactSynonym [oboInOwl:hasExactSynonym]	mycolylation	
+WARN	duplicate_label_synonym	nervonoylation [MOP:0000113]	hasExactSynonym [oboInOwl:hasExactSynonym]	nervonoylation	
+WARN	duplicate_label_synonym	octanoylation [MOP:0000114]	hasExactSynonym [oboInOwl:hasExactSynonym]	octanoylation	
+WARN	duplicate_label_synonym	palmitoleoylation [MOP:0000115]	hasExactSynonym [oboInOwl:hasExactSynonym]	palmitoleoylation	
+WARN	duplicate_label_synonym	palmitoylation [MOP:0000116]	hasExactSynonym [oboInOwl:hasExactSynonym]	palmitoylation	
+WARN	duplicate_label_synonym	stearoylation [MOP:0000117]	hasExactSynonym [oboInOwl:hasExactSynonym]	stearoylation	
+WARN	duplicate_label_synonym	undecanoylation [MOP:0000118]	hasExactSynonym [oboInOwl:hasExactSynonym]	undecanoylation	
+WARN	duplicate_label_synonym	valerylation [MOP:0000119]	hasExactSynonym [oboInOwl:hasExactSynonym]	valerylation	
+WARN	duplicate_label_synonym	hexanoylation [MOP:0000120]	hasExactSynonym [oboInOwl:hasExactSynonym]	hexanoylation	
+WARN	duplicate_label_synonym	heptanoylation [MOP:0000121]	hasExactSynonym [oboInOwl:hasExactSynonym]	heptanoylation	
+WARN	duplicate_label_synonym	nonanoylation [MOP:0000122]	hasExactSynonym [oboInOwl:hasExactSynonym]	nonanoylation	
+WARN	duplicate_label_synonym	lauroylation [MOP:0000123]	hasExactSynonym [oboInOwl:hasExactSynonym]	lauroylation	
+WARN	duplicate_label_synonym	myristoylation [MOP:0000124]	hasExactSynonym [oboInOwl:hasExactSynonym]	myristoylation	
+WARN	duplicate_label_synonym	docosenoylation [MOP:0000125]	hasExactSynonym [oboInOwl:hasExactSynonym]	docosenoylation	
+WARN	duplicate_label_synonym	cetoleoylation [MOP:0000126]	hasExactSynonym [oboInOwl:hasExactSynonym]	cetoleoylation	
+WARN	duplicate_label_synonym	erucoylation [MOP:0000127]	hasExactSynonym [oboInOwl:hasExactSynonym]	erucoylation	
+WARN	duplicate_label_synonym	icosenoylation [MOP:0000128]	hasExactSynonym [oboInOwl:hasExactSynonym]	icosenoylation	
+WARN	duplicate_label_synonym	gadelaidoylation [MOP:0000129]	hasExactSynonym [oboInOwl:hasExactSynonym]	gadelaidoylation	
+WARN	duplicate_label_synonym	gadoleoylation [MOP:0000130]	hasExactSynonym [oboInOwl:hasExactSynonym]	gadoleoylation	
+WARN	duplicate_label_synonym	gondoylation [MOP:0000131]	hasExactSynonym [oboInOwl:hasExactSynonym]	gondoylation	
+WARN	duplicate_label_synonym	heptatrienoylation [MOP:0000132]	hasExactSynonym [oboInOwl:hasExactSynonym]	heptatrienoylation	
+WARN	duplicate_label_synonym	trans,trans-hepta-2,4,6-trienoylation [MOP:0000133]	hasExactSynonym [oboInOwl:hasExactSynonym]	trans,trans-hepta-2,4,6-trienoylation	
+WARN	duplicate_label_synonym	octadecenoylation [MOP:0000134]	hasExactSynonym [oboInOwl:hasExactSynonym]	octadecenoylation	
+WARN	duplicate_label_synonym	octadec-6-enoylation [MOP:0000135]	hasExactSynonym [oboInOwl:hasExactSynonym]	octadec-6-enoylation	
+WARN	duplicate_label_synonym	petroselaidoylation [MOP:0000136]	hasExactSynonym [oboInOwl:hasExactSynonym]	petroselaidoylation	
+WARN	duplicate_label_synonym	petroselinoylation [MOP:0000137]	hasExactSynonym [oboInOwl:hasExactSynonym]	petroselinoylation	
+WARN	duplicate_label_synonym	vaccenoylation [MOP:0000138]	hasExactSynonym [oboInOwl:hasExactSynonym]	vaccenoylation	
+WARN	duplicate_label_synonym	cis-vaccenoylation [MOP:0000139]	hasExactSynonym [oboInOwl:hasExactSynonym]	cis-vaccenoylation	
+WARN	duplicate_label_synonym	trans-vaccenoylation [MOP:0000140]	hasExactSynonym [oboInOwl:hasExactSynonym]	trans-vaccenoylation	
+WARN	duplicate_label_synonym	octadec-9-enoylation [MOP:0000141]	hasExactSynonym [oboInOwl:hasExactSynonym]	octadec-9-enoylation	
+WARN	duplicate_label_synonym	oleoylation [MOP:0000142]	hasExactSynonym [oboInOwl:hasExactSynonym]	oleoylation	
+WARN	duplicate_label_synonym	elaidoylation [MOP:0000143]	hasExactSynonym [oboInOwl:hasExactSynonym]	elaidoylation	
+WARN	duplicate_label_synonym	margaroylation [MOP:0000144]	hasExactSynonym [oboInOwl:hasExactSynonym]	margaroylation	
+WARN	duplicate_label_synonym	melissoylation [MOP:0000145]	hasExactSynonym [oboInOwl:hasExactSynonym]	melissoylation	
+WARN	duplicate_label_synonym	myristoleoylation [MOP:0000146]	hasExactSynonym [oboInOwl:hasExactSynonym]	myristoleoylation	
+WARN	duplicate_label_synonym	obtusiloylation [MOP:0000147]	hasExactSynonym [oboInOwl:hasExactSynonym]	obtusiloylation	
+WARN	duplicate_label_synonym	lignoceroylation [MOP:0000148]	hasExactSynonym [oboInOwl:hasExactSynonym]	lignoceroylation	
+WARN	duplicate_label_synonym	linoleoylation [MOP:0000149]	hasExactSynonym [oboInOwl:hasExactSynonym]	linoleoylation	
+WARN	duplicate_label_synonym	parinaroylation [MOP:0000150]	hasExactSynonym [oboInOwl:hasExactSynonym]	parinaroylation	
+WARN	duplicate_label_synonym	cis-parinaroylation [MOP:0000151]	hasExactSynonym [oboInOwl:hasExactSynonym]	cis-parinaroylation	
+WARN	duplicate_label_synonym	trans-parinaroylation [MOP:0000152]	hasExactSynonym [oboInOwl:hasExactSynonym]	trans-parinaroylation	
+WARN	duplicate_label_synonym	gamma-glutamylation [MOP:0000153]	hasExactSynonym [oboInOwl:hasExactSynonym]	gamma-glutamylation	
+WARN	duplicate_label_synonym	L-gamma-glutamylation [MOP:0000154]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-gamma-glutamylation	
+WARN	duplicate_label_synonym	D-gamma-glutamylation [MOP:0000155]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-gamma-glutamylation	
+WARN	duplicate_label_synonym	glucuronosylation [MOP:0000156]	hasExactSynonym [oboInOwl:hasExactSynonym]	glucuronosylation	
+WARN	duplicate_label_synonym	D-glucuronoylation [MOP:0000157]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-glucuronoylation	
+WARN	duplicate_label_synonym	glyceroyl 2,3-dihydroxypropanoylation [MOP:0000158]	hasExactSynonym [oboInOwl:hasExactSynonym]	glyceroyl 2,3-dihydroxypropanoylation	
+WARN	duplicate_label_synonym	glycerylation [MOP:0000159]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycerylation	
+WARN	duplicate_label_synonym	glycidoyl 2,3-epoxypropanoylation [MOP:0000160]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycidoyl 2,3-epoxypropanoylation	
+WARN	duplicate_label_synonym	glycoloylation [MOP:0000161]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycoloylation	
+WARN	duplicate_label_synonym	glycosylation [MOP:0000162]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycosylation	
+WARN	duplicate_label_synonym	galactosylation [MOP:0000163]	hasExactSynonym [oboInOwl:hasExactSynonym]	galactosylation	
+WARN	duplicate_label_synonym	beta-D-galactosylation [MOP:0000164]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-D-galactosylation	
+WARN	duplicate_label_synonym	alpha-L-fucosyl-1,2-beta-D-galactosylation [MOP:0000165]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-L-fucosyl-1,2-beta-D-galactosylation	
+WARN	duplicate_label_synonym	alpha-N-acetylneuraminyl-2,3-beta-D-galactosylation [MOP:0000166]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-N-acetylneuraminyl-2,3-beta-D-galactosylation	
+WARN	duplicate_label_synonym	alpha-N-acetylneuraminyl-2,8-alpha-N-acetylneuraminyl-2,3-beta-D-galactosylation [MOP:0000167]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-N-acetylneuraminyl-2,8-alpha-N-acetylneuraminyl-2,3-beta-D-galactosylation	
+WARN	duplicate_label_synonym	glucosylation [MOP:0000169]	hasExactSynonym [oboInOwl:hasExactSynonym]	glucosylation	
+WARN	duplicate_label_synonym	D-galactosyl-1,3-beta-D-galactosyl-1,4-beta-D-glucosylation [MOP:0000170]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-galactosyl-1,3-beta-D-galactosyl-1,4-beta-D-glucosylation	
+WARN	duplicate_label_synonym	D-galactosyl-1,4beta-D-glucosylation [MOP:0000171]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-galactosyl-1,4beta-D-glucosylation	
+WARN	duplicate_label_synonym	alpha-glucosylation [MOP:0000173]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-glucosylation	
+WARN	duplicate_label_synonym	beta-glucosylation [MOP:0000174]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-glucosylation	
+WARN	duplicate_label_synonym	D-galactosyl-(1->4)-beta-D-glucosylation [MOP:0000175]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-galactosyl-(1->4)-beta-D-glucosylation	
+WARN	duplicate_label_synonym	glycosaminylation [MOP:0000176]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycosaminylation	
+WARN	duplicate_label_synonym	galactosaminylation [MOP:0000177]	hasExactSynonym [oboInOwl:hasExactSynonym]	galactosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-D-galactosaminylation [MOP:0000178]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,3-(alpha-N-acetylneuraminyl-2,6)-N-acetyl-D-galactosaminylation [MOP:0000179]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,3-(alpha-N-acetylneuraminyl-2,6)-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,3-N-acetyl-alpha-D-galactosaminylation [MOP:0000180]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,3-N-acetyl-alpha-D-galactosaminylation	
+WARN	duplicate_label_synonym	alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,3-N-acetyl-D-galactosaminylation [MOP:0000181]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-N-acetylneuraminyl-2,3-beta-D-galactosyl-1,3-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	beta-D-galactosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,6)-N-acetyl-D-galactosaminylation [MOP:0000182]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-D-galactosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,6)-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	beta-D-galactosyl-1,3-(N-acetyl-D-glucosaminyl-1,6)-N-acetyl-D-galactosaminylation [MOP:0000183]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-D-galactosyl-1,3-(N-acetyl-D-glucosaminyl-1,6)-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	beta-D-galactosyl-1,3-N-acetyl-alpha-D-galactosaminylation [MOP:0000184]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-D-galactosyl-1,3-N-acetyl-alpha-D-galactosaminylation	
+WARN	duplicate_label_synonym	beta-D-galactosyl-1,3-N-acetyl-D-galactosaminylation [MOP:0000185]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-D-galactosyl-1,3-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,6)-N-acetyl-D-galactosaminylation [MOP:0000186]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,6)-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,3-N-acetyl-D-galactosaminylation [MOP:0000187]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,3-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,3)-N-acetyl-D-galactosaminylation [MOP:0000188]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,3)-N-acetyl-D-galactosaminylation	
+WARN	duplicate_label_synonym	glucosaminylation [MOP:0000189]	hasExactSynonym [oboInOwl:hasExactSynonym]	glucosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-D-glucosaminylation [MOP:0000190]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	1,3-beta-D-galactosyl-(1,4-alpha-L-fucosyl)-N-acetyl-D-glucosaminylation [MOP:0000191]	hasExactSynonym [oboInOwl:hasExactSynonym]	1,3-beta-D-galactosyl-(1,4-alpha-L-fucosyl)-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	3-O-beta-D-galactosyl-N-acetyl-D-glucosaminylation [MOP:0000192]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-O-beta-D-galactosyl-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	1,4-beta-D-galactosyl-(1,3-alpha-L-fucosyl)-N-acetyl-D-glucosaminylation [MOP:0000193]	hasExactSynonym [oboInOwl:hasExactSynonym]	1,4-beta-D-galactosyl-(1,3-alpha-L-fucosyl)-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation [MOP:0000194]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	alpha-D-galactosyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation [MOP:0000195]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-D-galactosyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	alpha-D-galactosyl-beta-1,3-D-galactosyl-beta-1,4-N-acetyl-D-glucosaminylation [MOP:0000196]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-D-galactosyl-beta-1,3-D-galactosyl-beta-1,4-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	beta-D-galactosyl-(1,4)-N-acetyl-D-glucosaminylation [MOP:0000197]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-D-galactosyl-(1,4)-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,2-(N-acetyl-beta-D-glucosaminyl-1,6)-1,2-alpha-D-mannosyl-1,3(6)-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6(3))-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation [MOP:0000198]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,2-(N-acetyl-beta-D-glucosaminyl-1,6)-1,2-alpha-D-mannosyl-1,3(6)-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6(3))-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3(6)-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl,1,6(3))-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation [MOP:0000199]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3(6)-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl,1,6(3))-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation [MOP:0000200]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-(N-acetyl-beta-D-glucosaminyl-1,4)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation [MOP:0000201]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-beta-D-mannosyl-1,4-N-acetyl-beta-D-glucosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation [MOP:0000202]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,6-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation [MOP:0000203]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,6-beta-D-galactosyl-1,4-N-acetyl-D-glucosaminylation	
+WARN	duplicate_label_synonym	iduronosylation [MOP:0000204]	hasExactSynonym [oboInOwl:hasExactSynonym]	iduronosylation	
+WARN	duplicate_label_synonym	5\'-inosinylation [MOP:0000205]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-inosinylation	
+WARN	duplicate_label_synonym	mannosylation [MOP:0000206]	hasExactSynonym [oboInOwl:hasExactSynonym]	mannosylation	
+WARN	duplicate_label_synonym	(N-acetyl-beta-D-glucosaminyl-1,2)-alpha-D-mannosyl-1,3-(beta-N-acetyl-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-beta-D-mannosylation [MOP:0000207]	hasExactSynonym [oboInOwl:hasExactSynonym]	(N-acetyl-beta-D-glucosaminyl-1,2)-alpha-D-mannosyl-1,3-(beta-N-acetyl-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-beta-D-mannosylation	
+WARN	duplicate_label_synonym	alpha-D-mannosyl-1,3-(r1)-beta-D-mannosylation [MOP:0000208]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-D-mannosyl-1,3-(r1)-beta-D-mannosylation	
+WARN	duplicate_label_synonym	alpha-mannosylation [MOP:0000210]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-mannosylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-beta-D-mannosylation [MOP:0000211]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3-beta-D-mannosylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3)-beta-D-mannosylation [MOP:0000212]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2-alpha-D-mannosyl-1,3)-beta-D-mannosylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,4-(N-acetyl-D-glucosaminyl-1,2)-alpha-D-mannosyl-1,3-(beta-N-acetyl-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-beta-D-mannosylation [MOP:0000213]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,4-(N-acetyl-D-glucosaminyl-1,2)-alpha-D-mannosyl-1,3-(beta-N-acetyl-D-glucosaminyl-1,2-alpha-D-mannosyl-1,6)-beta-D-mannosylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2)-beta-D-mannosylation [MOP:0000214]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2)-beta-D-mannosylation	
+WARN	duplicate_label_synonym	N-acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2)-(N-acetyl-beta-D-glucosaminyl-1,4)-D-mannosylation [MOP:0000215]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-acetyl-beta-D-glucosaminyl-1,6-(N-acetyl-beta-D-glucosaminyl-1,2)-(N-acetyl-beta-D-glucosaminyl-1,4)-D-mannosylation	
+WARN	duplicate_label_synonym	alpha-D-mannosyl-(1->3)-beta-D-mannosylation [MOP:0000216]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-D-mannosyl-(1->3)-beta-D-mannosylation	
+WARN	duplicate_label_synonym	neuraminosylation [MOP:0000217]	hasExactSynonym [oboInOwl:hasExactSynonym]	neuraminosylation	
+WARN	duplicate_label_synonym	neuraminoylation [MOP:0000218]	hasExactSynonym [oboInOwl:hasExactSynonym]	neuraminoylation	
+WARN	duplicate_label_synonym	ribosylation [MOP:0000219]	hasExactSynonym [oboInOwl:hasExactSynonym]	ribosylation	
+WARN	duplicate_label_synonym	adenosinediphosphoribosylation [MOP:0000220]	hasExactSynonym [oboInOwl:hasExactSynonym]	adenosinediphosphoribosylation	
+WARN	duplicate_label_synonym	2-deoxyribosylation [MOP:0000222]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-deoxyribosylation	
+WARN	duplicate_label_synonym	sialosylation [MOP:0000223]	hasExactSynonym [oboInOwl:hasExactSynonym]	sialosylation	
+WARN	duplicate_label_synonym	hemicystylation [MOP:0000224]	hasExactSynonym [oboInOwl:hasExactSynonym]	hemicystylation	
+WARN	duplicate_label_synonym	mevalonoylation [MOP:0000225]	hasExactSynonym [oboInOwl:hasExactSynonym]	mevalonoylation	
+WARN	duplicate_label_synonym	montanoylation [MOP:0000226]	hasExactSynonym [oboInOwl:hasExactSynonym]	montanoylation	
+WARN	duplicate_label_synonym	muramylation [MOP:0000227]	hasExactSynonym [oboInOwl:hasExactSynonym]	muramylation	
+WARN	duplicate_label_synonym	nucleotidylation [MOP:0000228]	hasExactSynonym [oboInOwl:hasExactSynonym]	nucleotidylation	
+WARN	duplicate_label_synonym	5\'-adenylylation [MOP:0000229]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-adenylylation	
+WARN	duplicate_label_synonym	5\'-cytidylylation [MOP:0000230]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-cytidylylation	
+WARN	duplicate_label_synonym	5\'-thymidylylation [MOP:0000231]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-thymidylylation	
+WARN	duplicate_label_synonym	5\'-uridylylation [MOP:0000232]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-uridylylation	
+WARN	duplicate_label_synonym	5\'-guanylylation [MOP:0000233]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-guanylylation	
+WARN	duplicate_label_synonym	5\'-ribothymidylylation [MOP:0000234]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-ribothymidylylation	
+WARN	duplicate_label_synonym	5\'-inosinylylation [MOP:0000235]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-inosinylylation	
+WARN	duplicate_label_synonym	pantothenylation [MOP:0000236]	hasExactSynonym [oboInOwl:hasExactSynonym]	pantothenylation	
+WARN	duplicate_label_synonym	pantoylation [MOP:0000237]	hasExactSynonym [oboInOwl:hasExactSynonym]	pantoylation	
+WARN	duplicate_label_synonym	peptidylation [MOP:0000238]	hasExactSynonym [oboInOwl:hasExactSynonym]	peptidylation	
+WARN	duplicate_label_synonym	phthalylation [MOP:0000239]	hasExactSynonym [oboInOwl:hasExactSynonym]	phthalylation	
+WARN	duplicate_label_synonym	propionylation [MOP:0000240]	hasExactSynonym [oboInOwl:hasExactSynonym]	propionylation	
+WARN	duplicate_label_synonym	pyruvoylation [MOP:0000241]	hasExactSynonym [oboInOwl:hasExactSynonym]	pyruvoylation	
+WARN	duplicate_label_synonym	retinoylation [MOP:0000242]	hasExactSynonym [oboInOwl:hasExactSynonym]	retinoylation	
+WARN	duplicate_label_synonym	sialoylation [MOP:0000243]	hasExactSynonym [oboInOwl:hasExactSynonym]	sialoylation	
+WARN	duplicate_label_synonym	3-carboxypropanoylation [MOP:0000244]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-carboxypropanoylation	
+WARN	duplicate_label_synonym	trienoylation [MOP:0000245]	hasExactSynonym [oboInOwl:hasExactSynonym]	trienoylation	
+WARN	duplicate_label_synonym	anilinocarbonylation [MOP:0000246]	hasExactSynonym [oboInOwl:hasExactSynonym]	anilinocarbonylation	
+WARN	duplicate_label_synonym	pteroylation [MOP:0000247]	hasExactSynonym [oboInOwl:hasExactSynonym]	pteroylation	
+WARN	duplicate_label_synonym	3-carboxyprop-2-enoylation [MOP:0000248]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-carboxyprop-2-enoylation	
+WARN	duplicate_label_synonym	(Z)-3-carboxyprop-2-enoylation [MOP:0000249]	hasExactSynonym [oboInOwl:hasExactSynonym]	(Z)-3-carboxyprop-2-enoylation	
+WARN	duplicate_label_synonym	(E)-3-carboxyprop-2-enoylation [MOP:0000250]	hasExactSynonym [oboInOwl:hasExactSynonym]	(E)-3-carboxyprop-2-enoylation	
+WARN	duplicate_label_synonym	2,6-dichlorobenzoylation [MOP:0000251]	hasExactSynonym [oboInOwl:hasExactSynonym]	2,6-dichlorobenzoylation	
+WARN	duplicate_label_synonym	alpha-muramylation [MOP:0000252]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-muramylation	
+WARN	duplicate_label_synonym	beta-muramylation [MOP:0000253]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-muramylation	
+WARN	duplicate_label_synonym	dihydrolipoylation [MOP:0000254]	hasExactSynonym [oboInOwl:hasExactSynonym]	dihydrolipoylation	
+WARN	duplicate_label_synonym	sinapoylation [MOP:0000255]	hasExactSynonym [oboInOwl:hasExactSynonym]	sinapoylation	
+WARN	duplicate_label_synonym	carboxyacetylation [MOP:0000256]	hasExactSynonym [oboInOwl:hasExactSynonym]	carboxyacetylation	
+WARN	duplicate_label_synonym	divalent carboacylation [MOP:0000257]	hasExactSynonym [oboInOwl:hasExactSynonym]	divalent carboacylation	
+WARN	duplicate_label_synonym	aspartoylation [MOP:0000258]	hasExactSynonym [oboInOwl:hasExactSynonym]	aspartoylation	
+WARN	duplicate_label_synonym	L-aspartoylation [MOP:0000259]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-aspartoylation	
+WARN	duplicate_label_synonym	D-aspartoylation [MOP:0000260]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-aspartoylation	
+WARN	duplicate_label_synonym	citraconoylation [MOP:0000261]	hasExactSynonym [oboInOwl:hasExactSynonym]	citraconoylation	
+WARN	duplicate_label_synonym	glutamoylation [MOP:0000262]	hasExactSynonym [oboInOwl:hasExactSynonym]	glutamoylation	
+WARN	duplicate_label_synonym	D-glutamoylation [MOP:0000263]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-glutamoylation	
+WARN	duplicate_label_synonym	L-glutamoylation [MOP:0000264]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-glutamoylation	
+WARN	duplicate_label_synonym	maloylation [MOP:0000265]	hasExactSynonym [oboInOwl:hasExactSynonym]	maloylation	
+WARN	duplicate_label_synonym	phthaloylation [MOP:0000266]	hasExactSynonym [oboInOwl:hasExactSynonym]	phthaloylation	
+WARN	duplicate_label_synonym	succinylation [MOP:0000267]	hasExactSynonym [oboInOwl:hasExactSynonym]	succinylation	
+WARN	duplicate_label_synonym	butenedioylation [MOP:0000268]	hasExactSynonym [oboInOwl:hasExactSynonym]	butenedioylation	
+WARN	duplicate_label_synonym	fumaroylation [MOP:0000269]	hasExactSynonym [oboInOwl:hasExactSynonym]	fumaroylation	
+WARN	duplicate_label_synonym	maleoylation [MOP:0000270]	hasExactSynonym [oboInOwl:hasExactSynonym]	maleoylation	
+WARN	duplicate_label_synonym	hexanedioylation [MOP:0000271]	hasExactSynonym [oboInOwl:hasExactSynonym]	hexanedioylation	
+WARN	duplicate_label_synonym	malonylation [MOP:0000272]	hasExactSynonym [oboInOwl:hasExactSynonym]	malonylation	
+WARN	duplicate_label_synonym	ornithylation [MOP:0000273]	hasExactSynonym [oboInOwl:hasExactSynonym]	ornithylation	
+WARN	duplicate_label_synonym	L-ornithylation [MOP:0000274]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-ornithylation	
+WARN	duplicate_label_synonym	half-cystylation [MOP:0000275]	hasExactSynonym [oboInOwl:hasExactSynonym]	half-cystylation	
+WARN	duplicate_label_synonym	L-tyrosin-O(4)-ylation [MOP:0000276]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-tyrosin-O(4)-ylation	
+WARN	duplicate_label_synonym	L-threonin-O(3)-ylation [MOP:0000277]	hasExactSynonym [oboInOwl:hasExactSynonym]	L-threonin-O(3)-ylation	
+WARN	duplicate_label_synonym	D-tyrosin-O(4)-ylation [MOP:0000278]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-tyrosin-O(4)-ylation	
+WARN	duplicate_label_synonym	D-threonin-O(3)-ylation [MOP:0000279]	hasExactSynonym [oboInOwl:hasExactSynonym]	D-threonin-O(3)-ylation	
+WARN	duplicate_label_synonym	tyrosin-O(4)-ylation [MOP:0000280]	hasExactSynonym [oboInOwl:hasExactSynonym]	tyrosin-O(4)-ylation	
+WARN	duplicate_label_synonym	threonin-O(3)-ylation [MOP:0000281]	hasExactSynonym [oboInOwl:hasExactSynonym]	threonin-O(3)-ylation	
+WARN	duplicate_label_synonym	oxalylation [MOP:0000282]	hasExactSynonym [oboInOwl:hasExactSynonym]	oxalylation	
+WARN	duplicate_label_synonym	fumagillin-2-ylation [MOP:0000283]	hasExactSynonym [oboInOwl:hasExactSynonym]	fumagillin-2-ylation	
+WARN	duplicate_label_synonym	acetoacetylation [MOP:0000284]	hasExactSynonym [oboInOwl:hasExactSynonym]	acetoacetylation	
+WARN	duplicate_label_synonym	alpha-linolenoylation [MOP:0000285]	hasExactSynonym [oboInOwl:hasExactSynonym]	alpha-linolenoylation	
+WARN	duplicate_label_synonym	gamma-linolenoylation [MOP:0000286]	hasExactSynonym [oboInOwl:hasExactSynonym]	gamma-linolenoylation	
+WARN	duplicate_label_synonym	carbamimidoylation [MOP:0000287]	hasExactSynonym [oboInOwl:hasExactSynonym]	carbamimidoylation	
+WARN	duplicate_label_synonym	formimidoylation [MOP:0000288]	hasExactSynonym [oboInOwl:hasExactSynonym]	formimidoylation	
+WARN	duplicate_label_synonym	trifluoroacetylation [MOP:0000289]	hasExactSynonym [oboInOwl:hasExactSynonym]	trifluoroacetylation	
+WARN	duplicate_label_synonym	carboxymethylation [MOP:0000290]	hasExactSynonym [oboInOwl:hasExactSynonym]	carboxymethylation	
+WARN	duplicate_label_synonym	methylenecarbonylation [MOP:0000291]	hasExactSynonym [oboInOwl:hasExactSynonym]	methylenecarbonylation	
+WARN	duplicate_label_synonym	N-hydroxyacetimidoylation [MOP:0000292]	hasExactSynonym [oboInOwl:hasExactSynonym]	N-hydroxyacetimidoylation	
+WARN	duplicate_label_synonym	acryloylation [MOP:0000293]	hasExactSynonym [oboInOwl:hasExactSynonym]	acryloylation	
+WARN	duplicate_label_synonym	tert-butoxycarbonylation [MOP:0000294]	hasExactSynonym [oboInOwl:hasExactSynonym]	tert-butoxycarbonylation	
+WARN	duplicate_label_synonym	sulfanediylation [MOP:0000295]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfanediylation	
+WARN	duplicate_label_synonym	phenylsulfanylation [MOP:0000296]	hasExactSynonym [oboInOwl:hasExactSynonym]	phenylsulfanylation	
+WARN	duplicate_label_synonym	methylsulfanylation [MOP:0000297]	hasExactSynonym [oboInOwl:hasExactSynonym]	methylsulfanylation	
+WARN	duplicate_label_synonym	sulfaniumylation [MOP:0000298]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfaniumylation	
+WARN	duplicate_label_synonym	disulfanidylation [MOP:0000299]	hasExactSynonym [oboInOwl:hasExactSynonym]	disulfanidylation	
+WARN	duplicate_label_synonym	disulfanediylation [MOP:0000300]	hasExactSynonym [oboInOwl:hasExactSynonym]	disulfanediylation	
+WARN	duplicate_label_synonym	disulfanylation [MOP:0000301]	hasExactSynonym [oboInOwl:hasExactSynonym]	disulfanylation	
+WARN	duplicate_label_synonym	tetrasulfanylation [MOP:0000302]	hasExactSynonym [oboInOwl:hasExactSynonym]	tetrasulfanylation	
+WARN	duplicate_label_synonym	tetrasulfanediylation [MOP:0000303]	hasExactSynonym [oboInOwl:hasExactSynonym]	tetrasulfanediylation	
+WARN	duplicate_label_synonym	trisulfanylation [MOP:0000304]	hasExactSynonym [oboInOwl:hasExactSynonym]	trisulfanylation	
+WARN	duplicate_label_synonym	trisulfanediylation [MOP:0000305]	hasExactSynonym [oboInOwl:hasExactSynonym]	trisulfanediylation	
+WARN	duplicate_label_synonym	pentasulfanylation [MOP:0000306]	hasExactSynonym [oboInOwl:hasExactSynonym]	pentasulfanylation	
+WARN	duplicate_label_synonym	diselanylation [MOP:0000307]	hasExactSynonym [oboInOwl:hasExactSynonym]	diselanylation	
+WARN	duplicate_label_synonym	tellanylation [MOP:0000308]	hasExactSynonym [oboInOwl:hasExactSynonym]	tellanylation	
+WARN	duplicate_label_synonym	tellanediylation [MOP:0000309]	hasExactSynonym [oboInOwl:hasExactSynonym]	tellanediylation	
+WARN	duplicate_label_synonym	tellaniumylation [MOP:0000310]	hasExactSynonym [oboInOwl:hasExactSynonym]	tellaniumylation	
+WARN	duplicate_label_synonym	ditellanylation [MOP:0000311]	hasExactSynonym [oboInOwl:hasExactSynonym]	ditellanylation	
+WARN	duplicate_label_synonym	amidylation [MOP:0000312]	hasExactSynonym [oboInOwl:hasExactSynonym]	amidylation	
+WARN	duplicate_label_synonym	azanediylation [MOP:0000313]	hasExactSynonym [oboInOwl:hasExactSynonym]	azanediylation	
+WARN	duplicate_label_synonym	2-aminoethylation [MOP:0000314]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-aminoethylation	
+WARN	duplicate_label_synonym	4-aminobutylation [MOP:0000315]	hasExactSynonym [oboInOwl:hasExactSynonym]	4-aminobutylation	
+WARN	duplicate_label_synonym	azanetriylation [MOP:0000316]	hasExactSynonym [oboInOwl:hasExactSynonym]	azanetriylation	
+WARN	duplicate_label_synonym	hydrazine-1,2-diylation [MOP:0000317]	hasExactSynonym [oboInOwl:hasExactSynonym]	hydrazine-1,2-diylation	
+WARN	duplicate_label_synonym	diazyn-1-ium-1-ylation [MOP:0000318]	hasExactSynonym [oboInOwl:hasExactSynonym]	diazyn-1-ium-1-ylation	
+WARN	duplicate_label_synonym	phosphanetriylation [MOP:0000319]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphanetriylation	
+WARN	duplicate_label_synonym	phosphanediylation [MOP:0000320]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphanediylation	
+WARN	duplicate_label_synonym	phosphanylation [MOP:0000321]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphanylation	
+WARN	duplicate_label_synonym	lambda(5)-phosphanylation [MOP:0000322]	hasExactSynonym [oboInOwl:hasExactSynonym]	lambda(5)-phosphanylation	
+WARN	duplicate_label_synonym	phosphaniumylation [MOP:0000323]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphaniumylation	
+WARN	duplicate_label_synonym	arsanylation [MOP:0000324]	hasExactSynonym [oboInOwl:hasExactSynonym]	arsanylation	
+WARN	duplicate_label_synonym	arsanediylation [MOP:0000325]	hasExactSynonym [oboInOwl:hasExactSynonym]	arsanediylation	
+WARN	duplicate_label_synonym	arsanetriylation [MOP:0000326]	hasExactSynonym [oboInOwl:hasExactSynonym]	arsanetriylation	
+WARN	duplicate_label_synonym	arsaniumylation [MOP:0000327]	hasExactSynonym [oboInOwl:hasExactSynonym]	arsaniumylation	
+WARN	duplicate_label_synonym	lambda(5)-arsanylation [MOP:0000328]	hasExactSynonym [oboInOwl:hasExactSynonym]	lambda(5)-arsanylation	
+WARN	duplicate_label_synonym	stibaniumylation [MOP:0000329]	hasExactSynonym [oboInOwl:hasExactSynonym]	stibaniumylation	
+WARN	duplicate_label_synonym	lambda(5)-stibanylation [MOP:0000330]	hasExactSynonym [oboInOwl:hasExactSynonym]	lambda(5)-stibanylation	
+WARN	duplicate_label_synonym	boranylation [MOP:0000331]	hasExactSynonym [oboInOwl:hasExactSynonym]	boranylation	
+WARN	duplicate_label_synonym	boranetriylation [MOP:0000332]	hasExactSynonym [oboInOwl:hasExactSynonym]	boranetriylation	
+WARN	duplicate_label_synonym	boranediylation [MOP:0000333]	hasExactSynonym [oboInOwl:hasExactSynonym]	boranediylation	
+WARN	duplicate_label_synonym	boranuidylation [MOP:0000334]	hasExactSynonym [oboInOwl:hasExactSynonym]	boranuidylation	
+WARN	duplicate_label_synonym	germylation [MOP:0000335]	hasExactSynonym [oboInOwl:hasExactSynonym]	germylation	
+WARN	duplicate_label_synonym	germanediylation [MOP:0000336]	hasExactSynonym [oboInOwl:hasExactSynonym]	germanediylation	
+WARN	duplicate_label_synonym	germanetetraylation [MOP:0000337]	hasExactSynonym [oboInOwl:hasExactSynonym]	germanetetraylation	
+WARN	duplicate_label_synonym	germanetriylation [MOP:0000338]	hasExactSynonym [oboInOwl:hasExactSynonym]	germanetriylation	
+WARN	duplicate_label_synonym	silylation [MOP:0000339]	hasExactSynonym [oboInOwl:hasExactSynonym]	silylation	
+WARN	duplicate_label_synonym	silanediylation [MOP:0000340]	hasExactSynonym [oboInOwl:hasExactSynonym]	silanediylation	
+WARN	duplicate_label_synonym	silanetriylation [MOP:0000341]	hasExactSynonym [oboInOwl:hasExactSynonym]	silanetriylation	
+WARN	duplicate_label_synonym	silanetetraylation [MOP:0000342]	hasExactSynonym [oboInOwl:hasExactSynonym]	silanetetraylation	
+WARN	duplicate_label_synonym	disilanylation [MOP:0000343]	hasExactSynonym [oboInOwl:hasExactSynonym]	disilanylation	
+WARN	duplicate_label_synonym	alumanylation [MOP:0000344]	hasExactSynonym [oboInOwl:hasExactSynonym]	alumanylation	
+WARN	duplicate_label_synonym	stannylation [MOP:0000345]	hasExactSynonym [oboInOwl:hasExactSynonym]	stannylation	
+WARN	duplicate_label_synonym	stannanetriylation [MOP:0000346]	hasExactSynonym [oboInOwl:hasExactSynonym]	stannanetriylation	
+WARN	duplicate_label_synonym	plumbanetriylation [MOP:0000347]	hasExactSynonym [oboInOwl:hasExactSynonym]	plumbanetriylation	
+WARN	duplicate_label_synonym	plumbylation [MOP:0000348]	hasExactSynonym [oboInOwl:hasExactSynonym]	plumbylation	
+WARN	duplicate_label_synonym	gallanylation [MOP:0000349]	hasExactSynonym [oboInOwl:hasExactSynonym]	gallanylation	
+WARN	duplicate_label_synonym	indiganylation [MOP:0000350]	hasExactSynonym [oboInOwl:hasExactSynonym]	indiganylation	
+WARN	duplicate_label_synonym	thallanylation [MOP:0000351]	hasExactSynonym [oboInOwl:hasExactSynonym]	thallanylation	
+WARN	duplicate_label_synonym	phosphatidylation [MOP:0000352]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphatidylation	
+WARN	duplicate_label_synonym	nucleosidylation [MOP:0000353]	hasExactSynonym [oboInOwl:hasExactSynonym]	nucleosidylation	
+WARN	duplicate_label_synonym	guanosylation [MOP:0000354]	hasExactSynonym [oboInOwl:hasExactSynonym]	guanosylation	
+WARN	duplicate_label_synonym	inosylation [MOP:0000355]	hasExactSynonym [oboInOwl:hasExactSynonym]	inosylation	
+WARN	duplicate_label_synonym	thymidylation [MOP:0000356]	hasExactSynonym [oboInOwl:hasExactSynonym]	thymidylation	
+WARN	duplicate_label_synonym	adenosylation [MOP:0000357]	hasExactSynonym [oboInOwl:hasExactSynonym]	adenosylation	
+WARN	duplicate_label_synonym	5\'-adenosylation [MOP:0000358]	hasExactSynonym [oboInOwl:hasExactSynonym]	5'-adenosylation	
+WARN	duplicate_label_synonym	uridylation [MOP:0000359]	hasExactSynonym [oboInOwl:hasExactSynonym]	uridylation	
+WARN	duplicate_label_synonym	cytidylation [MOP:0000360]	hasExactSynonym [oboInOwl:hasExactSynonym]	cytidylation	
+WARN	duplicate_label_synonym	dolichylation [MOP:0000361]	hasExactSynonym [oboInOwl:hasExactSynonym]	dolichylation	
+WARN	duplicate_label_synonym	2-trans,6-trans-farnesylation [MOP:0000362]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-trans,6-trans-farnesylation	
+WARN	duplicate_label_synonym	margarylation [MOP:0000363]	hasExactSynonym [oboInOwl:hasExactSynonym]	margarylation	
+WARN	duplicate_label_synonym	methylation [MOP:0000364]	hasExactSynonym [oboInOwl:hasExactSynonym]	methylation	
+WARN	duplicate_label_synonym	methanetetraylation [MOP:0000365]	hasExactSynonym [oboInOwl:hasExactSynonym]	methanetetraylation	
+WARN	duplicate_label_synonym	methanetriylation [MOP:0000366]	hasExactSynonym [oboInOwl:hasExactSynonym]	methanetriylation	
+WARN	duplicate_label_synonym	trichloromethylation [MOP:0000367]	hasExactSynonym [oboInOwl:hasExactSynonym]	trichloromethylation	
+WARN	duplicate_label_synonym	trifluoromethylation [MOP:0000368]	hasExactSynonym [oboInOwl:hasExactSynonym]	trifluoromethylation	
+WARN	duplicate_label_synonym	alkylation [MOP:0000369]	hasExactSynonym [oboInOwl:hasExactSynonym]	alkylation	
+WARN	duplicate_label_synonym	butylation [MOP:0000370]	hasExactSynonym [oboInOwl:hasExactSynonym]	butylation	
+WARN	duplicate_label_synonym	cerylation [MOP:0000371]	hasExactSynonym [oboInOwl:hasExactSynonym]	cerylation	
+WARN	duplicate_label_synonym	decylation [MOP:0000372]	hasExactSynonym [oboInOwl:hasExactSynonym]	decylation	
+WARN	duplicate_label_synonym	dodecylation [MOP:0000373]	hasExactSynonym [oboInOwl:hasExactSynonym]	dodecylation	
+WARN	duplicate_label_synonym	heptylation [MOP:0000374]	hasExactSynonym [oboInOwl:hasExactSynonym]	heptylation	
+WARN	duplicate_label_synonym	hexylation [MOP:0000375]	hasExactSynonym [oboInOwl:hasExactSynonym]	hexylation	
+WARN	duplicate_label_synonym	myricylation [MOP:0000376]	hasExactSynonym [oboInOwl:hasExactSynonym]	myricylation	
+WARN	duplicate_label_synonym	myristylation [MOP:0000377]	hasExactSynonym [oboInOwl:hasExactSynonym]	myristylation	
+WARN	duplicate_label_synonym	nonylation [MOP:0000378]	hasExactSynonym [oboInOwl:hasExactSynonym]	nonylation	
+WARN	duplicate_label_synonym	octylation [MOP:0000379]	hasExactSynonym [oboInOwl:hasExactSynonym]	octylation	
+WARN	duplicate_label_synonym	palmitylation [MOP:0000380]	hasExactSynonym [oboInOwl:hasExactSynonym]	palmitylation	
+WARN	duplicate_label_synonym	pentylation [MOP:0000381]	hasExactSynonym [oboInOwl:hasExactSynonym]	pentylation	
+WARN	duplicate_label_synonym	propylation [MOP:0000382]	hasExactSynonym [oboInOwl:hasExactSynonym]	propylation	
+WARN	duplicate_label_synonym	stearylation [MOP:0000383]	hasExactSynonym [oboInOwl:hasExactSynonym]	stearylation	
+WARN	duplicate_label_synonym	isopropylation [MOP:0000384]	hasExactSynonym [oboInOwl:hasExactSynonym]	isopropylation	
+WARN	duplicate_label_synonym	ethylation [MOP:0000385]	hasExactSynonym [oboInOwl:hasExactSynonym]	ethylation	
+WARN	duplicate_label_synonym	isobutylation [MOP:0000386]	hasExactSynonym [oboInOwl:hasExactSynonym]	isobutylation	
+WARN	duplicate_label_synonym	pentan-2-ylation [MOP:0000387]	hasExactSynonym [oboInOwl:hasExactSynonym]	pentan-2-ylation	
+WARN	duplicate_label_synonym	isopentylation [MOP:0000388]	hasExactSynonym [oboInOwl:hasExactSynonym]	isopentylation	
+WARN	duplicate_label_synonym	3-methylbutan-2-ylation [MOP:0000389]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-methylbutan-2-ylation	
+WARN	duplicate_label_synonym	tert-pentylation [MOP:0000390]	hasExactSynonym [oboInOwl:hasExactSynonym]	tert-pentylation	
+WARN	duplicate_label_synonym	neopentylation [MOP:0000391]	hasExactSynonym [oboInOwl:hasExactSynonym]	neopentylation	
+WARN	duplicate_label_synonym	undecylation [MOP:0000392]	hasExactSynonym [oboInOwl:hasExactSynonym]	undecylation	
+WARN	duplicate_label_synonym	tridecylation [MOP:0000393]	hasExactSynonym [oboInOwl:hasExactSynonym]	tridecylation	
+WARN	duplicate_label_synonym	pentadecylation [MOP:0000394]	hasExactSynonym [oboInOwl:hasExactSynonym]	pentadecylation	
+WARN	duplicate_label_synonym	nonadecylation [MOP:0000395]	hasExactSynonym [oboInOwl:hasExactSynonym]	nonadecylation	
+WARN	duplicate_label_synonym	arachidylation [MOP:0000396]	hasExactSynonym [oboInOwl:hasExactSynonym]	arachidylation	
+WARN	duplicate_label_synonym	henicosylation [MOP:0000397]	hasExactSynonym [oboInOwl:hasExactSynonym]	henicosylation	
+WARN	duplicate_label_synonym	behenylation [MOP:0000398]	hasExactSynonym [oboInOwl:hasExactSynonym]	behenylation	
+WARN	duplicate_label_synonym	tricosylation [MOP:0000399]	hasExactSynonym [oboInOwl:hasExactSynonym]	tricosylation	
+WARN	duplicate_label_synonym	lignocerylation [MOP:0000400]	hasExactSynonym [oboInOwl:hasExactSynonym]	lignocerylation	
+WARN	duplicate_label_synonym	pentacosylation [MOP:0000401]	hasExactSynonym [oboInOwl:hasExactSynonym]	pentacosylation	
+WARN	duplicate_label_synonym	heptacosylation [MOP:0000402]	hasExactSynonym [oboInOwl:hasExactSynonym]	heptacosylation	
+WARN	duplicate_label_synonym	montanylation [MOP:0000403]	hasExactSynonym [oboInOwl:hasExactSynonym]	montanylation	
+WARN	duplicate_label_synonym	nonacosylation [MOP:0000404]	hasExactSynonym [oboInOwl:hasExactSynonym]	nonacosylation	
+WARN	duplicate_label_synonym	sec-butylation [MOP:0000405]	hasExactSynonym [oboInOwl:hasExactSynonym]	sec-butylation	
+WARN	duplicate_label_synonym	tert-butylation [MOP:0000406]	hasExactSynonym [oboInOwl:hasExactSynonym]	tert-butylation	
+WARN	duplicate_label_synonym	pentan-3-ylation [MOP:0000407]	hasExactSynonym [oboInOwl:hasExactSynonym]	pentan-3-ylation	
+WARN	duplicate_label_synonym	2-chloroethylation [MOP:0000408]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-chloroethylation	
+WARN	duplicate_label_synonym	1-chloroethylation [MOP:0000409]	hasExactSynonym [oboInOwl:hasExactSynonym]	1-chloroethylation	
+WARN	duplicate_label_synonym	hydrocarbylation [MOP:0000410]	hasExactSynonym [oboInOwl:hasExactSynonym]	hydrocarbylation	
+WARN	duplicate_label_synonym	arylation [MOP:0000411]	hasExactSynonym [oboInOwl:hasExactSynonym]	arylation	
+WARN	duplicate_label_synonym	phenylation [MOP:0000412]	hasExactSynonym [oboInOwl:hasExactSynonym]	phenylation	
+WARN	duplicate_label_synonym	biphenyl-4-ylation [MOP:0000413]	hasExactSynonym [oboInOwl:hasExactSynonym]	biphenyl-4-ylation	
+WARN	duplicate_label_synonym	naphthylation [MOP:0000414]	hasExactSynonym [oboInOwl:hasExactSynonym]	naphthylation	
+WARN	duplicate_label_synonym	1-naphthylation [MOP:0000415]	hasExactSynonym [oboInOwl:hasExactSynonym]	1-naphthylation	
+WARN	duplicate_label_synonym	2-naphthylation [MOP:0000416]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-naphthylation	
+WARN	duplicate_label_synonym	cycloalkylation [MOP:0000417]	hasExactSynonym [oboInOwl:hasExactSynonym]	cycloalkylation	
+WARN	duplicate_label_synonym	cyclobutylation [MOP:0000418]	hasExactSynonym [oboInOwl:hasExactSynonym]	cyclobutylation	
+WARN	duplicate_label_synonym	cyclopropylation [MOP:0000419]	hasExactSynonym [oboInOwl:hasExactSynonym]	cyclopropylation	
+WARN	duplicate_label_synonym	alkenylation [MOP:0000420]	hasExactSynonym [oboInOwl:hasExactSynonym]	alkenylation	
+WARN	duplicate_label_synonym	oleylation [MOP:0000421]	hasExactSynonym [oboInOwl:hasExactSynonym]	oleylation	
+WARN	duplicate_label_synonym	allylation [MOP:0000422]	hasExactSynonym [oboInOwl:hasExactSynonym]	allylation	
+WARN	duplicate_label_synonym	isopropenylation [MOP:0000423]	hasExactSynonym [oboInOwl:hasExactSynonym]	isopropenylation	
+WARN	duplicate_label_synonym	vinylation [MOP:0000424]	hasExactSynonym [oboInOwl:hasExactSynonym]	vinylation	
+WARN	duplicate_label_synonym	prenylation [MOP:0000425]	hasExactSynonym [oboInOwl:hasExactSynonym]	prenylation	
+WARN	duplicate_label_synonym	phytylation [MOP:0000426]	hasExactSynonym [oboInOwl:hasExactSynonym]	phytylation	
+WARN	duplicate_label_synonym	polyprenylation [MOP:0000428]	hasExactSynonym [oboInOwl:hasExactSynonym]	polyprenylation	
+WARN	duplicate_label_synonym	farnesylation [MOP:0000429]	hasExactSynonym [oboInOwl:hasExactSynonym]	farnesylation	
+WARN	duplicate_label_synonym	geranylation [MOP:0000430]	hasExactSynonym [oboInOwl:hasExactSynonym]	geranylation	
+WARN	duplicate_label_synonym	geranylgeranylation [MOP:0000431]	hasExactSynonym [oboInOwl:hasExactSynonym]	geranylgeranylation	
+WARN	duplicate_label_synonym	retinylation [MOP:0000432]	hasExactSynonym [oboInOwl:hasExactSynonym]	retinylation	
+WARN	duplicate_label_synonym	adamantan-2-ylation [MOP:0000433]	hasExactSynonym [oboInOwl:hasExactSynonym]	adamantan-2-ylation	
+WARN	duplicate_label_synonym	cycloalkenylation [MOP:0000434]	hasExactSynonym [oboInOwl:hasExactSynonym]	cycloalkenylation	
+WARN	duplicate_label_synonym	campholenic cyclohexenylation [MOP:0000435]	hasExactSynonym [oboInOwl:hasExactSynonym]	campholenic cyclohexenylation	
+WARN	duplicate_label_synonym	cyclopentadienylation [MOP:0000436]	hasExactSynonym [oboInOwl:hasExactSynonym]	cyclopentadienylation	
+WARN	duplicate_label_synonym	eta(5)-cyclopentadienylation [MOP:0000437]	hasExactSynonym [oboInOwl:hasExactSynonym]	eta(5)-cyclopentadienylation	
+WARN	duplicate_label_synonym	eta(1)-cyclopentadienylation [MOP:0000438]	hasExactSynonym [oboInOwl:hasExactSynonym]	eta(1)-cyclopentadienylation	
+WARN	duplicate_label_synonym	ethene-1,2-diylation [MOP:0000439]	hasExactSynonym [oboInOwl:hasExactSynonym]	ethene-1,2-diylation	
+WARN	duplicate_label_synonym	arachidonylation [MOP:0000440]	hasExactSynonym [oboInOwl:hasExactSynonym]	arachidonylation	
+WARN	duplicate_label_synonym	benzylation [MOP:0000441]	hasExactSynonym [oboInOwl:hasExactSynonym]	benzylation	
+WARN	duplicate_label_synonym	anthracen-1-ylation [MOP:0000442]	hasExactSynonym [oboInOwl:hasExactSynonym]	anthracen-1-ylation	
+WARN	duplicate_label_synonym	anthracen-2-ylation [MOP:0000443]	hasExactSynonym [oboInOwl:hasExactSynonym]	anthracen-2-ylation	
+WARN	duplicate_label_synonym	imidazolylation [MOP:0000444]	hasExactSynonym [oboInOwl:hasExactSynonym]	imidazolylation	
+WARN	duplicate_label_synonym	imidazol-1-ylation [MOP:0000445]	hasExactSynonym [oboInOwl:hasExactSynonym]	imidazol-1-ylation	
+WARN	duplicate_label_synonym	imidazol-2-ylation [MOP:0000446]	hasExactSynonym [oboInOwl:hasExactSynonym]	imidazol-2-ylation	
+WARN	duplicate_label_synonym	imidazol-5-ylation [MOP:0000447]	hasExactSynonym [oboInOwl:hasExactSynonym]	imidazol-5-ylation	
+WARN	duplicate_label_synonym	imidazol-4-ylation [MOP:0000448]	hasExactSynonym [oboInOwl:hasExactSynonym]	imidazol-4-ylation	
+WARN	duplicate_label_synonym	furylation [MOP:0000449]	hasExactSynonym [oboInOwl:hasExactSynonym]	furylation	
+WARN	duplicate_label_synonym	2-furylation [MOP:0000450]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-furylation	
+WARN	duplicate_label_synonym	3-furylation [MOP:0000451]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-furylation	
+WARN	duplicate_label_synonym	thienylation [MOP:0000452]	hasExactSynonym [oboInOwl:hasExactSynonym]	thienylation	
+WARN	duplicate_label_synonym	2-thienylation [MOP:0000453]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-thienylation	
+WARN	duplicate_label_synonym	3-thienylation [MOP:0000454]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-thienylation	
+WARN	duplicate_label_synonym	adenin-9-ylation [MOP:0000455]	hasExactSynonym [oboInOwl:hasExactSynonym]	adenin-9-ylation	
+WARN	duplicate_label_synonym	guanin-9-ylation [MOP:0000456]	hasExactSynonym [oboInOwl:hasExactSynonym]	guanin-9-ylation	
+WARN	duplicate_label_synonym	acetimidoylation [MOP:0000457]	hasExactSynonym [oboInOwl:hasExactSynonym]	acetimidoylation	
+WARN	duplicate_label_synonym	organylation [MOP:0000458]	hasExactSynonym [oboInOwl:hasExactSynonym]	organylation	
+WARN	duplicate_label_synonym	organic heterocyclylation [MOP:0000459]	hasExactSynonym [oboInOwl:hasExactSynonym]	organic heterocyclylation	
+WARN	duplicate_label_synonym	heteroarylation [MOP:0000460]	hasExactSynonym [oboInOwl:hasExactSynonym]	heteroarylation	
+WARN	duplicate_label_synonym	4,4\'-dimethoxytriphenylmethylation [MOP:0000461]	hasExactSynonym [oboInOwl:hasExactSynonym]	4,4'-dimethoxytriphenylmethylation	
+WARN	duplicate_label_synonym	taurylation [MOP:0000462]	hasExactSynonym [oboInOwl:hasExactSynonym]	taurylation	
+WARN	duplicate_label_synonym	triflylation [MOP:0000463]	hasExactSynonym [oboInOwl:hasExactSynonym]	triflylation	
+WARN	duplicate_label_synonym	glycidylation [MOP:0000464]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycidylation	
+WARN	duplicate_label_synonym	sulfanylmethylation [MOP:0000465]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfanylmethylation	
+WARN	duplicate_label_synonym	selanylmethylation [MOP:0000466]	hasExactSynonym [oboInOwl:hasExactSynonym]	selanylmethylation	
+WARN	duplicate_label_synonym	2-carboxyethylation [MOP:0000467]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-carboxyethylation	
+WARN	duplicate_label_synonym	2-amino-2-oxoethylation [MOP:0000468]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-amino-2-oxoethylation	
+WARN	duplicate_label_synonym	3-amino-3-oxopropylation [MOP:0000469]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-amino-3-oxopropylation	
+WARN	duplicate_label_synonym	2-(methylsulfanyl)ethylation [MOP:0000470]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-(methylsulfanyl)ethylation	
+WARN	duplicate_label_synonym	4-hydroxybenzylation [MOP:0000471]	hasExactSynonym [oboInOwl:hasExactSynonym]	4-hydroxybenzylation	
+WARN	duplicate_label_synonym	1H-indol-3-ylmethylation [MOP:0000472]	hasExactSynonym [oboInOwl:hasExactSynonym]	1H-indol-3-ylmethylation	
+WARN	duplicate_label_synonym	1H-imidazol-4-ylmethylation [MOP:0000473]	hasExactSynonym [oboInOwl:hasExactSynonym]	1H-imidazol-4-ylmethylation	
+WARN	duplicate_label_synonym	3-carbamimidamidopropylation [MOP:0000474]	hasExactSynonym [oboInOwl:hasExactSynonym]	3-carbamimidamidopropylation	
+WARN	duplicate_label_synonym	hydroxymethylation [MOP:0000475]	hasExactSynonym [oboInOwl:hasExactSynonym]	hydroxymethylation	
+WARN	duplicate_label_synonym	1-hydroxyethylation [MOP:0000476]	hasExactSynonym [oboInOwl:hasExactSynonym]	1-hydroxyethylation	
+WARN	duplicate_label_synonym	haloalkylation [MOP:0000477]	hasExactSynonym [oboInOwl:hasExactSynonym]	haloalkylation	
+WARN	duplicate_label_synonym	2-(trimethylsilyl)ethoxymethylation [MOP:0000478]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-(trimethylsilyl)ethoxymethylation	
+WARN	duplicate_label_synonym	acylation [MOP:0000479]	hasExactSynonym [oboInOwl:hasExactSynonym]	acylation	
+WARN	duplicate_label_synonym	organoheterylation [MOP:0000480]	hasExactSynonym [oboInOwl:hasExactSynonym]	organoheterylation	
+WARN	duplicate_label_synonym	oxalosulfanylation [MOP:0000481]	hasExactSynonym [oboInOwl:hasExactSynonym]	oxalosulfanylation	
+WARN	duplicate_label_synonym	organosilylation [MOP:0000482]	hasExactSynonym [oboInOwl:hasExactSynonym]	organosilylation	
+WARN	duplicate_label_synonym	trimethylsilylation [MOP:0000483]	hasExactSynonym [oboInOwl:hasExactSynonym]	trimethylsilylation	
+WARN	duplicate_label_synonym	triisopropylsilylation [MOP:0000484]	hasExactSynonym [oboInOwl:hasExactSynonym]	triisopropylsilylation	
+WARN	duplicate_label_synonym	tert-butyldiphenylsilylation [MOP:0000485]	hasExactSynonym [oboInOwl:hasExactSynonym]	tert-butyldiphenylsilylation	
+WARN	duplicate_label_synonym	tert-butyldimethylsilylation [MOP:0000486]	hasExactSynonym [oboInOwl:hasExactSynonym]	tert-butyldimethylsilylation	
+WARN	duplicate_label_synonym	thioacylation [MOP:0000487]	hasExactSynonym [oboInOwl:hasExactSynonym]	thioacylation	
+WARN	duplicate_label_synonym	carbothioacylation [MOP:0000488]	hasExactSynonym [oboInOwl:hasExactSynonym]	carbothioacylation	
+WARN	duplicate_label_synonym	univalent carbothioacylation [MOP:0000489]	hasExactSynonym [oboInOwl:hasExactSynonym]	univalent carbothioacylation	
+WARN	duplicate_label_synonym	divalent carbothioacylation [MOP:0000490]	hasExactSynonym [oboInOwl:hasExactSynonym]	divalent carbothioacylation	
+WARN	duplicate_label_synonym	carbonimidoylation [MOP:0000491]	hasExactSynonym [oboInOwl:hasExactSynonym]	carbonimidoylation	
+WARN	duplicate_label_synonym	thiocarbonylation [MOP:0000492]	hasExactSynonym [oboInOwl:hasExactSynonym]	thiocarbonylation	
+WARN	duplicate_label_synonym	(fluoren-9-ylmethoxy)carbonylation [MOP:0000493]	hasExactSynonym [oboInOwl:hasExactSynonym]	(fluoren-9-ylmethoxy)carbonylation	
+WARN	duplicate_label_synonym	carbonylation [MOP:0000494]	hasExactSynonym [oboInOwl:hasExactSynonym]	carbonylation	
+WARN	duplicate_label_synonym	cytosin-1-ylation [MOP:0000495]	hasExactSynonym [oboInOwl:hasExactSynonym]	cytosin-1-ylation	
+WARN	duplicate_label_synonym	thymin-1-ylation [MOP:0000496]	hasExactSynonym [oboInOwl:hasExactSynonym]	thymin-1-ylation	
+WARN	duplicate_label_synonym	uracil-1-ylation [MOP:0000497]	hasExactSynonym [oboInOwl:hasExactSynonym]	uracil-1-ylation	
+WARN	duplicate_label_synonym	morpholin-4-ylsulfonylation [MOP:0000498]	hasExactSynonym [oboInOwl:hasExactSynonym]	morpholin-4-ylsulfonylation	
+WARN	duplicate_label_synonym	acetohydrazonoylation [MOP:0000499]	hasExactSynonym [oboInOwl:hasExactSynonym]	acetohydrazonoylation	
+WARN	duplicate_label_synonym	2-hydroxyethylation [MOP:0000500]	hasExactSynonym [oboInOwl:hasExactSynonym]	2-hydroxyethylation	
+WARN	duplicate_label_synonym	aminosulfinylation [MOP:0000501]	hasExactSynonym [oboInOwl:hasExactSynonym]	aminosulfinylation	
+WARN	duplicate_label_synonym	disiloxanylation [MOP:0000502]	hasExactSynonym [oboInOwl:hasExactSynonym]	disiloxanylation	
+WARN	duplicate_label_synonym	disiloxane-1,3-diylation [MOP:0000503]	hasExactSynonym [oboInOwl:hasExactSynonym]	disiloxane-1,3-diylation	
+WARN	duplicate_label_synonym	azinoylation [MOP:0000504]	hasExactSynonym [oboInOwl:hasExactSynonym]	azinoylation	
+WARN	duplicate_label_synonym	azonoylation [MOP:0000505]	hasExactSynonym [oboInOwl:hasExactSynonym]	azonoylation	
+WARN	duplicate_label_synonym	phosphorothioylation [MOP:0000506]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphorothioylation	
+WARN	duplicate_label_synonym	phosphonothioylation [MOP:0000507]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphonothioylation	
+WARN	duplicate_label_synonym	arsonoylation [MOP:0000508]	hasExactSynonym [oboInOwl:hasExactSynonym]	arsonoylation	
+WARN	duplicate_label_synonym	arsinoylation [MOP:0000509]	hasExactSynonym [oboInOwl:hasExactSynonym]	arsinoylation	
+WARN	duplicate_label_synonym	stiborylation [MOP:0000510]	hasExactSynonym [oboInOwl:hasExactSynonym]	stiborylation	
+WARN	duplicate_label_synonym	sulfamoylation [MOP:0000511]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfamoylation	
+WARN	duplicate_label_synonym	S-aminosulfinimidoylation [MOP:0000512]	hasExactSynonym [oboInOwl:hasExactSynonym]	S-aminosulfinimidoylation	
+WARN	duplicate_label_synonym	S-aminosulfonimidoylation [MOP:0000513]	hasExactSynonym [oboInOwl:hasExactSynonym]	S-aminosulfonimidoylation	
+WARN	duplicate_label_synonym	chlorylation [MOP:0000514]	hasExactSynonym [oboInOwl:hasExactSynonym]	chlorylation	
+WARN	duplicate_label_synonym	chlorosylation [MOP:0000515]	hasExactSynonym [oboInOwl:hasExactSynonym]	chlorosylation	
+WARN	duplicate_label_synonym	perchlorylation [MOP:0000516]	hasExactSynonym [oboInOwl:hasExactSynonym]	perchlorylation	
+WARN	duplicate_label_synonym	bromosylation [MOP:0000517]	hasExactSynonym [oboInOwl:hasExactSynonym]	bromosylation	
+WARN	duplicate_label_synonym	bromylation [MOP:0000518]	hasExactSynonym [oboInOwl:hasExactSynonym]	bromylation	
+WARN	duplicate_label_synonym	perbromylation [MOP:0000519]	hasExactSynonym [oboInOwl:hasExactSynonym]	perbromylation	
+WARN	duplicate_label_synonym	iodosylation [MOP:0000520]	hasExactSynonym [oboInOwl:hasExactSynonym]	iodosylation	
+WARN	duplicate_label_synonym	iodylation [MOP:0000521]	hasExactSynonym [oboInOwl:hasExactSynonym]	iodylation	
+WARN	duplicate_label_synonym	periodylation [MOP:0000522]	hasExactSynonym [oboInOwl:hasExactSynonym]	periodylation	
+WARN	duplicate_label_synonym	fluorosylation [MOP:0000523]	hasExactSynonym [oboInOwl:hasExactSynonym]	fluorosylation	
+WARN	duplicate_label_synonym	acetoxysulfonylation [MOP:0000525]	hasExactSynonym [oboInOwl:hasExactSynonym]	acetoxysulfonylation	
+WARN	duplicate_label_synonym	sulfonothioylation [MOP:0000526]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfonothioylation	
+WARN	duplicate_label_synonym	sulfinothioylation [MOP:0000527]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfinothioylation	
+WARN	duplicate_label_synonym	sulfonodithioylation [MOP:0000528]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfonodithioylation	
+WARN	duplicate_label_synonym	trioxidanylation [MOP:0000529]	hasExactSynonym [oboInOwl:hasExactSynonym]	trioxidanylation	
+WARN	duplicate_label_synonym	trioxidanediylation [MOP:0000530]	hasExactSynonym [oboInOwl:hasExactSynonym]	trioxidanediylation	
+WARN	duplicate_label_synonym	heterocyclylation [MOP:0000531]	hasExactSynonym [oboInOwl:hasExactSynonym]	heterocyclylation	
+WARN	duplicate_label_synonym	phosphoramidochloridoylation [MOP:0000532]	hasExactSynonym [oboInOwl:hasExactSynonym]	phosphoramidochloridoylation	
+WARN	duplicate_label_synonym	S-aminosulfonodiimidoylation [MOP:0000533]	hasExactSynonym [oboInOwl:hasExactSynonym]	S-aminosulfonodiimidoylation	
+WARN	duplicate_label_synonym	aminosulfanylation [MOP:0000534]	hasExactSynonym [oboInOwl:hasExactSynonym]	aminosulfanylation	
+WARN	duplicate_label_synonym	sulfinylation [MOP:0000535]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfinylation	
+WARN	duplicate_label_synonym	arsorylation [MOP:0000536]	hasExactSynonym [oboInOwl:hasExactSynonym]	arsorylation	
+WARN	duplicate_label_synonym	azanediidylation [MOP:0000537]	hasExactSynonym [oboInOwl:hasExactSynonym]	azanediidylation	
+WARN	duplicate_label_synonym	sulfinimidoylation [MOP:0000538]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfinimidoylation	
+WARN	duplicate_label_synonym	sulfonylation [MOP:0000539]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulfonylation	
+WARN	duplicate_label_synonym	tosylation [MOP:0000540]	hasExactSynonym [oboInOwl:hasExactSynonym]	tosylation	
+WARN	duplicate_label_synonym	brosylation [MOP:0000541]	hasExactSynonym [oboInOwl:hasExactSynonym]	brosylation	
+WARN	duplicate_label_synonym	nosylation [MOP:0000542]	hasExactSynonym [oboInOwl:hasExactSynonym]	nosylation	
+WARN	duplicate_label_synonym	atom-transfer radical polymerisation [MOP:0000684]	hasExactSynonym [oboInOwl:hasExactSynonym]	atom-transfer radical polymerisation	
+WARN	duplicate_label_synonym	ring-opening metathesis polymerisation [MOP:0000685]	hasExactSynonym [oboInOwl:hasExactSynonym]	ring-opening metathesis polymerisation	
+WARN	duplicate_label_synonym	reversible addition-fragmentation chain transfer polymerisation [MOP:0000689]	hasExactSynonym [oboInOwl:hasExactSynonym]	reversible addition-fragmentation chain transfer polymerisation	
+WARN	duplicate_label_synonym	nitroxide-mediated polymerisation [MOP:0000690]	hasExactSynonym [oboInOwl:hasExactSynonym]	nitroxide-mediated polymerisation	
+WARN	missing_definition	acetylene reduction [MOP:0000713]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Brønsted acid catalysis [MOP:0000730]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	base catalysis [MOP:0000731]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydron donation [MOP:0000732]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accepting an electron pair in Lewis adduct formation [MOP:0000733]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Lewis acid catalysis [MOP:0000734]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Lewis base catalysis [MOP:0000735]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Brønsted base catalysis [MOP:0000736]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accepting a hydron [MOP:0000737]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	electron pair donation in Lewis adduct formation [MOP:0000738]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Lewis adduct formation [MOP:0000739]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-exo-tet cyclization [MOP:0000741]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5-exo-tet cyclization [MOP:0000742]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-exo-tet cyclization [MOP:0000743]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	7-exo-tet cyclization [MOP:0000744]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5-endo-tet cyclization [MOP:0000745]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-endo-tet cyclization [MOP:0000746]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	7-endo-tet cyclization [MOP:0000747]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-exo-trig cyclization [MOP:0000748]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-exo-dig cyclization [MOP:0000749]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-endo-dig cyclization [MOP:0000750]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-endo-trig cyclization [MOP:0000751]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-exo-trig cyclization [MOP:0000752]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-endo-trig cyclization [MOP:0000753]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-endo-dig cyclization [MOP:0000754]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5-exo-trig cyclization [MOP:0000755]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5-exo-dig cyclization [MOP:0000756]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5-endo-trig cyclization [MOP:0000757]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5-endo-dig cyclization [MOP:0000758]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-endo-trig cyclization [MOP:0000759]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	7-endo-trig cyclization [MOP:0000760]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	7-endo-dig cyclization [MOP:0000761]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-exo-dig cyclization [MOP:0000762]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-exo-dig cyclization [MOP:0000763]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	7-exo-dig cyclization [MOP:0000764]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-exo-trig cyclization [MOP:0000765]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	7-exo-trig cyclization [MOP:0000766]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-endo-dig cyclization [MOP:0000770]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-exo-tet cyclization [MOP:0000778]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	formation of covalent bond [MOP:0000779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	breaking of covalent bond [MOP:0000780]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	cyanosilylation [MOP:0000678]	IAO_0000115 [IAO:0000115]	1/2/addition across a double bond of a cyano group and a silyl group.	
+INFO	lowercase_definition	is_catalysis_of [MOP:0000769]	IAO_0000115 [IAO:0000115]	x is_catalysis_of y if and only if x positively_regulates y and the positive regulation works by providing a more kinetically-favourable route across the energy landscape from the reactants of y to the products of y.	
+INFO	missing_superclass	BFO_0000007 [BFO:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000144 [BFO:0000144]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15378 [CHEBI:15378]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18379 [CHEBI:18379]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_22221 [CHEBI:22221]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24636 [CHEBI:24636]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26519 [CHEBI:26519]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29233 [CHEBI:29233]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29441 [CHEBI:29441]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29444 [CHEBI:29444]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29810 [CHEBI:29810]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32877 [CHEBI:32877]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32955 [CHEBI:32955]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33641 [CHEBI:33641]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33823 [CHEBI:33823]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33839 [CHEBI:33839]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36586 [CHEBI:36586]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36823 [CHEBI:36823]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36825 [CHEBI:36825]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36826 [CHEBI:36826]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36827 [CHEBI:36827]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37838 [CHEBI:37838]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37997 [CHEBI:37997]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39141 [CHEBI:39141]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39142 [CHEBI:39142]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39143 [CHEBI:39143]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39144 [CHEBI:39144]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_40574 [CHEBI:40574]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_43176 [CHEBI:43176]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48819 [CHEBI:48819]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51100 [CHEBI:51100]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51142 [CHEBI:51142]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_51870 [CHEBI:51870]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_52845 [CHEBI:52845]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53310 [CHEBI:53310]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53511 [CHEBI:53511]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53512 [CHEBI:53512]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53513 [CHEBI:53513]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53516 [CHEBI:53516]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53517 [CHEBI:53517]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53518 [CHEBI:53518]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53519 [CHEBI:53519]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53520 [CHEBI:53520]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53521 [CHEBI:53521]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53522 [CHEBI:53522]	rdfs:subClassOf		

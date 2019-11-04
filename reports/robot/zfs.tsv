@@ -1,0 +1,59 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	zfs.owl	dc11:description		
+ERROR	missing_ontology_license	zfs.owl	dc:license		
+ERROR	missing_ontology_title	zfs.owl	dc11:title		
+WARN	missing_definition	Unknown [ZFS:0000000]	IAO:0000115		
+WARN	missing_definition	Zygote:1-cell [ZFS:0000001]	IAO:0000115		
+WARN	missing_definition	Cleavage:2-cell [ZFS:0000002]	IAO:0000115		
+WARN	missing_definition	Cleavage:4-cell [ZFS:0000003]	IAO:0000115		
+WARN	missing_definition	Cleavage:8-cell [ZFS:0000004]	IAO:0000115		
+WARN	missing_definition	Cleavage:16-cell [ZFS:0000005]	IAO:0000115		
+WARN	missing_definition	Cleavage:32-cell [ZFS:0000006]	IAO:0000115		
+WARN	missing_definition	Cleavage:64-cell [ZFS:0000007]	IAO:0000115		
+WARN	missing_definition	Blastula:128-cell [ZFS:0000008]	IAO:0000115		
+WARN	missing_definition	Blastula:256-cell [ZFS:0000009]	IAO:0000115		
+WARN	missing_definition	Blastula:512-cell [ZFS:0000010]	IAO:0000115		
+WARN	missing_definition	Blastula:1k-cell [ZFS:0000011]	IAO:0000115		
+WARN	missing_definition	Blastula:High [ZFS:0000012]	IAO:0000115		
+WARN	missing_definition	Blastula:Oblong [ZFS:0000013]	IAO:0000115		
+WARN	missing_definition	Blastula:Sphere [ZFS:0000014]	IAO:0000115		
+WARN	missing_definition	Blastula:Dome [ZFS:0000015]	IAO:0000115		
+WARN	missing_definition	Blastula:30%-epiboly [ZFS:0000016]	IAO:0000115		
+WARN	missing_definition	Gastrula:50%-epiboly [ZFS:0000017]	IAO:0000115		
+WARN	missing_definition	Gastrula:Germ-ring [ZFS:0000018]	IAO:0000115		
+WARN	missing_definition	Gastrula:Shield [ZFS:0000019]	IAO:0000115		
+WARN	missing_definition	Gastrula:75%-epiboly [ZFS:0000020]	IAO:0000115		
+WARN	missing_definition	Gastrula:90%-epiboly [ZFS:0000021]	IAO:0000115		
+WARN	missing_definition	Gastrula:Bud [ZFS:0000022]	IAO:0000115		
+WARN	missing_definition	Segmentation:1-4 somites [ZFS:0000023]	IAO:0000115		
+WARN	missing_definition	Segmentation:5-9 somites [ZFS:0000024]	IAO:0000115		
+WARN	missing_definition	Segmentation:10-13 somites [ZFS:0000025]	IAO:0000115		
+WARN	missing_definition	Segmentation:14-19 somites [ZFS:0000026]	IAO:0000115		
+WARN	missing_definition	Segmentation:20-25 somites [ZFS:0000027]	IAO:0000115		
+WARN	missing_definition	Segmentation:26+ somites [ZFS:0000028]	IAO:0000115		
+WARN	missing_definition	Pharyngula:Prim-5 [ZFS:0000029]	IAO:0000115		
+WARN	missing_definition	Pharyngula:Prim-15 [ZFS:0000030]	IAO:0000115		
+WARN	missing_definition	Pharyngula:Prim-25 [ZFS:0000031]	IAO:0000115		
+WARN	missing_definition	Pharyngula:High-pec [ZFS:0000032]	IAO:0000115		
+WARN	missing_definition	Hatching:Long-pec [ZFS:0000033]	IAO:0000115		
+WARN	missing_definition	Hatching:Pec-fin [ZFS:0000034]	IAO:0000115		
+WARN	missing_definition	Larval:Protruding-mouth [ZFS:0000035]	IAO:0000115		
+WARN	missing_definition	Larval:Day 4 [ZFS:0000036]	IAO:0000115		
+WARN	missing_definition	Larval:Day 5 [ZFS:0000037]	IAO:0000115		
+WARN	missing_definition	Larval:Day 6 [ZFS:0000038]	IAO:0000115		
+WARN	missing_definition	Larval:Days 7-13 [ZFS:0000039]	IAO:0000115		
+WARN	missing_definition	Larval:Days 14-20 [ZFS:0000040]	IAO:0000115		
+WARN	missing_definition	Larval:Days 21-29 [ZFS:0000041]	IAO:0000115		
+WARN	missing_definition	Juvenile:Days 30-44 [ZFS:0000042]	IAO:0000115		
+WARN	missing_definition	Juvenile:Days 45-89 [ZFS:0000043]	IAO:0000115		
+WARN	missing_definition	adult [ZFS:0000044]	IAO:0000115		
+WARN	missing_definition	blastula [ZFS:0000045]	IAO:0000115		
+WARN	missing_definition	cleavage [ZFS:0000046]	IAO:0000115		
+WARN	missing_definition	gastrula [ZFS:0000047]	IAO:0000115		
+WARN	missing_definition	larva [ZFS:0000048]	IAO:0000115		
+WARN	missing_definition	segmentation [ZFS:0000049]	IAO:0000115		
+WARN	missing_definition	pharyngula [ZFS:0000050]	IAO:0000115		
+WARN	missing_definition	juvenile [ZFS:0000051]	IAO:0000115		
+WARN	missing_definition	hatching [ZFS:0007000]	IAO:0000115		
+WARN	missing_definition	zebrafish stage [ZFS:0100000]	IAO:0000115		
+INFO	missing_superclass	zebrafish stage [ZFS:0100000]	rdfs:subClassOf		

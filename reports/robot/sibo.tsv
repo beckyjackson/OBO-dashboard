@@ -1,0 +1,532 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	Glycerol [SIBO:0000001]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Urea [SIBO:0000003]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	2-Quinolinecarbixylic acid [SIBO:0000005]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	13-Methylheptacosane [SIBO:0000167]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	3-Methylheptacosane [SIBO:0000168]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	13, 15-Dimethylheptacosane [SIBO:0000169]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	n-Heptacosane [SIBO:0000170]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Benzoic acid [SIBO:0000171]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Malic Acid [SIBO:0000172]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Malonic Acid [SIBO:0000175]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Organic Acids [SIBO:0000178]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Uric acid [SIBO:0000179]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Gluconic acid [SIBO:0000180]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Azelaic acid [SIBO:0000181]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Stearic acid [SIBO:0000182]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Hexadecanoic acid [SIBO:0000183]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Suberic acid [SIBO:0000185]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Aspartic acid [SIBO:0000186]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	3-Methylglutaric acid [SIBO:0000187]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Methylmaleic acid [SIBO:0000188]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Phosphoric acid [SIBO:0000189]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Lactic acid [SIBO:0000190]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Succinic acid [SIBO:0000193]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	trans-2-methyl-6-(cis-4-tridecenyl)piperidine [SIBO:0000194]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	trans-2-methyl-6-n-pentadecylpiperidine [SIBO:0000195]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	trans-2-methyl-6-(cis-6-pentadecenyl)piperidine [SIBO:0000196]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	trans-2-methyl-6-n-tridecylpiperidine [SIBO:0000197]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Alanine [SIBO:0000199]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Glycine [SIBO:0000200]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Serine [SIBO:0000201]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	N-acetylglycine [SIBO:0000202]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Threonine [SIBO:0000203]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Glutamine [SIBO:0000204]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Phenylalanine [SIBO:0000205]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	Tyrosine [SIBO:0000206]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	3.9-Dimenthylheptacosane [SIBO:0000480]	IAO_0000115 [IAO:0000115]	Profile of ant-derived compounds in silica gel nesting material.	
+ERROR	duplicate_definition	basal angle of mandible [SIBO:0000081]	IAO_0000115 [IAO:0000115]	Basal angle/ lamella/ margin tooth- See Mandibles	
+ERROR	duplicate_definition	basal tooth of mandible [SIBO:0000082]	IAO_0000115 [IAO:0000115]	Basal angle/ lamella/ margin tooth- See Mandibles	
+ERROR	duplicate_definition	basal margin of mandible [SIBO:0000094]	IAO_0000115 [IAO:0000115]	Basal angle/ lamella/ margin tooth- See Mandibles	
+ERROR	duplicate_definition	apical tooth of mandible [SIBO:0000079]	IAO_0000115 [IAO:0000115]	Apical margin/tooth- See Mandibles	
+ERROR	duplicate_definition	apical margin of mandible [SIBO:0000093]	IAO_0000115 [IAO:0000115]	Apical margin/tooth- See Mandibles	
+ERROR	missing_ontology_description	sibo.owl	dc11:description		
+ERROR	duplicate_label	trulleum [SIBO:0000103]	label [rdfs:label]	trulleum	
+ERROR	duplicate_label	trulleum [SIBO:0000484]	label [rdfs:label]	trulleum	
+ERROR	duplicate_label	spiracle [SIBO:0000132]	label [rdfs:label]	spiracle	
+ERROR	duplicate_label	spiracle [SIBO:0000502]	label [rdfs:label]	spiracle	
+ERROR	duplicate_label	pygidium [SIBO:0000134]	label [rdfs:label]	pygidium	
+ERROR	duplicate_label	pygidium [SIBO:0000512]	label [rdfs:label]	pygidium	
+ERROR	duplicate_label	n-Decane [SIBO:0000006]	label [rdfs:label]	n-Decane	
+ERROR	duplicate_label	n-Decane [SIBO:0000208]	label [rdfs:label]	n-Decane	
+ERROR	duplicate_label	gastral segment number 5 [SIBO:0000493]	label [rdfs:label]	gastral segment number 5	
+ERROR	duplicate_label	gastral segment number 5 [SIBO:0000507]	label [rdfs:label]	gastral segment number 5	
+ERROR	duplicate_label	gastral segment number 4 [SIBO:0000492]	label [rdfs:label]	gastral segment number 4	
+ERROR	duplicate_label	gastral segment number 4 [SIBO:0000506]	label [rdfs:label]	gastral segment number 4	
+ERROR	duplicate_label	gastral segment number 4 [SIBO:0000511]	label [rdfs:label]	gastral segment number 4	
+ERROR	duplicate_label	gastral segment number 3 [SIBO:0000491]	label [rdfs:label]	gastral segment number 3	
+ERROR	duplicate_label	gastral segment number 3 [SIBO:0000505]	label [rdfs:label]	gastral segment number 3	
+ERROR	duplicate_label	gastral segment number 3 [SIBO:0000510]	label [rdfs:label]	gastral segment number 3	
+ERROR	duplicate_label	gastral segment number 2 [SIBO:0000490]	label [rdfs:label]	gastral segment number 2	
+ERROR	duplicate_label	gastral segment number 2 [SIBO:0000504]	label [rdfs:label]	gastral segment number 2	
+ERROR	duplicate_label	gastral segment number 1 [SIBO:0000489]	label [rdfs:label]	gastral segment number 1	
+ERROR	duplicate_label	gastral segment number 1 [SIBO:0000503]	label [rdfs:label]	gastral segment number 1	
+ERROR	duplicate_label	funiculus of antenna [SIBO:0000091]	label [rdfs:label]	funiculus of antenna	
+ERROR	duplicate_label	funiculus of antenna [SIBO:0000483]	label [rdfs:label]	funiculus of antenna	
+ERROR	duplicate_label	denticle [SIBO:0000084]	label [rdfs:label]	denticle	
+ERROR	duplicate_label	denticle [SIBO:0000482]	label [rdfs:label]	denticle	
+ERROR	duplicate_label	Citral [SIBO:0000220]	label [rdfs:label]	Citral	
+ERROR	duplicate_label	Citral [SIBO:0000312]	label [rdfs:label]	Citral	
+ERROR	duplicate_label	Carboxylic acids [SIBO:0000033]	label [rdfs:label]	Carboxylic acids	
+ERROR	duplicate_label	Carboxylic acids [SIBO:0000159]	label [rdfs:label]	Carboxylic acids	
+ERROR	duplicate_label	Aphaenogaster cockerelli [SIBO:0000235]	label [rdfs:label]	Aphaenogaster cockerelli	
+ERROR	duplicate_label	Aphaenogaster cockerelli [SIBO:0000241]	label [rdfs:label]	Aphaenogaster cockerelli	
+ERROR	duplicate_label	Aphaenogaster cockerelli [SIBO:0000244]	label [rdfs:label]	Aphaenogaster cockerelli	
+ERROR	duplicate_label	Aphaenogaster albisetosus [SIBO:0000242]	label [rdfs:label]	Aphaenogaster albisetosus	
+ERROR	duplicate_label	Aphaenogaster albisetosus [SIBO:0000245]	label [rdfs:label]	Aphaenogaster albisetosus	
+ERROR	duplicate_label	antennal scrobe [SIBO:0000100]	label [rdfs:label]	antennal scrobe	
+ERROR	duplicate_label	antennal scrobe [SIBO:0000243]	label [rdfs:label]	antennal scrobe	
+ERROR	duplicate_label	Antenna [SIBO:0000513]	label [rdfs:label]	Antenna	
+ERROR	duplicate_label	Antenna [SIBO:0000514]	label [rdfs:label]	Antenna	
+ERROR	duplicate_label	<new term> [SIBO:0000148]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000173]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000174]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000177]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000207]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000209]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000213]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000215]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000226]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000342]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000343]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000515]	label [rdfs:label]	<new term>	
+ERROR	duplicate_label	<new term> [SIBO:0000523]	label [rdfs:label]	<new term>	
+ERROR	missing_ontology_license	sibo.owl	dc:license		
+ERROR	missing_ontology_title	sibo.owl	dc11:title		
+WARN	annotation_whitespace	metapleuron [SIBO:0000117]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	anepisternum 	
+WARN	annotation_whitespace	Antenna [SIBO:0000514]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	Funiculus 	
+WARN	missing_definition	beta-elemene [SIBO:0000000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Organic Compound [SIBO:0000002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	n-Decane [SIBO:0000006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-Heptanone [SIBO:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4,6-Dimethyl-4-octen-3-one [SIBO:0000025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-Methyl-2-hexanone [SIBO:0000026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-Methyl-5-hepten-2-one [SIBO:0000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5-Methyl-3-heptanone [SIBO:0000028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4-Methyl-3-heptanone [SIBO:0000029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-Octanone [SIBO:0000031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-Nonanone [SIBO:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2-Acetyl-3-methylcyclopentene [SIBO:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cis-1-Acetyl-2-methylcyclopentane [SIBO:0000037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2-Methylcyclopentanone [SIBO:0000039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Methyl anthranilate [SIBO:0000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dodecyl acetate [SIBO:0000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Decyl acetate [SIBO:0000044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Methyl 6-methylsalicylate [SIBO:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Tetradecyl acetate [SIBO:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta1-15Hy [SIBO:0000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Invictolide [SIBO:0000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beta-selinene [SIBO:0000049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alpha-selinene [SIBO:0000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6-E1-pentenyl-2-pyranone [SIBO:0000051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z,Z-alpha-homofarnesene [SIBO:0000052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E,E-alpha-farnesene [SIBO:0000053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Bee colony defense [SIBO:0000054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	perception of threat [SIBO:0000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z,E-alpha-homofarnesene [SIBO:0000056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Triolein [SIBO:0000057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2S6S-2me-6-undecylpiperidine [SIBO:0000058]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z5Z9-3-butyl-5me-octahydroindolizine [SIBO:0000059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E5E9-3-butyl-5me-octahydroindolizine [SIBO:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E5E9-3-hexyl-5-methylindolizidine [SIBO:0000062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z5E9-3-hexyl-5-methylindolizidine [SIBO:0000063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z5E8-3-heptyl-5me-pyrrolizidine [SIBO:0000064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me-6-Z4-nonylpiperidine [SIBO:0000065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z5Z9-3-butyl-5-propylindolizidine [SIBO:0000066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E5E9-3-butyl-5-propylindolizidine [SIBO:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Discrimination or Identificiation [SIBO:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Orientation [SIBO:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Approach [SIBO:0000071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Secondary perception and discrimination or identification [SIBO:0000072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Alert [SIBO:0000073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Disengagement [SIBO:0000075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Threat [SIBO:0000076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4Rme-7-3Kt [SIBO:0000077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	denticle [SIBO:0000084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eye [SIBO:0000086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	frontal lobe [SIBO:0000089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	funiculus of antenna [SIBO:0000091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral portion of clypeus [SIBO:0000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	external margin of mandible [SIBO:0000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	median portion of clypeus [SIBO:0000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	occipital margin of head [SIBO:0000098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scape of antenna [SIBO:0000099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tooth number [SIBO:0000101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	torulus [SIBO:0000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anepisternum [SIBO:0000104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pollen sac [SIBO:0000106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastral segment number [SIBO:0000110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	declivity of propodeum [SIBO:0000111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gaster [SIBO:0000113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesonotum [SIBO:0000114]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metanotal groove [SIBO:0000115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesopleuron [SIBO:0000116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metapleuron [SIBO:0000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	orifice of metalpleural gland [SIBO:0000118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metapleural gland bulla [SIBO:0000119]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peduncle of petiole [SIBO:0000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	promesonotal suture [SIBO:0000124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	propodeal lobe [SIBO:0000125]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tergite [SIBO:0000127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	waist [SIBO:0000129]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	promesonotum [SIBO:0000130]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	propleuron [SIBO:0000131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spiracle [SIBO:0000132]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sternite [SIBO:0000133]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	girdling constriction [SIBO:0000135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sting [SIBO:0000137]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tooth number 2 [SIBO:0000138]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subpetiolar process [SIBO:0000139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metasoma [SIBO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R-dodecan-2-ol [SIBO:0000144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Defense [SIBO:0000145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Feeding [SIBO:0000146]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Behavior [SIBO:0000147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Anatomical part [SIBO:0000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Brood Care [SIBO:0000151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Grooming [SIBO:0000153]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mating Flight [SIBO:0000154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Nest Care [SIBO:0000155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tooth number 3 [SIBO:0000156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tooth number 4 [SIBO:0000157]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	S-octan-3-ol [SIBO:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Cyclic ketone [SIBO:0000161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Esters [SIBO:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Nitrogen Heterocycle [SIBO:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Queen Substance [SIBO:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Sulphur Compound [SIBO:0000165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Terpenoid Compound [SIBO:0000166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Undecyl acetate [SIBO:0000184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	n-Undecane [SIBO:0000191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Venom Alkaloids [SIBO:0000192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2,6-Dimethyl-3-propylpyrazine [SIBO:0000210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2,6-Dimethyl-3-pentylpyrazine [SIBO:0000211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2.6-Dimethyl-3-ethylpyrazine [SIBO:0000212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2,5-Dimethyl-3-isopentylpyrazine [SIBO:0000214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dimethyl trisulphide [SIBO:0000217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dimethyl disulphide [SIBO:0000218]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Geranoil [SIBO:0000219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Citral [SIBO:0000220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dendrolasin [SIBO:0000221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Citronellal [SIBO:0000222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Limonene [SIBO:0000223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Nerol [SIBO:0000224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Alarm [SIBO:0000230]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Foraging/ Patrolling path [SIBO:0000231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Dispersal [SIBO:0000232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Attack [SIBO:0000233]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster miamiana [SIBO:0000234]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster fulva [SIBO:0000236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster subterranea [SIBO:0000237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster senilis [SIBO:0000238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster rudis [SIBO:0000239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster tennesseensis [SIBO:0000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	antennal scrobe [SIBO:0000243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster cockerelli [SIBO:0000244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aphaenogaster albisetosus [SIBO:0000245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta cephalotes [SIBO:0000246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta capiguara [SIBO:0000247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta bisphaerica [SIBO:0000248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta colombica [SIBO:0000249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta laevigata [SIBO:0000250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Allelochemics [SIBO:0000251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Antennation [SIBO:0000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4Sme-7-3Kt [SIBO:0000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Cephalic gland [SIBO:0000254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pygidial gland [SIBO:0000255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Semiochemical gland [SIBO:0000256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mandibular gland [SIBO:0000258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Poison gland [SIBO:0000259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	1R-phenylethanol [SIBO:0000260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Ethyl phenylacetate [SIBO:0000262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2,3-bipyridyl [SIBO:0000263]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	methyl anthranilate [SIBO:0000264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isopentyl-2-phenylethylamine [SIBO:0000265]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Anabasine [SIBO:0000266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bornylene [SIBO:0000267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Sternal gland [SIBO:0000269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Metapleural gland [SIBO:0000270]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	7-2Kt [SIBO:0000271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	8OH [SIBO:0000275]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pavan\'s gland [SIBO:0000276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Indoleacetic acid [SIBO:0000278]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Skatole [SIBO:0000279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2Ald [SIBO:0000280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	18Hy [SIBO:0000281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	14Hy [SIBO:0000282]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	13Hy [SIBO:0000283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	12Hy [SIBO:0000284]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	15Hy [SIBO:0000285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	17Hy [SIBO:0000286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	16Hy [SIBO:0000287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	9-2Kt [SIBO:0000288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	octan-3-ol [SIBO:0000289]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	8-3Kt [SIBO:0000290]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4me-4-hepten-3Kt [SIBO:0000291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4me-heptan-3-ol [SIBO:0000292]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster ashmeadi [SIBO:0000293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	19Hy [SIBO:0000294]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me6me-2-dodecene [SIBO:0000295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z9-23Hy [SIBO:0000296]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta sexdens [SIBO:0000297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta8,11-19Hy [SIBO:0000298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z9-19Hy [SIBO:0000299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta robusta [SIBO:0000300]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta sexdens rubropilosa [SIBO:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta opaciceps [SIBO:0000302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta sexdens sexdens [SIBO:0000303]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Heptan-2-ol [SIBO:0000304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nonan-2-ol [SIBO:0000305]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-hydroxydecanoic acid [SIBO:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-hydroxydodecanoic acid [SIBO:0000307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Neral [SIBO:0000308]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta9-18Hy [SIBO:0000309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta9-21Hy [SIBO:0000310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	methyl phenylacetate [SIBO:0000311]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Citral [SIBO:0000312]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta1-22Hy [SIBO:0000313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Geraniol [SIBO:0000314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Geranial [SIBO:0000315]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Geranyl acetone [SIBO:0000316]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	21Hy [SIBO:0000317]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Atta texana [SIBO:0000318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Heptan-3-ol [SIBO:0000319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster africana [SIBO:0000320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster brevispinosa rochai [SIBO:0000321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster castanea [SIBO:0000322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster difformis [SIBO:0000323]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster deformis [SIBO:0000324]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster clarithorax [SIBO:0000325]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E2-6Ald [SIBO:0000326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me6me-delta5-7OH [SIBO:0000328]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2-phenylethanol [SIBO:0000329]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Citronellic acid [SIBO:0000330]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Caprylic acid [SIBO:0000331]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Geranic acid [SIBO:0000333]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Phenethyl octanoate [SIBO:0000334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Phenethyl nonanoate [SIBO:0000335]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster mimosae [SIBO:0000346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster laboriosa [SIBO:0000347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster inflata [SIBO:0000348]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster nigriceps [SIBO:0000349]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster mormonum [SIBO:0000350]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster liengmei [SIBO:0000351]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster peringueyi [SIBO:0000352]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alpha-pinene [SIBO:0000354]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Camphene [SIBO:0000355]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beta-pinene [SIBO:0000356]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Myrcene [SIBO:0000357]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	p-cymene [SIBO:0000358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	limonene [SIBO:0000359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Eucalyptol [SIBO:0000360]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Rectum [SIBO:0000361]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Hexan-3-ol [SIBO:0000362]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Isovaleric acid [SIBO:0000363]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me-4Acid [SIBO:0000364]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2-phenylacetaldehyde [SIBO:0000365]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	10-3Kt [SIBO:0000367]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-5-2Kt [SIBO:0000368]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-pentan-2-ol [SIBO:0000369]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-hexan-2-ol [SIBO:0000370]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-7-2Kt [SIBO:0000371]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-heptan-2-ol [SIBO:0000372]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me-7Acid [SIBO:0000373]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	9Ald [SIBO:0000374]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	methyl palmitate [SIBO:0000375]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	methyl tetradecanoate [SIBO:0000376]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster scutellaris [SIBO:0000381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster sjostedti [SIBO:0000382]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster rochai [SIBO:0000383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6me-8-3Kt [SIBO:0000384]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	9-3Kt [SIBO:0000385]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acetic acid [SIBO:0000386]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Crematogaster sp [SIBO:0000387]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4Acid [SIBO:0000388]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me-5Acid [SIBO:0000389]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6me-octan-3-ol [SIBO:0000390]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyrrolidin-2Kt [SIBO:0000391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nonan-3-ol [SIBO:0000392]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta2-6Ald [SIBO:0000394]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Linepithema humile [SIBO:0000395]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex occidentalis [SIBO:0000396]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pheidole nodus [SIBO:0000397]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex badius [SIBO:0000398]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex maricopa [SIBO:0000399]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex barbatus [SIBO:0000400]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex californicus [SIBO:0000401]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pheidole pallidula [SIBO:0000402]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex desertorum [SIBO:0000403]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z9-16Ald [SIBO:0000404]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Sulcatone [SIBO:0000405]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Aggregation [SIBO:0000409]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	1-methylpropyl-tridecanolide [SIBO:0000410]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z10-19-2Kt [SIBO:0000411]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me5me-3-isopentylpyrazine [SIBO:0000414]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z-2me5me-3-styrylpyrazine [SIBO:0000415]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	E-2me5me-3-styrylpyrazine [SIBO:0000416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-13Hy [SIBO:0000417]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	25Hy [SIBO:0000418]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	23Hy [SIBO:0000419]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	20Hy [SIBO:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	24Hy [SIBO:0000421]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	22Hy [SIBO:0000422]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	27Hy [SIBO:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	26Hy [SIBO:0000424]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-19Hy [SIBO:0000425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta9-19Hydelta9-19Hy [SIBO:0000426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-17Hy [SIBO:0000427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5me-17Hy [SIBO:0000428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta8-17Hy [SIBO:0000429]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta7-17Hy [SIBO:0000430]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4me-16Hy [SIBO:0000431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-15Hy [SIBO:0000432]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5me-15Hy [SIBO:0000433]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	delta7-15Hy [SIBO:0000434]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z,E-alpha-farnesene [SIBO:0000435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex salinus [SIBO:0000436]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Pogonomyrmex rugosus [SIBO:0000437]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Oleic acid [SIBO:0000438]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Recognition [SIBO:0000439]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	4me-6-3Kt [SIBO:0000440]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me3me5me-pyrazine [SIBO:0000441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Recruitment [SIBO:0000442]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2me5me-pyrazine [SIBO:0000443]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-11Hy [SIBO:0000444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6me-12Hy [SIBO:0000445]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me-12Hy [SIBO:0000446]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me5me-12Hy [SIBO:0000447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	5me-13Hy [SIBO:0000449]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3me4me-13Hy [SIBO:0000450]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6me-14Hy [SIBO:0000452]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6me-13Hy [SIBO:0000454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	6me-11Hy [SIBO:0000455]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Manicone [SIBO:0000456]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	normanicone [SIBO:0000457]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Homomanicone [SIBO:0000458]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis conjurata [SIBO:0000459]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis fugax [SIBO:0000460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis geminata [SIBO:0000461]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis invicta [SIBO:0000462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis maboya [SIBO:0000463]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis molesta [SIBO:0000464]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis punctaticeps [SIBO:0000465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis richteri [SIBO:0000466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis sp [SIBO:0000467]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis tennesseensis [SIBO:0000468]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Solenopsis xyloni [SIBO:0000469]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	3-ethyl-5me-indolizine [SIBO:0000471]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2S6R-2me-6-undecylpiperidine [SIBO:0000472]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2S6S-2me-6-nonylpiperidine [SIBO:0000473]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	2S6R-2me-6-nonylpiperidine [SIBO:0000474]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Z,Z,Z-allofarnesene [SIBO:0000476]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Species [SIBO:0000477]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Alcohol [SIBO:0000478]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Chemical [SIBO:0000479]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	funiculus of antenna [SIBO:0000483]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trulleum [SIBO:0000484]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coxa number 1 [SIBO:0000486]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coxa number 2 [SIBO:0000487]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coxa number 3 [SIBO:0000488]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal segment number 1 [SIBO:0000494]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal segment number 2 [SIBO:0000495]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal segment number 3 [SIBO:0000496]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal segment number 4 [SIBO:0000497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal segment number 5 [SIBO:0000498]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal segment number 6 [SIBO:0000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal segment number 7 [SIBO:0000501]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastral segment number 1 [SIBO:0000503]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastral segment number 2 [SIBO:0000504]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastral segment number 5 [SIBO:0000507]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastral segment number 3 [SIBO:0000510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gastral segment number 4 [SIBO:0000511]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pygidium [SIBO:0000512]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Antenna [SIBO:0000514]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Colony Defense [SIBO:0000516]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Waggle Dance [SIBO:0000517]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Round Dance [SIBO:0000518]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pollen foraging [SIBO:0000519]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Return to nest [SIBO:0000520]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pollen dancing [SIBO:0000521]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Colony Abandonment [SIBO:0000524]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Move to hive entrance [SIBO:0000530]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Move toward external stimuli [SIBO:0000531]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Swarming [SIBO:0000532]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Colony Collapse Disorder [SIBO:0000533]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	Carboxylic acids [SIBO:0000033]	label [rdfs:label]	Carboxylic acids	
+WARN	missing_obsolete_label	bvc [SIBO:0000034]	label [rdfs:label]	bvc	
+WARN	missing_obsolete_label	new2 [SIBO:0000070]	label [rdfs:label]	new2	
+WARN	missing_obsolete_label	katepisternum [SIBO:0000078]	label [rdfs:label]	katepisternum	
+WARN	missing_obsolete_label	trulleum [SIBO:0000103]	label [rdfs:label]	trulleum	
+WARN	missing_obsolete_label	propodeum [SIBO:0000121]	label [rdfs:label]	propodeum	
+WARN	missing_obsolete_label	postperiole [SIBO:0000128]	label [rdfs:label]	postperiole	
+WARN	missing_obsolete_label	pygidium [SIBO:0000134]	label [rdfs:label]	pygidium	
+WARN	missing_obsolete_label	alitrunk [SIBO:0000136]	label [rdfs:label]	alitrunk	
+WARN	missing_obsolete_label	<new term> [SIBO:0000148]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<antennal scrobe> [SIBO:0000158]	label [rdfs:label]	<antennal scrobe>	
+WARN	missing_obsolete_label	<new term> [SIBO:0000173]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<new term> [SIBO:0000174]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<new term> [SIBO:0000177]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<new term> [SIBO:0000207]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	n-Decane [SIBO:0000208]	label [rdfs:label]	n-Decane	
+WARN	missing_obsolete_label	<new term> [SIBO:0000209]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<new term> [SIBO:0000213]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<new term> [SIBO:0000215]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	Sulphur compounds [SIBO:0000216]	label [rdfs:label]	Sulphur compounds	
+WARN	missing_obsolete_label	<new term> [SIBO:0000226]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	Aphaenogaster cockerelli [SIBO:0000235]	label [rdfs:label]	Aphaenogaster cockerelli	
+WARN	missing_obsolete_label	Aphaenogaster cockerelli [SIBO:0000241]	label [rdfs:label]	Aphaenogaster cockerelli	
+WARN	missing_obsolete_label	Aphaenogaster albisetosus [SIBO:0000242]	label [rdfs:label]	Aphaenogaster albisetosus	
+WARN	missing_obsolete_label	none [SIBO:0000277]	label [rdfs:label]	none	
+WARN	missing_obsolete_label	<new term> [SIBO:0000342]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	<new term> [SIBO:0000343]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	orifice of metapleural gland [SIBO:0000481]	label [rdfs:label]	orifice of metapleural gland	
+WARN	missing_obsolete_label	denticle [SIBO:0000482]	label [rdfs:label]	denticle	
+WARN	missing_obsolete_label	gastral segment number 1 [SIBO:0000489]	label [rdfs:label]	gastral segment number 1	
+WARN	missing_obsolete_label	gastral segment number 2 [SIBO:0000490]	label [rdfs:label]	gastral segment number 2	
+WARN	missing_obsolete_label	gastral segment number 3 [SIBO:0000491]	label [rdfs:label]	gastral segment number 3	
+WARN	missing_obsolete_label	gastral segment number 4 [SIBO:0000492]	label [rdfs:label]	gastral segment number 4	
+WARN	missing_obsolete_label	gastral segment number 5 [SIBO:0000493]	label [rdfs:label]	gastral segment number 5	
+WARN	missing_obsolete_label	abdominal se [SIBO:0000499]	label [rdfs:label]	abdominal se	
+WARN	missing_obsolete_label	gastral segment number 3 [SIBO:0000505]	label [rdfs:label]	gastral segment number 3	
+WARN	missing_obsolete_label	gastral segment number 4 [SIBO:0000506]	label [rdfs:label]	gastral segment number 4	
+WARN	missing_obsolete_label	gastral segment number 6 [SIBO:0000508]	label [rdfs:label]	gastral segment number 6	
+WARN	missing_obsolete_label	gastral segment number 7 [SIBO:0000509]	label [rdfs:label]	gastral segment number 7	
+WARN	missing_obsolete_label	Antenna [SIBO:0000513]	label [rdfs:label]	Antenna	
+WARN	missing_obsolete_label	<new term> [SIBO:0000515]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	Dufours Gland [SIBO:0000522]	label [rdfs:label]	Dufours Gland	
+WARN	missing_obsolete_label	<new term> [SIBO:0000523]	label [rdfs:label]	<new term>	
+INFO	lowercase_definition	3-Octanol [SIBO:0000010]	IAO_0000115 [IAO:0000115]	3-Octanol.	
+INFO	lowercase_definition	3-Decanol [SIBO:0000011]	IAO_0000115 [IAO:0000115]	3-Decanol.	
+INFO	lowercase_definition	6-Methyl-5-hepten-2-ol [SIBO:0000012]	IAO_0000115 [IAO:0000115]	6-Methyl-5-hepten-2-ol.	
+INFO	lowercase_definition	4-Heptanol [SIBO:0000013]	IAO_0000115 [IAO:0000115]	4-Heptanol.	
+INFO	lowercase_definition	4-Methyl-3-heptanol [SIBO:0000014]	IAO_0000115 [IAO:0000115]	4-Methyl-3-heptanol.	
+INFO	lowercase_definition	1-Hexanol [SIBO:0000015]	IAO_0000115 [IAO:0000115]	1-Hexanol.	
+INFO	lowercase_definition	2-Hexanal [SIBO:0000016]	IAO_0000115 [IAO:0000115]	2-Hexanal.	
+INFO	lowercase_definition	2-Butyl-2-octenal [SIBO:0000018]	IAO_0000115 [IAO:0000115]	2-Butyl-2-octenal.	
+INFO	lowercase_definition	2-Methyl-4-heptanone [SIBO:0000021]	IAO_0000115 [IAO:0000115]	2-Methyl-4-heptanone.	
+INFO	lowercase_definition	3-Decanone [SIBO:0000023]	IAO_0000115 [IAO:0000115]	3-Decanone.	
+INFO	lowercase_definition	2-Heptanone [SIBO:0000024]	IAO_0000115 [IAO:0000115]	2-Heptanone.	
+INFO	lowercase_definition	2-Tridecanone [SIBO:0000030]	IAO_0000115 [IAO:0000115]	2-Tridecanone.	
+INFO	lowercase_definition	2S6R-2-me-6-heptylpiperidine [SIBO:0000061]	IAO_0000115 [IAO:0000115]	2S6R-2-me-6-heptylpiperidine.	
+INFO	lowercase_definition	4me-7-3Kt [SIBO:0000268]	IAO_0000115 [IAO:0000115]	4me-7-3Kt.	
+INFO	lowercase_definition	2-phenylacetic acid [SIBO:0000272]	IAO_0000115 [IAO:0000115]	2-phenylacetic acid.	
+INFO	lowercase_definition	2me5me-3-ethylpyrazine [SIBO:0000273]	IAO_0000115 [IAO:0000115]	2me5me-3-ethylpyrazine.	
+INFO	lowercase_definition	5-pentylresorcinol [SIBO:0000336]	IAO_0000115 [IAO:0000115]	5-pentylresorcinol.	
+INFO	lowercase_definition	5-propylresorcinol [SIBO:0000337]	IAO_0000115 [IAO:0000115]	5-propylresorcinol.	
+INFO	lowercase_definition	3-pentylphenol [SIBO:0000338]	IAO_0000115 [IAO:0000115]	3-pentylphenol.	
+INFO	lowercase_definition	3-propylphenol [SIBO:0000340]	IAO_0000115 [IAO:0000115]	3-propylphenol.	
+INFO	lowercase_definition	3,4-dihydro-8-hydroxyisocoumarin [SIBO:0000341]	IAO_0000115 [IAO:0000115]	3,4-dihydro-8-hydroxyisocoumarin.	
+INFO	lowercase_definition	3-heptylphenol [SIBO:0000344]	IAO_0000115 [IAO:0000115]	3-heptylphenol.	
+INFO	lowercase_definition	5-heptylresorcinol [SIBO:0000353]	IAO_0000115 [IAO:0000115]	5-heptylresorcinol.	
+INFO	lowercase_definition	2-phenylpropenal [SIBO:0000366]	IAO_0000115 [IAO:0000115]	2-phenylpropenal.	
+INFO	lowercase_definition	1-17Hy-1,3,5-trihydroxycyclohexane [SIBO:0000377]	IAO_0000115 [IAO:0000115]	1-17Hy-1,3,5-trihydroxycyclohexane.	
+INFO	lowercase_definition	1-19Hy-1,3,5-trihydroxycyclohexane [SIBO:0000378]	IAO_0000115 [IAO:0000115]	1-19Hy-1,3,5-trihydroxycyclohexane.	
+INFO	lowercase_definition	13-2Kt [SIBO:0000407]	IAO_0000115 [IAO:0000115]	13-2Kt.	
+INFO	lowercase_definition	5me-6-3Kt [SIBO:0000448]	IAO_0000115 [IAO:0000115]	5me-6-3Kt.	
+INFO	lowercase_definition	2-phenyl-2-butenal [SIBO:0000453]	IAO_0000115 [IAO:0000115]	2-phenyl-2-butenal.	
+INFO	lowercase_definition	3-hexyl-5me-indolizine [SIBO:0000470]	IAO_0000115 [IAO:0000115]	3-hexyl-5me-indolizine.	
+INFO	missing_superclass	NCBITaxon_7460 [NCBITaxon:7460]	rdfs:subClassOf		
+INFO	missing_superclass	Behavior [SIBO:0000147]	rdfs:subClassOf		
+INFO	missing_superclass	Anatomical part [SIBO:0000149]	rdfs:subClassOf		
+INFO	missing_superclass	Species [SIBO:0000477]	rdfs:subClassOf		
+INFO	missing_superclass	Chemical [SIBO:0000479]	rdfs:subClassOf		

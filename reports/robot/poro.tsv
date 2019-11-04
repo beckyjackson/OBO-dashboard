@@ -1,0 +1,166 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	blunt megasclere [PORO:0000172]	IAO_0000115 [IAO:0000115]	Adjective referring to the extremities of megascleres. See OXEA.	
+ERROR	duplicate_definition	conical megasclere [PORO:0000230]	IAO_0000115 [IAO:0000115]	Adjective referring to the extremities of megascleres. See OXEA.	
+ERROR	duplicate_definition	equal megasclere [PORO:0000293]	IAO_0000115 [IAO:0000115]	Adjective referring to the extremities of megascleres. See OXEA.	
+ERROR	duplicate_definition	symmetrical megasclere [PORO:0000577]	IAO_0000115 [IAO:0000115]	Adjective referring to the extremities of megascleres. See OXEA.	
+ERROR	duplicate_definition	asymmetric megasclere [PORO:0000154]	IAO_0000115 [IAO:0000115]	Adjective referring to the extremities of a megasclere. See OXEA.	
+ERROR	duplicate_definition	stepped megasclere [PORO:0000556]	IAO_0000115 [IAO:0000115]	Adjective referring to the extremities of a megasclere. See OXEA.	
+ERROR	multiple_definitions	spicule [PORO:0000017]	IAO_0000115 [IAO:0000115]		
+ERROR	multiple_definitions	spicule [PORO:0000017]	IAO_0000115 [IAO:0000115]	siliceous or calcareous entities that form the mineral skeleton of a sponge	
+ERROR	missing_ontology_license	poro.owl	dc:license		
+WARN	missing_definition	sponge cell [PORO:0000000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sponge larval cell [PORO:0000006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cruciform cell [PORO:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secretory cell [PORO:0000012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spongocoel lining [PORO:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	siliceous spicule [PORO:0000031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spongin spicule [PORO:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcium carbonate exoskeleton [PORO:0000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pore [PORO:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dermal pore [PORO:0000038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	canal [PORO:0000039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flagellated canal [PORO:0000041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spicule ray [PORO:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	maternal cell [PORO:0000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crystal [PORO:0000094]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arrangement of spicules [PORO:0000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arrangement of megascleres [PORO:0000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body layer [PORO:0000700]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spermatid [PORO:0000701]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spongiocyte [PORO:0000702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bromotyrosin [PORO:0000703]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granular cell [PORO:0000704]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	membrane-bound inclusion [PORO:0000705]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large dense membrane-bound inclusion [PORO:0000706]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large granular membrane-bound inclusion [PORO:0000707]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	small granular membrane-bound inclusion [PORO:0000708]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	exopinacoderm [PORO:0000709]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reproductive body [PORO:0000900]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rigid skeleton [PORO:0000901]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	collagen fibril [PORO:0000904]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sponge surface [PORO:0000905]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surface protruberance [PORO:0000906]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mode of reproduction [PORO:0000907]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical axis [PORO:0000908]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ray axis [PORO:0000909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plate [PORO:0000910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ectosomal spicule [PORO:0000911]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pole of larva [PORO:0000912]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flagellated cell [PORO:0000914]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chamber [PORO:0000915]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	groove, pit or depression [PORO:0000917]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hilum of sterraster [PORO:0000918]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hilum of aspidaster [PORO:0000919]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcareous skeleton [PORO:0000920]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	relationship to substrate [PORO:0000921]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	substrate [PORO:0000922]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell component [PORO:0000923]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus [PORO:0000924]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sponge larva [PORO:0000926]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	structural quality [PORO:0000927]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gemmule coat [PORO:0000928]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multicellular anatomical structure [PORO:0000929]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	envelope of flagellated cells [PORO:0000930]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crypt cell [PORO:0000931]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tract cell [PORO:0000932]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flagellated endopinacocyte [PORO:0000933]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flagellated exopinacocyte [PORO:0000934]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcareous plate [PORO:0000935]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choanocyte-lined radial canal [PORO:0000936]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choanocyte-lined filter chamber [PORO:0000937]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organism subdivision [PORO:0000938]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	triaene clad [PORO:0000940]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bifurcate clad [PORO:0000941]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trifurcate clad [PORO:0000942]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macramphidisc [PORO:0000943]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesamphidisc [PORO:0000944]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	micramphidisc [PORO:0000945]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	variant of [PORO:0000946]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	monaxial desma [PORO:0000947]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choanosomal spicule [PORO:0000951]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein [PORO:0000959]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spiculogenesis [PORO:0000963]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cavity of canal [PORO:0000991]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	external definition [PORO:0000995]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arm of trider [PORO:0000997]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skeletal element of sponge [PORO:0000998]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acanthostyle [PORO:0002002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spine [PORO:0002004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	verticillate acanthostyle [PORO:0002005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anisochela I [PORO:0002027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anisochela II [PORO:0002028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	growth_form [PORO:0002035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mineral skeleton [PORO:0002042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	amorphous [PORO:0000113]	label [rdfs:label]	amorphous	
+WARN	missing_obsolete_label	aniso- [PORO:0000125]	label [rdfs:label]	aniso-	
+WARN	missing_obsolete_label	anomoclone [PORO:0000128]	label [rdfs:label]	anomoclone	
+WARN	missing_obsolete_label	antho- [PORO:0000131]	label [rdfs:label]	antho-	
+WARN	missing_obsolete_label	anthosigma [PORO:0000132]	label [rdfs:label]	anthosigma	
+WARN	missing_obsolete_label	apopore [PORO:0000139]	label [rdfs:label]	apopore	
+WARN	missing_obsolete_label	blastula [PORO:0000171]	label [rdfs:label]	blastula	
+WARN	missing_obsolete_label	coenosteum [PORO:0000219]	label [rdfs:label]	coenosteum	
+WARN	missing_obsolete_label	comma [PORO:0000226]	label [rdfs:label]	comma	
+WARN	missing_obsolete_label	corallite (= calyx) [PORO:0000232]	label [rdfs:label]	corallite (= calyx)	
+WARN	missing_obsolete_label	cri- [PORO:0000240]	label [rdfs:label]	cri-	
+WARN	missing_obsolete_label	dendritic [PORO:0000248]	label [rdfs:label]	dendritic	
+WARN	missing_obsolete_label	dendroreticulate fiber skeleton [PORO:0000251]	label [rdfs:label]	dendroreticulate fiber skeleton	
+WARN	missing_obsolete_label	discaster [PORO:0000270]	label [rdfs:label]	discaster	
+WARN	missing_obsolete_label	flagellated chamber [PORO:0000315]	label [rdfs:label]	flagellated chamber	
+WARN	missing_obsolete_label	intracellular pore [PORO:0000359]	label [rdfs:label]	intracellular pore	
+WARN	missing_obsolete_label	iso- [PORO:0000362]	label [rdfs:label]	iso-	
+WARN	missing_obsolete_label	lipo- [PORO:0000375]	label [rdfs:label]	lipo-	
+WARN	missing_obsolete_label	lobodigitate [PORO:0000379]	label [rdfs:label]	lobodigitate	
+WARN	missing_obsolete_label	micro- [PORO:0000397]	label [rdfs:label]	micro-	
+WARN	missing_obsolete_label	oxy- [PORO:0000432]	label [rdfs:label]	oxy-	
+WARN	missing_obsolete_label	palmodigitate [PORO:0000438]	label [rdfs:label]	palmodigitate	
+WARN	missing_obsolete_label	pycnaster [PORO:0000492]	label [rdfs:label]	pycnaster	
+WARN	missing_obsolete_label	sterrospheraster [PORO:0000558]	label [rdfs:label]	sterrospheraster	
+WARN	missing_obsolete_label	subdermal spicule [PORO:0000570]	label [rdfs:label]	subdermal spicule	
+WARN	missing_obsolete_label	subgastral spicule [PORO:0000571]	label [rdfs:label]	subgastral spicule	
+WARN	missing_obsolete_label	vallate [PORO:0000626]	label [rdfs:label]	vallate	
+INFO	lowercase_definition	lophocyte [PORO:0000005]	IAO_0000115 [IAO:0000115]	amoeba-like cells that move slowly through the mesohyl and secrete collagen fibres.	
+INFO	lowercase_definition	micromere [PORO:0000009]	IAO_0000115 [IAO:0000115]	anterior ciliated cell of the sponge larva that will differentiate into a choanocyte or spicule-forming cell	
+INFO	lowercase_definition	sclerocyte [PORO:0000011]	IAO_0000115 [IAO:0000115]	spicule secreting cells, found in sponges. They secrete calcareous or siliceous spicules which are found in the mesohyl layer of sponges. The sclerocytes produce spicules via formation of a cellular triad	
+INFO	lowercase_definition	myocyte [PORO:0000014]	IAO_0000115 [IAO:0000115]	conduct signals and cause parts of the animal to contract. They are assumed to regulate the flow of water by increasing or decreasing the diameter of these openings to the aquiferous system.	
+INFO	lowercase_definition	gray cell [PORO:0000015]	IAO_0000115 [IAO:0000115]	cells that acts as sponges' equivalent of an immune system.	
+INFO	lowercase_definition	archaeocyte [PORO:0000016]	IAO_0000115 [IAO:0000115]	amoeba-like large cells with large nuclei that are totipotent. They also have important roles in feeding and in clearing debris that block the ostia.	
+INFO	lowercase_definition	spicule [PORO:0000017]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	spicule [PORO:0000017]	IAO_0000115 [IAO:0000115]	siliceous or calcareous entities that form the mineral skeleton of a sponge	
+INFO	lowercase_definition	osculum [PORO:0000018]	IAO_0000115 [IAO:0000115]	an excretory structure in the living sponge, a large opening to the outside through which the current of water exits after passing through the spongocoel. Wastes diffuse into the water and the water exits through the osculum at a velocity of nearly 8.4 cm/second, carrying away with it the sponge's wastes. The size of the osculum is regulated by the myocyte. Its size, in turn, determines the amount of water flowing through the sponge.	
+INFO	lowercase_definition	spongeocoel [PORO:0000020]	IAO_0000115 [IAO:0000115]	large, central cavity of sponges. Water enters the spongocoel through hundreds of tiny pores (Ostia) and exits through the larger opening (osculum). Depending on the body plan of the sponge (which can be asconoid, syconoid, or leuconoid), the spongocoel could be a simple interior space of the sponge or a complexly branched inner structure. Regardless of body plan or class, the spongocoel is lined with choanocytes, which have flagella that push water through the spongocoel, creating a current.	
+INFO	lowercase_definition	pinacocyte [PORO:0000023]	IAO_0000115 [IAO:0000115]	flat cells found on the outermost layer of sponges. They can expand and contract to slightly alter the size of the sponge, and can also produce collagen. Delimits the sponge from the external milieu and always only in a layer one-cell deep	
+INFO	lowercase_definition	prosopyle [PORO:0000024]	IAO_0000115 [IAO:0000115]	a pore through which water is drawn from the outside into one of the saclike chambers formed by the evagination of the body wall.	
+INFO	lowercase_definition	porocyte [PORO:0000044]	IAO_0000115 [IAO:0000115]	cell that surrounds a pore (ostium). In an asconoid sponge, water enters the sponge through the porocytes, passes directly to the choanocyte-lined spongocoel, and then out of the sponge through the osculum.	
+INFO	lowercase_definition	apopyle [PORO:0000046]	IAO_0000115 [IAO:0000115]	a pore in each of the saclike chambers formed by the evagination of the body wall, through which water passes into the excurrent canals.	
+INFO	lowercase_definition	aster [PORO:0000902]	IAO_0000115 [IAO:0000115]	stellate spicule where where 1-6 primary rays undergo terminal branching to form secondary rays (differs from definition used for desmosponges)	
+INFO	lowercase_definition	microstrongyle [PORO:0000954]	IAO_0000115 [IAO:0000115]	microsclere with both ends blunted[WP]	
+INFO	lowercase_definition	silicatein [PORO:0000960]	IAO_0000115 [IAO:0000115]	enzyme which catalyzes the formation of silicate polymers	
+INFO	lowercase_definition	silicase [PORO:0000961]	IAO_0000115 [IAO:0000115]	enzyme in sponges, proposed to be involved in silica restructuring and maintenance. The proposed mechanism involves bound zinc acting as a Lewis acid catalyst to break the silicate ester bond between silicon and oxygen	
+INFO	lowercase_definition	acantho [PORO:0002001]	IAO_0000115 [IAO:0000115]	has spines; applies only to spicules	
+INFO	lowercase_definition	size class [PORO:0002038]	IAO_0000115 [IAO:0000115]	number of size categories	
+INFO	missing_superclass	CHEBI_24431 [CHEBI:24431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_3311 [CHEBI:3311]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46719 [CHEBI:46719]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_64389 [CHEBI:64389]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000000 [CL:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000023 [CL:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000039 [CL:0000039]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005623 [GO:0005623]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005929 [GO:0005929]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0006909 [GO:0006909]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0022414 [GO:0022414]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000001 [PATO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000051 [PATO:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000061 [UBERON:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000105 [UBERON:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000465 [UBERON:0000465]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000466 [UBERON:0000466]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000467 [UBERON:0000467]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000468 [UBERON:0000468]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000476 [UBERON:0000476]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000479 [UBERON:0000479]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000480 [UBERON:0000480]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000990 [UBERON:0000990]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002548 [UBERON:0002548]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005156 [UBERON:0005156]	rdfs:subClassOf		

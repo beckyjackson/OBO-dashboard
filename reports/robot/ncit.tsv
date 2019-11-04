@@ -1,0 +1,11 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	NCIT:C139594	IAO:0000115	Vulvar cancer with distant metastasis (including pelvic lymph node metastasis). (from AJCC 8th Ed.)	
+ERROR	missing_label	http://protege.stanford.edu/plugins/owl/protege#readOnly	rdfs:label		
+ERROR	misused_obsolete_label	NCIT:C43634	rdfs:label	Obsolete Concept	
+ERROR	deprecated_class_reference	NCIT:C104171	rdfs:subClassOf	NCIT:C100451	
+ERROR	duplicate_label	NCIT:C152960	rdfs:label	Zolbetuximab	
+ERROR	missing_ontology_license	ncit.owl	dc:license		
+WARN	duplicate_exact_synonym	NCIT:C1022	oboInOwl:hasExactSynonym	[[Ethoxymethyl-5-fluoro-3,6-dihydro-2,6-dioxo-1(2H)-pyrimidinyl]carbonyl]benzoic Acid, 6-(Benzoyloxy)-3-cyano-2-pyridinyl Ester	
+WARN	missing_definition	http://protege.stanford.edu/plugins/owl/protege#readOnly	IAO:0000115		
+WARN	missing_obsolete_label	NCIT:C100421	rdfs:label	Activated PTT to Standard PTT Ratio Measurement	
+INFO	lowercase_definition	NCIT:C101118	IAO:0000115	14-3-3 protein epsilon (255 aa, ~29 kDa) is encoded by the human YWHAE gene. This protein plays a role in signal transduction.	

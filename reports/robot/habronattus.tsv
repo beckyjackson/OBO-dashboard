@@ -1,0 +1,4 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	blank node <de713e130a7ce0f11a8d3996807f9091>	dc11:description		
+ERROR	missing_ontology_license	blank node <de713e130a7ce0f11a8d3996807f9091>	dc:license		
+ERROR	missing_ontology_title	blank node <de713e130a7ce0f11a8d3996807f9091>	dc11:title		

@@ -1,0 +1,214 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	head-mantle fusion [CEPH:0000129]	IAO_0000115 [IAO:0000115]	.	
+ERROR	duplicate_definition	tentacle thickness [CEPH:0000261]	IAO_0000115 [IAO:0000115]	.	
+ERROR	missing_ontology_description	ceph.owl	dc11:description		
+ERROR	duplicate_label	leucophore [CEPH:0000284]	label [rdfs:label]	leucophore	
+ERROR	duplicate_label	leucophore [CEPH:0001077]	label [rdfs:label]	leucophore	
+ERROR	missing_ontology_license	ceph.owl	dc:license		
+ERROR	missing_ontology_title	ceph.owl	dc11:title		
+WARN	annotation_whitespace	accessory gland complex [CEPH:0000004]	IAO_0000115 [IAO:0000115]	The glandular complex in cirrates that forms sperm packets and is a counterpart of the spermatophore-forming complex of other cephalopods. 	
+WARN	annotation_whitespace	armature of the arms [CEPH:0000018]	IAO_0000115 [IAO:0000115]	The grappling structures on the oral surfaces the arms and tentacles, including both suckers and hooks. 	
+WARN	annotation_whitespace	a-seriation [CEPH:0000019]	IAO_0000115 [IAO:0000115]	Type of cusp arrangement on the rachadian tooth of the radula: multiple cusps seem to move laterally when viewing successive rachadian teeth from adjacent rows. 	
+WARN	annotation_whitespace	basal shelf [CEPH:0000021]	IAO_0000115 [IAO:0000115]	See cirrate shell terminology. 	
+WARN	annotation_whitespace	branchial heart [CEPH:0000032]	IAO_0000115 [IAO:0000115]	A pulsating gland at the base of the gill and through which the afferent blood to the gills flows. It contributes to the blood flow through the gill but also is the site of hemocyanin (the blood respiratory pigment) synthesis. 	
+WARN	annotation_whitespace	carpus [CEPH:0000053]	IAO_0000115 [IAO:0000115]	The region of the tentacle that contains the carpal locking-apparatus 	
+WARN	annotation_whitespace	cirrate male reproductive system [CEPH:0000063]	IAO_0000115 [IAO:0000115]	The male reproductive tract of cirrates does not make typical spermatophores. As a result, the tract differs greatly from that of other coleoid cephalopods. 	
+WARN	annotation_whitespace	cirrate octopod measurements [CEPH:0000064]	IAO_0000115 [IAO:0000115]	Measurements used in describing cirrates differ somewhat from other cephalopods. 	
+WARN	annotation_whitespace	dorsal mantle cavity [CEPH:0000093]	IAO_0000115 [IAO:0000115]	Dorsal portion of the mantle cavity that completely surrounds the viscera in octopods. In decapodiforms and <strong>Vampyroteuthis</strong> the viscera are fused to the mantle and shell dorsally and the mantle cavity lies lateral and ventral to the viscera. 	
+WARN	annotation_whitespace	eyelid sinus [CEPH:0000104]	IAO_0000115 [IAO:0000115]	Indentation, often complex, of the anterior margin of the eyelid. 	
+WARN	annotation_whitespace	fin attachment [CEPH:0000106]	IAO_0000115 [IAO:0000115]	A fin attaches to the shell, the mantle, the opposite fin or some combination of these. 	
+WARN	annotation_whitespace	fin cartilage [CEPH:0000107]	IAO_0000115 [IAO:0000115]	Cartilage associated with the fins of all fin-bearing cephalopods. 	
+WARN	annotation_whitespace	fin length [CEPH:0000108]	IAO_0000115 [IAO:0000115]	This measurement varies in different major taxa.       	
+WARN	annotation_whitespace	fin position [CEPH:0000110]	IAO_0000115 [IAO:0000115]	Fins are located anterior to the termination of the muscular mantle (subterminal position) or mostly posterior to it (terminal position) or somewhere inbetween. 	
+WARN	annotation_whitespace	fin shape [CEPH:0000111]	IAO_0000115 [IAO:0000115]	Fins are classified, somewhat arbitrarily, by their shape as Sagittate, Rhomboid, Circular/Elliptical, Lanceolate, Ear-shaped, Ribbed, Lobate or skirt-like. 	
+WARN	annotation_whitespace	half-orange gill [CEPH:0000126]	IAO_0000115 [IAO:0000115]	Gills of some cirrate octopods with broad primary lamellae whose arrangement looks similar to half of an orange. 	
+WARN	annotation_whitespace	lateral funnel adductor muscle [CEPH:0000147]	IAO_0000115 [IAO:0000115]	Muscles that support the lateral attachment of the funnel to the head. 	
+WARN	annotation_whitespace	locking-apparatus of tentacular stalk [CEPH:0000156]	IAO_0000115 [IAO:0000115]	Continuation of the carpal locking apparatus down the oral face of the tentacular stalk. 	
+WARN	annotation_whitespace	mantle septum [CEPH:0000161]	IAO_0000115 [IAO:0000115]	A anteroposterior septum that connects the mantle wall with the visceral sac along the midline in the ventral mantle cavity. The ventral mantle artery runs along the anterior end of this septum. 	
+WARN	annotation_whitespace	nuchal region [CEPH:0000180]	IAO_0000115 [IAO:0000115]	The posterodorsal region of the head and the area immediately posterior to it. 	
+WARN	annotation_whitespace	oviducal gland [CEPH:0000193]	IAO_0000115 [IAO:0000115]	Gland surrounding the end of the primary oviduct and responsible for secreting some of the external coatings over spawned eggs or, in incirrates, the cement at the base of the chorion stalk . In octopods it also acts as a spermatheca, and is located around the apparent middle of the oviduct. However, the &quot;distal oviduct&quot; is actually an extension of the oviducal gland. 	
+WARN	annotation_whitespace	photophore location [CEPH:0000199]	IAO_0000115 [IAO:0000115]	Photophores are found in nearly any location in some squid. However, certain locations are the most common. 	
+WARN	annotation_whitespace	posterior buccal lobe [CEPH:0000204]	IAO_0000115 [IAO:0000115]	A fused pair of lobes that are the anterior-most lobes of the supraesophageal mass of the brain of decapodiforms but is incorporated into the anterior portion of the supraesophageal mass behind the superior buccal lobes in most octopodiforms. 	
+WARN	annotation_whitespace	pseudomorph [CEPH:0000211]	IAO_0000115 [IAO:0000115]	A mass of ink and mucous that roughly has the dimensions of the cephalopod that secreted it. 	
+WARN	annotation_whitespace	rostrum [CEPH:0000217]	IAO_0000115 [IAO:0000115]	Portion of the gladius that extends posteriorly or posterodorsally from the conus. A distnct rostrum is found only in the Onychoteuthidae, Ancistrocheiridae, Lampadioteuthinae and Vampyroteuthidae. 	
+WARN	annotation_whitespace	saddle [CEPH:0000218]	IAO_0000115 [IAO:0000115]	The region of the shell of cirrates connecting the lateral wings. 	
+WARN	annotation_whitespace	sagittate fin [CEPH:0000220]	IAO_0000115 [IAO:0000115]	The most common fin-shape in squids with anterior free fin-lobes, a relatively sharp lateral angle and posterior elongation. See fin shapes. 	
+WARN	annotation_whitespace	scales and tubercule [CEPH:0000221]	IAO_0000115 [IAO:0000115]	The skin of the mantle contains scales, tubercules and warts in various species. 	
+WARN	annotation_whitespace	secondary eyelid [CEPH:0000223]	IAO_0000115 [IAO:0000115]	An eyelid that covers the ventral part of the cornea. 	
+WARN	annotation_whitespace	sucker series [CEPH:0000249]	IAO_0000115 [IAO:0000115]	The longitudinal rows of suckers on the arms or tentacles of decapodiforms. Series (= longitudinal rows) contrasts with rows (= transverse rows) in describing sucker arrangement. In octopodiforms, sucker &quot;series&quot; is generally synonymous with &quot;rows&quot;, the &quot;longitudinal&quot; component of the term is implied. Suckers can form distinct, regular series or indistinct, irregular series. 	
+WARN	annotation_whitespace	tentacle absence [CEPH:0000257]	IAO_0000115 [IAO:0000115]	Tentacles can be absent because the species lacks tentacles, they are accidentally lost during capture, or they are naturally lost at sexual maturity. 	
+WARN	missing_definition	eyelid [CEPH:0000000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cephalopod eye [CEPH:0000002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	circumoral appendage bud [CEPH:0000003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	main nidamental gland [CEPH:0000007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arm IV [CEPH:0000017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary conus [CEPH:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stalked eye [CEPH:0000241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ink [CEPH:0000285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cephalopod ovary [CEPH:0000287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	photosensitive vesicle of cephalic cartilage [CEPH:0000288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	photosensitive vesicle of stellate ganglion [CEPH:0000289]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lobe of brain [CEPH:0000293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lobe of nervous system [CEPH:0000294]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	buccal lobe [CEPH:0000295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subesophageal mass of brain [CEPH:0000296]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	middle subesophageal mass of brain [CEPH:0000297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior subesophageal mass of brain [CEPH:0000298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraesophageal mass of brain [CEPH:0000299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cephalopod trait [CEPH:0000300]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superior frontal lobe system [CEPH:0000302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertical frontal lobe system [CEPH:0000303]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	collection of suckers [CEPH:0000305]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transverse row of suckers [CEPH:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	circumoral appendage segment [CEPH:0000307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cephalopod size [CEPH:0000309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cirrus [CEPH:0001005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	homologous_to [CEPH:0001007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill length [CEPH:0001010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ocellus [CEPH:0001016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cephalopod sperm receptacle [CEPH:0001017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spermatophore pad [CEPH:0001018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner sucker ring [CEPH:0001020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outer sucker ring [CEPH:0001021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	branchial heart appendage [CEPH:0001023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spot [CEPH:0001024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal beak [CEPH:0001025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral beak [CEPH:0001026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	septum [CEPH:0001027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arm I [CEPH:0001028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arm II [CEPH:0001029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arm III [CEPH:0001030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	external shell [CEPH:0001031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is about [CEPH:0001032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shield [CEPH:0001034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal sac [CEPH:0001037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tooth of sucker ring [CEPH:0001038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	web depth [CEPH:0001040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beak length [CEPH:0001041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lower rostral length [CEPH:0001042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	upper rostral length [CEPH:0001043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spadix organ [CEPH:0001044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shell septum [CEPH:0001046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	internal shell [CEPH:0001048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	funnel component of funnel-mantle locking apparatus [CEPH:0001051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mantle component of funnel-mantle locking apparatus [CEPH:0001052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spermatophore gland [CEPH:0001053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Ammonoidea [CEPH:0001054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Goniatitida [CEPH:0001055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Ceratitida [CEPH:0001056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Ammonitida [CEPH:0001057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reproductive trait [CEPH:0001058]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	appendage trait [CEPH:0001059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	habitat trait [CEPH:0001060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shell trait [CEPH:0001061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	integument trait [CEPH:0001062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fin trait [CEPH:0001063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	head trait [CEPH:0001064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	whole organism trait [CEPH:0001065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill trait [CEPH:0001066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organ of Hoeven [CEPH:0001068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyroform sac [CEPH:0001069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sexual size dimorphism [CEPH:0001070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sexual dimorphism [CEPH:0001071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	buccal ganglion [CEPH:0001072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial layer of gladius [CEPH:0001073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marginal epithelial layer of the gladius [CEPH:0001074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral epithelial layer of gladius [CEPH:0001075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iridophore [CEPH:0001076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leucophore [CEPH:0001077]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	efferent vein [CEPH:0000094]	IAO_0000115 [IAO:0000115]	vein carrying blood away from an organ.	
+INFO	lowercase_definition	efferent nerve [CEPH:0000095]	IAO_0000115 [IAO:0000115]	nerve carring impulses away from the brain or specific ganglia.	
+INFO	lowercase_definition	head-mantle fusion [CEPH:0000129]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	mantle length [CEPH:0000160]	IAO_0000115 [IAO:0000115]	(ML) - The standard measure of length in coleoid cephalopods. In decapodiforms ML is measured along the dorsal midline from the mantle margin to the posterior tip of the body, excluding long tails. In octopodiforms ML is measured from a line joining the midpoint of the eyes rather than the anterior mantle margin since the latter is obscured by the head/mantle fusion.	
+INFO	lowercase_definition	semicrescent plate [CEPH:0000227]	IAO_0000115 [IAO:0000115]	(arm suckers) - A semicrescent plate on the proximal margin of the inner sucker arm rings of the loliginid squid <strong>Uroteuthis</strong>.	
+INFO	lowercase_definition	tentacle thickness [CEPH:0000261]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	wing [CEPH:0000283]	IAO_0000115 [IAO:0000115]	(shell) - Lateral limbs of the shell of cirrate octopods	
+INFO	lowercase_definition	anal photophore [CEPH:0000304]	IAO_0000115 [IAO:0000115]	photophore at side of anus	
+INFO	lowercase_definition	buccal membrane support [CEPH:0000310]	IAO_0000115 [IAO:0000115]	longitudinal muscular rod fused with buccal membrane	
+INFO	lowercase_definition	bullet-shaped mantle [CEPH:0001001]	IAO_0000115 [IAO:0000115]	posteriorly blunt rather than broad body (mantle) common in larval cephalopods	
+INFO	lowercase_definition	dorsal shield [CEPH:0001035]	IAO_0000115 [IAO:0000115]	hard calcareous dorsal surface of the cuttlebone	
+INFO	lowercase_definition	epirenal body [CEPH:0001036]	IAO_0000115 [IAO:0000115]	glandular structures of unknown function which lie on either side of the renal papillae	
+INFO	lowercase_definition	umbilicus [CEPH:0001039]	IAO_0000115 [IAO:0000115]	the central core of the chambered Nautilus shell, representing the juvenile shell with its initial coils	
+INFO	lowercase_definition	shell apex [CEPH:0001050]	IAO_0000115 [IAO:0000115]	the tip of the mollusc shell of a gastropod, scaphopod, or cephalopod mollusc.	
+INFO	lowercase_definition	iteroparous [CEPH:0001067]	IAO_0000115 [IAO:0000115]	characterized by multiple reproductive cycles over the course of its lifetime	
+INFO	missing_superclass	cephalopod trait [CEPH:0000300]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000000 [CL:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000147 [CL:0000147]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008218 [GO:0008218]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009584 [GO:0009584]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0016020 [GO:0016020]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0040011 [GO:0040011]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_102882 [NCBITaxon:102882]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_32577 [NCBITaxon:32577]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_34572 [NCBITaxon:34572]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_61743 [NCBITaxon:61743]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6605 [NCBITaxon:6605]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000025 [UBERON:0000025]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000026 [UBERON:0000026]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000033 [UBERON:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000045 [UBERON:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000061 [UBERON:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000062 [UBERON:0000062]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000064 [UBERON:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000079 [UBERON:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000105 [UBERON:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000158 [UBERON:0000158]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000161 [UBERON:0000161]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000165 [UBERON:0000165]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000166 [UBERON:0000166]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000463 [UBERON:0000463]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000466 [UBERON:0000466]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000467 [UBERON:0000467]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000468 [UBERON:0000468]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000474 [UBERON:0000474]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000475 [UBERON:0000475]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000476 [UBERON:0000476]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000477 [UBERON:0000477]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000479 [UBERON:0000479]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000483 [UBERON:0000483]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000945 [UBERON:0000945]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000952 [UBERON:0000952]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000955 [UBERON:0000955]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000970 [UBERON:0000970]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000992 [UBERON:0000992]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000993 [UBERON:0000993]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000994 [UBERON:0000994]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001007 [UBERON:0001007]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001016 [UBERON:0001016]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001021 [UBERON:0001021]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001043 [UBERON:0001043]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001044 [UBERON:0001044]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001245 [UBERON:0001245]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001555 [UBERON:0001555]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001630 [UBERON:0001630]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001638 [UBERON:0001638]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002199 [UBERON:0002199]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002204 [UBERON:0002204]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002268 [UBERON:0002268]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002323 [UBERON:0002323]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002418 [UBERON:0002418]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002530 [UBERON:0002530]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002553 [UBERON:0002553]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003102 [UBERON:0003102]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003408 [UBERON:0003408]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0003978 [UBERON:0003978]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004111 [UBERON:0004111]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004121 [UBERON:0004121]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004253 [UBERON:0004253]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0004289 [UBERON:0004289]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005090 [UBERON:0005090]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005156 [UBERON:0005156]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005399 [UBERON:0005399]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005423 [UBERON:0005423]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005813 [UBERON:0005813]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006575 [UBERON:0006575]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006580 [UBERON:0006580]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006581 [UBERON:0006581]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006583 [UBERON:0006583]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006612 [UBERON:0006612]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006799 [UBERON:0006799]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0008811 [UBERON:0008811]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0013765 [UBERON:0013765]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0014403 [UBERON:0014403]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0014404 [UBERON:0014404]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_4100000 [UBERON:4100000]	rdfs:subClassOf		

@@ -1,0 +1,40 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_license	miapa.owl	dc:license		
+WARN	missing_definition	Gene tree [MIAPA:0000001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Consensus tree [MIAPA:0000002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	branch length [MIAPA:0000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bootstrap value [MIAPA:0000006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior probability [MIAPA:0000007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	edgeLength [MIAPA:0000008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Parameter specification [MIAPA:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has edge length [MIAPA:0000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Maximum likelihood method [MIAPA:0000015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RAxML [MIAPA:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MAFFT [MIAPA:0000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SINA [MIAPA:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PRANK [MIAPA:0000024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PAUP* [MIAPA:0000025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	TNT [MIAPA:0000026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	PhyML [MIAPA:0000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	AMPHORA [MIAPA:0000028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GTR+GAMMA [MIAPA:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GTR+CAT [MIAPA:0000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	WAG [MIAPA:0000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SetOfNetworks [MIAPA:0000039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SetOfTrees [MIAPA:0000040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MrBayes [MIAPA:0000041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	BEAST [MIAPA:0000044]	IAO_0000115 [IAO:0000115]		
+INFO	missing_superclass	operation_0539 <http://edamontology.org/operation_0539>	rdfs:subClassOf		
+INFO	missing_superclass	CDAO_0000006 [CDAO:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	CDAO_0000020 [CDAO:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	CDAO_0000110 [CDAO:0000110]	rdfs:subClassOf		
+INFO	missing_superclass	CDAO_0000118 [CDAO:0000118]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000010 [IAO:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000064 [IAO:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000129 [IAO:0000129]	rdfs:subClassOf		
+INFO	missing_superclass	SWO_0000592 <http://www.ebi.ac.uk/efo/swo/SWO_0000592>	rdfs:subClassOf		
+INFO	missing_superclass	Activity [prov:Activity]	rdfs:subClassOf		
+INFO	missing_superclass	Collection [prov:Collection]	rdfs:subClassOf		
+INFO	missing_superclass	Person [prov:Person]	rdfs:subClassOf		
+INFO	missing_superclass	Plan [prov:Plan]	rdfs:subClassOf		
+INFO	missing_superclass	SoftwareAgent [prov:SoftwareAgent]	rdfs:subClassOf		

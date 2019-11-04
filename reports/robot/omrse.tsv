@@ -1,0 +1,165 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	BFO_0000075 [BFO:0000075]	label [rdfs:label]		
+ERROR	misused_obsolete_label	obsolete_hospital role [OMRSE:00000018]	label [rdfs:label]	obsolete_hospital role@en	
+ERROR	missing_ontology_description	omrse.owl	dc11:description		
+ERROR	missing_ontology_license	omrse.owl	dc:license		
+ERROR	missing_ontology_title	omrse.owl	dc11:title		
+WARN	annotation_whitespace	human health care role [OMRSE:00000010]	IAO_0000115 [IAO:0000115]	A role in human social processes that is realized by health care processes such as seeking or providing treatment for disease and injury, diagnosing disease and injury, or undergoing diagnosis. @en	
+WARN	missing_definition	BFO_0000075 [BFO:0000075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	party to a legal entity [OMRSE:00000002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	party to a legal proceeding [OMRSE:00000003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	party to a legal agreement [OMRSE:00000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	party to a marriage contract [OMRSE:00000005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	party to a power of attorney [OMRSE:00000006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	person health care provider role [OMRSE:00000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is-aggregate-of [OMRSE:00000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is-component-of-aggregate [OMRSE:00000021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	collection of humans [OMRSE:00000023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	geopoli organization [OMRSE:00000029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intravenous drug user [OMRSE:00000040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	private governance organizations [OMRSE:00000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supranational entity [OMRSE:00000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	material entity role [OMRSE:00000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organism role [OMRSE:00000049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Homo sapiens role [OMRSE:00000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organization role [OMRSE:00000051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	school role [OMRSE:00000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nursery school role [OMRSE:00000059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary school role [OMRSE:00000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary school role [OMRSE:00000065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is administered by [OMRSE:00000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is enrolled in school [OMRSE:00000070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is admitted to hospital [OMRSE:00000071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	workplace facility [OMRSE:00000078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	US census householder role [OMRSE:00000081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enrollment end date [OMRSE:00000084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	socio-legal human social role [OMRSE:00000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	age measurement datum [OMRSE:00000088]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contract [OMRSE:00000089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insurance policy [OMRSE:00000091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insured party role [OMRSE:00000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	payer role [OMRSE:00000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	party to an insurance policy [OMRSE:00000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enrollment start date [OMRSE:00000097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	racial identification process [OMRSE:00000099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethnic identification process [OMRSE:00000101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health care facility [OMRSE:00000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	US Census unemployed role [OMRSE:00000103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospice facility [OMRSE:00000104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skilled nursing facility [OMRSE:00000105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rehabilitation facility [OMRSE:00000106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	residential facility [OMRSE:00000108]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	overnight dialysis facility [OMRSE:00000109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outpatient clinic facility [OMRSE:00000110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physician office facility [OMRSE:00000111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ambulatory surgery facility [OMRSE:00000112]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urgent care facility [OMRSE:00000113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	emergency department facility [OMRSE:00000114]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	urgent care function [OMRSE:00000115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ambulatory surgery function [OMRSE:00000116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospice function [OMRSE:00000117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	emergency department function [OMRSE:00000118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	physician office function [OMRSE:00000119]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outpatient clinic function [OMRSE:00000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	overnight dialysis function [OMRSE:00000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rehabilitation function [OMRSE:00000122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skilled nursing function [OMRSE:00000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	residential function [OMRSE:00000124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nursing home function [OMRSE:00000125]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	patient discharge [OMRSE:00000126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	OMB racial identification process [OMRSE:00000131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	identification process [OMRSE:00000134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gender identification process [OMRSE:00000135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date [OMRSE:00000136]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	time of day [OMRSE:00000137]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surgeon role [OMRSE:00000139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	household identifier [OMRSE:00000143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adult foster home function [OMRSE:00000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	community living health care facility [OMRSE:00000150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	registered nurse role [OMRSE:00000151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skilled nursing encounter [OMRSE:00000152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	assistance with activities of daily living care encounter [OMRSE:00000154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	assistance with instrumental activities of daily living encounter [OMRSE:00000155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medication assistance care encounter [OMRSE:00000156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	assisted living function [OMRSE:00000158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acute care encounter [OMRSE:00000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leaving a health care facility after receiving care [OMRSE:00000161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medical advice [OMRSE:00000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	response to a question asking process [OMRSE:00000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	home health care organization [OMRSE:00000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	home health care function [OMRSE:00000165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	home health care encounter [OMRSE:00000166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	provides service [OMRSE:00000167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	questions asking process [OMRSE:00000168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	palliative function [OMRSE:00000169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	palliative care encounter [OMRSE:00000170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hospice organization [OMRSE:00000171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health care function [OMRSE:00000172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	material information bearer of question text plus answer set [OMRSE:00000173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	refusal to answer datum [OMRSE:00000174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	response to an identity question asking process [OMRSE:00000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	identity question asking process [OMRSE:00000176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ethnic identity question asking process [OMRSE:00000177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	race identity question asking process [OMRSE:00000178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	answer to identity question [OMRSE:00000179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	answer set [OMRSE:00000188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	question text [OMRSE:00000189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	option as member of some answer set [OMRSE:00000190]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	employment data item [OMRSE:00000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	income data item [OMRSE:00000501]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	government assistance health care plan data item [OMRSE:00000502]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	health care plan data item [OMRSE:00000503]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	government assistance income data item [OMRSE:00000504]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	WIC data item [OMRSE:00000505]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	socio-economic data item [OMRSE:00000506]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	intergovernmental organization [OMRSE:00000041]	IAO_0000115 [IAO:0000115]	an intergovernmental organization that has at least three member states, that has activies in at least three states, and that is unified by some formal intergovernmental agreement	
+INFO	lowercase_definition	nongovernmental organizations [OMRSE:00000042]	IAO_0000115 [IAO:0000115]	a geopolitical organization that is voluntary and private, whose members are individual persons or organizations that come together to acheive a common purpose.@en	
+INFO	lowercase_definition	subnational entity [OMRSE:00000046]	IAO_0000115 [IAO:0000115]	a governmental organization that has a local, regional, or territorial government that recognizes a sovereign state as its higher political authority@en	
+INFO	lowercase_definition	employee role [OMRSE:00000077]	IAO_0000115 [IAO:0000115]	a role in human social processes that is realized when the bearer provides labour or services in exchange for a wage or salary as specified by some declaration@en	
+INFO	lowercase_definition	workplace function [OMRSE:00000079]	IAO_0000115 [IAO:0000115]	a function inhering in a material entity that, if realized, is realized by that material entity being the site where the work of some organization is carried out@en	
+INFO	lowercase_definition	employer role [OMRSE:00000087]	IAO_0000115 [IAO:0000115]	a role in human social processes that is realized when the bearer provides a wage or salary in exchange for some labour or services as specified by some declaration@en	
+INFO	lowercase_definition	female gender identity datum [OMRSE:00000138]	IAO_0000115 [IAO:0000115]	a gender identity datum resulting from a gender identification process in which ‘female’ is selected based on the participant's subjective sense of gender@en	
+INFO	lowercase_definition	male gender identity datum [OMRSE:00000141]	IAO_0000115 [IAO:0000115]	a gender identity datum resulting from a gender identification process in which ‘male’ is selected based on the participant's subjective sense of gender@en	
+INFO	lowercase_definition	self-identity data item [OMRSE:00000145]	IAO_0000115 [IAO:0000115]	an identity datum that has been asserted by the person whom it is about@en	
+INFO	lowercase_definition	adult foster home facility [OMRSE:00000148]	IAO_0000115 [IAO:0000115]	a facility that is run by an adult foster home organization and is the bearer of an adult foster home organization@en	
+INFO	lowercase_definition	post-acute health care encounter [OMRSE:00000159]	IAO_0000115 [IAO:0000115]	temporally located after some acute care encounter    Somehow involves skilled nursing encounters@en	
+INFO	missing_superclass	APOLLO_SV_00000532 [APOLLO:SV:00000532]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000029 [BFO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000034 [BFO:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000038 [BFO:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000001 [IAO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000005 [IAO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000007 [IAO:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000028 [IAO:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000104 [IAO:0000104]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000310 [IAO:0000310]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000416 [IAO:0000416]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000572 [IAO:0000572]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000578 [IAO:0000578]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0020022 [IAO:0020022]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021002 [IAO:0021002]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021003 [IAO:0021003]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021004 [IAO:0021004]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0021005 [IAO:0021005]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OAE_0000067 [OAE:0000067]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000245 [OBI:0000245]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0600052 [OBI:0600052]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000097 [OGMS:0000097]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000102 [OGMS:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	human patient role [OMRSE:00000030]	rdfs:subClassOf		
+INFO	missing_superclass	racial identity datum [OMRSE:00000098]	rdfs:subClassOf		
+INFO	missing_superclass	ethnic identity datum [OMRSE:00000100]	rdfs:subClassOf		
+INFO	missing_superclass	gender identity datum [OMRSE:00000133]	rdfs:subClassOf		
+INFO	missing_superclass	human traveling information [OMRSE:00000142]	rdfs:subClassOf		
+INFO	missing_superclass	household identifier [OMRSE:00000143]	rdfs:subClassOf		
+INFO	missing_superclass	family identifier [OMRSE:00000144]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000020 [PCO:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

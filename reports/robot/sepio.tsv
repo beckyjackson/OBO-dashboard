@@ -1,0 +1,76 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	misused_obsolete_label	obsolete_manual assertion process [SEPIO:0000055]	label [rdfs:label]	obsolete_manual assertion process@en	
+ERROR	misused_obsolete_label	obsolete_automated assertion process [SEPIO:0000056]	label [rdfs:label]	obsolete_automated assertion process@en	
+ERROR	misused_obsolete_label	obsolete_study group [SEPIO:0000127]	label [rdfs:label]	obsolete_study group@en	
+ERROR	misused_obsolete_label	obsolete_observation [SEPIO:0000175]	label [rdfs:label]	obsolete_observation@en	
+ERROR	missing_ontology_description	sepio.owl	dc11:description		
+ERROR	missing_ontology_license	sepio.owl	dc:license		
+ERROR	missing_ontology_title	sepio.owl	dc11:title		
+WARN	missing_definition	is_asserted_in [SEPIO:0000015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_agent [SEPIO:0000017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_created [SEPIO:0000021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	assertion_has_subject [SEPIO:0000026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	assertion_has_object [SEPIO:0000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	assertion_has_predicate [SEPIO:0000028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_evaluated [SEPIO:0000040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_role [SEPIO:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_submitted [SEPIO:0000051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consider [SEPIO:0000052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	obsolete_manual assertion process [SEPIO:0000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SEPIO_editor_note [SEPIO:0000061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_started [SEPIO:0000063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interventional clinical study [SEPIO:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	observational clinical study [SEPIO:0000070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	case-control clinical study [SEPIO:0000071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	in vitro study [SEPIO:0000073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	in vivo study [SEPIO:0000074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cell-based in vivo study [SEPIO:0000076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tissue-based in vivo study [SEPIO:0000077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organism-based in vivo study [SEPIO:0000078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	curation-based study [SEPIO:0000081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DeprecatedObjectProperty [SEPIO:0000086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_equilavent_to [SEPIO:0000098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_consistent_with [SEPIO:0000099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	strongly_contradicts [SEPIO:0000100]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contradicts [SEPIO:0000101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_created_before [SEPIO:0000105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_compatability [SEPIO:0000113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	conflicts_with [SEPIO:0000115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aligns_with [SEPIO:0000116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_textual_part [SEPIO:0000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_supporting_reference [SEPIO:0000124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	is_inconsistent_with [SEPIO:0000126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DeprecatedClass [SEPIO:0000129]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	evaluated_by [SEPIO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_evidence_strength_assessed [SEPIO:0000141]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	evidence  role [SEPIO:0000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	evidence_strength_assessed_by [SEPIO:0000152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	creator role [SEPIO:0000153]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	assessor role [SEPIO:0000154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	approver role [SEPIO:0000155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	curator role [SEPIO:0000156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_of_activity [SEPIO:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_ended [SEPIO:0000161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_curated [SEPIO:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_of_contribution [SEPIO:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	date_updated [SEPIO:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	value set [SEPIO:0000179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	usage note [SEPIO:0000184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	data table [SEPIO:0000185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contributed_to [SEPIO:0000188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quantifier [SEPIO:0000231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has_quantifier [SEPIO:0000232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	provider interpretation [SEPIO:0000258]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	assertion_confidence_level [SEPIO:0000167]	IAO_0000115 [IAO:0000115]	a relation between an assertion and a value that indicates the degree of confidence that the Proposition it puts forth is true.	
+INFO	lowercase_definition	made_on_behalf_of [SEPIO:0000169]	IAO_0000115 [IAO:0000115]	a relation between an agent and an other agent, typically an organization, on whose behalf a Contribution is made.	
+INFO	missing_superclass	BFO_0000001 [BFO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000182 [BFO:0000182]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000027 [IAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000030 [IAO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000033 [IAO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000109 [IAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000306 [IAO:0000306]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000308 [IAO:0000308]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	Agent [prov:Agent]	rdfs:subClassOf		

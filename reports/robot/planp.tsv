@@ -1,0 +1,560 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	planp.owl	dc11:description		
+ERROR	missing_ontology_license	planp.owl	dc:license		
+ERROR	missing_ontology_title	planp.owl	dc11:title		
+ERROR	label_whitespace	abnormal morphology of ventral surface  [PLANP:0000466]	label [rdfs:label]	abnormal morphology of ventral surface 	
+ERROR	label_whitespace	abnormal morphology of primitive ectoderm surface  [PLANP:0000467]	label [rdfs:label]	abnormal morphology of primitive ectoderm surface 	
+ERROR	label_whitespace	abnormal morphology of distal surface  [PLANP:0000468]	label [rdfs:label]	abnormal morphology of distal surface 	
+ERROR	label_whitespace	abnormal morphology of lumen gut surface  [PLANP:0000469]	label [rdfs:label]	abnormal morphology of lumen gut surface 	
+ERROR	label_whitespace	abnormal morphology of basal epidermis surface  [PLANP:0000470]	label [rdfs:label]	abnormal morphology of basal epidermis surface 	
+ERROR	label_whitespace	abnormal morphology of medial surface  [PLANP:0000471]	label [rdfs:label]	abnormal morphology of medial surface 	
+ERROR	label_whitespace	abnormal morphology of anatomical surface  [PLANP:0000472]	label [rdfs:label]	abnormal morphology of anatomical surface 	
+ERROR	label_whitespace	abnormal morphology of proximal surface  [PLANP:0000473]	label [rdfs:label]	abnormal morphology of proximal surface 	
+ERROR	label_whitespace	abnormal morphology of anterior surface  [PLANP:0000474]	label [rdfs:label]	abnormal morphology of anterior surface 	
+ERROR	label_whitespace	abnormal morphology of apical epidermis surface  [PLANP:0000475]	label [rdfs:label]	abnormal morphology of apical epidermis surface 	
+ERROR	label_whitespace	abnormal morphology of basal surface  [PLANP:0000476]	label [rdfs:label]	abnormal morphology of basal surface 	
+ERROR	label_whitespace	abnormal morphology of apical surface  [PLANP:0000478]	label [rdfs:label]	abnormal morphology of apical surface 	
+ERROR	label_whitespace	abnormal morphology of lateral surface  [PLANP:0000479]	label [rdfs:label]	abnormal morphology of lateral surface 	
+ERROR	label_whitespace	abnormal morphology of pharyngeal pouch surface  [PLANP:0000480]	label [rdfs:label]	abnormal morphology of pharyngeal pouch surface 	
+ERROR	label_whitespace	abnormal morphology of embryonic gut cell surface  [PLANP:0000481]	label [rdfs:label]	abnormal morphology of embryonic gut cell surface 	
+ERROR	label_whitespace	abnormal morphology of primtive gut cell surface  [PLANP:0000482]	label [rdfs:label]	abnormal morphology of primtive gut cell surface 	
+ERROR	label_whitespace	abnormal morphology of dorsal surface  [PLANP:0000483]	label [rdfs:label]	abnormal morphology of dorsal surface 	
+ERROR	label_whitespace	abnormal morphology of pharynx lumen epithelial surface  [PLANP:0000484]	label [rdfs:label]	abnormal morphology of pharynx lumen epithelial surface 	
+ERROR	label_whitespace	abnormal morphology of contralateral surface  [PLANP:0000485]	label [rdfs:label]	abnormal morphology of contralateral surface 	
+ERROR	label_whitespace	abnormal morphology of temporary embryonic pharynx lumen epithelial surface  [PLANP:0000486]	label [rdfs:label]	abnormal morphology of temporary embryonic pharynx lumen epithelial surface 	
+ERROR	label_whitespace	abnormal morphology of ipsilateral surface  [PLANP:0000487]	label [rdfs:label]	abnormal morphology of ipsilateral surface 	
+ERROR	label_whitespace	abnormal morphology of posterior surface  [PLANP:0000488]	label [rdfs:label]	abnormal morphology of posterior surface 	
+ERROR	label_whitespace	abnormal morphology of pharynx outer epithelial surface  [PLANP:0000489]	label [rdfs:label]	abnormal morphology of pharynx outer epithelial surface 	
+ERROR	label_whitespace	abnormal shape of ventral surface  [PLANP:0000490]	label [rdfs:label]	abnormal shape of ventral surface 	
+ERROR	label_whitespace	abnormal morphology of head  [PLANP:0000497]	label [rdfs:label]	abnormal morphology of head 	
+ERROR	label_whitespace	abnormal morphology of tail  [PLANP:0000498]	label [rdfs:label]	abnormal morphology of tail 	
+ERROR	label_whitespace	abnormal shape of head  [PLANP:0000499]	label [rdfs:label]	abnormal shape of head 	
+ERROR	label_whitespace	abnormal shape of tail  [PLANP:0000500]	label [rdfs:label]	abnormal shape of tail 	
+WARN	duplicate_exact_synonym	abnormal morphology of ventral surface  [PLANP:0000466]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormally shaped ventral surface	
+WARN	duplicate_exact_synonym	abnormal shape of ventral surface  [PLANP:0000490]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormally shaped ventral surface	
+WARN	duplicate_exact_synonym	abnormal morphology of tail  [PLANP:0000498]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormally shaped tail	
+WARN	duplicate_exact_synonym	abnormal shape of tail  [PLANP:0000500]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormally shaped tail	
+WARN	duplicate_exact_synonym	abnormal morphology of head  [PLANP:0000497]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormally shaped head	
+WARN	duplicate_exact_synonym	abnormal shape of head  [PLANP:0000499]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormally shaped head	
+WARN	duplicate_label_synonym	increased distance between eye and eye [PLANP:0000510]	hasExactSynonym [oboInOwl:hasExactSynonym]	increased distance between eye and eye	
+WARN	duplicate_label_synonym	decreased distance between eye and eye [PLANP:0000511]	hasExactSynonym [oboInOwl:hasExactSynonym]	decreased distance between eye and eye	
+WARN	duplicate_label_synonym	abnormal distance between eye and eye [PLANP:0000512]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormal distance between eye and eye	
+WARN	duplicate_label_synonym	lacks all parts of type eye [PLANP:0000515]	hasExactSynonym [oboInOwl:hasExactSynonym]	lacks all parts of type eye	
+WARN	duplicate_label_synonym	has fewer parts of type eye [PLANP:0000516]	hasExactSynonym [oboInOwl:hasExactSynonym]	has fewer parts of type eye	
+WARN	duplicate_label_synonym	lacks parts or has fewer parts of type eye [PLANP:0000517]	hasExactSynonym [oboInOwl:hasExactSynonym]	lacks parts or has fewer parts of type eye	
+WARN	duplicate_label_synonym	altered number of eye [PLANP:0000518]	hasExactSynonym [oboInOwl:hasExactSynonym]	altered number of eye	
+WARN	duplicate_label_synonym	altered number of head [PLANP:0000526]	hasExactSynonym [oboInOwl:hasExactSynonym]	altered number of head	
+WARN	duplicate_label_synonym	has extra parts of type head [PLANP:0000527]	hasExactSynonym [oboInOwl:hasExactSynonym]	has extra parts of type head	
+WARN	duplicate_label_synonym	has fewer parts of type head [PLANP:0000528]	hasExactSynonym [oboInOwl:hasExactSynonym]	has fewer parts of type head	
+WARN	duplicate_label_synonym	lacks all parts of type head [PLANP:0000529]	hasExactSynonym [oboInOwl:hasExactSynonym]	lacks all parts of type head	
+WARN	duplicate_label_synonym	altered number of tail [PLANP:0000530]	hasExactSynonym [oboInOwl:hasExactSynonym]	altered number of tail	
+WARN	duplicate_label_synonym	has extra parts of type tail [PLANP:0000531]	hasExactSynonym [oboInOwl:hasExactSynonym]	has extra parts of type tail	
+WARN	duplicate_label_synonym	has fewer parts of type tail [PLANP:0000532]	hasExactSynonym [oboInOwl:hasExactSynonym]	has fewer parts of type tail	
+WARN	duplicate_label_synonym	lacks all parts of type tail [PLANP:0000533]	hasExactSynonym [oboInOwl:hasExactSynonym]	lacks all parts of type tail	
+WARN	missing_definition	Planarian Phenotype [PLANP:00000000]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	decreased width of the head [PLANP:0000494]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the head.	
+INFO	lowercase_definition	decreased width of the tai [PLANP:0000503]	IAO_0000115 [IAO:0000115]	skinny or decreased width of the tai.	
+INFO	lowercase_definition	abnormal distance between eye and eye [PLANP:0000512]	IAO_0000115 [IAO:0000115]	abnormal distance between eye and eye.	
+INFO	lowercase_definition	decreased pigmentation of in the eye [PLANP:0000519]	IAO_0000115 [IAO:0000115]	decreased or loss of pigmentation of eye.	
+INFO	lowercase_definition	unpigmented eye [PLANP:0000520]	IAO_0000115 [IAO:0000115]	complete loss of pigmenation of the eye.	
+INFO	lowercase_definition	increased length of the head [PLANP:0000522]	IAO_0000115 [IAO:0000115]	longer, increased length of, head	
+INFO	lowercase_definition	increased length of the tail [PLANP:0000523]	IAO_0000115 [IAO:0000115]	longer, increased length of, tail	
+INFO	lowercase_definition	abnormal degree of pigmentation of the eye [PLANP:0000534]	IAO_0000115 [IAO:0000115]	abnormal degree of pigmentation of the eye.	
+INFO	lowercase_definition	abnormal degree of pigmentation of the definitive epidermis [PLANP:0000535]	IAO_0000115 [IAO:0000115]	abnormal degree of pigmentation of the definitive epidermis.	
+INFO	lowercase_definition	decreased pigmentation of in the definitive epidermis [PLANP:0000536]	IAO_0000115 [IAO:0000115]	decreased or loss of pigmentation of definitive epidermis.	
+INFO	lowercase_definition	increased pigmentation of eye [PLANP:0000537]	IAO_0000115 [IAO:0000115]	increased pigmentation of eye.	
+INFO	lowercase_definition	increased pigmentation of definitive epidermis [PLANP:0000538]	IAO_0000115 [IAO:0000115]	increased pigmentation of definitive epidermis.	
+INFO	lowercase_definition	unpigmented epidermis [PLANP:0000539]	IAO_0000115 [IAO:0000115]	complete loss of pigmenation of the epidermis.	
+INFO	missing_superclass	BSPO_0000000 [BSPO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000005 [BSPO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000006 [BSPO:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000007 [BSPO:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000008 [BSPO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000009 [BSPO:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000010 [BSPO:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000012 [BSPO:0000012]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000019 [BSPO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000021 [BSPO:0000021]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000023 [BSPO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000024 [BSPO:0000024]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000028 [BSPO:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000029 [BSPO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000033 [BSPO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000034 [BSPO:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000036 [BSPO:0000036]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000037 [BSPO:0000037]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000038 [BSPO:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000039 [BSPO:0000039]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000041 [BSPO:0000041]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000042 [BSPO:0000042]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000043 [BSPO:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000044 [BSPO:0000044]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000045 [BSPO:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000046 [BSPO:0000046]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000047 [BSPO:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000048 [BSPO:0000048]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000049 [BSPO:0000049]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000051 [BSPO:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000052 [BSPO:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000053 [BSPO:0000053]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000054 [BSPO:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000055 [BSPO:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000056 [BSPO:0000056]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000057 [BSPO:0000057]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000058 [BSPO:0000058]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000063 [BSPO:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000067 [BSPO:0000067]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000068 [BSPO:0000068]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000070 [BSPO:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000071 [BSPO:0000071]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000072 [BSPO:0000072]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000073 [BSPO:0000073]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000074 [BSPO:0000074]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000075 [BSPO:0000075]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000076 [BSPO:0000076]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000077 [BSPO:0000077]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000078 [BSPO:0000078]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000079 [BSPO:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000080 [BSPO:0000080]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000081 [BSPO:0000081]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000082 [BSPO:0000082]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000083 [BSPO:0000083]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000084 [BSPO:0000084]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000085 [BSPO:0000085]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000086 [BSPO:0000086]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000092 [BSPO:0000092]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000093 [BSPO:0000093]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000094 [BSPO:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000127 [BSPO:0000127]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000128 [BSPO:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000196 [BSPO:0000196]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000197 [BSPO:0000197]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000201 [BSPO:0000201]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000202 [BSPO:0000202]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000371 [BSPO:0000371]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000372 [BSPO:0000372]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000373 [BSPO:0000373]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000374 [BSPO:0000374]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000376 [BSPO:0000376]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000377 [BSPO:0000377]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000378 [BSPO:0000378]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000379 [BSPO:0000379]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000381 [BSPO:0000381]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000382 [BSPO:0000382]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000383 [BSPO:0000383]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000384 [BSPO:0000384]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000671 [BSPO:0000671]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000672 [BSPO:0000672]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000673 [BSPO:0000673]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000674 [BSPO:0000674]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000677 [BSPO:0000677]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000678 [BSPO:0000678]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000679 [BSPO:0000679]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000680 [BSPO:0000680]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000682 [BSPO:0000682]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000683 [BSPO:0000683]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000684 [BSPO:0000684]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000685 [BSPO:0000685]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000686 [BSPO:0000686]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000687 [BSPO:0000687]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000688 [BSPO:0000688]	rdfs:subClassOf		
+INFO	missing_superclass	BSPO_0000689 [BSPO:0000689]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C3824 [NCIT:C3824]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000001 [PATO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000040 [PATO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000051 [PATO:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000052 [PATO:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000117 [PATO:0000117]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000374 [PATO:0000374]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000375 [PATO:0000375]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000405 [PATO:0000405]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000411 [PATO:0000411]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000460 [PATO:0000460]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000573 [PATO:0000573]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000574 [PATO:0000574]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000599 [PATO:0000599]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000600 [PATO:0000600]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001199 [PATO:0001199]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001999 [PATO:0001999]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002000 [PATO:0002000]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002001 [PATO:0002001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002002 [PATO:0002002]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002063 [PATO:0002063]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002065 [PATO:0002065]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002083 [PATO:0002083]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002247 [PATO:0002247]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002249 [PATO:0002249]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002250 [PATO:0002250]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002251 [PATO:0002251]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002258 [PATO:0002258]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000001 [PLANA:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000002 [PLANA:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000003 [PLANA:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000004 [PLANA:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000005 [PLANA:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000006 [PLANA:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000007 [PLANA:0000007]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000008 [PLANA:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000009 [PLANA:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000011 [PLANA:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000012 [PLANA:0000012]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000013 [PLANA:0000013]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000014 [PLANA:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000015 [PLANA:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000016 [PLANA:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000017 [PLANA:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000018 [PLANA:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000019 [PLANA:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000020 [PLANA:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000021 [PLANA:0000021]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000022 [PLANA:0000022]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000023 [PLANA:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000024 [PLANA:0000024]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000025 [PLANA:0000025]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000026 [PLANA:0000026]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000027 [PLANA:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000028 [PLANA:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000029 [PLANA:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000030 [PLANA:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000031 [PLANA:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000032 [PLANA:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000033 [PLANA:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000034 [PLANA:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000035 [PLANA:0000035]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000036 [PLANA:0000036]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000037 [PLANA:0000037]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000038 [PLANA:0000038]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000039 [PLANA:0000039]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000040 [PLANA:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000041 [PLANA:0000041]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000042 [PLANA:0000042]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000043 [PLANA:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000044 [PLANA:0000044]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000045 [PLANA:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000046 [PLANA:0000046]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000047 [PLANA:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000048 [PLANA:0000048]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000049 [PLANA:0000049]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000051 [PLANA:0000051]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000052 [PLANA:0000052]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000053 [PLANA:0000053]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000054 [PLANA:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000055 [PLANA:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000056 [PLANA:0000056]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000057 [PLANA:0000057]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000058 [PLANA:0000058]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000059 [PLANA:0000059]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000060 [PLANA:0000060]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000061 [PLANA:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000062 [PLANA:0000062]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000063 [PLANA:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000064 [PLANA:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000065 [PLANA:0000065]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000066 [PLANA:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000067 [PLANA:0000067]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000068 [PLANA:0000068]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000069 [PLANA:0000069]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000070 [PLANA:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000071 [PLANA:0000071]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000072 [PLANA:0000072]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000074 [PLANA:0000074]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000075 [PLANA:0000075]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000076 [PLANA:0000076]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000077 [PLANA:0000077]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000078 [PLANA:0000078]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000079 [PLANA:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000080 [PLANA:0000080]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000081 [PLANA:0000081]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000082 [PLANA:0000082]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000084 [PLANA:0000084]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000085 [PLANA:0000085]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000086 [PLANA:0000086]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000087 [PLANA:0000087]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000088 [PLANA:0000088]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000089 [PLANA:0000089]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000090 [PLANA:0000090]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000091 [PLANA:0000091]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000092 [PLANA:0000092]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000093 [PLANA:0000093]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000094 [PLANA:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000095 [PLANA:0000095]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000096 [PLANA:0000096]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000097 [PLANA:0000097]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000098 [PLANA:0000098]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000099 [PLANA:0000099]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000100 [PLANA:0000100]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000101 [PLANA:0000101]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000102 [PLANA:0000102]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000103 [PLANA:0000103]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000104 [PLANA:0000104]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000105 [PLANA:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000106 [PLANA:0000106]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000107 [PLANA:0000107]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000109 [PLANA:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000110 [PLANA:0000110]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000111 [PLANA:0000111]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000112 [PLANA:0000112]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000113 [PLANA:0000113]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000114 [PLANA:0000114]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000115 [PLANA:0000115]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000116 [PLANA:0000116]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000117 [PLANA:0000117]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000118 [PLANA:0000118]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000119 [PLANA:0000119]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000120 [PLANA:0000120]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000121 [PLANA:0000121]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000122 [PLANA:0000122]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000123 [PLANA:0000123]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000124 [PLANA:0000124]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000125 [PLANA:0000125]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000126 [PLANA:0000126]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000127 [PLANA:0000127]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000128 [PLANA:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000129 [PLANA:0000129]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000130 [PLANA:0000130]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000131 [PLANA:0000131]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000132 [PLANA:0000132]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000133 [PLANA:0000133]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000134 [PLANA:0000134]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000135 [PLANA:0000135]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000201 [PLANA:0000201]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000203 [PLANA:0000203]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000204 [PLANA:0000204]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000205 [PLANA:0000205]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000206 [PLANA:0000206]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000207 [PLANA:0000207]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000208 [PLANA:0000208]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000209 [PLANA:0000209]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000211 [PLANA:0000211]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000212 [PLANA:0000212]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000214 [PLANA:0000214]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000215 [PLANA:0000215]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000216 [PLANA:0000216]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000217 [PLANA:0000217]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000218 [PLANA:0000218]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000219 [PLANA:0000219]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000220 [PLANA:0000220]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000221 [PLANA:0000221]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000222 [PLANA:0000222]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000223 [PLANA:0000223]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000224 [PLANA:0000224]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000225 [PLANA:0000225]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000226 [PLANA:0000226]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000227 [PLANA:0000227]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000228 [PLANA:0000228]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000229 [PLANA:0000229]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000230 [PLANA:0000230]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000231 [PLANA:0000231]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000232 [PLANA:0000232]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000233 [PLANA:0000233]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000234 [PLANA:0000234]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000237 [PLANA:0000237]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000238 [PLANA:0000238]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000239 [PLANA:0000239]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000240 [PLANA:0000240]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000241 [PLANA:0000241]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000242 [PLANA:0000242]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000400 [PLANA:0000400]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000401 [PLANA:0000401]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000402 [PLANA:0000402]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000403 [PLANA:0000403]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000404 [PLANA:0000404]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000405 [PLANA:0000405]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000406 [PLANA:0000406]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000407 [PLANA:0000407]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000409 [PLANA:0000409]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000410 [PLANA:0000410]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000411 [PLANA:0000411]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000412 [PLANA:0000412]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000413 [PLANA:0000413]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000414 [PLANA:0000414]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000416 [PLANA:0000416]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000417 [PLANA:0000417]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000418 [PLANA:0000418]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000419 [PLANA:0000419]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000420 [PLANA:0000420]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000421 [PLANA:0000421]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000422 [PLANA:0000422]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000423 [PLANA:0000423]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000424 [PLANA:0000424]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000425 [PLANA:0000425]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000426 [PLANA:0000426]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000427 [PLANA:0000427]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000428 [PLANA:0000428]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000429 [PLANA:0000429]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000430 [PLANA:0000430]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000431 [PLANA:0000431]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000432 [PLANA:0000432]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000433 [PLANA:0000433]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000459 [PLANA:0000459]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000460 [PLANA:0000460]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000461 [PLANA:0000461]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000462 [PLANA:0000462]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000463 [PLANA:0000463]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000464 [PLANA:0000464]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000465 [PLANA:0000465]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000466 [PLANA:0000466]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000467 [PLANA:0000467]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000468 [PLANA:0000468]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000470 [PLANA:0000470]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000472 [PLANA:0000472]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000473 [PLANA:0000473]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000474 [PLANA:0000474]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000475 [PLANA:0000475]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000476 [PLANA:0000476]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000477 [PLANA:0000477]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000478 [PLANA:0000478]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000479 [PLANA:0000479]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000480 [PLANA:0000480]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000481 [PLANA:0000481]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000482 [PLANA:0000482]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000483 [PLANA:0000483]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000484 [PLANA:0000484]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000485 [PLANA:0000485]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000486 [PLANA:0000486]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000487 [PLANA:0000487]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000488 [PLANA:0000488]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000489 [PLANA:0000489]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000490 [PLANA:0000490]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000491 [PLANA:0000491]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000492 [PLANA:0000492]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000493 [PLANA:0000493]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000494 [PLANA:0000494]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000495 [PLANA:0000495]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000496 [PLANA:0000496]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000497 [PLANA:0000497]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000498 [PLANA:0000498]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000499 [PLANA:0000499]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000500 [PLANA:0000500]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000501 [PLANA:0000501]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000502 [PLANA:0000502]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000503 [PLANA:0000503]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000504 [PLANA:0000504]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000505 [PLANA:0000505]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000506 [PLANA:0000506]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000507 [PLANA:0000507]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000508 [PLANA:0000508]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000509 [PLANA:0000509]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000510 [PLANA:0000510]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000511 [PLANA:0000511]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000512 [PLANA:0000512]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000513 [PLANA:0000513]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000514 [PLANA:0000514]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000515 [PLANA:0000515]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000516 [PLANA:0000516]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000518 [PLANA:0000518]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000519 [PLANA:0000519]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000520 [PLANA:0000520]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000521 [PLANA:0000521]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000522 [PLANA:0000522]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000523 [PLANA:0000523]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000524 [PLANA:0000524]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000525 [PLANA:0000525]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000526 [PLANA:0000526]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000527 [PLANA:0000527]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000528 [PLANA:0000528]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000529 [PLANA:0000529]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000530 [PLANA:0000530]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000531 [PLANA:0000531]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000532 [PLANA:0000532]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000533 [PLANA:0000533]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000534 [PLANA:0000534]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000535 [PLANA:0000535]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000536 [PLANA:0000536]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000537 [PLANA:0000537]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000538 [PLANA:0000538]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000539 [PLANA:0000539]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000540 [PLANA:0000540]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000541 [PLANA:0000541]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000543 [PLANA:0000543]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000545 [PLANA:0000545]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000546 [PLANA:0000546]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000547 [PLANA:0000547]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000548 [PLANA:0000548]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000549 [PLANA:0000549]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000550 [PLANA:0000550]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000552 [PLANA:0000552]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000553 [PLANA:0000553]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000556 [PLANA:0000556]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000558 [PLANA:0000558]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000559 [PLANA:0000559]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000560 [PLANA:0000560]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000561 [PLANA:0000561]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000562 [PLANA:0000562]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000564 [PLANA:0000564]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000565 [PLANA:0000565]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0000566 [PLANA:0000566]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0001005 [PLANA:0001005]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004503 [PLANA:0004503]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004504 [PLANA:0004504]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004506 [PLANA:0004506]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004507 [PLANA:0004507]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004511 [PLANA:0004511]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004512 [PLANA:0004512]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004513 [PLANA:0004513]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004514 [PLANA:0004514]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004516 [PLANA:0004516]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004517 [PLANA:0004517]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004518 [PLANA:0004518]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004519 [PLANA:0004519]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004520 [PLANA:0004520]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004521 [PLANA:0004521]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004524 [PLANA:0004524]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004527 [PLANA:0004527]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004528 [PLANA:0004528]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004529 [PLANA:0004529]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004530 [PLANA:0004530]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004531 [PLANA:0004531]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004532 [PLANA:0004532]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004533 [PLANA:0004533]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0004534 [PLANA:0004534]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007501 [PLANA:0007501]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007502 [PLANA:0007502]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007503 [PLANA:0007503]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007504 [PLANA:0007504]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007505 [PLANA:0007505]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007506 [PLANA:0007506]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007507 [PLANA:0007507]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007508 [PLANA:0007508]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007509 [PLANA:0007509]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007511 [PLANA:0007511]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007512 [PLANA:0007512]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007513 [PLANA:0007513]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007514 [PLANA:0007514]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007515 [PLANA:0007515]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007516 [PLANA:0007516]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007518 [PLANA:0007518]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007519 [PLANA:0007519]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007520 [PLANA:0007520]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007521 [PLANA:0007521]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007522 [PLANA:0007522]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007523 [PLANA:0007523]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007524 [PLANA:0007524]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007525 [PLANA:0007525]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007528 [PLANA:0007528]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007529 [PLANA:0007529]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007534 [PLANA:0007534]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007535 [PLANA:0007535]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007537 [PLANA:0007537]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007538 [PLANA:0007538]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007539 [PLANA:0007539]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007540 [PLANA:0007540]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007541 [PLANA:0007541]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007543 [PLANA:0007543]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007544 [PLANA:0007544]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007545 [PLANA:0007545]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007546 [PLANA:0007546]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007547 [PLANA:0007547]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007548 [PLANA:0007548]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007549 [PLANA:0007549]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007550 [PLANA:0007550]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007551 [PLANA:0007551]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007552 [PLANA:0007552]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007553 [PLANA:0007553]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007554 [PLANA:0007554]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007555 [PLANA:0007555]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007556 [PLANA:0007556]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007557 [PLANA:0007557]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007558 [PLANA:0007558]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007559 [PLANA:0007559]	rdfs:subClassOf		
+INFO	missing_superclass	PLANA_0007560 [PLANA:0007560]	rdfs:subClassOf		

@@ -1,0 +1,596 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	unitary_pseudogenic_rRNA [SO:0002195]	IAO_0000115 [IAO:0000115]	The pseudogene has no parent. It is the original gene, which is functional in some species but disrupted in some way (indels, mutation, recombination) in another species or strain.	
+ERROR	duplicate_definition	unitary_pseudogenic_tRNA [SO:0002199]	IAO_0000115 [IAO:0000115]	The pseudogene has no parent. It is the original gene, which is functional in some species but disrupted in some way (indels, mutation, recombination) in another species or strain.	
+ERROR	duplicate_definition	unprocessed_pseudogenic_rRNA [SO:0002194]	IAO_0000115 [IAO:0000115]	The pseudogene has arisen from a copy of the parent gene by duplication followed by accumulation of random mutation. The changes, compared to their functional homolog, include insertions, deletions, premature stop codons, frameshifts and a higher proportion of non-synonymous versus synonymous substitutions.	
+ERROR	duplicate_definition	unprocessed_pseudogenic_tRNA [SO:0002198]	IAO_0000115 [IAO:0000115]	The pseudogene has arisen from a copy of the parent gene by duplication followed by accumulation of random mutation. The changes, compared to their functional homolog, include insertions, deletions, premature stop codons, frameshifts and a higher proportion of non-synonymous versus synonymous substitutions.	
+ERROR	duplicate_definition	processed_pseudogenic_rRNA [SO:0002193]	IAO_0000115 [IAO:0000115]	The pseudogene has arisen by reverse transcription of a mRNA into cDNA, followed by reintegration into the genome. Therefore, it has lost any intron/exon structure, and it might have a pseudo-polyA-tail.	
+ERROR	duplicate_definition	processed_pseudogenic_tRNA [SO:0002197]	IAO_0000115 [IAO:0000115]	The pseudogene has arisen by reverse transcription of a mRNA into cDNA, followed by reintegration into the genome. Therefore, it has lost any intron/exon structure, and it might have a pseudo-polyA-tail.	
+ERROR	duplicate_definition	circular_single_stranded_DNA_chromosome [SO:0000960]	IAO_0000115 [IAO:0000115]	Structural unit composed of a self-replicating, single-stranded, circular DNA molecule.	
+ERROR	duplicate_definition	circular_single_stranded_RNA_chromosome [SO:0000966]	IAO_0000115 [IAO:0000115]	Structural unit composed of a self-replicating, single-stranded, circular DNA molecule.	
+ERROR	duplicate_definition	sugar_edge_base_pair [SO:0000030]	IAO_0000115 [IAO:0000115]	A type of non-canonical base-pairing.	
+ERROR	duplicate_definition	reverse_Hoogsteen_base_pair [SO:0000501]	IAO_0000115 [IAO:0000115]	A type of non-canonical base-pairing.	
+ERROR	duplicate_definition	engineered_foreign_transposable_element_gene [SO:0000283]	IAO_0000115 [IAO:0000115]	A transposable_element that is engineered and foreign.	
+ERROR	duplicate_definition	engineered_foreign_transposable_element [SO:0000799]	IAO_0000115 [IAO:0000115]	A transposable_element that is engineered and foreign.	
+ERROR	duplicate_definition	forward_primer [SO:0000121]	IAO_0000115 [IAO:0000115]	A single stranded oligo used for polymerase chain reaction.	
+ERROR	duplicate_definition	reverse_primer [SO:0000132]	IAO_0000115 [IAO:0000115]	A single stranded oligo used for polymerase chain reaction.	
+ERROR	duplicate_definition	3D_polypeptide_structure_variant [SO:0001599]	IAO_0000115 [IAO:0000115]	A sequence variant that changes the resulting polypeptide structure.	
+ERROR	duplicate_definition	complex_3D_structural_variant [SO:0001600]	IAO_0000115 [IAO:0000115]	A sequence variant that changes the resulting polypeptide structure.	
+ERROR	duplicate_definition	dg_repeat [SO:0001898]	IAO_0000115 [IAO:0000115]	A repeat region which is part of the regional centromere outer repeat region.	
+ERROR	duplicate_definition	dh_repeat [SO:0001899]	IAO_0000115 [IAO:0000115]	A repeat region which is part of the regional centromere outer repeat region.	
+ERROR	duplicate_definition	serine_tRNA_primary_transcript [SO:0000226]	IAO_0000115 [IAO:0000115]	A primary transcript encoding seryl tRNA (SO:000269).	
+ERROR	duplicate_definition	selenocysteine_tRNA_primary_transcript [SO:0005856]	IAO_0000115 [IAO:0000115]	A primary transcript encoding seryl tRNA (SO:000269).	
+ERROR	duplicate_definition	variant_frequency [SO:0001763]	IAO_0000115 [IAO:0000115]	A physical quality which inheres to the variant by virtue of the number instances of the variant within a population.	
+ERROR	duplicate_definition	unique_variant [SO:0001764]	IAO_0000115 [IAO:0000115]	A physical quality which inheres to the variant by virtue of the number instances of the variant within a population.	
+ERROR	duplicate_definition	catmat_left_handed_three [SO:0100004]	IAO_0000115 [IAO:0000115]	A motif of 3 consecutive residues with dihedral angles as follows: res i: phi -90 bounds -120 to -60, res i: psi -10 bounds -50 to 30, res i+1: phi -75 bounds -100 to -50, res i+1: psi 140 bounds 110 to 170. An extra restriction of the length of the O to O distance would be useful, that it be less than 5 Angstrom. More precisely these two oxygens are the main chain carbonyl oxygen atoms of residues i-1 and i+1.	
+ERROR	duplicate_definition	catmat_right_handed_three [SO:0100006]	IAO_0000115 [IAO:0000115]	A motif of 3 consecutive residues with dihedral angles as follows: res i: phi -90 bounds -120 to -60, res i: psi -10 bounds -50 to 30, res i+1: phi -75 bounds -100 to -50, res i+1: psi 140 bounds 110 to 170. An extra restriction of the length of the O to O distance would be useful, that it be less than 5 Angstrom. More precisely these two oxygens are the main chain carbonyl oxygen atoms of residues i-1 and i+1.	
+ERROR	duplicate_definition	aneuploid [SO:0000054]	IAO_0000115 [IAO:0000115]	A kind of chromosome variation where the chromosome complement is not an exact multiple of the haploid number.	
+ERROR	duplicate_definition	chromosome_number_variation [SO:1000182]	IAO_0000115 [IAO:0000115]	A kind of chromosome variation where the chromosome complement is not an exact multiple of the haploid number.	
+ERROR	duplicate_definition	rescue_gene [SO:0000816]	IAO_0000115 [IAO:0000115]	A gene that rescues.	
+ERROR	duplicate_definition	wild_type_rescue_gene [SO:0000818]	IAO_0000115 [IAO:0000115]	A gene that rescues.	
+ERROR	duplicate_definition	rDNA_replication_fork_barrier [SO:0001914]	IAO_0000115 [IAO:0000115]	A DNA motif that is found in eukaryotic rDNA repeats, and is a site of replication fork pausing.	
+ERROR	duplicate_definition	mating_type_region_replication_fork_barrier [SO:0002021]	IAO_0000115 [IAO:0000115]	A DNA motif that is found in eukaryotic rDNA repeats, and is a site of replication fork pausing.	
+ERROR	duplicate_definition	minus_12_signal [SO:0001673]	IAO_0000115 [IAO:0000115]	A conserved region about 12-bp upstream of the start point of bacterial transcription units, involved with sigma factor 54.	
+ERROR	duplicate_definition	minus_24_signal [SO:0001674]	IAO_0000115 [IAO:0000115]	A conserved region about 12-bp upstream of the start point of bacterial transcription units, involved with sigma factor 54.	
+ERROR	duplicate_definition	allelic_pseudogene [SO:0002189]	IAO_0000115 [IAO:0000115]	A (unitary) pseudogene that is stable in the population but importantly it has a functional alternative allele also in the population. i.e., one strain may have the gene, another strain may have the pseudogene. MHC haplotypes have allelic pseudogenes.	
+ERROR	duplicate_definition	allelic_pseudogenic_rRNA [SO:0002196]	IAO_0000115 [IAO:0000115]	A (unitary) pseudogene that is stable in the population but importantly it has a functional alternative allele also in the population. i.e., one strain may have the gene, another strain may have the pseudogene. MHC haplotypes have allelic pseudogenes.	
+ERROR	duplicate_definition	allelic_pseudogenic_tRNA [SO:0002200]	IAO_0000115 [IAO:0000115]	A (unitary) pseudogene that is stable in the population but importantly it has a functional alternative allele also in the population. i.e., one strain may have the gene, another strain may have the pseudogene. MHC haplotypes have allelic pseudogenes.	
+ERROR	missing_ontology_description	so.owl	dc11:description		
+ERROR	duplicate_label	RNA_stability_element [SO:0001957]	label [rdfs:label]	RNA_stability_element	
+ERROR	duplicate_label	RNA_stability_element [SO:0001979]	label [rdfs:label]	RNA_stability_element	
+ERROR	duplicate_label	nested_transposon [SO:0001053]	label [rdfs:label]	nested_transposon	
+ERROR	duplicate_label	nested_transposon [SO:0001648]	label [rdfs:label]	nested_transposon	
+ERROR	duplicate_label	nested_repeat [SO:0001052]	label [rdfs:label]	nested_repeat	
+ERROR	duplicate_label	nested_repeat [SO:0001649]	label [rdfs:label]	nested_repeat	
+ERROR	duplicate_label	clone_insert_start [SO:0000179]	label [rdfs:label]	clone_insert_start	
+ERROR	duplicate_label	clone_insert_start [SO:0000767]	label [rdfs:label]	clone_insert_start	
+ERROR	duplicate_label	assortment_derived_duplication [SO:0000437]	label [rdfs:label]	assortment_derived_duplication	
+ERROR	duplicate_label	assortment_derived_duplication [SO:0000800]	label [rdfs:label]	assortment_derived_duplication	
+ERROR	duplicate_label	assortment_derived_deficiency_plus_duplication [SO:0000554]	label [rdfs:label]	assortment_derived_deficiency_plus_duplication	
+ERROR	duplicate_label	assortment_derived_deficiency_plus_duplication [SO:0000801]	label [rdfs:label]	assortment_derived_deficiency_plus_duplication	
+ERROR	duplicate_label	assortment_derived_deficiency [SO:0000052]	label [rdfs:label]	assortment_derived_deficiency	
+ERROR	duplicate_label	assortment_derived_deficiency [SO:0000802]	label [rdfs:label]	assortment_derived_deficiency	
+ERROR	duplicate_label	assortment_derived_aneuploid [SO:0000058]	label [rdfs:label]	assortment_derived_aneuploid	
+ERROR	duplicate_label	assortment_derived_aneuploid [SO:0000803]	label [rdfs:label]	assortment_derived_aneuploid	
+ERROR	missing_ontology_license	so.owl	dc:license		
+ERROR	missing_ontology_title	so.owl	dc11:title		
+WARN	annotation_whitespace	wiki [SO:0001228]	hasExactSynonym [oboInOwl:hasExactSynonym]	 D	
+WARN	annotation_whitespace	pseudouridine [SO:0001229]	hasExactSynonym [oboInOwl:hasExactSynonym]	 Y	
+WARN	annotation_whitespace	queuosine [SO:0001317]	hasExactSynonym [oboInOwl:hasExactSynonym]	 Q	
+WARN	annotation_whitespace	modified_L_leucine [SO:0001401]	hasExactSynonym [oboInOwl:hasExactSynonym]	modified L-leucine 	
+WARN	annotation_whitespace	modified_L_proline [SO:0001404]	hasExactSynonym [oboInOwl:hasExactSynonym]	modified L-proline 	
+WARN	annotation_whitespace	miRNA_antiguide [SO:0001473]	hasExactSynonym [oboInOwl:hasExactSynonym]	miRNA antiguide 	
+WARN	annotation_whitespace	TFBS_fusion [SO:0001888]	hasExactSynonym [oboInOwl:hasExactSynonym]	TFBS fusion 	
+WARN	annotation_whitespace	TFBS_amplification [SO:0001892]	hasExactSynonym [oboInOwl:hasExactSynonym]	TFBS amplification 	
+WARN	annotation_whitespace	bacterial_RNApol_promoter_sigma_ecf_element [SO:0001913]	hasExactSynonym [oboInOwl:hasExactSynonym]	bacterial RNApol promoter sigma ecf 	
+WARN	annotation_whitespace	H3R2_monomethylation_site [SO:0001947]	hasExactSynonym [oboInOwl:hasExactSynonym]	 H3R2me1	
+WARN	annotation_whitespace	H4K4_trimethylation_site [SO:0001950]	hasExactSynonym [oboInOwl:hasExactSynonym]	 H4K4me3	
+WARN	annotation_whitespace	extended_intronic_splice_region [SO:0001996]	hasExactSynonym [oboInOwl:hasExactSynonym]	extended intronic splice region 	
+WARN	annotation_whitespace	TCS_element [SO:0002044]	hasExactSynonym [oboInOwl:hasExactSynonym]	TEA Consensus Sequence 	
+WARN	duplicate_exact_synonym	non_processed_pseudogene [SO:0001760]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:unprocessed	
+WARN	duplicate_exact_synonym	unprocessed_pseudogenic_rRNA [SO:0002194]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:unprocessed	
+WARN	duplicate_exact_synonym	unprocessed_pseudogenic_tRNA [SO:0002198]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:unprocessed	
+WARN	duplicate_exact_synonym	unitary_pseudogene [SO:0001759]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:unitary	
+WARN	duplicate_exact_synonym	unitary_pseudogenic_rRNA [SO:0002195]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:unitary	
+WARN	duplicate_exact_synonym	unitary_pseudogenic_tRNA [SO:0002199]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:unitary	
+WARN	duplicate_exact_synonym	pseudogene [SO:0000336]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:pseudo	
+WARN	duplicate_exact_synonym	pseudogenic_transcript [SO:0000516]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:pseudo	
+WARN	duplicate_exact_synonym	pseudogenic_rRNA [SO:0000777]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:pseudo	
+WARN	duplicate_exact_synonym	pseudogenic_tRNA [SO:0000778]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:pseudo	
+WARN	duplicate_exact_synonym	pseudogenic_CDS [SO:0002087]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:pseudo	
+WARN	duplicate_exact_synonym	processed_pseudogene [SO:0000043]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:processed	
+WARN	duplicate_exact_synonym	processed_pseudogenic_rRNA [SO:0002193]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:processed	
+WARN	duplicate_exact_synonym	processed_pseudogenic_tRNA [SO:0002197]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:processed	
+WARN	duplicate_exact_synonym	recombination_feature [SO:0000298]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:other	
+WARN	duplicate_exact_synonym	repeat_region [SO:0000657]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:other	
+WARN	duplicate_exact_synonym	regulatory_region [SO:0005836]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:other	
+WARN	duplicate_exact_synonym	allelic_pseudogene [SO:0002189]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:allelic	
+WARN	duplicate_exact_synonym	allelic_pseudogenic_rRNA [SO:0002196]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:allelic	
+WARN	duplicate_exact_synonym	allelic_pseudogenic_tRNA [SO:0002200]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_qualifier:allelic	
+WARN	duplicate_exact_synonym	tRNA [SO:0000253]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_feature:tRNA	
+WARN	duplicate_exact_synonym	allelic_pseudogenic_tRNA [SO:0002200]	hasExactSynonym [oboInOwl:hasExactSynonym]	INSDC_feature:tRNA	
+WARN	missing_definition	interior_coding_exon [SO:0000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein_coding [SO:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non_protein_coding [SO:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA_junction_loop [SO:0000026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNA_hook_turn [SO:0000027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	base_pair [SO:0000028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	compound_chromosome_arm [SO:0000060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_to_gene_feature [SO:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	operon_member [SO:0000080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_array_member [SO:0000081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macronuclear_sequence [SO:0000083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	micronuclear_sequence [SO:0000084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequencing_primer [SO:0000107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	five_prime_intron [SO:0000190]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interior_intron [SO:0000191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	three_prime_intron [SO:0000192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transcript_attribute [SO:0000237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosome_variation [SO:0000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dinucleotide_repeat_microsatellite_feature [SO:0000290]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trinucleotide_repeat_microsatellite_feature [SO:0000291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	recombination_feature [SO:0000298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specific_recombination_site [SO:0000299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	recombination_feature_of_rearranged_gene [SO:0000300]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebrate_immune_system_gene_recombination_feature [SO:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nuclease_hypersensitive_site [SO:0000322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microarray_oligo [SO:0000328]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	site_specific_recombination_target_region [SO:0000342]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	loxP_site [SO:0000346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	group_IIA_intron [SO:0000381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	group_IIB_intron [SO:0000382]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_attribute [SO:0000401]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	five_prime_terminal_inverted_repeat [SO:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	three_prime_terminal_inverted_repeat [SO:0000421]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	U5_LTR_region [SO:0000422]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R_LTR_region [SO:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	U3_LTR_region [SO:0000424]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	five_prime_LTR [SO:0000425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	three_prime_LTR [SO:0000426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R_five_prime_LTR_region [SO:0000427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	U5_five_prime_LTR_region [SO:0000428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	U3_five_prime_LTR_region [SO:0000429]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	R_three_prime_LTR_region [SO:0000430]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	U3_three_prime_LTR_region [SO:0000431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	U5_three_prime_LTR_region [SO:0000432]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inverted_ring_chromosome [SO:0000439]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebrate_immunoglobulin_T_cell_receptor_segment [SO:0000460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebrate_immunoglobulin_T_cell_receptor_gene_cluster [SO:0000482]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	D_gene_recombination_feature [SO:0000492]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	designed_sequence [SO:0000546]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nonamer_of_recombination_feature_of_vertebrate_immune_system_gene [SO:0000562]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebrate_immune_system_gene_recombination_spacer [SO:0000563]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	miRNA_encoding [SO:0000571]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rRNA_encoding [SO:0000573]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scRNA_encoding [SO:0000575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	snoRNA_encoding [SO:0000578]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	C_D_box_snoRNA_encoding [SO:0000585]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	H_ACA_box_snoRNA_encoding [SO:0000608]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNApol_III_promoter_type_1 [SO:0000617]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNApol_III_promoter_type_2 [SO:0000618]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RNApol_III_promoter_type_3 [SO:0000621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	snRNA_encoding [SO:0000623]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosomal_regulatory_element [SO:0000626]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosomal_structural_element [SO:0000628]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	five_prime_open_reading_frame [SO:0000629]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spliced_leader_RNA [SO:0000636]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tetranucleotide_repeat_microsatellite_feature [SO:0000641]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SRP_RNA_encoding [SO:0000642]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stRNA_encoding [SO:0000656]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tmRNA_encoding [SO:0000659]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tRNA_encoding [SO:0000663]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	introgressed_chromosome_region [SO:0000664]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence_rearrangement_feature [SO:0000669]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sequence_location [SO:0000735]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organelle_sequence [SO:0000736]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitochondrial_sequence [SO:0000737]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nuclear_sequence [SO:0000738]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleomorphic_sequence [SO:0000739]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plastid_sequence [SO:0000740]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	apicoplast_sequence [SO:0000743]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromoplast_sequence [SO:0000744]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chloroplast_sequence [SO:0000745]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cyanelle_sequence [SO:0000746]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leucoplast_sequence [SO:0000747]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	proplastid_sequence [SO:0000748]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid_location [SO:0000749]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	proviral_location [SO:0000751]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_group_regulatory_region [SO:0000752]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plasmid_vector [SO:0000755]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	single_stranded_cDNA [SO:0000757]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	double_stranded_cDNA [SO:0000758]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cloned_region [SO:0000785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fusion [SO:0000806]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_component_region [SO:0000842]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	LTR_component [SO:0000848]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	three_prime_LTR_component [SO:0000849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	five_prime_LTR_component [SO:0000850]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	conserved [SO:0000856]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endogenous_retroviral_sequence [SO:0000903]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	orphan [SO:0000910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pre_edited_mRNA [SO:0000932]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebrate_immunoglobulin_T_cell_receptor_rearranged_segment [SO:0000936]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebrate_immunoglobulin_T_cell_receptor_rearranged_gene_cluster [SO:0000938]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebrate_immune_system_gene_recombination_signal_feature [SO:0000939]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	recombinationally_rearranged [SO:0000940]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eukaryotic_terminator [SO:0000951]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minicircle_gene [SO:0000975]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anchor_binding_site [SO:0000977]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rho_dependent_bacterial_terminator [SO:0000981]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rho_independent_bacterial_terminator [SO:0000982]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	strand_attribute [SO:0000983]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	single [SO:0000984]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	double [SO:0000985]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	topology_attribute [SO:0000986]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	BAC_cloned_genomic_insert [SO:0000992]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consensus [SO:0000993]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consensus_region [SO:0000994]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	consensus_mRNA [SO:0000995]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	predicted_gene [SO:0000996]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_fragment [SO:0000997]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	low_complexity [SO:0001004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	low_complexity_region [SO:0001005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intron_domain [SO:0001014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	direction_attribute [SO:0001029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitochondrial_DNA [SO:0001032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chloroplast_DNA [SO:0001033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beta_turn_type_six_a_one [SO:0001152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beta_turn_type_six_a_two [SO:0001153]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protein_coding_gene [SO:0001217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retrogene [SO:0001219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	major_TSS [SO:0001238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minor_TSS [SO:0001239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	encodes_alternate_transcription_start_sites [SO:0001241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gRNA_gene [SO:0001264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	miRNA_gene [SO:0001265]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scRNA_gene [SO:0001266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	snoRNA_gene [SO:0001267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SRP_RNA_gene [SO:0001269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tmRNA_gene [SO:0001271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tRNA_gene [SO:0001272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	modified_guanosine [SO:0001276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	modified_uridine [SO:0001277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CDS_fragment [SO:0001384]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	modified_L_glutamic_acid [SO:0001391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alanine [SO:0001435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	valine [SO:0001436]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leucine [SO:0001437]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isoleucine [SO:0001438]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	proline [SO:0001439]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tryptophan [SO:0001440]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	phenylalanine [SO:0001441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	methionine [SO:0001442]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glycine [SO:0001443]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	serine [SO:0001444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	threonine [SO:0001445]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tyrosine [SO:0001446]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cysteine [SO:0001447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamine [SO:0001448]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	asparagine [SO:0001449]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lysine [SO:0001450]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arginine [SO:0001451]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	histidine [SO:0001452]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aspartic_acid [SO:0001453]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamic_acid [SO:0001454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	selenocysteine [SO:0001455]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyrrolysine [SO:0001456]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shadow_enhancer [SO:0001482]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alteration_attribute [SO:0001508]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosomal_variation_attribute [SO:0001509]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intrachromosomal [SO:0001510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interchromosomal [SO:0001511]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tandem [SO:0001513]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inversion_attribute [SO:0001517]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pericentric [SO:0001518]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paracentric [SO:0001519]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	translocaton_attribute [SO:0001520]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reciprocal [SO:0001521]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insertional [SO:0001522]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	duplication_attribute [SO:0001523]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosomally_aberrant_genome [SO:0001524]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	minus_2_frameshift_variant [SO:0001593]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plus_2_frameshift_variant [SO:0001595]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	complex_change_of_translational_product_variant [SO:0001602]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	distal_promoter_element [SO:0001670]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	three_prime_restriction_enzyme_junction [SO:0001690]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sticky_end_restriction_enzyme_cleavage_site [SO:0001692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rare_variant [SO:0001765]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polymorphic_variant [SO:0001766]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	common_variant [SO:0001767]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fixed_variant [SO:0001768]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	benign_variant [SO:0001770]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disease_associated_variant [SO:0001771]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disease_causing_variant [SO:0001772]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	quantitative_variant [SO:0001774]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	maternal_variant [SO:0001775]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paternal_variant [SO:0001776]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	somatic_variant [SO:0001777]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	germline_variant [SO:0001778]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pedigree_specific_variant [SO:0001779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	population_specific_variant [SO:0001780]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	de_novo_variant [SO:0001781]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	structural_alteration [SO:0001785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coding_variant_quality [SO:0001814]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	synonymous [SO:0001815]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non_synonymous [SO:0001816]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zinc_finger_binding_site [SO:0001971]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	downstream_transcript_variant [SO:0001987]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cassette_array_member [SO:0005847]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_cassette_member [SO:0005848]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gene_subarray_member [SO:0005849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	T_to_C_transition [SO:1000013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	C_to_G_transversion [SO:1000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uncharacterized_chromosomal_mutation [SO:1000170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	partially_characterized_chromosomal_mutation [SO:1000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chromosome_structure_variation [SO:1000183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	member_of_regulon [SO:1001217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	Sequence_Ontology [SO:0000000]	label [rdfs:label]	Sequence_Ontology	
+WARN	missing_obsolete_label	gene_sensu_your_favorite_organism [SO:0000008]	label [rdfs:label]	gene_sensu_your_favorite_organism	
+WARN	missing_obsolete_label	gene_class [SO:0000009]	label [rdfs:label]	gene_class	
+WARN	missing_obsolete_label	match_set [SO:0000038]	label [rdfs:label]	match_set	
+WARN	missing_obsolete_label	sequence_operation [SO:0000041]	label [rdfs:label]	sequence_operation	
+WARN	missing_obsolete_label	pseudogene_attribute [SO:0000042]	label [rdfs:label]	pseudogene_attribute	
+WARN	missing_obsolete_label	delete [SO:0000045]	label [rdfs:label]	delete	
+WARN	missing_obsolete_label	insert [SO:0000046]	label [rdfs:label]	insert	
+WARN	missing_obsolete_label	invert [SO:0000047]	label [rdfs:label]	invert	
+WARN	missing_obsolete_label	substitute [SO:0000048]	label [rdfs:label]	substitute	
+WARN	missing_obsolete_label	translocate [SO:0000049]	label [rdfs:label]	translocate	
+WARN	missing_obsolete_label	gene_part [SO:0000050]	label [rdfs:label]	gene_part	
+WARN	missing_obsolete_label	assortment_derived_deficiency [SO:0000052]	label [rdfs:label]	assortment_derived_deficiency	
+WARN	missing_obsolete_label	sequence_variant_affecting_regulatory_region [SO:0000053]	label [rdfs:label]	sequence_variant_affecting_regulatory_region	
+WARN	missing_obsolete_label	assortment_derived_aneuploid [SO:0000058]	label [rdfs:label]	assortment_derived_aneuploid	
+WARN	missing_obsolete_label	gene_by_transcript_attribute [SO:0000064]	label [rdfs:label]	gene_by_transcript_attribute	
+WARN	missing_obsolete_label	gene_by_polyadenylation_attribute [SO:0000066]	label [rdfs:label]	gene_by_polyadenylation_attribute	
+WARN	missing_obsolete_label	end_overlapping_gene [SO:0000072]	label [rdfs:label]	end_overlapping_gene	
+WARN	missing_obsolete_label	processed_transcript_attribute [SO:0000082]	label [rdfs:label]	processed_transcript_attribute	
+WARN	missing_obsolete_label	gene_by_genome_location [SO:0000085]	label [rdfs:label]	gene_by_genome_location	
+WARN	missing_obsolete_label	gene_by_organelle_of_genome [SO:0000086]	label [rdfs:label]	gene_by_organelle_of_genome	
+WARN	missing_obsolete_label	non_capped_primary_transcript [SO:0000106]	label [rdfs:label]	non_capped_primary_transcript	
+WARN	missing_obsolete_label	sequence_variant_obs [SO:0000109]	label [rdfs:label]	sequence_variant_obs	
+WARN	missing_obsolete_label	transcript_feature [SO:0000115]	label [rdfs:label]	transcript_feature	
+WARN	missing_obsolete_label	transcript_with_readthrough_stop_codon [SO:0000117]	label [rdfs:label]	transcript_with_readthrough_stop_codon	
+WARN	missing_obsolete_label	primary_transcript_attribute [SO:0000144]	label [rdfs:label]	primary_transcript_attribute	
+WARN	missing_obsolete_label	lambda_clone [SO:0000160]	label [rdfs:label]	lambda_clone	
+WARN	missing_obsolete_label	restriction_enzyme_cut_site [SO:0000168]	label [rdfs:label]	restriction_enzyme_cut_site	
+WARN	missing_obsolete_label	repeat_family [SO:0000187]	label [rdfs:label]	repeat_family	
+WARN	missing_obsolete_label	four_cutter_restriction_site [SO:0000244]	label [rdfs:label]	four_cutter_restriction_site	
+WARN	missing_obsolete_label	mRNA_by_polyadenylation_status [SO:0000245]	label [rdfs:label]	mRNA_by_polyadenylation_status	
+WARN	missing_obsolete_label	mRNA_not_polyadenylated [SO:0000247]	label [rdfs:label]	mRNA_not_polyadenylated	
+WARN	missing_obsolete_label	six_cutter_restriction_site [SO:0000249]	label [rdfs:label]	six_cutter_restriction_site	
+WARN	missing_obsolete_label	eight_cutter_restriction_site [SO:0000251]	label [rdfs:label]	eight_cutter_restriction_site	
+WARN	missing_obsolete_label	type_I_enzyme_restriction_site [SO:0000284]	label [rdfs:label]	type_I_enzyme_restriction_site	
+WARN	missing_obsolete_label	repetitive_element [SO:0000292]	label [rdfs:label]	repetitive_element	
+WARN	missing_obsolete_label	type_II_enzyme_restriction_site [SO:0000304]	label [rdfs:label]	type_II_enzyme_restriction_site	
+WARN	missing_obsolete_label	sequence_feature_locating_method [SO:0000308]	label [rdfs:label]	sequence_feature_locating_method	
+WARN	missing_obsolete_label	computed_feature [SO:0000309]	label [rdfs:label]	computed_feature	
+WARN	missing_obsolete_label	predicted_ab_initio_computation [SO:0000310]	label [rdfs:label]	predicted_ab_initio_computation	
+WARN	missing_obsolete_label	computed_feature_by_similarity [SO:0000311]	label [rdfs:label]	computed_feature_by_similarity	
+WARN	missing_obsolete_label	integrase_coding_region [SO:0000369]	label [rdfs:label]	integrase_coding_region	
+WARN	missing_obsolete_label	enhancer_attribute [SO:0000402]	label [rdfs:label]	enhancer_attribute	
+WARN	missing_obsolete_label	site [SO:0000408]	label [rdfs:label]	site	
+WARN	missing_obsolete_label	assortment_derived_duplication [SO:0000437]	label [rdfs:label]	assortment_derived_duplication	
+WARN	missing_obsolete_label	gene_not_polyadenylated [SO:0000438]	label [rdfs:label]	gene_not_polyadenylated	
+WARN	missing_obsolete_label	transgene_attribute [SO:0000452]	label [rdfs:label]	transgene_attribute	
+WARN	missing_obsolete_label	polycistronic_gene [SO:0000477]	label [rdfs:label]	polycistronic_gene	
+WARN	missing_obsolete_label	transcribed_region [SO:0000502]	label [rdfs:label]	transcribed_region	
+WARN	missing_obsolete_label	alternately_spliced_gene_encodeing_one_transcript [SO:0000503]	label [rdfs:label]	alternately_spliced_gene_encodeing_one_transcript	
+WARN	missing_obsolete_label	alternately_spliced_gene_encoding_greater_than_one_transcript [SO:0000543]	label [rdfs:label]	alternately_spliced_gene_encoding_greater_than_one_transcript	
+WARN	missing_obsolete_label	assortment_derived_deficiency_plus_duplication [SO:0000554]	label [rdfs:label]	assortment_derived_deficiency_plus_duplication	
+WARN	missing_obsolete_label	transcript_edited_by_U_insertion/deletion [SO:0000597]	label [rdfs:label]	transcript_edited_by_U_insertion/deletion	
+WARN	missing_obsolete_label	edited_by_C_insertion_and_dinucleotide_insertion [SO:0000598]	label [rdfs:label]	edited_by_C_insertion_and_dinucleotide_insertion	
+WARN	missing_obsolete_label	edited_by_C_to_U_substitution [SO:0000599]	label [rdfs:label]	edited_by_C_to_U_substitution	
+WARN	missing_obsolete_label	edited_by_A_to_I_substitution [SO:0000600]	label [rdfs:label]	edited_by_A_to_I_substitution	
+WARN	missing_obsolete_label	edited_by_G_addition [SO:0000601]	label [rdfs:label]	edited_by_G_addition	
+WARN	missing_obsolete_label	DNA_invertase_target_sequence [SO:0000660]	label [rdfs:label]	DNA_invertase_target_sequence	
+WARN	missing_obsolete_label	intron_attribute [SO:0000661]	label [rdfs:label]	intron_attribute	
+WARN	missing_obsolete_label	non_canonical_splice_site [SO:0000674]	label [rdfs:label]	non_canonical_splice_site	
+WARN	missing_obsolete_label	canonical_splice_site [SO:0000675]	label [rdfs:label]	canonical_splice_site	
+WARN	missing_obsolete_label	splicing_feature [SO:0000682]	label [rdfs:label]	splicing_feature	
+WARN	missing_obsolete_label	plasmid_clone [SO:0000759]	label [rdfs:label]	plasmid_clone	
+WARN	missing_obsolete_label	YAC_clone [SO:0000760]	label [rdfs:label]	YAC_clone	
+WARN	missing_obsolete_label	phagemid_clone [SO:0000761]	label [rdfs:label]	phagemid_clone	
+WARN	missing_obsolete_label	PAC_clone [SO:0000762]	label [rdfs:label]	PAC_clone	
+WARN	missing_obsolete_label	fosmid_clone [SO:0000763]	label [rdfs:label]	fosmid_clone	
+WARN	missing_obsolete_label	BAC_clone [SO:0000764]	label [rdfs:label]	BAC_clone	
+WARN	missing_obsolete_label	cosmid_clone [SO:0000765]	label [rdfs:label]	cosmid_clone	
+WARN	missing_obsolete_label	clone_insert_start [SO:0000767]	label [rdfs:label]	clone_insert_start	
+WARN	missing_obsolete_label	transposable_element_attribute [SO:0000780]	label [rdfs:label]	transposable_element_attribute	
+WARN	missing_obsolete_label	reagent_attribute [SO:0000786]	label [rdfs:label]	reagent_attribute	
+WARN	missing_obsolete_label	clone_attribute [SO:0000787]	label [rdfs:label]	clone_attribute	
+WARN	missing_obsolete_label	cloned [SO:0000788]	label [rdfs:label]	cloned	
+WARN	missing_obsolete_label	cloned_genomic [SO:0000791]	label [rdfs:label]	cloned_genomic	
+WARN	missing_obsolete_label	cloned_cDNA [SO:0000792]	label [rdfs:label]	cloned_cDNA	
+WARN	missing_obsolete_label	engineered_DNA [SO:0000793]	label [rdfs:label]	engineered_DNA	
+WARN	missing_obsolete_label	promoter_region [SO:0000832]	label [rdfs:label]	promoter_region	
+WARN	missing_obsolete_label	bacterial_RNApol_promoter_region [SO:0000843]	label [rdfs:label]	bacterial_RNApol_promoter_region	
+WARN	missing_obsolete_label	RNApol_II_promoter_region [SO:0000844]	label [rdfs:label]	RNApol_II_promoter_region	
+WARN	missing_obsolete_label	RNApol_III_promoter_type_1_region [SO:0000845]	label [rdfs:label]	RNApol_III_promoter_type_1_region	
+WARN	missing_obsolete_label	RNApol_III_promoter_type_2_region [SO:0000846]	label [rdfs:label]	RNApol_III_promoter_type_2_region	
+WARN	missing_obsolete_label	nuclear_mitochondrial [SO:0000899]	label [rdfs:label]	nuclear_mitochondrial	
+WARN	missing_obsolete_label	processed [SO:0000900]	label [rdfs:label]	processed	
+WARN	missing_obsolete_label	unequally_crossed_over [SO:0000901]	label [rdfs:label]	unequally_crossed_over	
+WARN	missing_obsolete_label	edit_operation [SO:0000916]	label [rdfs:label]	edit_operation	
+WARN	missing_obsolete_label	insert_U [SO:0000917]	label [rdfs:label]	insert_U	
+WARN	missing_obsolete_label	delete_U [SO:0000918]	label [rdfs:label]	delete_U	
+WARN	missing_obsolete_label	substitute_A_to_I [SO:0000919]	label [rdfs:label]	substitute_A_to_I	
+WARN	missing_obsolete_label	insert_C [SO:0000920]	label [rdfs:label]	insert_C	
+WARN	missing_obsolete_label	insert_dinucleotide [SO:0000921]	label [rdfs:label]	insert_dinucleotide	
+WARN	missing_obsolete_label	substitute_C_to_U [SO:0000922]	label [rdfs:label]	substitute_C_to_U	
+WARN	missing_obsolete_label	insert_G [SO:0000923]	label [rdfs:label]	insert_G	
+WARN	missing_obsolete_label	insert_GC [SO:0000924]	label [rdfs:label]	insert_GC	
+WARN	missing_obsolete_label	insert_GU [SO:0000925]	label [rdfs:label]	insert_GU	
+WARN	missing_obsolete_label	insert_CU [SO:0000926]	label [rdfs:label]	insert_CU	
+WARN	missing_obsolete_label	insert_AU [SO:0000927]	label [rdfs:label]	insert_AU	
+WARN	missing_obsolete_label	insert_AA [SO:0000928]	label [rdfs:label]	insert_AA	
+WARN	missing_obsolete_label	vertebrate_immune_system_feature [SO:0000937]	label [rdfs:label]	vertebrate_immune_system_feature	
+WARN	missing_obsolete_label	sequence_replication_mode [SO:0000968]	label [rdfs:label]	sequence_replication_mode	
+WARN	missing_obsolete_label	rolling_circle [SO:0000969]	label [rdfs:label]	rolling_circle	
+WARN	missing_obsolete_label	theta_replication [SO:0000970]	label [rdfs:label]	theta_replication	
+WARN	missing_obsolete_label	DNA_replication_mode [SO:0000971]	label [rdfs:label]	DNA_replication_mode	
+WARN	missing_obsolete_label	RNA_replication_mode [SO:0000972]	label [rdfs:label]	RNA_replication_mode	
+WARN	missing_obsolete_label	sequence_variant_affecting_copy_number [SO:0001020]	label [rdfs:label]	sequence_variant_affecting_copy_number	
+WARN	missing_obsolete_label	nested_region [SO:0001051]	label [rdfs:label]	nested_region	
+WARN	missing_obsolete_label	nested_repeat [SO:0001052]	label [rdfs:label]	nested_repeat	
+WARN	missing_obsolete_label	nested_transposon [SO:0001053]	label [rdfs:label]	nested_transposon	
+WARN	missing_obsolete_label	enhanceosome [SO:0001057]	label [rdfs:label]	enhanceosome	
+WARN	missing_obsolete_label	cross_link [SO:0001087]	label [rdfs:label]	cross_link	
+WARN	missing_obsolete_label	disulfide_bond [SO:0001088]	label [rdfs:label]	disulfide_bond	
+WARN	missing_obsolete_label	covalent_binding_site [SO:0001090]	label [rdfs:label]	covalent_binding_site	
+WARN	missing_obsolete_label	non_covalent_binding_site [SO:0001091]	label [rdfs:label]	non_covalent_binding_site	
+WARN	missing_obsolete_label	sequence_variant_affecting_polyadenylation [SO:0001432]	label [rdfs:label]	sequence_variant_affecting_polyadenylation	
+WARN	missing_obsolete_label	transcript_sequence_variant [SO:0001579]	label [rdfs:label]	transcript_sequence_variant	
+WARN	missing_obsolete_label	H3K27_acylation_site [SO:0001721]	label [rdfs:label]	H3K27_acylation_site	
+WARN	missing_obsolete_label	RNA_stability_element [SO:0001957]	label [rdfs:label]	RNA_stability_element	
+WARN	missing_obsolete_label	intronic_splicing_enhancer [SO:0002057]	label [rdfs:label]	intronic_splicing_enhancer	
+WARN	missing_obsolete_label	<new term> [SO:0002117]	label [rdfs:label]	<new term>	
+WARN	missing_obsolete_label	sequence_variation_affecting_transcript [SO:1000049]	label [rdfs:label]	sequence_variation_affecting_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_no_change_in_transcript [SO:1000050]	label [rdfs:label]	sequence_variant_causing_no_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variation_affecting_coding_sequence [SO:1000054]	label [rdfs:label]	sequence_variation_affecting_coding_sequence	
+WARN	missing_obsolete_label	sequence_variant_causing_initiator_codon_change_in_transcript [SO:1000055]	label [rdfs:label]	sequence_variant_causing_initiator_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_amino_acid_coding_codon_change_in_transcript [SO:1000056]	label [rdfs:label]	sequence_variant_causing_amino_acid_coding_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_synonymous_codon_change_in_transcript [SO:1000057]	label [rdfs:label]	sequence_variant_causing_synonymous_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_non_synonymous_codon_change_in_transcript [SO:1000058]	label [rdfs:label]	sequence_variant_causing_non_synonymous_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_missense_codon_change_in_transcript [SO:1000059]	label [rdfs:label]	sequence_variant_causing_missense_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_conservative_missense_codon_change_in_transcript [SO:1000060]	label [rdfs:label]	sequence_variant_causing_conservative_missense_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_nonconservative_missense_codon_change_in_transcript [SO:1000061]	label [rdfs:label]	sequence_variant_causing_nonconservative_missense_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_nonsense_codon_change_in_transcript [SO:1000062]	label [rdfs:label]	sequence_variant_causing_nonsense_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variant_causing_terminator_codon_change_in_transcript [SO:1000063]	label [rdfs:label]	sequence_variant_causing_terminator_codon_change_in_transcript	
+WARN	missing_obsolete_label	sequence_variation_affecting_reading_frame [SO:1000064]	label [rdfs:label]	sequence_variation_affecting_reading_frame	
+WARN	missing_obsolete_label	frameshift_sequence_variation [SO:1000065]	label [rdfs:label]	frameshift_sequence_variation	
+WARN	missing_obsolete_label	sequence_variant_causing_plus_1_frameshift_mutation [SO:1000066]	label [rdfs:label]	sequence_variant_causing_plus_1_frameshift_mutation	
+WARN	missing_obsolete_label	sequence_variant_causing_minus_1_frameshift [SO:1000067]	label [rdfs:label]	sequence_variant_causing_minus_1_frameshift	
+WARN	missing_obsolete_label	sequence_variant_causing_plus_2_frameshift [SO:1000068]	label [rdfs:label]	sequence_variant_causing_plus_2_frameshift	
+WARN	missing_obsolete_label	sequence_variant_causing_minus_2_frameshift [SO:1000069]	label [rdfs:label]	sequence_variant_causing_minus_2_frameshift	
+WARN	missing_obsolete_label	sequence_variant_affecting_transcript_processing [SO:1000070]	label [rdfs:label]	sequence_variant_affecting_transcript_processing	
+WARN	missing_obsolete_label	sequence_variant_affecting_splicing [SO:1000071]	label [rdfs:label]	sequence_variant_affecting_splicing	
+WARN	missing_obsolete_label	sequence_variant_affecting_splice_donor [SO:1000072]	label [rdfs:label]	sequence_variant_affecting_splice_donor	
+WARN	missing_obsolete_label	sequence_variant_affecting_splice_acceptor [SO:1000073]	label [rdfs:label]	sequence_variant_affecting_splice_acceptor	
+WARN	missing_obsolete_label	sequence_variant_causing_cryptic_splice_activation [SO:1000074]	label [rdfs:label]	sequence_variant_causing_cryptic_splice_activation	
+WARN	missing_obsolete_label	sequence_variant_affecting_editing [SO:1000075]	label [rdfs:label]	sequence_variant_affecting_editing	
+WARN	missing_obsolete_label	sequence_variant_affecting_transcription [SO:1000076]	label [rdfs:label]	sequence_variant_affecting_transcription	
+WARN	missing_obsolete_label	sequence_variant_decreasing_rate_of_transcription [SO:1000078]	label [rdfs:label]	sequence_variant_decreasing_rate_of_transcription	
+WARN	missing_obsolete_label	sequence_variation_affecting_transcript_sequence [SO:1000079]	label [rdfs:label]	sequence_variation_affecting_transcript_sequence	
+WARN	missing_obsolete_label	sequence_variant_increasing_rate_of_transcription [SO:1000080]	label [rdfs:label]	sequence_variant_increasing_rate_of_transcription	
+WARN	missing_obsolete_label	sequence_variant_affecting_rate_of_transcription [SO:1000081]	label [rdfs:label]	sequence_variant_affecting_rate_of_transcription	
+WARN	missing_obsolete_label	sequence variant_affecting_transcript_stability [SO:1000082]	label [rdfs:label]	sequence variant_affecting_transcript_stability	
+WARN	missing_obsolete_label	sequence_variant_increasing_transcript_stability [SO:1000083]	label [rdfs:label]	sequence_variant_increasing_transcript_stability	
+WARN	missing_obsolete_label	sequence_variant_decreasing_transcript_stability [SO:1000084]	label [rdfs:label]	sequence_variant_decreasing_transcript_stability	
+WARN	missing_obsolete_label	sequence_variation_affecting_level_of_transcript [SO:1000085]	label [rdfs:label]	sequence_variation_affecting_level_of_transcript	
+WARN	missing_obsolete_label	sequence_variation_decreasing_level_of_transcript [SO:1000086]	label [rdfs:label]	sequence_variation_decreasing_level_of_transcript	
+WARN	missing_obsolete_label	sequence_variation_increasing_level_of_transcript [SO:1000087]	label [rdfs:label]	sequence_variation_increasing_level_of_transcript	
+WARN	missing_obsolete_label	sequence_variant_affecting_translational_product [SO:1000088]	label [rdfs:label]	sequence_variant_affecting_translational_product	
+WARN	missing_obsolete_label	sequence_variant_causing_no_change_of_translational_product [SO:1000089]	label [rdfs:label]	sequence_variant_causing_no_change_of_translational_product	
+WARN	missing_obsolete_label	sequence_variant_causing_complex_change_of_translational_product [SO:1000092]	label [rdfs:label]	sequence_variant_causing_complex_change_of_translational_product	
+WARN	missing_obsolete_label	sequence_variant_causing_amino_acid_substitution [SO:1000093]	label [rdfs:label]	sequence_variant_causing_amino_acid_substitution	
+WARN	missing_obsolete_label	sequence_variant_causing_conservative_amino_acid_substitution [SO:1000094]	label [rdfs:label]	sequence_variant_causing_conservative_amino_acid_substitution	
+WARN	missing_obsolete_label	sequence_variant_causing_nonconservative_amino_acid_substitution [SO:1000095]	label [rdfs:label]	sequence_variant_causing_nonconservative_amino_acid_substitution	
+WARN	missing_obsolete_label	sequence_variant_causing_amino_acid_insertion [SO:1000096]	label [rdfs:label]	sequence_variant_causing_amino_acid_insertion	
+WARN	missing_obsolete_label	sequence_variant_causing_amino_acid_deletion [SO:1000097]	label [rdfs:label]	sequence_variant_causing_amino_acid_deletion	
+WARN	missing_obsolete_label	sequence_variant_causing_polypeptide_truncation [SO:1000098]	label [rdfs:label]	sequence_variant_causing_polypeptide_truncation	
+WARN	missing_obsolete_label	sequence_variant_causing_polypeptide_elongation [SO:1000099]	label [rdfs:label]	sequence_variant_causing_polypeptide_elongation	
+WARN	missing_obsolete_label	mutation_causing_polypeptide_N_terminal_elongation [SO:1000100]	label [rdfs:label]	mutation_causing_polypeptide_N_terminal_elongation	
+WARN	missing_obsolete_label	mutation_causing_polypeptide_C_terminal_elongation [SO:1000101]	label [rdfs:label]	mutation_causing_polypeptide_C_terminal_elongation	
+WARN	missing_obsolete_label	sequence_variant_affecting_level_of_translational_product [SO:1000102]	label [rdfs:label]	sequence_variant_affecting_level_of_translational_product	
+WARN	missing_obsolete_label	sequence_variant_decreasing_level_of_translation_product [SO:1000103]	label [rdfs:label]	sequence_variant_decreasing_level_of_translation_product	
+WARN	missing_obsolete_label	sequence_variant_increasing_level_of_translation_product [SO:1000104]	label [rdfs:label]	sequence_variant_increasing_level_of_translation_product	
+WARN	missing_obsolete_label	sequence_variant_affecting_polypeptide_amino_acid_sequence [SO:1000105]	label [rdfs:label]	sequence_variant_affecting_polypeptide_amino_acid_sequence	
+WARN	missing_obsolete_label	mutation_causing_inframe_polypeptide_N_terminal_elongation [SO:1000106]	label [rdfs:label]	mutation_causing_inframe_polypeptide_N_terminal_elongation	
+WARN	missing_obsolete_label	mutation_causing_out_of_frame_polypeptide_N_terminal_elongation [SO:1000107]	label [rdfs:label]	mutation_causing_out_of_frame_polypeptide_N_terminal_elongation	
+WARN	missing_obsolete_label	mutaton_causing_inframe_polypeptide_C_terminal_elongation [SO:1000108]	label [rdfs:label]	mutaton_causing_inframe_polypeptide_C_terminal_elongation	
+WARN	missing_obsolete_label	mutation_causing_out_of_frame_polypeptide_C_terminal_elongation [SO:1000109]	label [rdfs:label]	mutation_causing_out_of_frame_polypeptide_C_terminal_elongation	
+WARN	missing_obsolete_label	frame_restoring_sequence_variant [SO:1000110]	label [rdfs:label]	frame_restoring_sequence_variant	
+WARN	missing_obsolete_label	sequence_variant_affecting_3D_structure_of_polypeptide [SO:1000111]	label [rdfs:label]	sequence_variant_affecting_3D_structure_of_polypeptide	
+WARN	missing_obsolete_label	sequence_variant_causing_no_3D_structural_change [SO:1000112]	label [rdfs:label]	sequence_variant_causing_no_3D_structural_change	
+WARN	missing_obsolete_label	sequence_variant_causing_complex_3D_structural_change [SO:1000115]	label [rdfs:label]	sequence_variant_causing_complex_3D_structural_change	
+WARN	missing_obsolete_label	sequence_variant_causing_conformational_change [SO:1000116]	label [rdfs:label]	sequence_variant_causing_conformational_change	
+WARN	missing_obsolete_label	sequence_variant_affecting_polypeptide_function [SO:1000117]	label [rdfs:label]	sequence_variant_affecting_polypeptide_function	
+WARN	missing_obsolete_label	sequence_variant_causing_loss_of_function_of_polypeptide [SO:1000118]	label [rdfs:label]	sequence_variant_causing_loss_of_function_of_polypeptide	
+WARN	missing_obsolete_label	sequence_variant_causing_inactive_ligand_binding_site [SO:1000119]	label [rdfs:label]	sequence_variant_causing_inactive_ligand_binding_site	
+WARN	missing_obsolete_label	sequence_variant_causing_inactive_catalytic_site [SO:1000120]	label [rdfs:label]	sequence_variant_causing_inactive_catalytic_site	
+WARN	missing_obsolete_label	sequence_variant_causing_polypeptide_localization_change [SO:1000121]	label [rdfs:label]	sequence_variant_causing_polypeptide_localization_change	
+WARN	missing_obsolete_label	sequence_variant_causing_polypeptide_post_translational_processing_change [SO:1000122]	label [rdfs:label]	sequence_variant_causing_polypeptide_post_translational_processing_change	
+WARN	missing_obsolete_label	polypeptide_post_translational_processing_affected [SO:1000123]	label [rdfs:label]	polypeptide_post_translational_processing_affected	
+WARN	missing_obsolete_label	sequence_variant_causing_partial_loss_of_function_of_polypeptide [SO:1000124]	label [rdfs:label]	sequence_variant_causing_partial_loss_of_function_of_polypeptide	
+WARN	missing_obsolete_label	sequence_variant_causing_gain_of_function_of_polypeptide [SO:1000125]	label [rdfs:label]	sequence_variant_causing_gain_of_function_of_polypeptide	
+WARN	missing_obsolete_label	sequence_variant_affecting_transcript_secondary_structure [SO:1000126]	label [rdfs:label]	sequence_variant_affecting_transcript_secondary_structure	
+WARN	missing_obsolete_label	sequence_variant_causing_compensatory_transcript_secondary_structure_mutation [SO:1000127]	label [rdfs:label]	sequence_variant_causing_compensatory_transcript_secondary_structure_mutation	
+WARN	missing_obsolete_label	sequence_variant_effect [SO:1000132]	label [rdfs:label]	sequence_variant_effect	
+WARN	missing_obsolete_label	sequence_variant_causing_polypeptide_fusion [SO:1000134]	label [rdfs:label]	sequence_variant_causing_polypeptide_fusion	
+WARN	missing_obsolete_label	sequence_variant_affecting_gene_structure [SO:1000180]	label [rdfs:label]	sequence_variant_affecting_gene_structure	
+WARN	missing_obsolete_label	sequence_variant_causing_gene_fusion [SO:1000181]	label [rdfs:label]	sequence_variant_causing_gene_fusion	
+WARN	missing_obsolete_label	sequence_variant_causes_exon_loss [SO:1000184]	label [rdfs:label]	sequence_variant_causes_exon_loss	
+WARN	missing_obsolete_label	sequence_variant_causes_intron_gain [SO:1000185]	label [rdfs:label]	sequence_variant_causes_intron_gain	
+WARN	missing_obsolete_label	sequence_variant_causing_cryptic_splice_donor_activation [SO:1000186]	label [rdfs:label]	sequence_variant_causing_cryptic_splice_donor_activation	
+WARN	missing_obsolete_label	sequence_variant_causing_cryptic_splice_acceptor_activation [SO:1001186]	label [rdfs:label]	sequence_variant_causing_cryptic_splice_acceptor_activation	
+WARN	missing_obsolete_label	alternatively_spliced_gene_encoding_greater_than_1_polypeptide_coding_regions_overlapping [SO:1001194]	label [rdfs:label]	alternatively_spliced_gene_encoding_greater_than_1_polypeptide_coding_regions_overlapping	
+WARN	missing_obsolete_label	alternatively_spliced_transcript_encoding_greater_than_1_polypeptide_different_start_codon_different_stop_codon_coding_regions_non_overlapping [SO:1001244]	label [rdfs:label]	alternatively_spliced_transcript_encoding_greater_than_1_polypeptide_different_start_codon_different_stop_codon_coding_regions_non_overlapping	
+WARN	missing_obsolete_label	status_of_coding_sequence [SO:1001255]	label [rdfs:label]	status_of_coding_sequence	
+WARN	missing_obsolete_label	stop_codon_redefinition_as_selenocysteine [SO:1001266]	label [rdfs:label]	stop_codon_redefinition_as_selenocysteine	
+WARN	missing_obsolete_label	stop_codon_readthrough [SO:1001267]	label [rdfs:label]	stop_codon_readthrough	
+WARN	missing_obsolete_label	stop_codon_redefinition_as_pyrrolysine [SO:1001270]	label [rdfs:label]	stop_codon_redefinition_as_pyrrolysine	
+INFO	lowercase_definition	computed_feature_by_similarity [SO:0000311]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	rRNA_5_8S [SO:0000375]	IAO_0000115 [IAO:0000115]	5_8S ribosomal RNA (5. 8S rRNA) is a component of the large subunit of the eukaryotic ribosome. It is transcribed by RNA polymerase I as part of the 45S precursor that also contains 18S and 28S rRNA. Functionally, it is thought that 5.8S rRNA may be involved in ribosome translocation. It is also known to form covalent linkage to the p53 tumour suppressor protein. 5_8S rRNA is also found in archaea.	
+INFO	lowercase_definition	three_prime_D_heptamer [SO:0000493]	IAO_0000115 [IAO:0000115]	7 nucleotide recombination site like CACAGTG, part of a 3' D-recombination signal sequence of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	five_prime_D_heptamer [SO:0000496]	IAO_0000115 [IAO:0000115]	7 nucleotide recombination site (e.g. CACTGTG), part of a 5' D-recombination signal sequence (SO:0000556) of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	five_prime_D_nonamer [SO:0000497]	IAO_0000115 [IAO:0000115]	9 nucleotide recombination site (e.g. GGTTTTTGT), part of a five_prime_D-recombination signal sequence (SO:0000556) of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	five_prime_D_spacer [SO:0000498]	IAO_0000115 [IAO:0000115]	12 or 23 nucleotide spacer between the 5' D-heptamer (SO:0000496) and 5' D-nonamer (SO:0000497) of a 5' D-recombination signal sequence (SO:0000556) of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	J_nonamer [SO:0000514]	IAO_0000115 [IAO:0000115]	9 nucleotide recombination site (e.g. GGTTTTTGT), part of a J-gene recombination feature of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	J_heptamer [SO:0000515]	IAO_0000115 [IAO:0000115]	7 nucleotide recombination site (e.g. CACAGTG), part of a J-gene recombination feature of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	J_spacer [SO:0000517]	IAO_0000115 [IAO:0000115]	12 or 23 nucleotide spacer between the J-nonamer and the J-heptamer of a J-gene recombination feature of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	V_heptamer [SO:0000533]	IAO_0000115 [IAO:0000115]	7 nucleotide recombination site (e.g. CACAGTG), part of V-gene recombination feature of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	V_nonamer [SO:0000536]	IAO_0000115 [IAO:0000115]	9 nucleotide recombination site (e.g. ACAAAAACC), part of V-gene recombination feature of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	V_spacer [SO:0000537]	IAO_0000115 [IAO:0000115]	12 or 23 nucleotide spacer between the V-heptamer and the V-nonamer of a V-gene recombination feature of an immunoglobulin/T-cell receptor gene.	
+INFO	lowercase_definition	five_prime_clip [SO:0000555]	IAO_0000115 [IAO:0000115]	5' most region of a precursor transcript that is clipped off during processing.	
+INFO	lowercase_definition	three_prime_clip [SO:0000557]	IAO_0000115 [IAO:0000115]	3'-most region of a precursor transcript that is clipped off during processing.	
+INFO	lowercase_definition	rRNA_5S [SO:0000652]	IAO_0000115 [IAO:0000115]	5S ribosomal RNA (5S rRNA) is a component of the large ribosomal subunit in both prokaryotes and eukaryotes. In eukaryotes, it is synthesised by RNA polymerase III (the other eukaryotic rRNAs are cleaved from a 45S precursor synthesised by RNA polymerase I). In Xenopus oocytes, it has been shown that fingers 4-7 of the nine-zinc finger transcription factor TFIIIA can bind to the central region of 5S RNA. Thus, in addition to positively regulating 5S rRNA transcription, TFIIIA also stabilizes 5S rRNA until it is required for transcription.	
+INFO	lowercase_definition	one_methylinosine [SO:0001278]	IAO_0000115 [IAO:0000115]	1-methylinosine is a modified inosine.	
+INFO	lowercase_definition	one_two_prime_O_dimethylinosine [SO:0001279]	IAO_0000115 [IAO:0000115]	1,2'-O-dimethylinosine is a modified inosine.	
+INFO	lowercase_definition	two_prime_O_methylinosine [SO:0001280]	IAO_0000115 [IAO:0000115]	2'-O-methylinosine is a modified inosine.	
+INFO	lowercase_definition	three_methylcytidine [SO:0001281]	IAO_0000115 [IAO:0000115]	3-methylcytidine is a modified cytidine.	
+INFO	lowercase_definition	five_methylcytidine [SO:0001282]	IAO_0000115 [IAO:0000115]	5-methylcytidine is a modified cytidine.	
+INFO	lowercase_definition	two_prime_O_methylcytidine [SO:0001283]	IAO_0000115 [IAO:0000115]	2'-O-methylcytidine is a modified cytidine.	
+INFO	lowercase_definition	two_thiocytidine [SO:0001284]	IAO_0000115 [IAO:0000115]	2-thiocytidine is a modified cytidine.	
+INFO	lowercase_definition	five_formylcytidine [SO:0001286]	IAO_0000115 [IAO:0000115]	5-formylcytidine is a modified cytidine.	
+INFO	lowercase_definition	five_two_prime_O_dimethylcytidine [SO:0001287]	IAO_0000115 [IAO:0000115]	5,2'-O-dimethylcytidine is a modified cytidine.	
+INFO	lowercase_definition	five_hydroxymethylcytidine [SO:0001292]	IAO_0000115 [IAO:0000115]	5-hydroxymethylcytidine is a modified cytidine.	
+INFO	lowercase_definition	five_formyl_two_prime_O_methylcytidine [SO:0001293]	IAO_0000115 [IAO:0000115]	5-formyl-2'-O-methylcytidine is a modified cytidine.	
+INFO	lowercase_definition	one_methyladenosine [SO:0001295]	IAO_0000115 [IAO:0000115]	1_methyladenosine is a modified adenosine.	
+INFO	lowercase_definition	two_methyladenosine [SO:0001296]	IAO_0000115 [IAO:0000115]	2_methyladenosine is a modified adenosine.	
+INFO	lowercase_definition	two_prime_O_methyladenosine [SO:0001298]	IAO_0000115 [IAO:0000115]	2prime_O_methyladenosine is a modified adenosine.	
+INFO	lowercase_definition	two_methylthio_N6_methyladenosine [SO:0001299]	IAO_0000115 [IAO:0000115]	2_methylthio_N6_methyladenosine is a modified adenosine.	
+INFO	lowercase_definition	two_methylthio_N6_isopentenyladenosine [SO:0001301]	IAO_0000115 [IAO:0000115]	2_methylthio_N6_isopentenyladenosine is a modified adenosine.	
+INFO	lowercase_definition	two_methylthio_N6_cis_hydroxyisopentenyl_adenosine [SO:0001303]	IAO_0000115 [IAO:0000115]	2_methylthio_N6_cis_hydroxyisopentenyl_adenosine is a modified adenosine.	
+INFO	lowercase_definition	two_methylthio_N6_threonyl_carbamoyladenosine [SO:0001306]	IAO_0000115 [IAO:0000115]	2_methylthio_N6_threonyl_carbamoyladenosine is a modified adenosine.	
+INFO	lowercase_definition	two_methylthio_N6_hydroxynorvalyl_carbamoyladenosine [SO:0001309]	IAO_0000115 [IAO:0000115]	2_methylthio_N6_hydroxynorvalyl_carbamoyladenosine is a modified adenosine.	
+INFO	lowercase_definition	two_prime_O_ribosyladenosine_phosphate [SO:0001310]	IAO_0000115 [IAO:0000115]	2prime_O_ribosyladenosine_phosphate is a modified adenosine.	
+INFO	lowercase_definition	one_two_prime_O_dimethyladenosine [SO:0001314]	IAO_0000115 [IAO:0000115]	1,2'-O-dimethyladenosine is a modified adenosine.	
+INFO	lowercase_definition	seven_deazaguanosine [SO:0001316]	IAO_0000115 [IAO:0000115]	7-deazaguanosine is a modified guanosine.	
+INFO	lowercase_definition	seven_cyano_seven_deazaguanosine [SO:0001321]	IAO_0000115 [IAO:0000115]	7_cyano_7_deazaguanosine is a modified 7-deazoguanosine.	
+INFO	lowercase_definition	seven_aminomethyl_seven_deazaguanosine [SO:0001322]	IAO_0000115 [IAO:0000115]	7_aminomethyl_7_deazaguanosine is a modified 7-deazoguanosine.	
+INFO	lowercase_definition	one_methylguanosine [SO:0001324]	IAO_0000115 [IAO:0000115]	1_methylguanosine is a modified guanosine base feature.	
+INFO	lowercase_definition	seven_methylguanosine [SO:0001326]	IAO_0000115 [IAO:0000115]	7_methylguanosine is a modified guanosine base feature.	
+INFO	lowercase_definition	two_prime_O_methylguanosine [SO:0001327]	IAO_0000115 [IAO:0000115]	2prime_O_methylguanosine is a modified guanosine base feature.	
+INFO	lowercase_definition	two_prime_O_ribosylguanosine_phosphate [SO:0001331]	IAO_0000115 [IAO:0000115]	2prime_O_ribosylguanosine_phosphate is a modified guanosine base feature.	
+INFO	lowercase_definition	one_two_prime_O_dimethylguanosine [SO:0001340]	IAO_0000115 [IAO:0000115]	1_2prime_O_dimethylguanosine is a modified guanosine base feature.	
+INFO	lowercase_definition	four_demethylwyosine [SO:0001341]	IAO_0000115 [IAO:0000115]	4_demethylwyosine is a modified guanosine base feature.	
+INFO	lowercase_definition	five_methyluridine [SO:0001344]	IAO_0000115 [IAO:0000115]	5_methyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	two_prime_O_methyluridine [SO:0001345]	IAO_0000115 [IAO:0000115]	2prime_O_methyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_two_prime_O_dimethyluridine [SO:0001346]	IAO_0000115 [IAO:0000115]	5_2_prime_O_dimethyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	one_methylpseudouridine [SO:0001347]	IAO_0000115 [IAO:0000115]	1_methylpseudouridine is a modified uridine base feature.	
+INFO	lowercase_definition	two_prime_O_methylpseudouridine [SO:0001348]	IAO_0000115 [IAO:0000115]	2prime_O_methylpseudouridine is a modified uridine base feature.	
+INFO	lowercase_definition	two_thiouridine [SO:0001349]	IAO_0000115 [IAO:0000115]	2_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	four_thiouridine [SO:0001350]	IAO_0000115 [IAO:0000115]	4_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_methyl_2_thiouridine [SO:0001351]	IAO_0000115 [IAO:0000115]	5_methyl_2_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	two_thio_two_prime_O_methyluridine [SO:0001352]	IAO_0000115 [IAO:0000115]	2_thio_2prime_O_methyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	three_three_amino_three_carboxypropyl_uridine [SO:0001353]	IAO_0000115 [IAO:0000115]	3_3_amino_3_carboxypropyl_uridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_hydroxyuridine [SO:0001354]	IAO_0000115 [IAO:0000115]	5_hydroxyuridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_methoxyuridine [SO:0001355]	IAO_0000115 [IAO:0000115]	5_methoxyuridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carboxyhydroxymethyl_uridine [SO:0001358]	IAO_0000115 [IAO:0000115]	5_carboxyhydroxymethyl_uridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carboxyhydroxymethyl_uridine_methyl_ester [SO:0001359]	IAO_0000115 [IAO:0000115]	5_carboxyhydroxymethyl_uridine_methyl_ester is a modified uridine base feature.	
+INFO	lowercase_definition	five_methoxycarbonylmethyl_two_thiouridine [SO:0001362]	IAO_0000115 [IAO:0000115]	5_methoxycarbonylmethyl_2_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_aminomethyl_two_thiouridine [SO:0001363]	IAO_0000115 [IAO:0000115]	5_aminomethyl_2_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_methylaminomethyluridine [SO:0001364]	IAO_0000115 [IAO:0000115]	5_methylaminomethyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_methylaminomethyl_two_thiouridine [SO:0001365]	IAO_0000115 [IAO:0000115]	5_methylaminomethyl_2_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_methylaminomethyl_two_selenouridine [SO:0001366]	IAO_0000115 [IAO:0000115]	5_methylaminomethyl_2_selenouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carbamoylmethyluridine [SO:0001367]	IAO_0000115 [IAO:0000115]	5_carbamoylmethyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carbamoylmethyl_two_prime_O_methyluridine [SO:0001368]	IAO_0000115 [IAO:0000115]	5_carbamoylmethyl_2_prime_O_methyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carboxymethylaminomethyluridine [SO:0001369]	IAO_0000115 [IAO:0000115]	5_carboxymethylaminomethyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carboxymethylaminomethyl_two_prime_O_methyluridine [SO:0001370]	IAO_0000115 [IAO:0000115]	5_carboxymethylaminomethyl_2_prime_O_methyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carboxymethylaminomethyl_two_thiouridine [SO:0001371]	IAO_0000115 [IAO:0000115]	5_carboxymethylaminomethyl_2_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	three_methyluridine [SO:0001372]	IAO_0000115 [IAO:0000115]	3_methyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	one_methyl_three_three_amino_three_carboxypropyl_pseudouridine [SO:0001373]	IAO_0000115 [IAO:0000115]	1_methyl_3_3_amino_3_carboxypropyl_pseudouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_carboxymethyluridine [SO:0001374]	IAO_0000115 [IAO:0000115]	5_carboxymethyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	three_two_prime_O_dimethyluridine [SO:0001375]	IAO_0000115 [IAO:0000115]	3_2prime_O_dimethyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_methyldihydrouridine [SO:0001376]	IAO_0000115 [IAO:0000115]	5_methyldihydrouridine is a modified uridine base feature.	
+INFO	lowercase_definition	three_methylpseudouridine [SO:0001377]	IAO_0000115 [IAO:0000115]	3_methylpseudouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_taurinomethyluridine [SO:0001378]	IAO_0000115 [IAO:0000115]	5_taurinomethyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_taurinomethyl_two_thiouridine [SO:0001379]	IAO_0000115 [IAO:0000115]	5_taurinomethyl_2_thiouridineis a modified uridine base feature.	
+INFO	lowercase_definition	five_isopentenylaminomethyl_uridine [SO:0001380]	IAO_0000115 [IAO:0000115]	5_isopentenylaminomethyl_uridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_isopentenylaminomethyl_two_thiouridine [SO:0001381]	IAO_0000115 [IAO:0000115]	5_isopentenylaminomethyl_2_thiouridine is a modified uridine base feature.	
+INFO	lowercase_definition	five_isopentenylaminomethyl_two_prime_O_methyluridine [SO:0001382]	IAO_0000115 [IAO:0000115]	5_isopentenylaminomethyl_2prime_O_methyluridine is a modified uridine base feature.	
+INFO	lowercase_definition	ASPE_primer [SO:0001698]	IAO_0000115 [IAO:0000115]	\"A primer containing an SNV at the 3' end for accurate genotyping.	
+INFO	lowercase_definition	mutation_causing_polypeptide_N_terminal_elongation [SO:1000100]	IAO_0000115 [IAO:0000115]	.	
+INFO	lowercase_definition	mutation_causing_polypeptide_C_terminal_elongation [SO:1000101]	IAO_0000115 [IAO:0000115]	.	
+INFO	missing_superclass	sequence_feature [SO:0000110]	rdfs:subClassOf		
+INFO	missing_superclass	sequence_attribute [SO:0000400]	rdfs:subClassOf		
+INFO	missing_superclass	sequence_variant [SO:0001060]	rdfs:subClassOf		
+INFO	missing_superclass	sequence_collection [SO:0001260]	rdfs:subClassOf		

@@ -1,0 +1,858 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	anoxic water [ENVO:01000173]	IAO_0000115 [IAO:0000115]	Water depleted of dissolved oxygen.	
+ERROR	duplicate_definition	hypoxic water [ENVO:01001064]	IAO_0000115 [IAO:0000115]	Water depleted of dissolved oxygen.	
+ERROR	duplicate_definition	chromodynamic energy [ENVO:2000026]	IAO_0000115 [IAO:0000115]	potential energy due to the deformation of a material (or its container) exhibiting a restorative force.	
+ERROR	duplicate_definition	elastic energy [ENVO:2000027]	IAO_0000115 [IAO:0000115]	potential energy due to the deformation of a material (or its container) exhibiting a restorative force.	
+ERROR	duplicate_definition	Bathymodiolus-dominated oceanic mussel reef [ENVO:01001385]	IAO_0000115 [IAO:0000115]	An oceanic mussel reef which is primarily settled by mussels of the genus Bathymodiolus and primarily composed of self-adhered or conglomerated mussel shells	
+ERROR	duplicate_definition	Bathymodiolus-dominated oceanic mussel bed [ENVO:01001387]	IAO_0000115 [IAO:0000115]	An oceanic mussel reef which is primarily settled by mussels of the genus Bathymodiolus and primarily composed of self-adhered or conglomerated mussel shells	
+ERROR	duplicate_definition	slightly stratified estuary [ENVO:00000224]	IAO_0000115 [IAO:0000115]	An estuary whose river output is less than the marine input. Here, turbulence causes mixing of the whole water column, such that salinity varies more longitudinally rather than vertically.	
+ERROR	duplicate_definition	vertically mixed estuary [ENVO:00000227]	IAO_0000115 [IAO:0000115]	An estuary whose river output is less than the marine input. Here, turbulence causes mixing of the whole water column, such that salinity varies more longitudinally rather than vertically.	
+ERROR	duplicate_definition	avalanche [ENVO:01000691]	IAO_0000115 [IAO:0000115]	An avalanche is a rapid flow of snow down a sloping surface.	
+ERROR	duplicate_definition	powdery snow avalanche [ENVO:03000106]	IAO_0000115 [IAO:0000115]	An avalanche is a rapid flow of snow down a sloping surface.	
+ERROR	duplicate_definition	area of attached mussel assemblages [ENVO:01001382]	IAO_0000115 [IAO:0000115]	An area which is dominated by dense accumulations of mussels attached to a substrate other than conspecifics, including the associated faunal communities and predators present on the mussels (e.g., starfish).	
+ERROR	duplicate_definition	area of attached Modiolus assemblages [ENVO:01001383]	IAO_0000115 [IAO:0000115]	An area which is dominated by dense accumulations of mussels attached to a substrate other than conspecifics, including the associated faunal communities and predators present on the mussels (e.g., starfish).	
+ERROR	duplicate_definition	area of evergreen forest [ENVO:01000843]	IAO_0000115 [IAO:0000115]	An area of a planet's surface which is primarily covered by a forest in which the majority of trees maintain their foliage despite seasonal change. The surfaces of this area (including the surface of the forest canopy) are in contact with an atmospheric column extending from the planetary boundary layer to the planet's exosphere with little to no physical obstruction.	
+ERROR	duplicate_definition	area of mixed forest [ENVO:01000855]	IAO_0000115 [IAO:0000115]	An area of a planet's surface which is primarily covered by a forest in which the majority of trees maintain their foliage despite seasonal change. The surfaces of this area (including the surface of the forest canopy) are in contact with an atmospheric column extending from the planetary boundary layer to the planet's exosphere with little to no physical obstruction.	
+ERROR	duplicate_definition	atmospheric aerosolised particle formation event [ENVO:01001359]	IAO_0000115 [IAO:0000115]	An aerosol formation event  which occurs in an atmosphere.	
+ERROR	duplicate_definition	secondary atmospheric aerosol formation event [ENVO:01001373]	IAO_0000115 [IAO:0000115]	An aerosol formation event  which occurs in an atmosphere.	
+ERROR	duplicate_definition	stone exterior wall [ENVO:01000495]	IAO_0000115 [IAO:0000115]	A stone exterior wall is an exterior wall that is composed primarily of rock.	
+ERROR	duplicate_definition	concrete exterior wall [ENVO:01000506]	IAO_0000115 [IAO:0000115]	A stone exterior wall is an exterior wall that is composed primarily of rock.	
+ERROR	duplicate_definition	cave wall [ENVO:00002144]	IAO_0000115 [IAO:0000115]	A solid surface layer which bounds part of the boundary around the cavity of a cave.	
+ERROR	duplicate_definition	cave floor [ENVO:01000019]	IAO_0000115 [IAO:0000115]	A solid surface layer which bounds part of the boundary around the cavity of a cave.	
+ERROR	duplicate_definition	iceberg calving process [ENVO:03000031]	IAO_0000115 [IAO:0000115]	A process during which a part of a glacier breaks away from the main mass as an iceberg.	
+ERROR	duplicate_definition	calving of ice from an iceberg [ENVO:03000032]	IAO_0000115 [IAO:0000115]	A process during which a part of a glacier breaks away from the main mass as an iceberg.	
+ERROR	duplicate_definition	liquid astronomical body part [ENVO:01001477]	IAO_0000115 [IAO:0000115]	A part of an astronomical body which is primarily composed of a continuous volume of liquid material, shaped by one or more environmental processes.	
+ERROR	duplicate_definition	gaseous astronomical body part [ENVO:01001478]	IAO_0000115 [IAO:0000115]	A part of an astronomical body which is primarily composed of a continuous volume of liquid material, shaped by one or more environmental processes.	
+ERROR	duplicate_definition	oceanic mussel bed [ENVO:01001388]	IAO_0000115 [IAO:0000115]	A mussel bed which is located in benthic regions beyond (offshore to) the continental shelf.	
+ERROR	duplicate_definition	neritic mussel bed [ENVO:01001389]	IAO_0000115 [IAO:0000115]	A mussel bed which is located in benthic regions beyond (offshore to) the continental shelf.	
+ERROR	duplicate_definition	ice accumulation zone [ENVO:01001350]	IAO_0000115 [IAO:0000115]	A material accumulation zone in which the rates of ice formation processes exceed those of ice decumulation processes, leading to a net icrease in some mass of ice.	
+ERROR	duplicate_definition	glacial ice accumulation zone [ENVO:01001352]	IAO_0000115 [IAO:0000115]	A material accumulation zone in which the rates of ice formation processes exceed those of ice decumulation processes, leading to a net icrease in some mass of ice.	
+ERROR	duplicate_definition	liquid air-water interface layer [ENVO:01001309]	IAO_0000115 [IAO:0000115]	A liquid surface layer which is in contact with air.	
+ERROR	duplicate_definition	liquid surface layer [ENVO:01001310]	IAO_0000115 [IAO:0000115]	A liquid surface layer which is in contact with air.	
+ERROR	duplicate_definition	solid layer [ENVO:01001275]	IAO_0000115 [IAO:0000115]	A layer which is primarily composed of some solid material, allowing for non-solid parts such as interstitial pockets of gas or liquid.	
+ERROR	duplicate_definition	water ice layer [ENVO:01001276]	IAO_0000115 [IAO:0000115]	A layer which is primarily composed of some solid material, allowing for non-solid parts such as interstitial pockets of gas or liquid.	
+ERROR	duplicate_definition	estuarine open water upper water column [ENVO:01001316]	IAO_0000115 [IAO:0000115]	A layer of estuarine water which extends from the surface of the water column to the pycnocline or mid-depth and from a fiat boundary where the estuary bed below the water column reaches a depth of 4 meters until the end of the estuary most distal from the coast.	
+ERROR	duplicate_definition	estuarine tidal riverine open water upper water column [ENVO:01001327]	IAO_0000115 [IAO:0000115]	A layer of estuarine water which extends from the surface of the water column to the pycnocline or mid-depth and from a fiat boundary where the estuary bed below the water column reaches a depth of 4 meters until the end of the estuary most distal from the coast.	
+ERROR	duplicate_definition	anoxic lake [ENVO:01001072]	IAO_0000115 [IAO:0000115]	A lake which is primarily composed of anoxic water.	
+ERROR	duplicate_definition	hypoxic lake [ENVO:01001075]	IAO_0000115 [IAO:0000115]	A lake which is primarily composed of anoxic water.	
+ERROR	duplicate_definition	lake with an anoxic hypolimnion [ENVO:01001073]	IAO_0000115 [IAO:0000115]	A lake which has a hypolimnion composed primarily of anoxic water.	
+ERROR	duplicate_definition	lake with a hypoxic hypolimnion [ENVO:01001074]	IAO_0000115 [IAO:0000115]	A lake which has a hypolimnion composed primarily of anoxic water.	
+ERROR	duplicate_definition	cloud [ENVO:01000760]	IAO_0000115 [IAO:0000115]	A cloud is a visible mass of aerosolised liquid droplets or frozen crystals suspended in an atmosphere above the surface of a planetary body.	
+ERROR	duplicate_definition	water-based cloud [ENVO:01001428]	IAO_0000115 [IAO:0000115]	A cloud is a visible mass of aerosolised liquid droplets or frozen crystals suspended in an atmosphere above the surface of a planetary body.	
+ERROR	multiple_equivalent_classes	construction [ENVO:00000070]	owl:equivalentClass	blank node <cf84a854efff79a56980230b3a672ad7>	
+ERROR	multiple_equivalent_classes	construction [ENVO:00000070]	owl:equivalentClass	blank node <ee696291e4e6cb2bbf23031bd4ca10e9>	
+ERROR	multiple_equivalent_classes	natural environment [ENVO:01000951]	owl:equivalentClass	blank node <a6dd8d2a02bd05ad5ffefa52b42432c9>	
+ERROR	multiple_equivalent_classes	natural environment [ENVO:01000951]	owl:equivalentClass	blank node <f839e9acee03e727537090ce4fc2be3b>	
+ERROR	multiple_equivalent_classes	anthropisation [ENVO:01000952]	owl:equivalentClass	blank node <b06baf99ace341791be999530f4ed873>	
+ERROR	multiple_equivalent_classes	anthropisation [ENVO:01000952]	owl:equivalentClass	blank node <e11e3ffcc8038044d6370258347a4e55>	
+ERROR	multiple_equivalent_classes	manufacturing process [ENVO:01000993]	owl:equivalentClass	blank node <5a37b7f77084dcba7965b9813572c008>	
+ERROR	multiple_equivalent_classes	manufacturing process [ENVO:01000993]	owl:equivalentClass	blank node <e64956abd2d0c0795fb32ab1bed8dc90>	
+ERROR	multiple_equivalent_classes	construction process [ENVO:01000996]	owl:equivalentClass	blank node <307173e674518b4298c7159fbd3e24b8>	
+ERROR	multiple_equivalent_classes	construction process [ENVO:01000996]	owl:equivalentClass	blank node <401238ec4335f045da3e840f5e9f0f06>	
+ERROR	multiple_equivalent_classes	environment associated with an animal part or small animal [ENVO:01001055]	owl:equivalentClass	blank node <50f045efc49acb0b4d6677f42c7c2766>	
+ERROR	multiple_equivalent_classes	environment associated with an animal part or small animal [ENVO:01001055]	owl:equivalentClass	blank node <c91c69cc72ee1c89f0888ccd82d366f3>	
+ERROR	multiple_equivalent_classes	environment associated with a plant part or small plant [ENVO:01001057]	owl:equivalentClass	blank node <0b1a599c0ec61d6fd832a9486e33a86f>	
+ERROR	multiple_equivalent_classes	environment associated with a plant part or small plant [ENVO:01001057]	owl:equivalentClass	blank node <8d69e4a882a31fc4e8c1602dcc5c8095>	
+ERROR	missing_ontology_description	envo.owl	dc11:description		
+ERROR	duplicate_label	Bathymodiolus-dominated oceanic mussel bed [ENVO:01001387]	label [rdfs:label]	Bathymodiolus-dominated oceanic mussel bed@en	
+ERROR	duplicate_label	Bathymodiolus-dominated oceanic mussel bed [ENVO:01001390]	label [rdfs:label]	Bathymodiolus-dominated oceanic mussel bed@en	
+ERROR	multiple_definitions	anthropogenic geographic feature [ENVO:00000002]	IAO_0000115 [IAO:0000115]	An anthropogenic geographic feature is a geographic feature    resulting from the influence of human beings on nature.	
+ERROR	multiple_definitions	anthropogenic geographic feature [ENVO:00000002]	IAO_0000115 [IAO:0000115]	An anthropogenic geographic feature is a geographic feature resulting from the influence of human beings on nature.	
+ERROR	multiple_definitions	physical object of mesoscopic geological size [ENVO:00002004]	IAO_0000115 [IAO:0000115]	An environmental feature that is, or can be, contained and is predominantly composed of one or a few types of stuff.	
+ERROR	multiple_definitions	physical object of mesoscopic geological size [ENVO:00002004]	IAO_0000115 [IAO:0000115]	An object which is large enough to be visible to humans, but small enough that humans can handle the object (i.e. transport it, examine it, etc) in its entirety with little to no technological assistance.	
+ERROR	multiple_definitions	environmental material [ENVO:00010483]	IAO_0000115 [IAO:0000115]	A portion of environmental material is a fiat object part which forms the medium or part of the medium of an environmental system.	
+ERROR	multiple_definitions	environmental material [ENVO:00010483]	IAO_0000115 [IAO:0000115]	A portion of environmental material is a fiat object which forms the medium or part of the medium of an environmental system.	
+ERROR	multiple_definitions	domestic garden [ENVO:01000419]	IAO_0000115 [IAO:0000115]		
+ERROR	multiple_definitions	domestic garden [ENVO:01000419]	IAO_0000115 [IAO:0000115]	A garden that is associated with a human house. This association is generally one of spatial proximity or parthood.	
+ERROR	multiple_definitions	biosphere [ENVO:01000817]	IAO_0000115 [IAO:0000115]	A biosphere is a part of an astronomical body which includes, as parts, all the living entities within the gravitational sphere of influence of that body, as well as the non-living and dead entities with which they interact.	
+ERROR	multiple_definitions	biosphere [ENVO:01000817]	IAO_0000115 [IAO:0000115]	A biosphere is an environmental system which includes, as parts, all the living entities within the gravitational sphere of influence of an astronomical body, and the non-living and dead entities which they interact with.	
+ERROR	multiple_definitions	technosphere [ENVO:01000983]	IAO_0000115 [IAO:0000115]	A part of an astronomical body which includes, as parts, all the entities which have been constructed or manufactured by humans or their technology and which are within the gravitational sphere of influence of that body.	
+ERROR	multiple_definitions	technosphere [ENVO:01000983]	IAO_0000115 [IAO:0000115]	An environmental system which includes, as parts, all the entities which have been constructed or manufactured by humans or their technology within the gravitational sphere of influence of an astronomical body.	
+ERROR	missing_ontology_license	envo.owl	dc:license		
+ERROR	missing_ontology_title	envo.owl	dc11:title		
+ERROR	multiple_labels	physical object of mesoscopic geological size [ENVO:00002004]	label [rdfs:label]	mesoscopic physical object	
+ERROR	multiple_labels	physical object of mesoscopic geological size [ENVO:00002004]	label [rdfs:label]	physical object of mesoscopic geological size	
+ERROR	multiple_labels	stellar radiation [ENVO:01001211]	label [rdfs:label]	stellar radiation	
+ERROR	multiple_labels	stellar radiation [ENVO:01001211]	label [rdfs:label]	stellar radiation@en	
+ERROR	multiple_labels	microwave stellar radiation [ENVO:01001212]	label [rdfs:label]	microwave stellar radiation	
+ERROR	multiple_labels	microwave stellar radiation [ENVO:01001212]	label [rdfs:label]	microwave stellar radiation@en	
+ERROR	multiple_labels	radio wave stellar radiation [ENVO:01001213]	label [rdfs:label]	radio wave stellar radiation	
+ERROR	multiple_labels	radio wave stellar radiation [ENVO:01001213]	label [rdfs:label]	radio wave stellar radiation@en	
+ERROR	multiple_labels	infrared stellar radiation [ENVO:01001214]	label [rdfs:label]	infrared stellar radiation	
+ERROR	multiple_labels	infrared stellar radiation [ENVO:01001214]	label [rdfs:label]	infrared stellar radiation@en	
+ERROR	multiple_labels	visible spectrum stellar radiation [ENVO:01001215]	label [rdfs:label]	visible spectrum stellar radiation	
+ERROR	multiple_labels	visible spectrum stellar radiation [ENVO:01001215]	label [rdfs:label]	visible spectrum stellar radiation@en	
+ERROR	multiple_labels	ultraviolet stellar radiation [ENVO:01001216]	label [rdfs:label]	ultraviolet stellar radiation	
+ERROR	multiple_labels	ultraviolet stellar radiation [ENVO:01001216]	label [rdfs:label]	ultraviolet stellar radiation@en	
+ERROR	multiple_labels	X-ray stellar radiation [ENVO:01001217]	label [rdfs:label]	X-ray stellar radiation	
+ERROR	multiple_labels	X-ray stellar radiation [ENVO:01001217]	label [rdfs:label]	X-ray stellar radiation@en	
+ERROR	multiple_labels	gamma-ray stellar radiation [ENVO:01001218]	label [rdfs:label]	gamma-ray stellar radiation	
+ERROR	multiple_labels	gamma-ray stellar radiation [ENVO:01001218]	label [rdfs:label]	gamma-ray stellar radiation@en	
+ERROR	multiple_labels	ionizing stellar radiation [ENVO:01001219]	label [rdfs:label]	ionizing stellar radiation	
+ERROR	multiple_labels	ionizing stellar radiation [ENVO:01001219]	label [rdfs:label]	ionizing stellar radiation@en	
+WARN	annotation_whitespace	endolithic environment [ENVO:01000303]	IAO_0000115 [IAO:0000115]	An endolithic environment is an environment that exists within solid rock. 	
+WARN	annotation_whitespace	extreme high temperature environment [ENVO:01000318]	IAO_0000115 [IAO:0000115]	An extreme high temperature environment is a high temperature environment in which entities are exposed to temperatures above 80 degrees Celsius. 	
+WARN	annotation_whitespace	marine mesoscale eddy field [ENVO:01000353]	IAO_0000115 [IAO:0000115]	A mesoscale eddy field is an expanse of marine water which includes coherent vortices, as well as a rich cascade of other structures such as filaments, squirts and spirals and is characterized by temperature and salinity anomalies with associated flow anomalies that are nearly in geostrophic balance. Although only the surface expression of mesoscale eddies is visible in satellite images of sea surface height or temperature, they are in fact three dimensional structures that reach down into the pycnocline. 	
+WARN	annotation_whitespace	limestone cave [ENVO:01000359]	IAO_0000115 [IAO:0000115]	A cave formed in limestone, usually by dissolution of limestone by acidic groundwater. 	
+WARN	annotation_whitespace	arid subtropical [ENVO:01000378]	IAO_0000115 [IAO:0000115]	An arid subtropical condition is a subtropical condition in which an environmental system has an annual average temperature near 18.2 degrees Celsius with their coldest month averaging between 2 and 13 degrees Celsius, the absence of regular rainfall, and high humidity. 	
+WARN	duplicate_exact_synonym	ice accumulation zone [ENVO:01001350]	hasExactSynonym [oboInOwl:hasExactSynonym]	zone of ice gain	
+WARN	duplicate_exact_synonym	ice decumulation zone [ENVO:01001351]	hasExactSynonym [oboInOwl:hasExactSynonym]	zone of ice gain	
+WARN	duplicate_exact_synonym	marine tidal flow process [ENVO:01001333]	IAO_0000118 [IAO:0000118]	tidal flow	
+WARN	duplicate_exact_synonym	tidal flow process [ENVO:01001342]	IAO_0000118 [IAO:0000118]	tidal flow	
+WARN	duplicate_exact_synonym	sulfur cycling [ENVO:01001331]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulphur cycling	
+WARN	duplicate_exact_synonym	phosphorous cycling [ENVO:01001332]	hasExactSynonym [oboInOwl:hasExactSynonym]	sulphur cycling	
+WARN	duplicate_exact_synonym	semi-diurnal marine tidal flow zone [ENVO:01001340]	IAO_0000118 [IAO:0000118]	semi-diurnal tidal flow	
+WARN	duplicate_exact_synonym	semi-diurnal marine tidal flow process [ENVO:01001343]	IAO_0000118 [IAO:0000118]	semi-diurnal tidal flow	
+WARN	duplicate_exact_synonym	atmospheric aerosolised particle formation event [ENVO:01001359]	IAO_0000118 [IAO:0000118]	rapid formation of liquid or solid particles from gaseous material in an atmosphere	
+WARN	duplicate_exact_synonym	secondary atmospheric aerosol formation event [ENVO:01001373]	IAO_0000118 [IAO:0000118]	rapid formation of liquid or solid particles from gaseous material in an atmosphere	
+WARN	duplicate_exact_synonym	pit latrine [ENVO:01000517]	hasExactSynonym [oboInOwl:hasExactSynonym]	pit toilet	
+WARN	duplicate_exact_synonym	pit latrine with slab floor [ENVO:01000523]	hasExactSynonym [oboInOwl:hasExactSynonym]	pit toilet	
+WARN	duplicate_exact_synonym	neritic mussel reef [ENVO:01001380]	IAO_0000118 [IAO:0000118]	mussel reef substrate	
+WARN	duplicate_exact_synonym	mussel reef [ENVO:01001386]	IAO_0000118 [IAO:0000118]	mussel reef substrate	
+WARN	duplicate_exact_synonym	liquefied petroleum gas [ENVO:01000553]	hasExactSynonym [oboInOwl:hasExactSynonym]	liquified natural gas	
+WARN	duplicate_exact_synonym	liquefied natural gas [ENVO:01000557]	hasExactSynonym [oboInOwl:hasExactSynonym]	liquified natural gas	
+WARN	duplicate_exact_synonym	ice accumulation zone [ENVO:01001350]	hasExactSynonym [oboInOwl:hasExactSynonym]	ice gain zone	
+WARN	duplicate_exact_synonym	ice decumulation zone [ENVO:01001351]	hasExactSynonym [oboInOwl:hasExactSynonym]	ice gain zone	
+WARN	duplicate_exact_synonym	ice accumulation zone [ENVO:01001350]	hasExactSynonym [oboInOwl:hasExactSynonym]	ice accumulation area	
+WARN	duplicate_exact_synonym	ice decumulation zone [ENVO:01001351]	hasExactSynonym [oboInOwl:hasExactSynonym]	ice accumulation area	
+WARN	duplicate_exact_synonym	glacial ice calving process [ENVO:03000030]	hasExactSynonym [oboInOwl:hasExactSynonym]	glacier calving	
+WARN	duplicate_exact_synonym	iceberg calving process [ENVO:03000031]	hasExactSynonym [oboInOwl:hasExactSynonym]	glacier calving	
+WARN	duplicate_exact_synonym	calving of ice from an iceberg [ENVO:03000032]	hasExactSynonym [oboInOwl:hasExactSynonym]	glacier calving	
+WARN	duplicate_exact_synonym	gamma-ray stellar radiation [ENVO:01001218]	hasExactSynonym [oboInOwl:hasExactSynonym]	gamma-ray radiation	
+WARN	duplicate_exact_synonym	gamma-ray radiation [ENVO:21001218]	hasExactSynonym [oboInOwl:hasExactSynonym]	gamma-ray radiation	
+WARN	duplicate_exact_synonym	diurnal marine tidal flow zone [ENVO:01001338]	IAO_0000118 [IAO:0000118]	diurnal tidal flow	
+WARN	duplicate_exact_synonym	diurnal marine tidal flow process [ENVO:01001339]	IAO_0000118 [IAO:0000118]	diurnal tidal flow	
+WARN	duplicate_exact_synonym	cloud [ENVO:01000760]	hasExactSynonym [oboInOwl:hasExactSynonym]	cloud mass	
+WARN	duplicate_exact_synonym	water-based cloud [ENVO:01001428]	hasExactSynonym [oboInOwl:hasExactSynonym]	cloud mass	
+WARN	duplicate_exact_synonym	Bathymodiolus-dominated oceanic mussel reef [ENVO:01001385]	IAO_0000118 [IAO:0000118]	Bathymodiolus-dominated oceanic mussel reef substrate	
+WARN	duplicate_exact_synonym	Bathymodiolus-dominated oceanic mussel bed [ENVO:01001387]	IAO_0000118 [IAO:0000118]	Bathymodiolus-dominated oceanic mussel reef substrate	
+WARN	duplicate_exact_synonym	area of attached mussel assemblages [ENVO:01001382]	IAO_0000118 [IAO:0000118]	attached mussels (biotic group)	
+WARN	duplicate_exact_synonym	area of attached Modiolus assemblages [ENVO:01001383]	IAO_0000118 [IAO:0000118]	attached mussels (biotic group)	
+WARN	duplicate_exact_synonym	ice accumulation zone [ENVO:01001350]	hasExactSynonym [oboInOwl:hasExactSynonym]	area of ice gain	
+WARN	duplicate_exact_synonym	ice decumulation zone [ENVO:01001351]	hasExactSynonym [oboInOwl:hasExactSynonym]	area of ice gain	
+WARN	duplicate_exact_synonym	aerosol environment [ENVO:01001052]	IAO_0000118 [IAO:0000118]	Aerosol (saline)	
+WARN	duplicate_exact_synonym	saline aerosol environment [ENVO:01001053]	IAO_0000118 [IAO:0000118]	Aerosol (saline)	
+WARN	missing_definition	geographic feature [ENVO:00000000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	administrative region [ENVO:00000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural feature [ENVO:00000077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inland cliff [ENVO:00000089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cave entrance [ENVO:00000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	undersea feature [ENVO:00000104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lake surface [ENVO:00000105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coconut plantation [ENVO:00000118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oil palm plantation [ENVO:00000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	artificial channel [ENVO:00000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sugar plantation [ENVO:00000159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sisal plantation [ENVO:00000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	banana plantation [ENVO:00000161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tea plantation [ENVO:00000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coffee plantation [ENVO:00000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rubber plantation [ENVO:00000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olive grove [ENVO:00000193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	saline wetland [ENVO:00000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cotton plantation [ENVO:00000288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain of sand [ENVO:00000340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	particle of silt [ENVO:00000343]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain of desert sand [ENVO:00000344]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain of beach sand [ENVO:00000345]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain of acid dune sand [ENVO:00000346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain of sea sand [ENVO:00000347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grain of rocky sand [ENVO:00000348]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine channel [ENVO:00000396]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lake channel [ENVO:00000397]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coastal dune [ENVO:00000416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	range of mounts [ENVO:00000478]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine terrace [ENVO:00000509]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	meander neck [ENVO:00000510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural terrace [ENVO:00000519]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intermittent saline evaporation pond [ENVO:00000532]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pothole [ENVO:00000534]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	brackish pond [ENVO:00000541]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gravel field [ENVO:00000548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	range of seamounts [ENVO:00000550]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large river biome [ENVO:00000887]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large river headwater biome [ENVO:00000888]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large river delta biome [ENVO:00000889]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	small river biome [ENVO:00000890]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	large lake biome [ENVO:00000891]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	small lake biome [ENVO:00000892]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aquatic biome [ENVO:00002030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wood [ENVO:00002040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ground water [ENVO:00002041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wastewater treatment plant [ENVO:00002043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	activated sludge [ENVO:00002046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stony meteorite [ENVO:00002049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	raw primary sludge [ENVO:00002057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary sludge [ENVO:00002058]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gold mine drainage [ENVO:00002112]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contaminated sediment [ENVO:00002114]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	petroleum contaminated sediment [ENVO:00002115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sea sand [ENVO:00002118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alkaline salt lake [ENVO:00002121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bioreactor [ENVO:00002123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anaerobic bioreactor [ENVO:00002124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aerobic bioreactor [ENVO:00002126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stream sediment [ENVO:00002127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesophilic sulfur spring [ENVO:00002128]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anaerobic sludge [ENVO:00002129]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anaerobic stream sediment [ENVO:00002134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	treated wood [ENVO:00002135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arsenate treated wood [ENVO:00002136]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beach sand [ENVO:00002138]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	borax leachate [ENVO:00002142]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcite hot spring [ENVO:00002143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coarse beach sand [ENVO:00002148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biofilter [ENVO:00002152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	compost biofilter [ENVO:00002153]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	radioactive sediment [ENVO:00002154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	high-level radioactive sediment [ENVO:00002155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stromatolite mat [ENVO:00002157]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ditch water [ENVO:00002158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	drilling bore water [ENVO:00002159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	platinum mine [ENVO:00002167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gold mine [ENVO:00002168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coal mine [ENVO:00002169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hay compost [ENVO:00002171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contaminated sludge [ENVO:00002176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	1,4-dioxane contaminated sludge [ENVO:00002177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intertidal sediment [ENVO:00002179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	naphthalene contaminated sediment [ENVO:00002180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nitrobenzene contaminated sediment [ENVO:00002182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	underground physiographic feature [ENVO:00002184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oil reservoir [ENVO:00002185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	contaminated water [ENVO:00002186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	poultry litter [ENVO:00002192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulp-bleaching waste water [ENVO:00002193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oil field production water [ENVO:00002194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyritic acid mine drainage [ENVO:00002195]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sandy beach [ENVO:00002199]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cis-dichloroethane contaminated sediment [ENVO:00002201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organically contaminated sediment [ENVO:00002202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inorganically contaminated sediment [ENVO:00002203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anthropogenic contamination feature [ENVO:00002204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unexploded-ordnance dump [ENVO:00002205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coal mine waste material [ENVO:00002206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	self-heating coal mine waste material [ENVO:00002207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sulfide-oxidizing bioreactor [ENVO:00002210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thermophilic anaerobic methanogenic reactor [ENVO:00002211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thermophilic granular sludge [ENVO:00002212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anaerobic sludge blanket reactor [ENVO:00002213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	borehole [ENVO:00002226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pond water [ENVO:00002228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural soil [ENVO:00002259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dune soil [ENVO:00002260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	clay soil [ENVO:00002262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chicken breeding waste material [ENVO:00002266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	waste treatment plant [ENVO:00002272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal waste material [ENVO:00002276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organic waste material [ENVO:00002873]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	air conditioning unit [ENVO:00002874]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	warm seep [ENVO:00002926]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fuel oil [ENVO:00002983]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	animal manure [ENVO:00003031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fresh animal manure [ENVO:00003032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sewage plant [ENVO:00003043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bacon curing brine [ENVO:00003045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	distilled water [ENVO:00003065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grass silage [ENVO:00003071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anthropogenic abiotic mesoscopic feature [ENVO:00003075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tap water [ENVO:00003096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bore hole water [ENVO:00003097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	horse manure [ENVO:00003859]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rice straw [ENVO:00003870]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	farmyard manure [ENVO:00003884]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cosmetic product [ENVO:00003893]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	face cream product [ENVO:00003894]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paper product [ENVO:00003895]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	currency note [ENVO:00003896]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rye grass silage [ENVO:00003900]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aviation fuel [ENVO:00003903]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	poultry deep litter [ENVO:00003908]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chalk soil [ENVO:00003914]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stable manure [ENVO:00003927]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anaerobic digester sludge [ENVO:00003965]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	potato silage [ENVO:00003978]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	foam [ENVO:00005738]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sea foam [ENVO:00005739]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paddy field soil [ENVO:00005740]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alpine soil [ENVO:00005741]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arable soil [ENVO:00005742]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	allotment garden [ENVO:00005745]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	compost soil [ENVO:00005747]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sawah soil [ENVO:00005752]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fertilized soil [ENVO:00005754]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	field soil [ENVO:00005755]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lawn soil [ENVO:00005756]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alluvial paddy field soil [ENVO:00005759]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	burned soil [ENVO:00005760]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	meadow soil [ENVO:00005761]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	humus-rich acidic ash soil [ENVO:00005763]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pond soil [ENVO:00005764]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	frozen compost soil [ENVO:00005765]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	limed soil [ENVO:00005766]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mountain forest soil [ENVO:00005769]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	beech forest soil [ENVO:00005770]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peat soil [ENVO:00005774]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peaty paddy field soil [ENVO:00005776]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical soil [ENVO:00005778]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vegetable garden soil [ENVO:00005779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heat stressed soil [ENVO:00005781]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	leafy wood soil [ENVO:00005783]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spruce forest soil [ENVO:00005784]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	volcanic soil [ENVO:00005785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	upland soil [ENVO:00005786]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eucalyptus forest soil [ENVO:00005787]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rubber plantation soil [ENVO:00005788]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	red soil [ENVO:00005790]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muddy water [ENVO:00005793]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water scum [ENVO:00005794]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine sludge [ENVO:00005796]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acid dune sand [ENVO:00005798]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rocky sand [ENVO:00005799]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medical instrument [ENVO:00010621]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	karst cave [ENVO:00012411]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	agricultural environmental material [ENVO:0010003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dry stream valley [ENVO:0010162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dry river valley [ENVO:0010163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water well [ENVO:01000002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oil well [ENVO:01000003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microbial feature [ENVO:01000007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biotic mesoscopic physical object [ENVO:01000009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abiotic mesoscopic physical object [ENVO:01000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine oxygen minimum zone [ENVO:01000065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	estuarine front [ENVO:01000084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plume front [ENVO:01000085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coastal buoyancy current front [ENVO:01000086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tidal mixing front [ENVO:01000087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mid-shelf fronts [ENVO:01000088]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shelf-slope/shelf-break front [ENVO:01000089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coastal upwelling front [ENVO:01000090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	topographic upwelling front [ENVO:01000091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	equatorial upwelling front [ENVO:01000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	boundary current front [ENVO:01000093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marginal ice zone front [ENVO:01000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water mass front [ENVO:01000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	surface convergence [ENVO:01000097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	warm surface current [ENVO:01000101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cold surface current [ENVO:01000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine hydrothermal vent chimney [ENVO:01000129]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine reef [ENVO:01000143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine coral reef flat zone [ENVO:01000144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine coral reef back reef [ENVO:01000145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine coral reef crest [ENVO:01000146]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine coral reef fore reef [ENVO:01000147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine coral reef buttress zone [ENVO:01000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine coral reef deep fore reef [ENVO:01000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine subtidal rocky reef [ENVO:01000150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subtropical savanna biome [ENVO:01000187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical savanna biome [ENVO:01000188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperate savanna biome [ENVO:01000189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical grassland biome [ENVO:01000192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperate grassland biome [ENVO:01000193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	flooded grassland biome [ENVO:01000195]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical shrubland biome [ENVO:01000214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperate shrubland biome [ENVO:01000215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	xeric shrubland biome [ENVO:01000218]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical woodland biome [ENVO:01000220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperate woodland biome [ENVO:01000221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subtropical dry broadleaf forest biome [ENVO:01000225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subtropical moist broadleaf forest biome [ENVO:01000226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical dry broadleaf forest biome [ENVO:01000227]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical moist broadleaf forest biome [ENVO:01000228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	freshwater lake biome [ENVO:01000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	freshwater river biome [ENVO:01000253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	litter layer [ENVO:01000338]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical semi-evergreen moist broadleaf forest [ENVO:01000391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical thorn forest [ENVO:01000400]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tropical mangrove [ENVO:01000403]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	human house [ENVO:01000418]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	broadleaf forest [ENVO:01000430]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mixed forest [ENVO:01000431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	swamp forest [ENVO:01000432]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	needleleaf forest [ENVO:01000433]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sclerophyllous forest [ENVO:01000434]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	montane forest [ENVO:01000435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	andesitic volcano [ENVO:01000439]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dacitic volcano [ENVO:01000440]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dacitic lava [ENVO:01000444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ceiling [ENVO:01000471]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cement plaster [ENVO:01000478]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	salt material [ENVO:01000508]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sedimentary intrusion [ENVO:01000526]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mass of biological material [ENVO:01000549]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	liquefied hydrocarbon gas [ENVO:01000558]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	river water [ENVO:01000599]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	liquid planetary surface [ENVO:01000636]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outer planetary core [ENVO:01000642]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner planetary core [ENVO:01000643]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stream channel [ENVO:01000650]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	river channel [ENVO:01000652]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rockfall [ENVO:01000693]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mudslide [ENVO:01000695]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	debris flow [ENVO:01000698]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrological melting process [ENVO:01000720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atmospheric wind [ENVO:01000793]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	planetary wind [ENVO:01000795]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	asteroid [ENVO:01000803]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eaves [ENVO:01000825]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water raindrop [ENVO:01000834]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	virga [ENVO:01000837]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	smoke [ENVO:01000838]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	temperate mediterranean sea biome [ENVO:01000857]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mushroom environment [ENVO:01000929]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	planetary subsurface zone [ENVO:01000941]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-saline environment [ENVO:01001003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	algal material [ENVO:01001189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	water-based planetary surface [ENVO:01001193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forest canopy [ENVO:01001239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill tissue material [ENVO:01001391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mussel gill tissue material [ENVO:01001392]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Bathymodiolus gill tissue material [ENVO:01001393]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accumulation of matter on aerosolised particles [ENVO:01001394]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atmospheric observatory system [ENVO:01001471]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	marine observatory system [ENVO:01001472]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	terrestrial observatory system [ENVO:01001473]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	astronomical observatory system [ENVO:01001474]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	body of liquid [ENVO:01001476]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	moonmoon [ENVO:01001494]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	freshwater ice [ENVO:01001511]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sea ice mass [ENVO:01001536]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	goat manure [ENVO:02000084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron mine [ENVO:02000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uranium mine [ENVO:02000093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uranium ore [ENVO:02000095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iron ore [ENVO:02000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gold ore [ENVO:02000097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	platinum ore [ENVO:02000098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fibrous glass dust [ENVO:02000102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cement dust [ENVO:02000104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	asbestos dust [ENVO:02000106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cotton dust [ENVO:02000108]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dust from plant parts [ENVO:02000109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	copper ore [ENVO:02000111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	welding fume [ENVO:02000113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraffin wax fume [ENVO:02000114]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aluminum welding fume [ENVO:02000116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zinc chloride fume [ENVO:02000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peat extraction [ENVO:02000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	results in transformation into [ENVO:02500006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forest process [ENVO:02500014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forest area expansion [ENVO:02500015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alga [ENVO:02500019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	results in proliferation of [ENVO:02500020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	algal bloom process phase [ENVO:02500022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accumulation of toxins from algal bloom process [ENVO:02500024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	degradation of toxins from algal bloom process [ENVO:02500025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sub-bitumous coal [ENVO:2000009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generation of energy from coal [ENVO:2000013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	generation of energy from oil [ENVO:2000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	energy [ENVO:2000015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mixed potential and kinetic energy [ENVO:2000018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wind wave energy [ENVO:2000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	geothermal energy [ENVO:2000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stellar radiation energy [ENVO:2000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coal power plant [ENVO:2000038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gas power station [ENVO:2000039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lignite power plant [ENVO:2000040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	solar power station [ENVO:2000041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ocean thermal power station [ENVO:2000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tidal power plant [ENVO:2000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hydrocarbon-based environmental material [ENVO:2000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	integumental system environment [ENVO:2100004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	face skin environment [ENVO:2100005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	feather environment [ENVO:2100006]	IAO_0000115 [IAO:0000115]		
+WARN	duplicate_scoped_synonym	watercourse [ENVO:00000029]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	narrows	
+WARN	duplicate_scoped_synonym	watercourse [ENVO:00000029]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	narrows	
+WARN	duplicate_scoped_synonym	pond [ENVO:00000033]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	pool (water body)	
+WARN	duplicate_scoped_synonym	pond [ENVO:00000033]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	pool (water body)	
+WARN	duplicate_scoped_synonym	navigation canal [ENVO:00000048]	hasExactSynonym [oboInOwl:hasExactSynonym]	navigation canal	
+WARN	duplicate_scoped_synonym	navigation canal [ENVO:00000048]	hasExactSynonym [oboInOwl:hasExactSynonym]	navigation channel	
+WARN	duplicate_scoped_synonym	navigation canal [ENVO:00000048]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	navigation canal	
+WARN	duplicate_scoped_synonym	navigation canal [ENVO:00000048]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	navigation channel	
+WARN	duplicate_scoped_synonym	saline marsh [ENVO:00000054]	hasExactSynonym [oboInOwl:hasExactSynonym]	salt marsh	
+WARN	duplicate_scoped_synonym	saline marsh [ENVO:00000054]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	salt marsh	
+WARN	duplicate_scoped_synonym	mountain pass [ENVO:00000084]	hasExactSynonym [oboInOwl:hasExactSynonym]	pass	
+WARN	duplicate_scoped_synonym	mountain pass [ENVO:00000084]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	pass	
+WARN	duplicate_scoped_synonym	snow field [ENVO:00000146]	hasExactSynonym [oboInOwl:hasExactSynonym]	snowfield	
+WARN	duplicate_scoped_synonym	snow field [ENVO:00000146]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	snowfield	
+WARN	duplicate_scoped_synonym	atoll [ENVO:00000166]	hasExactSynonym [oboInOwl:hasExactSynonym]	atoll	
+WARN	duplicate_scoped_synonym	atoll [ENVO:00000166]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	atoll	
+WARN	duplicate_scoped_synonym	mudflat [ENVO:00000192]	hasExactSynonym [oboInOwl:hasExactSynonym]	mud flat	
+WARN	duplicate_scoped_synonym	mudflat [ENVO:00000192]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	mud flat	
+WARN	duplicate_scoped_synonym	bayou [ENVO:00000234]	hasBroadSynonym [oboInOwl:hasBroadSynonym]	lake	
+WARN	duplicate_scoped_synonym	bayou [ENVO:00000234]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	lake	
+WARN	duplicate_scoped_synonym	seamount [ENVO:00000264]	hasBroadSynonym [oboInOwl:hasBroadSynonym]	mount	
+WARN	duplicate_scoped_synonym	seamount [ENVO:00000264]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	mount	
+WARN	duplicate_scoped_synonym	watershed [ENVO:00000292]	hasExactSynonym [oboInOwl:hasExactSynonym]	divide	
+WARN	duplicate_scoped_synonym	watershed [ENVO:00000292]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	divide	
+WARN	duplicate_scoped_synonym	ice cap dome [ENVO:00000342]	hasExactSynonym [oboInOwl:hasExactSynonym]	icecap dome	
+WARN	duplicate_scoped_synonym	ice cap dome [ENVO:00000342]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	icecap dome	
+WARN	duplicate_scoped_synonym	clearing [ENVO:00000444]	hasExactSynonym [oboInOwl:hasExactSynonym]	clearing	
+WARN	duplicate_scoped_synonym	clearing [ENVO:00000444]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	clearing	
+WARN	duplicate_scoped_synonym	container of an intermittent pond [ENVO:00000504]	hasExactSynonym [oboInOwl:hasExactSynonym]	intermittent pool	
+WARN	duplicate_scoped_synonym	container of an intermittent pond [ENVO:00000504]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	intermittent pool	
+WARN	duplicate_scoped_synonym	container of an intermittent pond [ENVO:00000504]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	intermittent pool	
+WARN	duplicate_scoped_synonym	terrace [ENVO:00000508]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	bench	
+WARN	duplicate_scoped_synonym	terrace [ENVO:00000508]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	bench	
+WARN	duplicate_scoped_synonym	lost stream [ENVO:00000517]	hasBroadSynonym [oboInOwl:hasBroadSynonym]	lost river	
+WARN	duplicate_scoped_synonym	lost stream [ENVO:00000517]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	lost river	
+WARN	duplicate_scoped_synonym	ice cap depression [ENVO:00000531]	hasExactSynonym [oboInOwl:hasExactSynonym]	icecap depression	
+WARN	duplicate_scoped_synonym	ice cap depression [ENVO:00000531]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	icecap depression	
+WARN	duplicate_scoped_synonym	waterhole [ENVO:00000547]	hasExactSynonym [oboInOwl:hasExactSynonym]	water hole	
+WARN	duplicate_scoped_synonym	waterhole [ENVO:00000547]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	water hole	
+WARN	duplicate_scoped_synonym	glaze ice layer [ENVO:01000547]	hasBroadSynonym [oboInOwl:hasBroadSynonym]	glaze	
+WARN	duplicate_scoped_synonym	glaze ice layer [ENVO:01000547]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	glaze	
+INFO	lowercase_definition	domestic garden [ENVO:01000419]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	partially_surrounded_by [ENVO:01001307]	IAO_0000115 [IAO:0000115]	x partially_surrounded_by y if and only if (1) x is adjacent to y and for the region r that is adjacent to x, r partially overlaps y (2) the shared boundary between x and y occupies  a non-trivial proportion of the outermost boundary of x	
+INFO	lowercase_definition	ore [ENVO:02000094]	IAO_0000115 [IAO:0000115]	a type of rock that contains sufficient minerals with important elements including metals that can be economically extracted from the rock.	
+INFO	lowercase_definition	desertification [ENVO:02500001]	IAO_0000115 [IAO:0000115]	a type of land degradation in which a relatively dry land region becomes increasingly arid, typically losing its bodies of water as well as vegetation and wildlife.	
+INFO	lowercase_definition	biochar [ENVO:2000007]	IAO_0000115 [IAO:0000115]	charcoal that is used as a soil amendment.	
+INFO	lowercase_definition	bitumous coal [ENVO:2000010]	IAO_0000115 [IAO:0000115]	a relatively soft coal containing a tarlike substance called bitumen or asphalt. It is of higher quality than lignite coal but of poorer quality than anthracite. It is an organic sedimentary rock formed by diagenetic and sub metamorphic compression of peat bog material.	
+INFO	lowercase_definition	electric energy [ENVO:2000020]	IAO_0000115 [IAO:0000115]	potential energy due to or stored in electric fields.	
+INFO	lowercase_definition	magnetic energy [ENVO:2000021]	IAO_0000115 [IAO:0000115]	potential energy due to or stored in magnetic fields.	
+INFO	lowercase_definition	gravitational energy [ENVO:2000022]	IAO_0000115 [IAO:0000115]	potential energy due to or stored in gravitational fields.	
+INFO	lowercase_definition	chemical energy [ENVO:2000023]	IAO_0000115 [IAO:0000115]	potential energy due to chemical bonds.	
+INFO	lowercase_definition	ionization energy [ENVO:2000024]	IAO_0000115 [IAO:0000115]	potential energy that binds an electron to its atom or molecule.	
+INFO	lowercase_definition	nuclear energy [ENVO:2000025]	IAO_0000115 [IAO:0000115]	potential energy that binds nucleons to form the atomic nucleus (and nuclear reactions).	
+INFO	lowercase_definition	chromodynamic energy [ENVO:2000026]	IAO_0000115 [IAO:0000115]	potential energy due to the deformation of a material (or its container) exhibiting a restorative force.	
+INFO	lowercase_definition	elastic energy [ENVO:2000027]	IAO_0000115 [IAO:0000115]	potential energy due to the deformation of a material (or its container) exhibiting a restorative force.	
+INFO	lowercase_definition	mechanical wave energy [ENVO:2000028]	IAO_0000115 [IAO:0000115]	kinetic and potential energy in an elastic material due to a propagated deformational wave.	
+INFO	lowercase_definition	sound wave energy [ENVO:2000029]	IAO_0000115 [IAO:0000115]	kinetic and potential energy in a fluid due to a sound propagated wave.	
+INFO	lowercase_definition	radiant energy [ENVO:2000030]	IAO_0000115 [IAO:0000115]	potential energy stored in the fields of propagated by electromagnetic radiation, including light.	
+INFO	lowercase_definition	rest energy [ENVO:2000031]	IAO_0000115 [IAO:0000115]	potential energy due to an object's rest mass.	
+INFO	lowercase_definition	thermal energy [ENVO:2000032]	IAO_0000115 [IAO:0000115]	kinetic energy of the microscopic motion of particles, a form of disordered equivalent of mechanical energy.	
+INFO	missing_superclass	BFO_0000001 [BFO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000003 [BFO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000016 [BFO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000024 [BFO:0000024]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000027 [BFO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000029 [BFO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000030 [BFO:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000146 [BFO:0000146]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000006 [CARO:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_140503 [CHEBI:140503]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15022 [CHEBI:15022]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15377 [CHEBI:15377]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15379 [CHEBI:15379]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15422 [CHEBI:15422]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15611 [CHEBI:15611]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_15996 [CHEBI:15996]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16134 [CHEBI:16134]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16136 [CHEBI:16136]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16183 [CHEBI:16183]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16199 [CHEBI:16199]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16236 [CHEBI:16236]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16240 [CHEBI:16240]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16301 [CHEBI:16301]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16454 [CHEBI:16454]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16482 [CHEBI:16482]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16526 [CHEBI:16526]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16646 [CHEBI:16646]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_16900 [CHEBI:16900]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17045 [CHEBI:17045]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17245 [CHEBI:17245]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17347 [CHEBI:17347]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17579 [CHEBI:17579]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17632 [CHEBI:17632]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17654 [CHEBI:17654]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17883 [CHEBI:17883]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17996 [CHEBI:17996]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_17997 [CHEBI:17997]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18139 [CHEBI:18139]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18230 [CHEBI:18230]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18248 [CHEBI:18248]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18276 [CHEBI:18276]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18310 [CHEBI:18310]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_18422 [CHEBI:18422]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23042 [CHEBI:23042]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_23377 [CHEBI:23377]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24431 [CHEBI:24431]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24632 [CHEBI:24632]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24866 [CHEBI:24866]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_24873 [CHEBI:24873]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25501 [CHEBI:25501]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25555 [CHEBI:25555]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25806 [CHEBI:25806]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_25812 [CHEBI:25812]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26020 [CHEBI:26020]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26490 [CHEBI:26490]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26675 [CHEBI:26675]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26710 [CHEBI:26710]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26833 [CHEBI:26833]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26835 [CHEBI:26835]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_26986 [CHEBI:26986]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27275 [CHEBI:27275]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27295 [CHEBI:27295]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27338 [CHEBI:27338]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27547 [CHEBI:27547]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27563 [CHEBI:27563]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27573 [CHEBI:27573]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27594 [CHEBI:27594]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27798 [CHEBI:27798]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27856 [CHEBI:27856]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_27888 [CHEBI:27888]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28315 [CHEBI:28315]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28425 [CHEBI:28425]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28659 [CHEBI:28659]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28838 [CHEBI:28838]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28938 [CHEBI:28938]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_28966 [CHEBI:28966]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29125 [CHEBI:29125]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_29241 [CHEBI:29241]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30033 [CHEBI:30033]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30187 [CHEBI:30187]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30563 [CHEBI:30563]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_30762 [CHEBI:30762]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_32178 [CHEBI:32178]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_3311 [CHEBI:3311]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33284 [CHEBI:33284]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33292 [CHEBI:33292]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33499 [CHEBI:33499]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33521 [CHEBI:33521]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33585 [CHEBI:33585]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33608 [CHEBI:33608]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33628 [CHEBI:33628]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33666 [CHEBI:33666]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33679 [CHEBI:33679]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33694 [CHEBI:33694]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33749 [CHEBI:33749]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33937 [CHEBI:33937]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_33969 [CHEBI:33969]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35196 [CHEBI:35196]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35230 [CHEBI:35230]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_35404 [CHEBI:35404]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36342 [CHEBI:36342]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_36908 [CHEBI:36908]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37133 [CHEBI:37133]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_37134 [CHEBI:37134]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_39285 [CHEBI:39285]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_44882 [CHEBI:44882]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46661 [CHEBI:46661]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46662 [CHEBI:46662]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_46787 [CHEBI:46787]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_47032 [CHEBI:47032]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_48154 [CHEBI:48154]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_49976 [CHEBI:49976]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50594 [CHEBI:50594]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50816 [CHEBI:50816]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50860 [CHEBI:50860]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_50906 [CHEBI:50906]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_5186 [CHEBI:5186]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_53388 [CHEBI:53388]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_58454 [CHEBI:58454]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_63248 [CHEBI:63248]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_64909 [CHEBI:64909]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_73113 [CHEBI:73113]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_73115 [CHEBI:73115]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_76413 [CHEBI:76413]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_78298 [CHEBI:78298]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_78433 [CHEBI:78433]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_82661 [CHEBI:82661]	rdfs:subClassOf		
+INFO	missing_superclass	CHEBI_9171 [CHEBI:9171]	rdfs:subClassOf		
+INFO	missing_superclass	ENVO_01001784 [ENVO:01001784]	rdfs:subClassOf		
+INFO	missing_superclass	FAO_0000001 [FAO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_00001287 [FOODON:00001287]	rdfs:subClassOf		
+INFO	missing_superclass	FOODON_00002470 [FOODON:00002470]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007588 [GO:0007588]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009060 [GO:0009060]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0015948 [GO:0015948]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0015979 [GO:0015979]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0045333 [GO:0045333]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000101 [IAO:0000101]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_12965 [NCBITaxon:12965]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_131567 [NCBITaxon:131567]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_190524 [NCBITaxon:190524]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_2836 [NCBITaxon:2836]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33090 [NCBITaxon:33090]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_33208 [NCBITaxon:33208]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_365482 [NCBITaxon:365482]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_40255 [NCBITaxon:40255]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_41378 [NCBITaxon:41378]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_4436 [NCBITaxon:4436]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_4479 [NCBITaxon:4479]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_465832 [NCBITaxon:465832]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_4751 [NCBITaxon:4751]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6073 [NCBITaxon:6073]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6547 [NCBITaxon:6547]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6548 [NCBITaxon:6548]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_7705 [NCBITaxon:7705]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_7742 [NCBITaxon:7742]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_8782 [NCBITaxon:8782]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000401 [OBI:0000401]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000001 [PATO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000008 [PATO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000018 [PATO:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000025 [PATO:0000025]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000033 [PATO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000039 [PATO:0000039]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000049 [PATO:0000049]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000070 [PATO:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000141 [PATO:0000141]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000146 [PATO:0000146]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000308 [PATO:0000308]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000309 [PATO:0000309]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000318 [PATO:0000318]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000386 [PATO:0000386]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000402 [PATO:0000402]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000407 [PATO:0000407]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000411 [PATO:0000411]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000586 [PATO:0000586]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000587 [PATO:0000587]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000591 [PATO:0000591]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000592 [PATO:0000592]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000608 [PATO:0000608]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000609 [PATO:0000609]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000610 [PATO:0000610]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000619 [PATO:0000619]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000689 [PATO:0000689]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000690 [PATO:0000690]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000912 [PATO:0000912]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000918 [PATO:0000918]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000952 [PATO:0000952]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000963 [PATO:0000963]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000964 [PATO:0000964]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000973 [PATO:0000973]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000983 [PATO:0000983]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000984 [PATO:0000984]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000998 [PATO:0000998]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001018 [PATO:0001018]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001019 [PATO:0001019]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001025 [PATO:0001025]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001154 [PATO:0001154]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001162 [PATO:0001162]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001163 [PATO:0001163]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001164 [PATO:0001164]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001171 [PATO:0001171]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001199 [PATO:0001199]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001236 [PATO:0001236]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001241 [PATO:0001241]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001303 [PATO:0001303]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001305 [PATO:0001305]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001306 [PATO:0001306]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001332 [PATO:0001332]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001411 [PATO:0001411]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001412 [PATO:0001412]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001420 [PATO:0001420]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001422 [PATO:0001422]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001429 [PATO:0001429]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001430 [PATO:0001430]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001444 [PATO:0001444]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001455 [PATO:0001455]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001456 [PATO:0001456]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001481 [PATO:0001481]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001485 [PATO:0001485]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001536 [PATO:0001536]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001545 [PATO:0001545]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001546 [PATO:0001546]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001547 [PATO:0001547]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001548 [PATO:0001548]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001562 [PATO:0001562]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001563 [PATO:0001563]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001575 [PATO:0001575]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001576 [PATO:0001576]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001595 [PATO:0001595]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001617 [PATO:0001617]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001630 [PATO:0001630]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001645 [PATO:0001645]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001646 [PATO:0001646]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001657 [PATO:0001657]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001687 [PATO:0001687]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001688 [PATO:0001688]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001689 [PATO:0001689]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001693 [PATO:0001693]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001731 [PATO:0001731]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001733 [PATO:0001733]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001734 [PATO:0001734]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001741 [PATO:0001741]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001757 [PATO:0001757]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001759 [PATO:0001759]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001779 [PATO:0001779]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001789 [PATO:0001789]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001822 [PATO:0001822]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001823 [PATO:0001823]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001824 [PATO:0001824]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001842 [PATO:0001842]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001844 [PATO:0001844]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001857 [PATO:0001857]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001879 [PATO:0001879]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001885 [PATO:0001885]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001985 [PATO:0001985]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001986 [PATO:0001986]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002021 [PATO:0002021]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002063 [PATO:0002063]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002064 [PATO:0002064]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002068 [PATO:0002068]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002124 [PATO:0002124]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002143 [PATO:0002143]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002181 [PATO:0002181]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002219 [PATO:0002219]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002224 [PATO:0002224]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002242 [PATO:0002242]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002253 [PATO:0002253]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002254 [PATO:0002254]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002268 [PATO:0002268]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002299 [PATO:0002299]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002352 [PATO:0002352]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002374 [PATO:0002374]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002425 [PATO:0002425]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002453 [PATO:0002453]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0015009 [PATO:0015009]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0015010 [PATO:0015010]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0015021 [PATO:0015021]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0015022 [PATO:0015022]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000000 [PCO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000001 [PCO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_0000002 [PCO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	PCO_1000004 [PCO:1000004]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000003 [PO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009005 [PO:0009005]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025025 [PO:0025025]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025034 [PO:0025034]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025131 [PO:0025131]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025161 [PO:0025161]	rdfs:subClassOf		
+INFO	missing_superclass	RO_0002577 [RO:0002577]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000014 [UBERON:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000022 [UBERON:0000022]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000160 [UBERON:0000160]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000165 [UBERON:0000165]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000172 [UBERON:0000172]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000173 [UBERON:0000173]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000174 [UBERON:0000174]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000175 [UBERON:0000175]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000176 [UBERON:0000176]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000177 [UBERON:0000177]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000178 [UBERON:0000178]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000456 [UBERON:0000456]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000479 [UBERON:0000479]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000910 [UBERON:0000910]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000911 [UBERON:0000911]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000912 [UBERON:0000912]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000913 [UBERON:0000913]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001062 [UBERON:0001062]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001088 [UBERON:0001088]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001090 [UBERON:0001090]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001359 [UBERON:0001359]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001474 [UBERON:0001474]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001555 [UBERON:0001555]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001796 [UBERON:0001796]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001797 [UBERON:0001797]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001836 [UBERON:0001836]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001866 [UBERON:0001866]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001913 [UBERON:0001913]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001969 [UBERON:0001969]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001970 [UBERON:0001970]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001988 [UBERON:0001988]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002297 [UBERON:0002297]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002391 [UBERON:0002391]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002416 [UBERON:0002416]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002535 [UBERON:0002535]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0006314 [UBERON:0006314]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0015474 [UBERON:0015474]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0036215 [UBERON:0036215]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_1000021 [UBERON:1000021]	rdfs:subClassOf		

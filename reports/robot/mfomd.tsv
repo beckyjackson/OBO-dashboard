@@ -1,0 +1,91 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	MFOMD_0000038 [MFOMD:0000038]	label [rdfs:label]		
+ERROR	duplicate_label	ICD-10 code [MFOMD:0000067]	label [rdfs:label]	ICD-10 code@en	
+ERROR	duplicate_label	ICD-10 code [MFOMD:0000068]	label [rdfs:label]	ICD-10 code@en	
+ERROR	duplicate_label	ICD-10 code [MFOMD:0000069]	label [rdfs:label]	ICD-10 code@en	
+ERROR	duplicate_label	disorientation [MFOMD:0000203]	label [rdfs:label]	disorientation@en	
+ERROR	duplicate_label	disorientation [MFOMD:0000205]	label [rdfs:label]	disorientation@en	
+ERROR	duplicate_label	code DSM-IV-TR [MFOMD:0000036]	label [rdfs:label]	code DSM-IV-TR@en	
+ERROR	duplicate_label	code DSM-IV-TR [MFOMD:0000037]	label [rdfs:label]	code DSM-IV-TR@en	
+ERROR	multiple_definitions	mental disorder [MFOMD:0000004]	IAO_0000115 [IAO:0000115]	A disease that involves a psychological or behavioral pattern generally associated with subjective distress or disability that occurs in an individual, and which are not a part of normal development or culture.	
+ERROR	multiple_definitions	mental disorder [MFOMD:0000004]	IAO_0000115 [IAO:0000115]	Clinically significant behavioural and/or cognitive pathology.	
+ERROR	multiple_definitions	insomnia [MFOMD:0000116]	IAO_0000115 [IAO:0000115]	    A subjective complaint of difficulty falling or staying asleep or poor sleep quality.        DSM-IV-TR (american Psychiatric Association)	
+ERROR	multiple_definitions	insomnia [MFOMD:0000116]	IAO_0000115 [IAO:0000115]	A subjective complaint of difficulty falling or staying asleep or poor sleep quality.        DSM-IV-TR (american Psychiatric Association)	
+ERROR	missing_ontology_license	MFOMD.owl	dc:license		
+WARN	annotation_whitespace	process addiction [MFOMD:0000053]	IAO_0000115 [IAO:0000115]	  An addiction to a process, which might be a behaviour, such as gambling, or procrastination.           	
+WARN	annotation_whitespace	gambling addiction [MFOMD:0000054]	IAO_0000115 [IAO:0000115]	  A process addiction in which the patient compulsively gambles.            	
+WARN	annotation_whitespace	shopping addiction [MFOMD:0000057]	IAO_0000115 [IAO:0000115]	 A process addiction in which the person compulsively performs shopping activities.        	
+WARN	annotation_whitespace	addiction to use of a sunbed [MFOMD:0000063]	IAO_0000115 [IAO:0000115]	 A process addiction in which the subject compulsively makes use of a sunbed.	
+WARN	annotation_whitespace	dissociative fugue [MFOMD:0000076]	IAO_0000118 [IAO:0000118]	fuga disociativa 	
+WARN	annotation_whitespace	homicidal ideations [MFOMD:0000124]	ICD-10 code [MFOMD:0000069]	    R45.850 	
+WARN	annotation_whitespace	nightmare [MFOMD:0000147]	IAO_0000115 [IAO:0000115]	Dream that can cause a strong emotional response from the mind, typically fear or horror, but also despair, anxiety and great sadness. The dream may contain situations of danger, discomfort, psychological or physical terror. 	
+WARN	annotation_whitespace	binge-eating disorder [MFOMD:0000151]	IAO_0000115 [IAO:0000115]	The essential features are recurrent episodes of being eating associated with subjective and behavioural indicators of impaired control over, and significant distress about, the binge eating and the absence of the regular use of inappropriate compensatory behaviours (such as self-induced vomiting, misuse of laxatives and other medications, fasting, and excessive exercise) that are characteristic of Bulimia Nervosa. 	
+WARN	annotation_whitespace	alogia [MFOMD:0000164]	IAO_0000115 [IAO:0000115]	Is manifested  by brief, laconic, empty replies.  	
+WARN	annotation_whitespace	paranoia [MFOMD:0000185]	IAO_0000115 [IAO:0000115]	Thought process believed to be heavily influenced by anxiety or fear, often to the point of irrationality and delusion. 	
+WARN	annotation_whitespace	dysphoria [MFOMD:0000188]	IAO_0000115 [IAO:0000115]	Feeling of emotional and mental discomfort as a symptom of discontentment, restlessness, dissatisfaction, malaise, depression, anxiety or indifference.            http://en.wikipedia.org/wiki/Dysphoria 	
+WARN	annotation_whitespace	hyperarousal [MFOMD:0000196]	IAO_0000115 [IAO:0000115]	State of increased psychological and physiological tension marked by such effects as reduced pain tolerance, anxiety, exaggeration of startle responses, insomnia, fatigue and accentuation of personality traits.         Dorland's Medical Dictionary for Health Consumers. 	
+WARN	annotation_whitespace	disorientation [MFOMD:0000203]	IAO_0000115 [IAO:0000115]	 A state of mental confusion as to time, place, or identity.        medical-dictionary	
+WARN	missing_definition	full-blown manic mood episode [MFOMD:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypomanic mood episode [MFOMD:0000012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	symptoms [MFOMD:0000014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disorganized schizophrenia [MFOMD:0000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	catatonic schizophrenia [MFOMD:0000021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	undifferentiated schizophrenia [MFOMD:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	residual schizophrenia [MFOMD:0000023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pathological mental process [MFOMD:0000024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	code DSM-IV-TR [MFOMD:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	code DSM-IV-TR [MFOMD:0000037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MFOMD_0000038 [MFOMD:0000038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ICD-10 code [MFOMD:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ICD-10 code [MFOMD:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ICD-10 code [MFOMD:0000069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	substance-induced sexual dysfunction [MFOMD:0000195]	IAO_0000115 [IAO:0000115]		
+INFO	lowercase_definition	process addiction [MFOMD:0000053]	IAO_0000115 [IAO:0000115]	  An addiction to a process, which might be a behaviour, such as gambling, or procrastination.           	
+INFO	lowercase_definition	gambling addiction [MFOMD:0000054]	IAO_0000115 [IAO:0000115]	  A process addiction in which the patient compulsively gambles.            	
+INFO	lowercase_definition	shopping addiction [MFOMD:0000057]	IAO_0000115 [IAO:0000115]	 A process addiction in which the person compulsively performs shopping activities.        	
+INFO	lowercase_definition	addiction to use of a sunbed [MFOMD:0000063]	IAO_0000115 [IAO:0000115]	 A process addiction in which the subject compulsively makes use of a sunbed.	
+INFO	lowercase_definition	cataplexy [MFOMD:0000099]	IAO_0000115 [IAO:0000115]	    a sudden and transient episode of loss of muscle tone accompanied by full conscious awareness, often triggered by emotions such as laughing, crying, terror, etc.            http://en.wikipedia.org/wiki/Cataplexy    	
+INFO	lowercase_definition	delusion [MFOMD:0000101]	IAO_0000115 [IAO:0000115]	    Erroneous beliefs that usually involve a misinterpretation of perceptions or experiences. (their content may include a variety of themes (e.g., persecutory, referential, somatic, religious, or grandiose).            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	apprehension [MFOMD:0000102]	IAO_0000115 [IAO:0000115]	    Anxiety or fear that something bad or unpleasant will happen.    	
+INFO	lowercase_definition	delirium [MFOMD:0000104]	IAO_0000115 [IAO:0000115]	    Is characterised by disturbance of consciousness and changes in cognition (memory deficit, disorientation, and language and perceptual disturbances).        The patient often shows a reduced ability to focus, sustain or shift attention and exhibits disorganized patterns of thinking, as manifested by rambling, irrelevant, or incoherent speech. At times patients show a reduced level of consciousness and disturbances in the cycle of sleep and waking.            \"Understanding abnormal behavior\". David Sue, Derald Wing Sue, Stanley Sue.    	
+INFO	lowercase_definition	enuresis [MFOMD:0000105]	IAO_0000115 [IAO:0000115]	    The habitual voiding of urine during the day or night into one's clothes, bed, or floor. The behaviour is generally involuntary, but in rare situations it may be intentional.            \"Understanding abnormal behavior\". David Sue, Derald Wing Sue, Stanley Sue.    	
+INFO	lowercase_definition	encopresis [MFOMD:0000106]	IAO_0000115 [IAO:0000115]	    Involves repeated defecating onto one's clothes, the floor or other inappropriate places.            \"Understanding abnormal behavior\". David Sue, Derald Wing Sue, Stanley Sue.	
+INFO	lowercase_definition	compulsion [MFOMD:0000107]	IAO_0000115 [IAO:0000115]	    The need to perform acts or to dwell on thoughts to reduce anxiety.        \"Understanding abnormal behavior\". David Sue, Derald Wing Sue, Stanley Sue.    	
+INFO	lowercase_definition	obsession [MFOMD:0000109]	IAO_0000115 [IAO:0000115]	    An intrusive and repetitive thought or image that produce anxiety.            \"Understanding abnormal behavior\". David Sue, Derald Wing Sue, Stanley Sue.	
+INFO	lowercase_definition	catatonic behaviour [MFOMD:0000110]	IAO_0000115 [IAO:0000115]	    Marked motor abnormalities including motoric immobility (i.e., catalepsy or stupor), certain types of excessive motor activity (apparently purposeless agitation not influenced by external stimuli), extreme negativism (apparent motiveless resistance to instructions or attempts to be moved) or mutism, posturing or stereotyped movements, and echolalia or echopraxia.             DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	depersonalization [MFOMD:0000111]	IAO_0000115 [IAO:0000115]	    An alteration in the perception or experience of the self so that one feels detached from, and as if one is an outside observer of, one's mental processes or body (e.g., feeling like one is in a dream).            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	derealization [MFOMD:0000112]	IAO_0000115 [IAO:0000115]	    An alteration in the perception or experience of the external world so that it seems strange or unreal (e.g., people may seem unfamiliar or mechanical).            DSM-IV-TR (american Psychiatric Association)    	
+INFO	lowercase_definition	flashback [MFOMD:0000113]	IAO_0000115 [IAO:0000115]	    The recurrence of a memory, feeling, or perceptual experience from the past.            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	hallucination [MFOMD:0000114]	IAO_0000115 [IAO:0000115]	    Sensory perception that has the compelling sense of reality of a true perception but that occurs without external stimulation of the relevant sensory organ.            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	magical thinking [MFOMD:0000115]	IAO_0000115 [IAO:0000115]	    The erroneous belief that one's thoughts, words, or actions will cause or prevent a specific outcome in some way that defies commonly understood laws of cause and effect.            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	insomnia [MFOMD:0000116]	IAO_0000115 [IAO:0000115]	    A subjective complaint of difficulty falling or staying asleep or poor sleep quality.        DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	anxiety [MFOMD:0000117]	IAO_0000115 [IAO:0000115]	    The apprehensive anticipation of future danger or misfortune accompanied by a feeling of dysphoria or somatic symptoms of tension.             DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	dissociation [MFOMD:0000119]	IAO_0000115 [IAO:0000115]	    A disruption in the usually integrated functions of consciousness, memory, identity, or perception of the environment.     The disturbance may be sudden or gradual, transient or chronic.            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	flight of ideas [MFOMD:0000120]	IAO_0000115 [IAO:0000115]	    A nearly continuous flow of accelerated speech with abrupt changes from topic to topic that are usually based on understandable associations, distracting stimuli, or plays on words. When severe, speech may be disorganised and incoherent.            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	grandiosity [MFOMD:0000121]	IAO_0000115 [IAO:0000115]	    An inflated appraisal of one's worth, power, knowledge, importance, or identity. When extreme, grandiosity may be of delusional proportions.            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	phobia [MFOMD:0000122]	IAO_0000115 [IAO:0000115]	    A persistent, irrational fear of a specific object, activity, or situation (the phobic stimulus) that results in a compelling desire to avoid it.             DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	flat affect [MFOMD:0000125]	IAO_0000115 [IAO:0000115]	little or no emotion in situations where strong reactions are expected.            \"Understanding abnormal behavior\". David Sue, Derald Wing Sue, Stanley Sue	
+INFO	lowercase_definition	agoraphobia [MFOMD:0000128]	IAO_0000115 [IAO:0000115]	    Extreme fear of being in public places or open spaces from which escape may be difficult or embarrassing.            http://www.apa.org/research/action/glossary.aspx	
+INFO	lowercase_definition	fixation [MFOMD:0000129]	IAO_0000115 [IAO:0000115]	    A state in which a person remains attached to objects or activities more appropriate for an earlier stage of psychosexual development.            http://www.apa.org/research/action/glossary.aspx	
+INFO	lowercase_definition	suicide [MFOMD:0000135]	IAO_0000115 [IAO:0000115]	    The act of intentionally causing one's own death.	
+INFO	lowercase_definition	manic episode [MFOMD:0000137]	IAO_0000115 [IAO:0000115]	    Period of abnormally and persistently elevated, expansive, or irritable mood, lasting at least 1 week (or any duration if hospitalization is necessary).         DSM-IV-TR	
+INFO	lowercase_definition	hypomanic episode [MFOMD:0000145]	IAO_0000115 [IAO:0000115]	    Is defined as a distinct period during which there is an abnormally and persistently elevated, expansive, or irritable mood that last at least 4 days.	
+INFO	lowercase_definition	defense mechanism [MFOMD:0000167]	IAO_0000115 [IAO:0000115]	    Automatic psychological process that protects the individual against anxiety and from awareness of internal or external stressors or dangers.            DSM-IV-TR (american Psychiatric Association)	
+INFO	lowercase_definition	repression [MFOMD:0000168]	IAO_0000115 [IAO:0000115]	    The basic defense mechanism by which painful or guilt-producing thoughts, feelings, or memories are excluded from conscious awareness.            http://www.apa.org/research/action/glossary.aspx	
+INFO	lowercase_definition	orientation [MFOMD:0000201]	IAO_0000115 [IAO:0000115]	function of the mind involving awareness of three dimensions: time, place and person.        wikipedia	
+INFO	lowercase_definition	disorientation [MFOMD:0000203]	IAO_0000115 [IAO:0000115]	 A state of mental confusion as to time, place, or identity.        medical-dictionary	
+INFO	lowercase_definition	mood swing [MFOMD:0000209]	IAO_0000115 [IAO:0000115]	extreme or rapid change in mood.        wikipedia	
+INFO	missing_superclass	DOID_10935 [DOID:10935]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_1876 [DOID:1876]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_2030 [DOID:2030]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_2468 [DOID:2468]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_303 [DOID:303]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_535 [DOID:535]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_5419 [DOID:5419]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_8670 [DOID:8670]	rdfs:subClassOf		
+INFO	missing_superclass	MF_0000030 [MF:0000030]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000022 [OGMS:0000022]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000031 [OGMS:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000061 [OGMS:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000063 [OGMS:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000073 [OGMS:0000073]	rdfs:subClassOf		

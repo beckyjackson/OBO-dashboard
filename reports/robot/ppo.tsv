@@ -1,0 +1,66 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/ppo.owl	dc11:description		
+ERROR	missing_ontology_license	https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/ppo.owl	dc:license		
+ERROR	missing_ontology_title	https://raw.githubusercontent.com/PlantPhenoOntology/ppo/master/ppo.owl	dc11:title		
+WARN	missing_definition	depends on structure [PPO:0000009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has visible part [PPO:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visible part of [PPO:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	herbaceous plant [PPO:0001000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	woody plant [PPO:0001001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	perennial plant [PPO:0001002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	new above-ground shoot-borne shoot system [PPO:0001004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	new shoot system emerging from ground [PPO:0001005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	new shoot system emerging from ground in first growth cycle [PPO:0001006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seedling [PPO:0001007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	new shoot system emerging from ground in later growth cycle [PPO:0001008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floral structure [PPO:0001025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-senesced floral structure [PPO:0001026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unopened floral structure [PPO:0001027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	open floral structure [PPO:0001028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pollen-releasing floral structure [PPO:0001029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	compound fruit [PPO:0001041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	simple fruit or compound fruit [PPO:0001042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	plant regreening process [PPO:0007003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular leaf expanded immature stage [PPO:0007007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular leaf mature stage [PPO:0007008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unopened flower stage [PPO:0007009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	open flower stage [PPO:0007010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pollen-releasing flower stage [PPO:0007011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	strobilus development stage [PPO:0007014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	open microsporangiate strobilus stage [PPO:0007015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pollen-releasing strobilus stage [PPO:0007016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	megasporangiate strobilus ripening stage [PPO:0007017]	IAO_0000115 [IAO:0000115]		
+INFO	missing_superclass	BCO_0000003 [BCO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000020 [BFO:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0008150 [GO:0008150]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0009845 [GO:0009845]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0097207 [GO:0097207]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0097436 [GO:0097436]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0097438 [GO:0097438]	rdfs:subClassOf		
+INFO	missing_superclass	IAO_0000109 [IAO:0000109]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000001 [PATO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000003 [PO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0000058 [PO:0000058]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0001052 [PO:0001052]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0001053 [PO:0001053]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0001054 [PO:0001054]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005031 [PO:0005031]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0005032 [PO:0005032]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0007033 [PO:0007033]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0007615 [PO:0007615]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009001 [PO:0009001]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009010 [PO:0009010]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009011 [PO:0009011]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009025 [PO:0009025]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009046 [PO:0009046]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0009049 [PO:0009049]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0020030 [PO:0020030]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025082 [PO:0025082]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025083 [PO:0025083]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025496 [PO:0025496]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025502 [PO:0025502]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025530 [PO:0025530]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025531 [PO:0025531]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025532 [PO:0025532]	rdfs:subClassOf		
+INFO	missing_superclass	PO_0025607 [PO:0025607]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000071 [UBERON:0000071]	rdfs:subClassOf		

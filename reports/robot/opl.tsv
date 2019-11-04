@@ -1,0 +1,687 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	Plasmodium sporozoite stage [OPL:0000300]	IAO_0000115 [IAO:0000115]	A sporozoite stage in the Plasmodium lifecycle that occurs in the salivary glands of the mosquito and invades hepatocytes in the vertebrate host.	
+ERROR	duplicate_definition	Plasmodium salivary gland-derived sporozoite stage [OPL:0000302]	IAO_0000115 [IAO:0000115]	A sporozoite stage in the Plasmodium lifecycle that occurs in the salivary glands of the mosquito and invades hepatocytes in the vertebrate host.	
+ERROR	missing_ontology_description	opl.owl	dc11:description		
+ERROR	missing_ontology_license	opl.owl	dc:license		
+ERROR	missing_ontology_title	opl.owl	dc11:title		
+WARN	annotation_whitespace	Leishmania major metacyclic promastigote [OPL:0000002]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major metacyclic promastigote [OPL:0000002]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	metacyclic promastigote stage [OPL:0000006]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	metacyclic promastigote stage [OPL:0000006]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum exflagellated microgametocyte stage [OPL:0000007]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum exflagellated microgametocyte stage [OPL:0000007]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium sporocyst stage [OPL:0000008]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium sporocyst stage [OPL:0000008]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium sporocyst stage [OPL:0000008]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum cercaria stage [OPL:0000009]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum cercaria stage [OPL:0000009]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum cercaria stage [OPL:0000009]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum microgametocyte stage [OPL:0000010]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum microgametocyte stage [OPL:0000010]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum microgametocyte stage [OPL:0000010]	IAO_0000117 [IAO:0000117]	 S. Khan. C. Janse	
+WARN	annotation_whitespace	Schistosoma haematobium 3 hour schistosomulum [OPL:0000011]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 3 hour schistosomulum [OPL:0000011]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 3 hour schistosomulum [OPL:0000011]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium miracidium [OPL:0000012]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium miracidium [OPL:0000012]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium miracidium [OPL:0000012]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 3 day schistosomulum stage [OPL:0000014]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 3 day schistosomulum stage [OPL:0000014]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major promastigote [OPL:0000016]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major promastigote [OPL:0000016]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	3 hour schistosomulum stage [OPL:0000017]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	3 hour schistosomulum stage [OPL:0000017]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	3 hour schistosomulum stage [OPL:0000017]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	miracidium stage [OPL:0000018]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	miracidium stage [OPL:0000018]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 3 day schistosomulum [OPL:0000020]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum 3 day schistosomulum [OPL:0000020]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 3 day schistosomulum [OPL:0000020]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 3 hour schistosomulum [OPL:0000021]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum 3 hour schistosomulum [OPL:0000021]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 3 hour schistosomulum [OPL:0000021]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	bloodstream trypomastigote stage [OPL:0000022]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	bloodstream trypomastigote stage [OPL:0000022]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum miracidium stage [OPL:0000023]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum miracidium stage [OPL:0000023]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum miracidium stage [OPL:0000023]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum daughter sporocyst stage [OPL:0000024]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum daughter sporocyst stage [OPL:0000024]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum daughter sporocyst stage [OPL:0000024]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 24 hour schistosomulum [OPL:0000025]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 24 hour schistosomulum [OPL:0000025]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 24 hour schistosomulum [OPL:0000025]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	microgamete stage [OPL:0000026]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	microgamete stage [OPL:0000026]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	macrogametocyte stage [OPL:0000028]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	macrogametocyte stage [OPL:0000028]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 24 hour schistosomulum [OPL:0000029]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 24 hour schistosomulum [OPL:0000029]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 24 hour schistosomulum [OPL:0000029]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum daughter sporocyst [OPL:0000030]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum daughter sporocyst [OPL:0000030]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum daughter sporocyst [OPL:0000030]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei procyclic trypomastigote [OPL:0000031]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei procyclic trypomastigote [OPL:0000031]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	trypomastigote stage [OPL:0000033]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	trypomastigote stage [OPL:0000033]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei metacyclic trypomastigote [OPL:0000034]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei metacyclic trypomastigote [OPL:0000034]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont stage [OPL:0000035]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont stage [OPL:0000035]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont stage [OPL:0000035]	IAO_0000117 [IAO:0000117]	 P. Parkh	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont stage [OPL:0000035]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	merozoite stage [OPL:0000036]	IAO_0000116 [IAO:0000116]	adjusted to be more general 	
+WARN	annotation_whitespace	merozoite stage [OPL:0000036]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	merozoite stage [OPL:0000036]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium worm [OPL:0000037]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium worm [OPL:0000037]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium worm [OPL:0000037]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni schistosomulum [OPL:0000038]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni schistosomulum [OPL:0000038]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni schistosomulum [OPL:0000038]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 6 day schistosomulum [OPL:0000039]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum 6 day schistosomulum [OPL:0000039]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 6 day schistosomulum [OPL:0000039]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni sporocyst stage [OPL:0000041]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni sporocyst stage [OPL:0000041]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni sporocyst stage [OPL:0000041]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic ring trophozoite stage [OPL:0000042]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic ring trophozoite stage [OPL:0000042]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum cercaria [OPL:0000043]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum cercaria [OPL:0000043]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum cercaria [OPL:0000043]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	procyclic promastigote stage [OPL:0000044]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	procyclic promastigote stage [OPL:0000044]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 6 day schistosomulum stage [OPL:0000045]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 6 day schistosomulum stage [OPL:0000045]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 6 day schistosomulum stage [OPL:0000045]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 6 day schistosomulum stage [OPL:0000046]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum 6 day schistosomulum stage [OPL:0000046]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 6 day schistosomulum stage [OPL:0000046]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei lifecycle stage [OPL:0000048]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei lifecycle stage [OPL:0000048]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma cruzi epimastigote [OPL:0000049]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi epimastigote [OPL:0000049]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum microgametocyte [OPL:0000050]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum microgametocyte [OPL:0000050]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 7 week worm [OPL:0000051]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 7 week worm [OPL:0000051]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum egg [OPL:0000052]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum egg [OPL:0000052]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum egg [OPL:0000052]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 3 week worm [OPL:0000053]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 3 week worm [OPL:0000053]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei metacyclic trypomastigote stage [OPL:0000056]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei metacyclic trypomastigote stage [OPL:0000056]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	trophozoite stage [OPL:0000057]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	trophozoite stage [OPL:0000057]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major procyclic promastigote stage [OPL:0000058]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major procyclic promastigote stage [OPL:0000058]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	hepatic schizont stage [OPL:0000059]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	hepatic schizont stage [OPL:0000059]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum schizont [OPL:0000060]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum schizont [OPL:0000060]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum schizont [OPL:0000060]	IAO_0000117 [IAO:0000117]	 P. Parkh	
+WARN	annotation_whitespace	Plasmodium falciparum schizont [OPL:0000060]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Trypanosoma cruzi amastigote [OPL:0000061]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi amastigote [OPL:0000061]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 3 day schistosomulum stage [OPL:0000062]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 3 day schistosomulum stage [OPL:0000062]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 24 hour schistosomulum stage [OPL:0000063]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 24 hour schistosomulum stage [OPL:0000063]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma cruzi amastigote stage [OPL:0000064]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi amastigote stage [OPL:0000064]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	6 day schistosomulum stage [OPL:0000066]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	6 day schistosomulum stage [OPL:0000066]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 3 hour schistosomulum [OPL:0000067]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 3 hour schistosomulum [OPL:0000067]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 3 hour schistosomulum [OPL:0000067]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte stage [OPL:0000068]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte stage [OPL:0000068]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte stage [OPL:0000068]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte stage [OPL:0000068]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Schistosoma haematobium miracidium stage [OPL:0000069]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium miracidium stage [OPL:0000069]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium miracidium stage [OPL:0000069]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	cercaria stage [OPL:0000070]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	cercaria stage [OPL:0000070]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum worm stage [OPL:0000071]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum worm stage [OPL:0000071]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum worm stage [OPL:0000071]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum egg stage [OPL:0000072]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum egg stage [OPL:0000072]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum egg stage [OPL:0000072]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	oocyst stage [OPL:0000073]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	oocyst stage [OPL:0000073]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 3 hour schistosomulum stage [OPL:0000074]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 3 hour schistosomulum stage [OPL:0000074]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 3 hour schistosomulum stage [OPL:0000074]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum macrogamete stage [OPL:0000075]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum macrogamete stage [OPL:0000075]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	procyclic trypomastigote stage [OPL:0000076]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	procyclic trypomastigote stage [OPL:0000076]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum schistosomulum [OPL:0000077]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum schistosomulum [OPL:0000077]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum schistosomulum [OPL:0000077]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	erythrocytic schizont stage [OPL:0000078]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	erythrocytic schizont stage [OPL:0000078]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium cercaria [OPL:0000079]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium cercaria [OPL:0000079]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium cercaria [OPL:0000079]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei procyclic trypomastigote stage [OPL:0000081]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei procyclic trypomastigote stage [OPL:0000081]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	parasitic worm stage [OPL:0000082]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	parasitic worm stage [OPL:0000082]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	schizont stage [OPL:0000084]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	schizont stage [OPL:0000084]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	macrogamete stage [OPL:0000085]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	macrogamete stage [OPL:0000085]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	daughter sporocyst stage [OPL:0000086]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	daughter sporocyst stage [OPL:0000086]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 7 week worm [OPL:0000087]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 7 week worm [OPL:0000087]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 7 week worm [OPL:0000087]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum ookinete [OPL:0000089]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum ookinete [OPL:0000089]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 3 week worm [OPL:0000090]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 3 week worm [OPL:0000090]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 3 week worm [OPL:0000090]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium worm stage [OPL:0000091]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium worm stage [OPL:0000091]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium worm stage [OPL:0000091]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei epimastigote [OPL:0000092]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei epimastigote [OPL:0000092]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic schizont stage [OPL:0000093]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic schizont stage [OPL:0000093]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum sporocyst [OPL:0000094]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum sporocyst [OPL:0000094]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum sporocyst [OPL:0000094]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	schistomulum stage [OPL:0000095]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	schistomulum stage [OPL:0000095]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	sporocyst stage [OPL:0000098]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	sporocyst stage [OPL:0000098]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 3 week worm [OPL:0000099]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 3 week worm [OPL:0000099]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 3 week worm [OPL:0000099]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni schistosomulum stage [OPL:0000100]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni schistosomulum stage [OPL:0000100]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni schistosomulum stage [OPL:0000100]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium cercaria stage [OPL:0000101]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium cercaria stage [OPL:0000101]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium cercaria stage [OPL:0000101]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major metacyclic promastigote stage [OPL:0000102]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major metacyclic promastigote stage [OPL:0000102]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum merozoite stage [OPL:0000103]	IAO_0000117 [IAO:0000117]	 C. Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni egg [OPL:0000105]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni egg [OPL:0000105]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni egg [OPL:0000105]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 3 week worm stage [OPL:0000106]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 3 week worm stage [OPL:0000106]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 3 week worm stage [OPL:0000107]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 3 week worm stage [OPL:0000107]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	epimastigote stage [OPL:0000108]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	epimastigote stage [OPL:0000108]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium daughter sporocyst [OPL:0000109]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium daughter sporocyst [OPL:0000109]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium daughter sporocyst [OPL:0000109]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont [OPL:0000110]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont [OPL:0000110]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont [OPL:0000110]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic schizont [OPL:0000110]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Schistosoma haematobium 7 week worm stage [OPL:0000111]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 7 week worm stage [OPL:0000111]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni miracidium stage [OPL:0000112]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni miracidium stage [OPL:0000112]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni miracidium stage [OPL:0000112]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst stage [OPL:0000113]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst stage [OPL:0000113]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	amastigote stage [OPL:0000114]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	amastigote stage [OPL:0000114]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite stage [OPL:0000115]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite stage [OPL:0000115]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite stage [OPL:0000115]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite stage [OPL:0000115]	IAO_0000117 [IAO:0000117]	 Priti Parikh	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite stage [OPL:0000115]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Trypanosoma cruzi metacyclic trypomastigote [OPL:0000116]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi metacyclic trypomastigote [OPL:0000116]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum schistosomulum stage [OPL:0000118]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum schistosomulum stage [OPL:0000118]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum schistosomulum stage [OPL:0000118]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	exflagellated microgametocyte stage [OPL:0000119]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	exflagellated microgametocyte stage [OPL:0000119]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 3 hour schistosomulum stage [OPL:0000120]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 3 hour schistosomulum stage [OPL:0000120]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 3 hour schistosomulum stage [OPL:0000120]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 3 day schistosomulum [OPL:0000123]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 3 day schistosomulum [OPL:0000123]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 3 day schistosomulum [OPL:0000123]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 6 day schistosomulum stage [OPL:0000124]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 6 day schistosomulum stage [OPL:0000124]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 6 day schistosomulum stage [OPL:0000124]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium egg stage [OPL:0000125]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium egg stage [OPL:0000125]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium egg stage [OPL:0000125]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum worm [OPL:0000126]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum worm [OPL:0000126]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum worm [OPL:0000126]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	adult female parasitic worm stage [OPL:0000127]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	adult female parasitic worm stage [OPL:0000127]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni worm [OPL:0000128]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni worm [OPL:0000128]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni worm [OPL:0000128]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 24 hour schistosomulum stage [OPL:0000129]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 24 hour schistosomulum stage [OPL:0000129]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum merozoite [OPL:0000130]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum merozoite [OPL:0000130]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma cruzi metacyclic trypomastigote stage [OPL:0000131]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi metacyclic trypomastigote stage [OPL:0000131]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 24 hour schistosomulum [OPL:0000132]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum 24 hour schistosomulum [OPL:0000132]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 24 hour schistosomulum [OPL:0000132]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni egg stage [OPL:0000135]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni egg stage [OPL:0000135]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni egg stage [OPL:0000135]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 7 week worm [OPL:0000136]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 7 week worm [OPL:0000136]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 7 week worm [OPL:0000136]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite [OPL:0000137]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite [OPL:0000137]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite [OPL:0000137]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum sporozoite [OPL:0000137]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst [OPL:0000138]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst [OPL:0000138]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 7 week worm stage [OPL:0000139]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 7 week worm stage [OPL:0000139]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	erythrocytic ring trophozoite stage [OPL:0000140]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	erythrocytic ring trophozoite stage [OPL:0000140]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni mother sporocyst stage [OPL:0000142]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni mother sporocyst stage [OPL:0000142]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni mother sporocyst stage [OPL:0000142]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	microgametocyte stage [OPL:0000143]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	microgametocyte stage [OPL:0000143]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium mother sporocyst [OPL:0000144]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium mother sporocyst [OPL:0000144]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium mother sporocyst [OPL:0000144]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum mother sporocyst [OPL:0000145]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum mother sporocyst [OPL:0000145]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum mother sporocyst [OPL:0000145]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum trophozoite [OPL:0000146]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum trophozoite [OPL:0000146]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum trophozoite [OPL:0000146]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum trophozoite [OPL:0000146]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Schistosoma mansoni sporocyst [OPL:0000147]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni sporocyst [OPL:0000147]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni sporocyst [OPL:0000147]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	7 week parasitic worm stage [OPL:0000148]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	7 week parasitic worm stage [OPL:0000148]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	metacyclic trypomastigote stage [OPL:0000149]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	metacyclic trypomastigote stage [OPL:0000149]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	gametocyte stage [OPL:0000150]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	gametocyte stage [OPL:0000150]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	promastigote stage [OPL:0000151]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	promastigote stage [OPL:0000151]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	sporozoite stage [OPL:0000152]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	sporozoite stage [OPL:0000152]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	ookinete stage [OPL:0000153]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	ookinete stage [OPL:0000153]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	obsolete_Plasmodium falciparum [OPL:0000155]	IAO_0000115 [IAO:0000115]	Plasmodium falciparum is a protozoan parasite, one of the species of Plasmodium that cause malignant malaria in humans. It is transmitted by the female Anopheles mosquito. 	
+WARN	annotation_whitespace	Schistosoma japonicum lifecycle stage [OPL:0000156]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum lifecycle stage [OPL:0000156]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum lifecycle stage [OPL:0000156]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major amastigote stage [OPL:0000157]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major amastigote stage [OPL:0000157]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum schizont stage [OPL:0000158]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum schizont stage [OPL:0000158]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum schizont stage [OPL:0000158]	IAO_0000117 [IAO:0000117]	 P. Parkh	
+WARN	annotation_whitespace	Plasmodium falciparum schizont stage [OPL:0000158]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Schistosoma japonicum 3 day schistosomulum stage [OPL:0000159]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 3 day schistosomulum stage [OPL:0000159]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major procyclic promastigote [OPL:0000160]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major procyclic promastigote [OPL:0000160]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum zygote [OPL:0000161]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum zygote [OPL:0000161]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum zygote [OPL:0000161]	IAO_0000117 [IAO:0000117]	 P. Parkh	
+WARN	annotation_whitespace	Plasmodium falciparum zygote [OPL:0000161]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Plasmodium falciparum exflagellated microgametocyte [OPL:0000162]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum exflagellated microgametocyte [OPL:0000162]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum exflagellated microgametocyte [OPL:0000162]	IAO_0000117 [IAO:0000117]	 Priti Parikh	
+WARN	annotation_whitespace	Schistosoma haematobium daughter sporocyst stage [OPL:0000163]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium daughter sporocyst stage [OPL:0000163]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium daughter sporocyst stage [OPL:0000163]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma cruzi trypomastigote [OPL:0000164]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi trypomastigote [OPL:0000164]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum lifecycle stage [OPL:0000165]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum lifecycle stage [OPL:0000165]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium sporocyst [OPL:0000166]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium sporocyst [OPL:0000166]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium sporocyst [OPL:0000166]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum macrogamete [OPL:0000167]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni cercaria [OPL:0000168]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni cercaria [OPL:0000168]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni cercaria [OPL:0000168]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma cruzi trypomastigote stage [OPL:0000169]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi trypomastigote stage [OPL:0000169]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum microgamete stage [OPL:0000170]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum microgamete stage [OPL:0000170]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	human parasite role [OPL:0000171]	IAO_0000116 [IAO:0000116]	previous def was not about a role. 	
+WARN	annotation_whitespace	24 hour schistosomulum stage [OPL:0000172]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	24 hour schistosomulum stage [OPL:0000172]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	hypnozoite stage [OPL:0000173]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	hypnozoite stage [OPL:0000173]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum microgamete [OPL:0000174]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei trypomastigote stage [OPL:0000175]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei trypomastigote stage [OPL:0000175]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium lifecycle stage [OPL:0000177]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium lifecycle stage [OPL:0000177]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium lifecycle stage [OPL:0000177]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium schistosomulum [OPL:0000178]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium schistosomulum [OPL:0000178]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium schistosomulum [OPL:0000178]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum miracidium [OPL:0000179]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum miracidium [OPL:0000179]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum miracidium [OPL:0000179]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	egg stage [OPL:0000180]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	egg stage [OPL:0000180]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	parasite lifecycle stage [OPL:0000181]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	parasite lifecycle stage [OPL:0000181]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei trypomastigote [OPL:0000182]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei trypomastigote [OPL:0000182]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	3 week parasitic worm stage [OPL:0000183]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	3 week parasitic worm stage [OPL:0000183]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum mother sporocyst stage [OPL:0000184]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum mother sporocyst stage [OPL:0000184]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum mother sporocyst stage [OPL:0000184]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma cruzi lifecycle stage [OPL:0000185]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi lifecycle stage [OPL:0000185]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum sporocyst stage [OPL:0000186]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum sporocyst stage [OPL:0000186]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum sporocyst stage [OPL:0000186]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum ookinete stage [OPL:0000187]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum ookinete stage [OPL:0000187]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major promastigote stage [OPL:0000189]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major promastigote stage [OPL:0000189]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic schizont [OPL:0000190]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic schizont [OPL:0000190]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni daughter sporocyst [OPL:0000191]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni daughter sporocyst [OPL:0000191]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni daughter sporocyst [OPL:0000191]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum gametocyte stage [OPL:0000192]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum gametocyte stage [OPL:0000192]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 3 hour schistosomulum stage [OPL:0000193]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma japonicum 3 hour schistosomulum stage [OPL:0000193]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 3 hour schistosomulum stage [OPL:0000193]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum 24 hour schistosomulum stage [OPL:0000195]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum 24 hour schistosomulum stage [OPL:0000195]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni mother sporocyst [OPL:0000196]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni mother sporocyst [OPL:0000196]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni mother sporocyst [OPL:0000196]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium schistosomulum stage [OPL:0000197]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium schistosomulum stage [OPL:0000197]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium schistosomulum stage [OPL:0000197]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium adult male worm [OPL:0000198]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium adult male worm [OPL:0000198]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium adult male worm [OPL:0000198]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum zygote stage [OPL:0000199]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum zygote stage [OPL:0000199]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium egg [OPL:0000200]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium egg [OPL:0000200]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium egg [OPL:0000200]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 6 day schistosomulum [OPL:0000201]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 6 day schistosomulum [OPL:0000201]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 6 day schistosomulum [OPL:0000201]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 3 week worm stage [OPL:0000202]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 3 week worm stage [OPL:0000202]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni lifecycle stage [OPL:0000203]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni lifecycle stage [OPL:0000203]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni lifecycle stage [OPL:0000203]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major amastigote [OPL:0000204]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major amastigote [OPL:0000204]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium 3 day schistosomulum [OPL:0000205]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium 3 day schistosomulum [OPL:0000205]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium 3 day schistosomulum [OPL:0000205]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte [OPL:0000206]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte [OPL:0000206]	IAO_0000117 [IAO:0000117]	 C. Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte [OPL:0000206]	IAO_0000117 [IAO:0000117]	 J. Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum macrogametocyte [OPL:0000206]	IAO_0000117 [IAO:0000117]	 P. Parkh	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic trophozoite stage [OPL:0000207]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic trophozoite stage [OPL:0000207]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic trophozoite stage [OPL:0000207]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic trophozoite stage [OPL:0000207]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Schistosoma mansoni miracidium [OPL:0000208]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni miracidium [OPL:0000208]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni miracidium [OPL:0000208]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Leishmania major lifecycle stage [OPL:0000209]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Leishmania major lifecycle stage [OPL:0000209]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni cercaria stage [OPL:0000210]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni cercaria stage [OPL:0000210]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni cercaria stage [OPL:0000210]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni worm stage [OPL:0000211]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni worm stage [OPL:0000211]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni worm stage [OPL:0000211]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium mother sporocyst stage [OPL:0000212]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium mother sporocyst stage [OPL:0000212]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium mother sporocyst stage [OPL:0000212]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	vesical venus plexus [OPL:0000213]	IAO_0000115 [IAO:0000115]	The vesical plexus envelops the lower part of the bladder and the base of the prostate and communicates with the pudendal and prostatic plexuses. 	
+WARN	annotation_whitespace	mother sporocyst stage [OPL:0000214]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	mother sporocyst stage [OPL:0000214]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Trypanosoma brucei epimastigote stage [OPL:0000216]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma brucei epimastigote stage [OPL:0000216]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 7 week worm stage [OPL:0000217]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 7 week worm stage [OPL:0000217]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni 6 day schistosomulum [OPL:0000218]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni 6 day schistosomulum [OPL:0000218]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni 6 day schistosomulum [OPL:0000218]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni daughter sporocyst stage [OPL:0000220]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni daughter sporocyst stage [OPL:0000220]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni daughter sporocyst stage [OPL:0000220]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	3 day schistosomulum stage [OPL:0000221]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	3 day schistosomulum stage [OPL:0000221]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	3 day schistosomulum stage [OPL:0000221]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic ring trophozoite [OPL:0000222]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic ring trophozoite [OPL:0000222]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic ring trophozoite [OPL:0000222]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic ring trophozoite [OPL:0000222]	IAO_0000117 [IAO:0000117]	 S. Khan	
+WARN	annotation_whitespace	Trypanosoma cruzi epimastigote stage [OPL:0000223]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Trypanosoma cruzi epimastigote stage [OPL:0000223]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum adult female worm stage [OPL:0000224]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum adult female worm stage [OPL:0000224]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum adult male worm stage [OPL:0000225]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum adult male worm stage [OPL:0000225]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum adult worm [OPL:0000226]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum adult worm [OPL:0000226]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni adult worm [OPL:0000227]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni adult worm [OPL:0000227]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni adult worm [OPL:0000227]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium adult male worm stage [OPL:0000228]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium adult male worm stage [OPL:0000228]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum adult male worm [OPL:0000229]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum adult male worm [OPL:0000229]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni adult male worm stage [OPL:0000230]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni adult male worm stage [OPL:0000230]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni adult female worm [OPL:0000231]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni adult female worm [OPL:0000231]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni adult female worm [OPL:0000231]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium adult worm [OPL:0000233]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium adult worm [OPL:0000233]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium adult worm [OPL:0000233]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium adult female worm stage [OPL:0000234]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium adult female worm stage [OPL:0000234]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma haematobium adult female worm [OPL:0000235]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma haematobium adult female worm [OPL:0000235]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium adult female worm [OPL:0000235]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni adult female worm stage [OPL:0000236]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni adult female worm stage [OPL:0000236]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	adult parasitic worm stage [OPL:0000237]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	adult parasitic worm stage [OPL:0000237]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma japonicum adult female worm [OPL:0000238]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum adult female worm [OPL:0000238]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	adult male parasitic worm stage [OPL:0000239]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	adult male parasitic worm stage [OPL:0000239]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Schistosoma mansoni adult male worm [OPL:0000240]	IAO_0000117 [IAO:0000117]	 Anna Protasio	
+WARN	annotation_whitespace	Schistosoma mansoni adult male worm [OPL:0000240]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni adult male worm [OPL:0000240]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic merozoite [OPL:0000241]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic merozoite [OPL:0000241]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic merozoite [OPL:0000241]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic merozoite [OPL:0000242]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic merozoite [OPL:0000242]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic merozoite [OPL:0000242]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic trophozoite [OPL:0000244]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic trophozoite [OPL:0000244]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic trophozoite [OPL:0000244]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic merozoite stage [OPL:0000245]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic merozoite stage [OPL:0000245]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum erythrocytic merozoite stage [OPL:0000245]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic merozoite stage [OPL:0000246]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic merozoite stage [OPL:0000246]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic merozoite stage [OPL:0000246]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	hepatic merozoite stage [OPL:0000247]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	hepatic merozoite stage [OPL:0000247]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	erythrocytic merozoite stage [OPL:0000248]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	erythrocytic merozoite stage [OPL:0000248]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum gametocyte [OPL:0000249]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum gametocyte [OPL:0000249]	IAO_0000117 [IAO:0000117]	 C. Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum gametocyte [OPL:0000249]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum gametocyte [OPL:0000249]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum gametocyte [OPL:0000249]	IAO_0000117 [IAO:0000117]	 K. Louis	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic trophozoite stage [OPL:0000250]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic trophozoite stage [OPL:0000250]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic trophozoite stage [OPL:0000250]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum trophozoite stage [OPL:0000251]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum trophozoite stage [OPL:0000251]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst-derived sporozoite stage [OPL:0000252]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst-derived sporozoite stage [OPL:0000252]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst-derived sporozoite stage [OPL:0000252]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum salivary gland-derived sporozoite stage [OPL:0000254]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum salivary gland-derived sporozoite stage [OPL:0000254]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum salivary gland-derived sporozoite stage [OPL:0000254]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum salivary gland-derived sporozoite [OPL:0000255]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum salivary gland-derived sporozoite [OPL:0000255]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum salivary gland-derived sporozoite [OPL:0000255]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic trophozoite [OPL:0000257]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic trophozoite [OPL:0000257]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum hepatic trophozoite [OPL:0000257]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum gamete [OPL:0000258]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum gamete [OPL:0000258]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum gamete [OPL:0000258]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst-derived sporozoite [OPL:0000259]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst-derived sporozoite [OPL:0000259]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum oocyst-derived sporozoite [OPL:0000259]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium falciparum gamete stage [OPL:0000262]	IAO_0000117 [IAO:0000117]	 C. Janse	
+WARN	annotation_whitespace	Plasmodium falciparum gamete stage [OPL:0000262]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium falciparum gamete stage [OPL:0000262]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium gamete [OPL:0000264]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium gamete [OPL:0000264]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium macrogamete [OPL:0000265]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium macrogamete [OPL:0000265]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium microgamete [OPL:0000266]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium microgamete [OPL:0000266]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium gametocyte [OPL:0000267]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium gametocyte [OPL:0000267]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium macrogametocyte [OPL:0000268]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium macrogametocyte [OPL:0000268]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium microgametocyte [OPL:0000269]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium microgametocyte [OPL:0000269]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium merozoite [OPL:0000270]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium merozoite [OPL:0000270]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium erythrocytic merozoite [OPL:0000271]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic merozoite [OPL:0000271]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium hepatic merozoite [OPL:0000272]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium hepatic merozoite [OPL:0000272]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium oocyst [OPL:0000273]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium oocyst [OPL:0000273]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium ookinete [OPL:0000274]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium ookinete [OPL:0000274]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium schizont [OPL:0000275]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium schizont [OPL:0000275]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium erythrocytic schizont [OPL:0000276]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic schizont [OPL:0000276]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium hepatic schizont [OPL:0000277]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium hepatic schizont [OPL:0000277]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium sporozoite [OPL:0000278]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium sporozoite [OPL:0000278]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium oocyst-derived sporozoite [OPL:0000279]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium oocyst-derived sporozoite [OPL:0000279]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium salivary gland-derived sporozoite [OPL:0000280]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium salivary gland-derived sporozoite [OPL:0000280]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium trophozoite [OPL:0000281]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium trophozoite [OPL:0000281]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium erythrocytic trophozoite [OPL:0000282]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic trophozoite [OPL:0000282]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium erythrocytic ring trophozoite [OPL:0000283]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic ring trophozoite [OPL:0000283]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium hepatic trophozoite [OPL:0000284]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium hepatic trophozoite [OPL:0000284]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium zygote [OPL:0000285]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium zygote [OPL:0000285]	IAO_0000117 [IAO:0000117]	 Jie Zheng	
+WARN	annotation_whitespace	Plasmodium gamete stage [OPL:0000286]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium macrogamete stage [OPL:0000287]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium microgamete stage [OPL:0000288]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium gametocyte stage [OPL:0000289]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium macrogametocyte stage [OPL:0000290]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium microgametocyte stage [OPL:0000291]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium merozoite stage [OPL:0000292]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic merozoite stage [OPL:0000293]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium hepatic merozoite stage [OPL:0000294]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium oocyst stage [OPL:0000295]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium ookinete stage [OPL:0000296]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium schizont stage [OPL:0000297]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic schizont stage [OPL:0000298]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium hepatic schizont stage [OPL:0000299]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium sporozoite stage [OPL:0000300]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium oocyst-derived sporozoite stage [OPL:0000301]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium oocyst-derived sporozoite stage [OPL:0000301]	IAO_0000117 [IAO:0000117]	 Omar harb	
+WARN	annotation_whitespace	Plasmodium salivary gland-derived sporozoite stage [OPL:0000302]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium salivary gland-derived sporozoite stage [OPL:0000302]	IAO_0000117 [IAO:0000117]	 Omar harb	
+WARN	annotation_whitespace	Plasmodium trophozoite stage [OPL:0000303]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic trophozoite stage [OPL:0000304]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium erythrocytic ring trophozoite stage [OPL:0000305]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium hepatic trophozoite stage [OPL:0000306]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Plasmodium zygote stage [OPL:0000307]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma haematobium adult worm stage [OPL:0000308]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma japonicum adult worm stage [OPL:0000309]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	annotation_whitespace	Schistosoma mansoni adult worm stage [OPL:0000319]	IAO_0000117 [IAO:0000117]	 Chris Stoeckert	
+WARN	missing_definition	has vector [OPL:0000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	has host [OPL:0000065]	IAO_0000115 [IAO:0000115]		
+INFO	missing_superclass	BTO_0000597 [BTO:0000597]	rdfs:subClassOf		
+INFO	missing_superclass	BTO_0001117 [BTO:0001117]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000006 [CARO:0000006]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000182 [CL:0000182]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000232 [CL:0000232]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000235 [CL:0000235]	rdfs:subClassOf		
+INFO	missing_superclass	IDO_0000403 [IDO:0000403]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_157969 [NCBITaxon:157969]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_40674 [NCBITaxon:40674]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_56140 [NCBITaxon:56140]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5664 [NCBITaxon:5664]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5691 [NCBITaxon:5691]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5693 [NCBITaxon:5693]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5820 [NCBITaxon:5820]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_5833 [NCBITaxon:5833]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6182 [NCBITaxon:6182]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6183 [NCBITaxon:6183]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6185 [NCBITaxon:6185]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_6525 [NCBITaxon:6525]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_70999 [NCBITaxon:70999]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_7164 [NCBITaxon:7164]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_7198 [NCBITaxon:7198]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_7393 [NCBITaxon:7393]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_7742 [NCBITaxon:7742]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_9606 [NCBITaxon:9606]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0100026 [OBI:0100026]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000056 [UBERON:0000056]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000105 [UBERON:0000105]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000106 [UBERON:0000106]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000160 [UBERON:0000160]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0000178 [UBERON:0000178]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001044 [UBERON:0001044]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001045 [UBERON:0001045]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001046 [UBERON:0001046]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001255 [UBERON:0001255]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0001359 [UBERON:0001359]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002048 [UBERON:0002048]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002097 [UBERON:0002097]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0002107 [UBERON:0002107]	rdfs:subClassOf		
+INFO	missing_superclass	UBERON_0005617 [UBERON:0005617]	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		

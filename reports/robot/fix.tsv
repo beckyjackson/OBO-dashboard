@@ -1,0 +1,1176 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	fix.owl	dc11:description		
+ERROR	duplicate_label	total correlated spectroscopy [FIX:0000133]	label [rdfs:label]	total correlated spectroscopy	
+ERROR	duplicate_label	total correlated spectroscopy [FIX:0000556]	label [rdfs:label]	total correlated spectroscopy	
+ERROR	duplicate_label	HN(CA)NNH experiment [FIX:0000559]	label [rdfs:label]	HN(CA)NNH experiment	
+ERROR	duplicate_label	HN(CA)NNH experiment [FIX:0000575]	label [rdfs:label]	HN(CA)NNH experiment	
+ERROR	duplicate_label	HA[CAN]HN experiment [FIX:0000546]	label [rdfs:label]	HA[CAN]HN experiment	
+ERROR	duplicate_label	HA[CAN]HN experiment [FIX:0000576]	label [rdfs:label]	HA[CAN]HN experiment	
+ERROR	duplicate_label	3D TOCSY-NOESY [FIX:0000146]	label [rdfs:label]	3D TOCSY-NOESY	
+ERROR	duplicate_label	3D TOCSY-NOESY [FIX:0000193]	label [rdfs:label]	3D TOCSY-NOESY	
+ERROR	missing_ontology_license	fix.owl	dc:license		
+ERROR	missing_ontology_title	fix.owl	dc11:title		
+WARN	missing_definition	biophysical chemistry [FIX:0000000]	IAO:0000115		
+WARN	missing_definition	physical method [FIX:0000001]	IAO:0000115		
+WARN	missing_definition	separation method [FIX:0000002]	IAO:0000115		
+WARN	missing_definition	spectroscopy [FIX:0000003]	IAO:0000115		
+WARN	missing_definition	crystallography [FIX:0000004]	IAO:0000115		
+WARN	missing_definition	microscopy [FIX:0000005]	IAO:0000115		
+WARN	missing_definition	electroanalytical method by electrode type [FIX:0000006]	IAO:0000115		
+WARN	missing_definition	X-ray crystallography [FIX:0000007]	IAO:0000115		
+WARN	missing_definition	neutron crystallography [FIX:0000008]	IAO:0000115		
+WARN	missing_definition	electron crystallography [FIX:0000009]	IAO:0000115		
+WARN	missing_definition	vibrational spectroscopy [FIX:0000010]	IAO:0000115		
+WARN	missing_definition	molecular electronic absorption spectroscopy [FIX:0000011]	IAO:0000115		
+WARN	missing_definition	magnetic resonance spectroscopy [FIX:0000012]	IAO:0000115		
+WARN	missing_definition	electromagnetic spectroscopy [FIX:0000013]	IAO:0000115		
+WARN	missing_definition	optical spectroscopy [FIX:0000014]	IAO:0000115		
+WARN	missing_definition	infrared spectroscopy [FIX:0000015]	IAO:0000115		
+WARN	missing_definition	ultraviolet/visible spectroscopy [FIX:0000016]	IAO:0000115		
+WARN	missing_definition	radio-frequency spectroscopy [FIX:0000017]	IAO:0000115		
+WARN	missing_definition	microwave spectroscopy [FIX:0000018]	IAO:0000115		
+WARN	missing_definition	X-ray spectroscopy [FIX:0000019]	IAO:0000115		
+WARN	missing_definition	absorption spectroscopy [FIX:0000020]	IAO:0000115		
+WARN	missing_definition	emission spectroscopy [FIX:0000021]	IAO:0000115		
+WARN	missing_definition	nuclear magnetic resonance spectroscopy [FIX:0000022]	IAO:0000115		
+WARN	missing_definition	electron paramagnetic resonance spectroscopy [FIX:0000023]	IAO:0000115		
+WARN	missing_definition	electron-nuclear double resonance spectroscopy [FIX:0000024]	IAO:0000115		
+WARN	missing_definition	X-ray absorption near edge structure [FIX:0000025]	IAO:0000115		
+WARN	missing_definition	non-resonance Raman spectroscopy [FIX:0000026]	IAO:0000115		
+WARN	missing_definition	luminescence spectroscopy [FIX:0000027]	IAO:0000115		
+WARN	missing_definition	fluorescence spectroscopy [FIX:0000028]	IAO:0000115		
+WARN	missing_definition	phosphorescence spectroscopy [FIX:0000029]	IAO:0000115		
+WARN	missing_definition	molecular spectroscopy by energy state [FIX:0000030]	IAO:0000115		
+WARN	missing_definition	rotational spectroscopy [FIX:0000031]	IAO:0000115		
+WARN	missing_definition	electronic spectroscopy [FIX:0000032]	IAO:0000115		
+WARN	missing_definition	continuous-wave EPR [FIX:0000033]	IAO:0000115		
+WARN	missing_definition	pulse EPR [FIX:0000034]	IAO:0000115		
+WARN	missing_definition	electron spin echo envelope modulation spectroscopy [FIX:0000035]	IAO:0000115		
+WARN	missing_definition	two-pulse ESEEM [FIX:0000036]	IAO:0000115		
+WARN	missing_definition	three-pulse ESEEM [FIX:0000037]	IAO:0000115		
+WARN	missing_definition	pulse ENDOR [FIX:0000038]	IAO:0000115		
+WARN	missing_definition	continuous-wave ENDOR [FIX:0000039]	IAO:0000115		
+WARN	missing_definition	photoelectron emission spectroscopy [FIX:0000040]	IAO:0000115		
+WARN	missing_definition	X-ray photoelectron spectroscopy [FIX:0000041]	IAO:0000115		
+WARN	missing_definition	ultraviolet photoelectron spectroscopy [FIX:0000042]	IAO:0000115		
+WARN	missing_definition	circular dichroism spectroscopy [FIX:0000043]	IAO:0000115		
+WARN	missing_definition	magnetic circular dichroism spectroscopy [FIX:0000044]	IAO:0000115		
+WARN	missing_definition	optical rotatory dispersion spectroscopy [FIX:0000045]	IAO:0000115		
+WARN	missing_definition	magnetic field method [FIX:0000046]	IAO:0000115		
+WARN	missing_definition	mass spectrometry [FIX:0000047]	IAO:0000115		
+WARN	missing_definition	magnetic susceptibility measurement [FIX:0000048]	IAO:0000115		
+WARN	missing_definition	gamma-ray spectroscopy [FIX:0000049]	IAO:0000115		
+WARN	missing_definition	Mossbauer spectroscopy [FIX:0000050]	IAO:0000115		
+WARN	missing_definition	electron microscopy [FIX:0000051]	IAO:0000115		
+WARN	missing_definition	cryo-electron microscopy [FIX:0000052]	IAO:0000115		
+WARN	missing_definition	chromatography [FIX:0000053]	IAO:0000115		
+WARN	missing_definition	atomic spectroscopy [FIX:0000054]	IAO:0000115		
+WARN	missing_definition	one-dimensional NMR [FIX:0000055]	IAO:0000115		
+WARN	missing_definition	two-dimensional NMR [FIX:0000056]	IAO:0000115		
+WARN	missing_definition	scattering spectroscopy [FIX:0000057]	IAO:0000115		
+WARN	missing_definition	Raman spectroscopy [FIX:0000058]	IAO:0000115		
+WARN	missing_definition	Rayleigh scattering [FIX:0000059]	IAO:0000115		
+WARN	missing_definition	resonance Raman spectroscopy [FIX:0000060]	IAO:0000115		
+WARN	missing_definition	spectroscopy by object [FIX:0000061]	IAO:0000115		
+WARN	missing_definition	spectroscopy by radiation type [FIX:0000062]	IAO:0000115		
+WARN	missing_definition	molecular spectroscopy [FIX:0000063]	IAO:0000115		
+WARN	missing_definition	electron spectroscopy [FIX:0000064]	IAO:0000115		
+WARN	missing_definition	spectroscopy by radiation behaviour [FIX:0000065]	IAO:0000115		
+WARN	missing_definition	potentiometric titration [FIX:0000066]	IAO:0000115		
+WARN	missing_definition	reflection spectroscopy [FIX:0000067]	IAO:0000115		
+WARN	missing_definition	metal K-edge XAS [FIX:0000068]	IAO:0000115		
+WARN	missing_definition	metal L-edge XAS [FIX:0000069]	IAO:0000115		
+WARN	missing_definition	ligand K-edge XAS [FIX:0000070]	IAO:0000115		
+WARN	missing_definition	crystal spectroscopy [FIX:0000071]	IAO:0000115		
+WARN	missing_definition	electric field method [FIX:0000072]	IAO:0000115		
+WARN	missing_definition	X-ray scattering [FIX:0000073]	IAO:0000115		
+WARN	missing_definition	Stark spectroscopy [FIX:0000074]	IAO:0000115		
+WARN	missing_definition	coherent anti-Stokes Raman spectroscopy [FIX:0000075]	IAO:0000115		
+WARN	missing_definition	surface enhanced Raman spectroscopy [FIX:0000076]	IAO:0000115		
+WARN	missing_definition	surface enhanced resonance Raman spectroscopy [FIX:0000077]	IAO:0000115		
+WARN	missing_definition	surface enhanced non-resonance Raman spectroscopy [FIX:0000078]	IAO:0000115		
+WARN	missing_definition	electrospray ionization mass spectroscopy [FIX:0000079]	IAO:0000115		
+WARN	missing_definition	laser ionization mass spectrometry [FIX:0000080]	IAO:0000115		
+WARN	missing_definition	matrix-assisted laser desorption/ionization mass spectrometry [FIX:0000081]	IAO:0000115		
+WARN	missing_definition	time-of-flight mass spectrometry [FIX:0000082]	IAO:0000115		
+WARN	missing_definition	Fourier transform-ion cyclotron resonance mass spectrometry [FIX:0000083]	IAO:0000115		
+WARN	missing_definition	tandem mass spectrometry [FIX:0000084]	IAO:0000115		
+WARN	missing_definition	mass spectrometry by ionization method [FIX:0000085]	IAO:0000115		
+WARN	missing_definition	fast atom bombardment mass spectrometry [FIX:0000086]	IAO:0000115		
+WARN	missing_definition	field desorption mass spectrometry [FIX:0000087]	IAO:0000115		
+WARN	missing_definition	chemical ionization mass spectrometry [FIX:0000088]	IAO:0000115		
+WARN	missing_definition	electron ionization mass spectrometry [FIX:0000089]	IAO:0000115		
+WARN	missing_definition	mass spectrometry by mass analyser [FIX:0000090]	IAO:0000115		
+WARN	missing_definition	electric field mass spectroscopy [FIX:0000091]	IAO:0000115		
+WARN	missing_definition	magnetic field mass spectrometry [FIX:0000092]	IAO:0000115		
+WARN	missing_definition	magnetic sector mass spectrometry [FIX:0000093]	IAO:0000115		
+WARN	missing_definition	quadrupole mass spectrometry [FIX:0000094]	IAO:0000115		
+WARN	missing_definition	quadrupole ion trap mass spectrometry [FIX:0000095]	IAO:0000115		
+WARN	missing_definition	physico-chemical method [FIX:0000096]	IAO:0000115		
+WARN	missing_definition	electrophoresis [FIX:0000097]	IAO:0000115		
+WARN	missing_definition	gas chromatography [FIX:0000098]	IAO:0000115		
+WARN	missing_definition	cyclic voltammetry [FIX:0000099]	IAO:0000115		
+WARN	missing_definition	X-ray emission spectroscopy [FIX:0000100]	IAO:0000115		
+WARN	missing_definition	particle-induced X-ray emission spectroscopy [FIX:0000101]	IAO:0000115		
+WARN	missing_definition	proton-induced X-ray emission spectroscopy [FIX:0000102]	IAO:0000115		
+WARN	missing_definition	separation by molecular size [FIX:0000103]	IAO:0000115		
+WARN	missing_definition	energy-dispersive spectroscopy [FIX:0000104]	IAO:0000115		
+WARN	missing_definition	electron probe microanalysis [FIX:0000105]	IAO:0000115		
+WARN	missing_definition	extended X-ray absorption fine structure [FIX:0000106]	IAO:0000115		
+WARN	missing_definition	X-ray absorption spectroscopy [FIX:0000107]	IAO:0000115		
+WARN	missing_definition	steady state fluorescence spectroscopy [FIX:0000108]	IAO:0000115		
+WARN	missing_definition	time-resolved fluorescence spectroscopy [FIX:0000109]	IAO:0000115		
+WARN	missing_definition	Fourier transform infrared spectroscopy [FIX:0000110]	IAO:0000115		
+WARN	missing_definition	single molecule fluorescence spectroscopy [FIX:0000111]	IAO:0000115		
+WARN	missing_definition	scanning tunneling microscopy [FIX:0000112]	IAO:0000115		
+WARN	missing_definition	optical microscopy [FIX:0000113]	IAO:0000115		
+WARN	missing_definition	atomic force microscopy [FIX:0000114]	IAO:0000115		
+WARN	missing_definition	lateral force microscopy [FIX:0000115]	IAO:0000115		
+WARN	missing_definition	contact AFM [FIX:0000116]	IAO:0000115		
+WARN	missing_definition	non-contact AFM [FIX:0000117]	IAO:0000115		
+WARN	missing_definition	magnetic force microscopy [FIX:0000118]	IAO:0000115		
+WARN	missing_definition	electric force microscopy [FIX:0000119]	IAO:0000115		
+WARN	missing_definition	scanning surface potential microscopy [FIX:0000120]	IAO:0000115		
+WARN	missing_definition	scanning probe microscopy [FIX:0000121]	IAO:0000115		
+WARN	missing_definition	secondary ion mass spectrometry [FIX:0000122]	IAO:0000115		
+WARN	missing_definition	fluorescence microscopy [FIX:0000123]	IAO:0000115		
+WARN	missing_definition	scanning electron microscopy [FIX:0000124]	IAO:0000115		
+WARN	missing_definition	magnetic resonance force microscopy [FIX:0000125]	IAO:0000115		
+WARN	missing_definition	transmission electron microscopy [FIX:0000126]	IAO:0000115		
+WARN	missing_definition	polarized light method [FIX:0000127]	IAO:0000115		
+WARN	missing_definition	fluorescence anisotropy measurement [FIX:0000128]	IAO:0000115		
+WARN	missing_definition	time-resolved fluorescence anisotropy measurement [FIX:0000129]	IAO:0000115		
+WARN	missing_definition	plane polarized light method [FIX:0000130]	IAO:0000115		
+WARN	missing_definition	circularly polarized light method [FIX:0000131]	IAO:0000115		
+WARN	missing_definition	NMR by nucleus type [FIX:0000132]	IAO:0000115		
+WARN	missing_definition	total correlated spectroscopy [FIX:0000133]	IAO:0000115		
+WARN	missing_definition	proton magnetic resonance spectroscopy [FIX:0000134]	IAO:0000115		
+WARN	missing_definition	carbon-13 magnetic resonance spectroscopy [FIX:0000135]	IAO:0000115		
+WARN	missing_definition	nitrogen-15 magnetic resonance spectroscopy [FIX:0000136]	IAO:0000115		
+WARN	missing_definition	fluorine-19 magnetic resonance spectroscopy [FIX:0000137]	IAO:0000115		
+WARN	missing_definition	phosphorus-31 magnetic resonance spectroscopy [FIX:0000138]	IAO:0000115		
+WARN	missing_definition	xenon-129 magnetic resonance spectroscopy [FIX:0000139]	IAO:0000115		
+WARN	missing_definition	NMR by dimensionality [FIX:0000140]	IAO:0000115		
+WARN	missing_definition	heteronuclear correlation spectroscopy [FIX:0000141]	IAO:0000115		
+WARN	missing_definition	1H-1H nuclear Overhauser effect spectroscopy [FIX:0000142]	IAO:0000115		
+WARN	missing_definition	nuclear Overhauser effect method [FIX:0000143]	IAO:0000115		
+WARN	missing_definition	three-dimensional NMR [FIX:0000144]	IAO:0000115		
+WARN	missing_definition	four-dimensional NMR [FIX:0000145]	IAO:0000115		
+WARN	missing_definition	3D TOCSY-NOESY [FIX:0000146]	IAO:0000115		
+WARN	missing_definition	heteronuclear 2D NMR [FIX:0000147]	IAO:0000115		
+WARN	missing_definition	heteronuclear single quantum correlation spectroscopy [FIX:0000148]	IAO:0000115		
+WARN	missing_definition	heteronuclear multiple quantum correlation spectroscopy [FIX:0000149]	IAO:0000115		
+WARN	missing_definition	rotational nuclear Overhauser effect spectroscopy [FIX:0000150]	IAO:0000115		
+WARN	missing_definition	3D NOESY-HSQC [FIX:0000151]	IAO:0000115		
+WARN	missing_definition	3D TOCSY-HSQC [FIX:0000152]	IAO:0000115		
+WARN	missing_definition	triple resonance spectroscopy [FIX:0000153]	IAO:0000115		
+WARN	missing_definition	HNCO experiment [FIX:0000154]	IAO:0000115		
+WARN	missing_definition	HNCA experiment [FIX:0000155]	IAO:0000115		
+WARN	missing_definition	HN(CO)CA experiment [FIX:0000156]	IAO:0000115		
+WARN	missing_definition	HN(CA)CO experiment [FIX:0000157]	IAO:0000115		
+WARN	missing_definition	HBHA(CBCA)NH experiment [FIX:0000158]	IAO:0000115		
+WARN	missing_definition	HBHA(CBCACO)NH experiment [FIX:0000159]	IAO:0000115		
+WARN	missing_definition	CBCANH experiment [FIX:0000160]	IAO:0000115		
+WARN	missing_definition	CBCA(CO)NH experiment [FIX:0000161]	IAO:0000115		
+WARN	missing_definition	HCACO experiment [FIX:0000162]	IAO:0000115		
+WARN	missing_definition	HCCH-TOCSY [FIX:0000163]	IAO:0000115		
+WARN	missing_definition	13C-TOCSY-HSQC [FIX:0000164]	IAO:0000115		
+WARN	missing_definition	combined electron and nuclear magnetic resonance spectroscopy [FIX:0000165]	IAO:0000115		
+WARN	missing_definition	dynamic nuclear polarization [FIX:0000166]	IAO:0000115		
+WARN	missing_definition	electron-nuclear triple resonance spectroscopy [FIX:0000167]	IAO:0000115		
+WARN	missing_definition	general TRIPLE [FIX:0000168]	IAO:0000115		
+WARN	missing_definition	special TRIPLE [FIX:0000169]	IAO:0000115		
+WARN	missing_definition	WEFT-NOESY [FIX:0000170]	IAO:0000115		
+WARN	missing_definition	electron-electron double resonance spectroscopy [FIX:0000171]	IAO:0000115		
+WARN	missing_definition	pulse ELDOR [FIX:0000172]	IAO:0000115		
+WARN	missing_definition	field-step ELDOR [FIX:0000173]	IAO:0000115		
+WARN	missing_definition	phase sensitive COSY [FIX:0000174]	IAO:0000115		
+WARN	missing_definition	double quantum filtered COSY [FIX:0000175]	IAO:0000115		
+WARN	missing_definition	relay-COSY [FIX:0000176]	IAO:0000115		
+WARN	missing_definition	gradient selected TOCSY [FIX:0000177]	IAO:0000115		
+WARN	missing_definition	X-detected heteronuclear 2D NMR [FIX:0000178]	IAO:0000115		
+WARN	missing_definition	H-detected heteronuclear 2D NMR [FIX:0000179]	IAO:0000115		
+WARN	missing_definition	heteronuclear multiple bond correlation spectroscopy [FIX:0000180]	IAO:0000115		
+WARN	missing_definition	NMR by coupling type [FIX:0000181]	IAO:0000115		
+WARN	missing_definition	2D TOCSY-HSQC [FIX:0000182]	IAO:0000115		
+WARN	missing_definition	2D NOESY-HSQC [FIX:0000183]	IAO:0000115		
+WARN	missing_definition	double 2D NMR experiment [FIX:0000184]	IAO:0000115		
+WARN	missing_definition	spin-spin coupling NMR [FIX:0000185]	IAO:0000115		
+WARN	missing_definition	spin-lattice relaxation time measurement [FIX:0000186]	IAO:0000115		
+WARN	missing_definition	dipole-dipole coupling [FIX:0000187]	IAO:0000115		
+WARN	missing_definition	correlated long range coupling [FIX:0000188]	IAO:0000115		
+WARN	missing_definition	1H-1H correlated spectroscopy [FIX:0000189]	IAO:0000115		
+WARN	missing_definition	3D COSY-NOESY [FIX:0000190]	IAO:0000115		
+WARN	missing_definition	3D NOESY-COSY [FIX:0000191]	IAO:0000115		
+WARN	missing_definition	3D NOESY-TOCSY [FIX:0000192]	IAO:0000115		
+WARN	missing_definition	3D TOCSY-NOESY [FIX:0000193]	IAO:0000115		
+WARN	missing_definition	paramagnetic signals enhancement NMR [FIX:0000194]	IAO:0000115		
+WARN	missing_definition	3D HMQC-COSY [FIX:0000195]	IAO:0000115		
+WARN	missing_definition	3D HMQC-TOCSY [FIX:0000196]	IAO:0000115		
+WARN	missing_definition	3D HMQC-NOESY [FIX:0000197]	IAO:0000115		
+WARN	missing_definition	3D NOESY-HMQC [FIX:0000198]	IAO:0000115		
+WARN	missing_definition	PASE-NOESY [FIX:0000199]	IAO:0000115		
+WARN	missing_definition	PASE-NOE [FIX:0000200]	IAO:0000115		
+WARN	missing_definition	NMR parameter measurement [FIX:0000201]	IAO:0000115		
+WARN	missing_definition	relaxation time measurement [FIX:0000202]	IAO:0000115		
+WARN	missing_definition	nuclear Overhauser effect difference spectroscopy [FIX:0000203]	IAO:0000115		
+WARN	missing_definition	spin-spin relaxation time measurement [FIX:0000204]	IAO:0000115		
+WARN	missing_definition	chemical shift measurement [FIX:0000205]	IAO:0000115		
+WARN	missing_definition	coupling constant measurement [FIX:0000206]	IAO:0000115		
+WARN	missing_definition	scalar coupling constant measurement [FIX:0000207]	IAO:0000115		
+WARN	missing_definition	quadrupolar coupling constant measurement [FIX:0000208]	IAO:0000115		
+WARN	missing_definition	spin relaxation method [FIX:0000209]	IAO:0000115		
+WARN	missing_definition	dipole-dipole relaxation method [FIX:0000210]	IAO:0000115		
+WARN	missing_definition	inversion recovery [FIX:0000211]	IAO:0000115		
+WARN	missing_definition	Hahn spin-echo sequence [FIX:0000212]	IAO:0000115		
+WARN	missing_definition	progressive saturation [FIX:0000213]	IAO:0000115		
+WARN	missing_definition	crystallization [FIX:0000214]	IAO:0000115		
+WARN	missing_definition	Carr-Purcell-Meiboom-Gill sequence [FIX:0000215]	IAO:0000115		
+WARN	missing_definition	multiple isomorphous replacement [FIX:0000216]	IAO:0000115		
+WARN	missing_definition	diffraction method [FIX:0000217]	IAO:0000115		
+WARN	missing_definition	X-ray diffraction method [FIX:0000218]	IAO:0000115		
+WARN	missing_definition	electron diffraction method [FIX:0000219]	IAO:0000115		
+WARN	missing_definition	neutron diffraction method [FIX:0000220]	IAO:0000115		
+WARN	missing_definition	phasing method [FIX:0000221]	IAO:0000115		
+WARN	missing_definition	multiple wavelength anomalous diffraction [FIX:0000222]	IAO:0000115		
+WARN	missing_definition	small-angle X-ray scattering [FIX:0000223]	IAO:0000115		
+WARN	missing_definition	single wavelength anomalous diffraction [FIX:0000224]	IAO:0000115		
+WARN	missing_definition	protein film voltammetry [FIX:0000225]	IAO:0000115		
+WARN	missing_definition	direct phasing method [FIX:0000226]	IAO:0000115		
+WARN	missing_definition	magnetic optical rotatory dispersion spectroscopy [FIX:0000227]	IAO:0000115		
+WARN	missing_definition	linear dichroism [FIX:0000228]	IAO:0000115		
+WARN	missing_definition	magnetic linear dichroism [FIX:0000229]	IAO:0000115		
+WARN	missing_definition	polarimetry [FIX:0000230]	IAO:0000115		
+WARN	missing_definition	vibrational circular dichroism spectroscopy [FIX:0000231]	IAO:0000115		
+WARN	missing_definition	UV-Vis circular dichroism spectroscopy [FIX:0000232]	IAO:0000115		
+WARN	missing_definition	magnetic vibrational circular dichroism [FIX:0000233]	IAO:0000115		
+WARN	missing_definition	magnetic UV-Vis circular dichroism spectroscopy [FIX:0000234]	IAO:0000115		
+WARN	missing_definition	photoluminescencence spectroscopy [FIX:0000235]	IAO:0000115		
+WARN	missing_definition	luminescence spectroscopy by excitation mode [FIX:0000236]	IAO:0000115		
+WARN	missing_definition	luminescence spectroscopy by excited state [FIX:0000237]	IAO:0000115		
+WARN	missing_definition	chemiluminescence spectroscopy [FIX:0000238]	IAO:0000115		
+WARN	missing_definition	thermoluminescence spectroscopy [FIX:0000239]	IAO:0000115		
+WARN	missing_definition	delayed fluorescence spectroscopy [FIX:0000240]	IAO:0000115		
+WARN	missing_definition	EPR-monitored redox titration [FIX:0000241]	IAO:0000115		
+WARN	missing_definition	heavy atom derivative preparation [FIX:0000242]	IAO:0000115		
+WARN	missing_definition	co-crystallization with heavy atom compound [FIX:0000243]	IAO:0000115		
+WARN	missing_definition	soaking in heavy atom compound solution [FIX:0000244]	IAO:0000115		
+WARN	missing_definition	isomorphous replacement [FIX:0000245]	IAO:0000115		
+WARN	missing_definition	single isomorphous replacement [FIX:0000246]	IAO:0000115		
+WARN	missing_definition	multiple isomorphous replacement with anomalous scattering [FIX:0000247]	IAO:0000115		
+WARN	missing_definition	single isomorphous replacement with anomalous scattering [FIX:0000248]	IAO:0000115		
+WARN	missing_definition	multiple MAD [FIX:0000249]	IAO:0000115		
+WARN	missing_definition	cryocrystallography [FIX:0000250]	IAO:0000115		
+WARN	missing_definition	molecular replacement [FIX:0000251]	IAO:0000115		
+WARN	missing_definition	small-angle scattering [FIX:0000252]	IAO:0000115		
+WARN	missing_definition	small-angle neutron scattering [FIX:0000253]	IAO:0000115		
+WARN	missing_definition	small-angle light scattering [FIX:0000254]	IAO:0000115		
+WARN	missing_definition	analytical centrifugation [FIX:0000255]	IAO:0000115		
+WARN	missing_definition	Shake-and-Bake method [FIX:0000256]	IAO:0000115		
+WARN	missing_definition	heavy atom labelling of recombinant proteins [FIX:0000257]	IAO:0000115		
+WARN	missing_definition	preparative method [FIX:0000258]	IAO:0000115		
+WARN	missing_definition	centrifugation [FIX:0000259]	IAO:0000115		
+WARN	missing_definition	ultracentrifugation [FIX:0000260]	IAO:0000115		
+WARN	missing_definition	low speed centrifugation [FIX:0000261]	IAO:0000115		
+WARN	missing_definition	preparative centrifugation [FIX:0000262]	IAO:0000115		
+WARN	missing_definition	rate zonal centrifugation [FIX:0000263]	IAO:0000115		
+WARN	missing_definition	differential centrifugation [FIX:0000264]	IAO:0000115		
+WARN	missing_definition	isopycnic centrifugation [FIX:0000265]	IAO:0000115		
+WARN	missing_definition	sedimentation velocity experiment [FIX:0000266]	IAO:0000115		
+WARN	missing_definition	sedimentation equilibrium experiment [FIX:0000267]	IAO:0000115		
+WARN	missing_definition	physico-chemical property [FIX:0000268]	IAO:0000115		
+WARN	missing_definition	paramagnetic centre property [FIX:0000269]	IAO:0000115		
+WARN	missing_definition	molecular mass [FIX:0000270]	IAO:0000115		
+WARN	missing_definition	molecular size [FIX:0000271]	IAO:0000115		
+WARN	missing_definition	molecular hydration [FIX:0000272]	IAO:0000115		
+WARN	missing_definition	molecular shape [FIX:0000273]	IAO:0000115		
+WARN	missing_definition	optical activity [FIX:0000274]	IAO:0000115		
+WARN	missing_definition	molecular charge [FIX:0000275]	IAO:0000115		
+WARN	missing_definition	molecular property [FIX:0000276]	IAO:0000115		
+WARN	missing_definition	reaction property [FIX:0000277]	IAO:0000115		
+WARN	missing_definition	redox potential [FIX:0000278]	IAO:0000115		
+WARN	missing_definition	Gibbs free energy change [FIX:0000279]	IAO:0000115		
+WARN	missing_definition	Gibbs free energy of activation [FIX:0000280]	IAO:0000115		
+WARN	missing_definition	redox reaction property [FIX:0000281]	IAO:0000115		
+WARN	missing_definition	system property [FIX:0000282]	IAO:0000115		
+WARN	missing_definition	redox system property [FIX:0000283]	IAO:0000115		
+WARN	missing_definition	redox state [FIX:0000284]	IAO:0000115		
+WARN	missing_definition	redox potential change [FIX:0000285]	IAO:0000115		
+WARN	missing_definition	supramolecular property [FIX:0000286]	IAO:0000115		
+WARN	missing_definition	electron spin state [FIX:0000287]	IAO:0000115		
+WARN	missing_definition	covalent structure [FIX:0000288]	IAO:0000115		
+WARN	missing_definition	conformation [FIX:0000289]	IAO:0000115		
+WARN	missing_definition	atomic fluorescence spectroscopy [FIX:0000290]	IAO:0000115		
+WARN	missing_definition	protein disulfide bond structure [FIX:0000291]	IAO:0000115		
+WARN	missing_definition	macromolecule mapping method [FIX:0000292]	IAO:0000115		
+WARN	missing_definition	amino acid sequence [FIX:0000293]	IAO:0000115		
+WARN	missing_definition	protein quaternary structure [FIX:0000294]	IAO:0000115		
+WARN	missing_definition	membrane protein topology [FIX:0000295]	IAO:0000115		
+WARN	missing_definition	cell membrane property [FIX:0000296]	IAO:0000115		
+WARN	missing_definition	cell membrane potential [FIX:0000297]	IAO:0000115		
+WARN	missing_definition	cell membrane permeability [FIX:0000298]	IAO:0000115		
+WARN	missing_definition	cell membrane viscosity [FIX:0000299]	IAO:0000115		
+WARN	missing_definition	primary structure [FIX:0000300]	IAO:0000115		
+WARN	missing_definition	spin marker method [FIX:0000301]	IAO:0000115		
+WARN	missing_definition	cell membrane thickness [FIX:0000302]	IAO:0000115		
+WARN	missing_definition	photochemical method [FIX:0000303]	IAO:0000115		
+WARN	missing_definition	phospholipid micelle structure [FIX:0000304]	IAO:0000115		
+WARN	missing_definition	molecular structure [FIX:0000305]	IAO:0000115		
+WARN	missing_definition	macromolecular structure [FIX:0000306]	IAO:0000115		
+WARN	missing_definition	helical structure [FIX:0000307]	IAO:0000115		
+WARN	missing_definition	secondary structure [FIX:0000308]	IAO:0000115		
+WARN	missing_definition	tertiary structure [FIX:0000309]	IAO:0000115		
+WARN	missing_definition	quaternary structure [FIX:0000310]	IAO:0000115		
+WARN	missing_definition	photoreactive nucleobase substitution [FIX:0000311]	IAO:0000115		
+WARN	missing_definition	nucleotide sequence [FIX:0000312]	IAO:0000115		
+WARN	missing_definition	DNA sequence [FIX:0000313]	IAO:0000115		
+WARN	missing_definition	RNA sequence [FIX:0000314]	IAO:0000115		
+WARN	missing_definition	protein secondary structure [FIX:0000315]	IAO:0000115		
+WARN	missing_definition	nucleic acid secondary structure [FIX:0000316]	IAO:0000115		
+WARN	missing_definition	metal centre structure [FIX:0000317]	IAO:0000115		
+WARN	missing_definition	extended structure [FIX:0000318]	IAO:0000115		
+WARN	missing_definition	alpha-helix [FIX:0000319]	IAO:0000115		
+WARN	missing_definition	pi-helix [FIX:0000320]	IAO:0000115		
+WARN	missing_definition	near-infrared spectroscopy [FIX:0000321]	IAO:0000115		
+WARN	missing_definition	antiparallel beta-sheet [FIX:0000322]	IAO:0000115		
+WARN	missing_definition	parallel beta-sheet [FIX:0000323]	IAO:0000115		
+WARN	missing_definition	reverse turn [FIX:0000324]	IAO:0000115		
+WARN	missing_definition	polyproline I helix [FIX:0000325]	IAO:0000115		
+WARN	missing_definition	polyproline II helix [FIX:0000326]	IAO:0000115		
+WARN	missing_definition	protein structure [FIX:0000327]	IAO:0000115		
+WARN	missing_definition	nucleic acid structure [FIX:0000328]	IAO:0000115		
+WARN	missing_definition	DNA structure [FIX:0000329]	IAO:0000115		
+WARN	missing_definition	RNA structure [FIX:0000330]	IAO:0000115		
+WARN	missing_definition	disulfide bond structure [FIX:0000331]	IAO:0000115		
+WARN	missing_definition	protein domain structure [FIX:0000332]	IAO:0000115		
+WARN	missing_definition	protein active site structure [FIX:0000333]	IAO:0000115		
+WARN	missing_definition	protein tertiary structure [FIX:0000334]	IAO:0000115		
+WARN	missing_definition	nucleic acid tertiary structure [FIX:0000335]	IAO:0000115		
+WARN	missing_definition	polysaccharide structure [FIX:0000336]	IAO:0000115		
+WARN	missing_definition	glycoprotein structure [FIX:0000337]	IAO:0000115		
+WARN	missing_definition	glycoprotein tertiary structure [FIX:0000338]	IAO:0000115		
+WARN	missing_definition	photoaffinity labelling [FIX:0000339]	IAO:0000115		
+WARN	missing_definition	protein mapping method [FIX:0000340]	IAO:0000115		
+WARN	missing_definition	supramolecular structure [FIX:0000341]	IAO:0000115		
+WARN	missing_definition	prosthetic group structure [FIX:0000342]	IAO:0000115		
+WARN	missing_definition	protein hydrolysis [FIX:0000343]	IAO:0000115		
+WARN	missing_definition	lipoprotein structure [FIX:0000344]	IAO:0000115		
+WARN	missing_definition	protein active site residues [FIX:0000345]	IAO:0000115		
+WARN	missing_definition	protein photoaffinity labelling [FIX:0000346]	IAO:0000115		
+WARN	missing_definition	nucleic acid photoaffinity labelling [FIX:0000347]	IAO:0000115		
+WARN	missing_definition	DNA photoaffinity labelling [FIX:0000348]	IAO:0000115		
+WARN	missing_definition	RNA photoaffinity labelling [FIX:0000349]	IAO:0000115		
+WARN	missing_definition	photoreactive group-phosphate backbone linkage [FIX:0000350]	IAO:0000115		
+WARN	missing_definition	phospholipid supramolecular structure [FIX:0000351]	IAO:0000115		
+WARN	missing_definition	fluorescence correlation spectroscopy [FIX:0000352]	IAO:0000115		
+WARN	missing_definition	phospholipid monolayer structure [FIX:0000353]	IAO:0000115		
+WARN	missing_definition	phospholipid bilayer structure [FIX:0000354]	IAO:0000115		
+WARN	missing_definition	cell membrane structure [FIX:0000355]	IAO:0000115		
+WARN	missing_definition	apolipoprotein structure [FIX:0000356]	IAO:0000115		
+WARN	missing_definition	virus particle structure [FIX:0000357]	IAO:0000115		
+WARN	missing_definition	tritium planigraphy [FIX:0000358]	IAO:0000115		
+WARN	missing_definition	isotope method [FIX:0000359]	IAO:0000115		
+WARN	missing_definition	isotope labelling method [FIX:0000360]	IAO:0000115		
+WARN	missing_definition	protein accessible surface [FIX:0000361]	IAO:0000115		
+WARN	missing_definition	virus particle surface topography [FIX:0000362]	IAO:0000115		
+WARN	missing_definition	cell wall property [FIX:0000363]	IAO:0000115		
+WARN	missing_definition	cell wall structure [FIX:0000364]	IAO:0000115		
+WARN	missing_definition	virus particle property [FIX:0000365]	IAO:0000115		
+WARN	missing_definition	virus particle shape [FIX:0000366]	IAO:0000115		
+WARN	missing_definition	virus particle size [FIX:0000367]	IAO:0000115		
+WARN	missing_definition	kinetic reaction property [FIX:0000368]	IAO:0000115		
+WARN	missing_definition	thermodynamic reaction property [FIX:0000369]	IAO:0000115		
+WARN	missing_definition	flash photolysis [FIX:0000370]	IAO:0000115		
+WARN	missing_definition	laser flash photolysis [FIX:0000371]	IAO:0000115		
+WARN	missing_definition	nanosecond laser flash photolysis [FIX:0000372]	IAO:0000115		
+WARN	missing_definition	diffuse reflectance laser flash photolysis [FIX:0000373]	IAO:0000115		
+WARN	missing_definition	laser method [FIX:0000374]	IAO:0000115		
+WARN	missing_definition	laser Raman spectroscopy [FIX:0000375]	IAO:0000115		
+WARN	missing_definition	near edge X-ray absorption fine structure [FIX:0000376]	IAO:0000115		
+WARN	missing_definition	NEXAFS microscopy [FIX:0000377]	IAO:0000115		
+WARN	missing_definition	(H,H) 2D NMR [FIX:0000378]	IAO:0000115		
+WARN	missing_definition	confocal fluorescence correlation spectroscopy [FIX:0000379]	IAO:0000115		
+WARN	missing_definition	laser scanning fluorescence microscopy [FIX:0000380]	IAO:0000115		
+WARN	missing_definition	single-photon laser scanning fluorescence microscopy [FIX:0000381]	IAO:0000115		
+WARN	missing_definition	two-photon laser scanning fluorescence microscopy [FIX:0000382]	IAO:0000115		
+WARN	missing_definition	multiphoton laser scanning fluorescence microscopy [FIX:0000383]	IAO:0000115		
+WARN	missing_definition	Fourier transform Raman spectroscopy [FIX:0000384]	IAO:0000115		
+WARN	missing_definition	scanning near-field optical microscopy [FIX:0000385]	IAO:0000115		
+WARN	missing_definition	thermodynamic method [FIX:0000386]	IAO:0000115		
+WARN	missing_definition	differential scanning calorimetry [FIX:0000387]	IAO:0000115		
+WARN	missing_definition	isothermal titration calorimetry [FIX:0000388]	IAO:0000115		
+WARN	missing_definition	molecular heat capacity [FIX:0000389]	IAO:0000115		
+WARN	missing_definition	UV melting [FIX:0000390]	IAO:0000115		
+WARN	missing_definition	DNA UV melting [FIX:0000391]	IAO:0000115		
+WARN	missing_definition	RNA UV melting [FIX:0000392]	IAO:0000115		
+WARN	missing_definition	surface plasmon resonance spectroscopy [FIX:0000393]	IAO:0000115		
+WARN	missing_definition	near infrared surface plasmon resonance spectroscopy [FIX:0000394]	IAO:0000115		
+WARN	missing_definition	diffraction data collection [FIX:0000395]	IAO:0000115		
+WARN	missing_definition	crystallography by diffraction method [FIX:0000396]	IAO:0000115		
+WARN	missing_definition	diffraction data analysis [FIX:0000397]	IAO:0000115		
+WARN	missing_definition	scattering by radiation type [FIX:0000398]	IAO:0000115		
+WARN	missing_definition	photon scattering [FIX:0000399]	IAO:0000115		
+WARN	missing_definition	neutron scattering [FIX:0000400]	IAO:0000115		
+WARN	missing_definition	electron scattering [FIX:0000401]	IAO:0000115		
+WARN	missing_definition	light scattering [FIX:0000402]	IAO:0000115		
+WARN	missing_definition	scattering by radiation behaviour [FIX:0000403]	IAO:0000115		
+WARN	missing_definition	elastic scattering [FIX:0000404]	IAO:0000115		
+WARN	missing_definition	inelastic scattering [FIX:0000405]	IAO:0000115		
+WARN	missing_definition	synchrotron radiation method [FIX:0000406]	IAO:0000115		
+WARN	missing_definition	radiation absorption method [FIX:0000407]	IAO:0000115		
+WARN	missing_definition	method by radiation type [FIX:0000408]	IAO:0000115		
+WARN	missing_definition	method by radiation behaviour [FIX:0000409]	IAO:0000115		
+WARN	missing_definition	method by radiation source [FIX:0000410]	IAO:0000115		
+WARN	missing_definition	electromagnetic radiation method [FIX:0000411]	IAO:0000115		
+WARN	missing_definition	X-ray method [FIX:0000412]	IAO:0000115		
+WARN	missing_definition	radiation based method [FIX:0000413]	IAO:0000115		
+WARN	missing_definition	spallation neutron source method [FIX:0000414]	IAO:0000115		
+WARN	missing_definition	optical method [FIX:0000415]	IAO:0000115		
+WARN	missing_definition	neutron radiation method [FIX:0000416]	IAO:0000115		
+WARN	missing_definition	electron radiation method [FIX:0000417]	IAO:0000115		
+WARN	missing_definition	free electron laser method [FIX:0000418]	IAO:0000115		
+WARN	missing_definition	transient spectroscopy [FIX:0000419]	IAO:0000115		
+WARN	missing_definition	radiation emission method [FIX:0000420]	IAO:0000115		
+WARN	missing_definition	fluorescence method [FIX:0000421]	IAO:0000115		
+WARN	missing_definition	radiation scattering method [FIX:0000422]	IAO:0000115		
+WARN	missing_definition	luminescence method [FIX:0000423]	IAO:0000115		
+WARN	missing_definition	luminescence method by excitation mode [FIX:0000424]	IAO:0000115		
+WARN	missing_definition	luminescence method by excited state [FIX:0000425]	IAO:0000115		
+WARN	missing_definition	phosphorescence method [FIX:0000426]	IAO:0000115		
+WARN	missing_definition	chemiluminescence method [FIX:0000427]	IAO:0000115		
+WARN	missing_definition	photoluminescencence method [FIX:0000428]	IAO:0000115		
+WARN	missing_definition	thermoluminescence method [FIX:0000429]	IAO:0000115		
+WARN	missing_definition	time-resolved spectroscopy [FIX:0000430]	IAO:0000115		
+WARN	missing_definition	direct scalar coupling constant measurement [FIX:0000431]	IAO:0000115		
+WARN	missing_definition	exclusive COSY experiment [FIX:0000432]	IAO:0000115		
+WARN	missing_definition	quantitative J correlation [FIX:0000433]	IAO:0000115		
+WARN	missing_definition	cadmium-113 magnetic resonance spectroscopy [FIX:0000434]	IAO:0000115		
+WARN	missing_definition	homonuclear 2D NMR [FIX:0000435]	IAO:0000115		
+WARN	missing_definition	(C,C) 2D NMR [FIX:0000436]	IAO:0000115		
+WARN	missing_definition	13C-13C double quantum correlation [FIX:0000437]	IAO:0000115		
+WARN	missing_definition	13C-13C correlated spectroscopy [FIX:0000438]	IAO:0000115		
+WARN	missing_definition	general physico-chemical property [FIX:0000439]	IAO:0000115		
+WARN	missing_definition	(C,H,N,H) 4D NMR [FIX:0000440]	IAO:0000115		
+WARN	missing_definition	(H,C,N,H) 4D NMR [FIX:0000441]	IAO:0000115		
+WARN	missing_definition	(C,C,N,H) 4D NMR [FIX:0000442]	IAO:0000115		
+WARN	missing_definition	(C,H,C,H) 4D NMR [FIX:0000443]	IAO:0000115		
+WARN	missing_definition	(H,C,C,H) 4D NMR [FIX:0000444]	IAO:0000115		
+WARN	missing_definition	(H,N,N,H) 4D NMR [FIX:0000445]	IAO:0000115		
+WARN	missing_definition	HN(COCA)NH [FIX:0000446]	IAO:0000115		
+WARN	missing_definition	13C/13C edited 1H-1H NOESY [FIX:0000447]	IAO:0000115		
+WARN	missing_definition	HCACON experiment [FIX:0000448]	IAO:0000115		
+WARN	missing_definition	4D HCCH-TOCSY [FIX:0000449]	IAO:0000115		
+WARN	missing_definition	gradient 13C/13C 1H-1H NOESY [FIX:0000450]	IAO:0000115		
+WARN	missing_definition	13C/15N edited 1H-1H NOESY [FIX:0000451]	IAO:0000115		
+WARN	missing_definition	HNCAHA experiment [FIX:0000452]	IAO:0000115		
+WARN	missing_definition	HN(CO)CAHA experiment [FIX:0000453]	IAO:0000115		
+WARN	missing_definition	HCANNH experiment [FIX:0000454]	IAO:0000115		
+WARN	missing_definition	HCC(CO)NNH experiment [FIX:0000455]	IAO:0000115		
+WARN	missing_definition	(N,C) 2D NMR [FIX:0000456]	IAO:0000115		
+WARN	missing_definition	13C-15N multiple bond correlation spectroscopy [FIX:0000457]	IAO:0000115		
+WARN	missing_definition	insensitive nuclei enhanced by polarization transfer [FIX:0000458]	IAO:0000115		
+WARN	missing_definition	distortionless enhancement by polarization transfer [FIX:0000459]	IAO:0000115		
+WARN	missing_definition	J-modulated spin-echo [FIX:0000460]	IAO:0000115		
+WARN	missing_definition	attached proton test [FIX:0000461]	IAO:0000115		
+WARN	missing_definition	multiple-pulse NMR [FIX:0000462]	IAO:0000115		
+WARN	missing_definition	pulsed field gradient NMR [FIX:0000463]	IAO:0000115		
+WARN	missing_definition	phase cycling NMR [FIX:0000464]	IAO:0000115		
+WARN	missing_definition	double pulsed field gradient spin-echo excitation [FIX:0000465]	IAO:0000115		
+WARN	missing_definition	DPFGSE-NOESY [FIX:0000466]	IAO:0000115		
+WARN	missing_definition	triple resonance TROSY in uniformly 2H,13C,15N labelled protein [FIX:0000467]	IAO:0000115		
+WARN	missing_definition	NMR by object state [FIX:0000468]	IAO:0000115		
+WARN	missing_definition	solid-state NMR [FIX:0000469]	IAO:0000115		
+WARN	missing_definition	solution NMR [FIX:0000470]	IAO:0000115		
+WARN	missing_definition	solid-state magic-angle-spinning NMR [FIX:0000471]	IAO:0000115		
+WARN	missing_definition	fluorescence resonance energy transfer [FIX:0000472]	IAO:0000115		
+WARN	missing_definition	FRET microscopy [FIX:0000473]	IAO:0000115		
+WARN	missing_definition	15N-1H HMQC [FIX:0000474]	IAO:0000115		
+WARN	missing_definition	13C-1H HMQC [FIX:0000475]	IAO:0000115		
+WARN	missing_definition	compound property [FIX:0000476]	IAO:0000115		
+WARN	missing_definition	molar property [FIX:0000477]	IAO:0000115		
+WARN	missing_definition	molar heat capacity [FIX:0000478]	IAO:0000115		
+WARN	missing_definition	mass [FIX:0000479]	IAO:0000115		
+WARN	missing_definition	heat capacity [FIX:0000480]	IAO:0000115		
+WARN	missing_definition	physico-chemical property by object [FIX:0000481]	IAO:0000115		
+WARN	missing_definition	structure [FIX:0000482]	IAO:0000115		
+WARN	missing_definition	atomic property [FIX:0000483]	IAO:0000115		
+WARN	missing_definition	nuclear property [FIX:0000484]	IAO:0000115		
+WARN	missing_definition	nuclear magnetic moment [FIX:0000485]	IAO:0000115		
+WARN	missing_definition	nuclear spin angular momentum [FIX:0000486]	IAO:0000115		
+WARN	missing_definition	overall angular momentum [FIX:0000487]	IAO:0000115		
+WARN	missing_definition	nuclear mass [FIX:0000488]	IAO:0000115		
+WARN	missing_definition	electronic property [FIX:0000489]	IAO:0000115		
+WARN	missing_definition	electronic angular momentum [FIX:0000490]	IAO:0000115		
+WARN	missing_definition	electronic orbital angular momentum [FIX:0000491]	IAO:0000115		
+WARN	missing_definition	electronic spin angular momentum [FIX:0000492]	IAO:0000115		
+WARN	missing_definition	nuclear shape [FIX:0000493]	IAO:0000115		
+WARN	missing_definition	nuclear size [FIX:0000494]	IAO:0000115		
+WARN	missing_definition	chemical bond [FIX:0000495]	IAO:0000115		
+WARN	missing_definition	size [FIX:0000496]	IAO:0000115		
+WARN	missing_definition	primary chemical bond [FIX:0000497]	IAO:0000115		
+WARN	missing_definition	shape [FIX:0000498]	IAO:0000115		
+WARN	missing_definition	covalent bond [FIX:0000499]	IAO:0000115		
+WARN	missing_definition	covalent bond by order [FIX:0000500]	IAO:0000115		
+WARN	missing_definition	ionic bond [FIX:0000501]	IAO:0000115		
+WARN	missing_definition	secondary chemical bond [FIX:0000502]	IAO:0000115		
+WARN	missing_definition	hydrogen bond [FIX:0000503]	IAO:0000115		
+WARN	missing_definition	metallic bond [FIX:0000504]	IAO:0000115		
+WARN	missing_definition	polar covalent bond [FIX:0000505]	IAO:0000115		
+WARN	missing_definition	Van der Waals bond [FIX:0000506]	IAO:0000115		
+WARN	missing_definition	atomic mass [FIX:0000507]	IAO:0000115		
+WARN	missing_definition	electronic mass [FIX:0000508]	IAO:0000115		
+WARN	missing_definition	aromatic bond [FIX:0000509]	IAO:0000115		
+WARN	missing_definition	aromatic structure [FIX:0000510]	IAO:0000115		
+WARN	missing_definition	constant-time HCCH-COSY [FIX:0000511]	IAO:0000115		
+WARN	missing_definition	double bond [FIX:0000512]	IAO:0000115		
+WARN	missing_definition	non-polar covalent bond [FIX:0000513]	IAO:0000115		
+WARN	missing_definition	covalent bond by polarity [FIX:0000514]	IAO:0000115		
+WARN	missing_definition	cyclic structure [FIX:0000515]	IAO:0000115		
+WARN	missing_definition	single bond [FIX:0000516]	IAO:0000115		
+WARN	missing_definition	covalent bond by orbital [FIX:0000517]	IAO:0000115		
+WARN	missing_definition	triple bond [FIX:0000518]	IAO:0000115		
+WARN	missing_definition	quadruple bond [FIX:0000519]	IAO:0000115		
+WARN	missing_definition	sigma bond [FIX:0000520]	IAO:0000115		
+WARN	missing_definition	pi bond [FIX:0000521]	IAO:0000115		
+WARN	missing_definition	delta bond [FIX:0000522]	IAO:0000115		
+WARN	missing_definition	(N,C,H) 3D NMR [FIX:0000523]	IAO:0000115		
+WARN	missing_definition	(C,N,H) 3D NMR [FIX:0000524]	IAO:0000115		
+WARN	missing_definition	constant-time HNCO experiment [FIX:0000525]	IAO:0000115		
+WARN	missing_definition	constant-time HNCA experiment [FIX:0000526]	IAO:0000115		
+WARN	missing_definition	constant-time HN(CO)CA experiment [FIX:0000527]	IAO:0000115		
+WARN	missing_definition	constant-time HN(CA)CO experiment [FIX:0000528]	IAO:0000115		
+WARN	missing_definition	gradient HNCO experiment [FIX:0000529]	IAO:0000115		
+WARN	missing_definition	HCA(CO)N experiment [FIX:0000530]	IAO:0000115		
+WARN	missing_definition	constant-time HCA(CO)N experiment [FIX:0000531]	IAO:0000115		
+WARN	missing_definition	HNCACB experiment [FIX:0000532]	IAO:0000115		
+WARN	missing_definition	HC(CO)NH-TOCSY [FIX:0000533]	IAO:0000115		
+WARN	missing_definition	HC(C)NH-TOCSY [FIX:0000534]	IAO:0000115		
+WARN	missing_definition	(H,C,H) 3D NMR [FIX:0000535]	IAO:0000115		
+WARN	missing_definition	gradient HCCH-TOCSY [FIX:0000536]	IAO:0000115		
+WARN	missing_definition	H(CA)CO-TOCSY [FIX:0000537]	IAO:0000115		
+WARN	missing_definition	(N,N,H) 3D NMR [FIX:0000538]	IAO:0000115		
+WARN	missing_definition	HCCH-COSY [FIX:0000539]	IAO:0000115		
+WARN	missing_definition	constant-time HA[CAN]HN experiment [FIX:0000540]	IAO:0000115		
+WARN	missing_definition	H(CA)CO-CBHB experiment [FIX:0000541]	IAO:0000115		
+WARN	missing_definition	H(CA)CO-COSY [FIX:0000542]	IAO:0000115		
+WARN	missing_definition	correlated spectroscopy [FIX:0000543]	IAO:0000115		
+WARN	missing_definition	15N-15N correlated spectroscopy [FIX:0000544]	IAO:0000115		
+WARN	missing_definition	(N,N) 2D NMR [FIX:0000545]	IAO:0000115		
+WARN	missing_definition	HA[CAN]HN experiment [FIX:0000546]	IAO:0000115		
+WARN	missing_definition	(H,N,H) 3D NMR [FIX:0000547]	IAO:0000115		
+WARN	missing_definition	(C,C,H) 3D NMR [FIX:0000548]	IAO:0000115		
+WARN	missing_definition	constant-time HCACO experiment [FIX:0000549]	IAO:0000115		
+WARN	missing_definition	C TOCSY-REVINEPT [FIX:0000550]	IAO:0000115		
+WARN	missing_definition	H(N)CACO experiment [FIX:0000551]	IAO:0000115		
+WARN	missing_definition	CBCACOHA experiment [FIX:0000552]	IAO:0000115		
+WARN	missing_definition	gradient CBCACOHA experiment [FIX:0000553]	IAO:0000115		
+WARN	missing_definition	CBCACOHA-TOCSY [FIX:0000554]	IAO:0000115		
+WARN	missing_definition	(N,H,H) 3D NMR [FIX:0000555]	IAO:0000115		
+WARN	missing_definition	total correlated spectroscopy [FIX:0000556]	IAO:0000115		
+WARN	missing_definition	HN(CA)HA experiment [FIX:0000557]	IAO:0000115		
+WARN	missing_definition	HN(COCA)HA experiment [FIX:0000558]	IAO:0000115		
+WARN	missing_definition	HN(CA)NNH experiment [FIX:0000559]	IAO:0000115		
+WARN	missing_definition	15N/15N edited 1H-1H NOESY [FIX:0000560]	IAO:0000115		
+WARN	missing_definition	method by isotope [FIX:0000561]	IAO:0000115		
+WARN	missing_definition	left-handed alpha-helix [FIX:0000562]	IAO:0000115		
+WARN	missing_definition	diffusion ordered spectroscopy [FIX:0000563]	IAO:0000115		
+WARN	missing_definition	DPFGSE-TOCSY [FIX:0000564]	IAO:0000115		
+WARN	missing_definition	transverse relaxation optimized spectroscopy [FIX:0000565]	IAO:0000115		
+WARN	missing_definition	single quantum TROSY [FIX:0000566]	IAO:0000115		
+WARN	missing_definition	zero quantum TROSY [FIX:0000567]	IAO:0000115		
+WARN	missing_definition	single quantum [15N,1H]-TROSY [FIX:0000568]	IAO:0000115		
+WARN	missing_definition	zero quantum [15N,1H]-TROSY [FIX:0000569]	IAO:0000115		
+WARN	missing_definition	single quantum [13C,1H]-TROSY [FIX:0000570]	IAO:0000115		
+WARN	missing_definition	3D NOESY-[1H,15N,1H]-ZQ-TROSY [FIX:0000571]	IAO:0000115		
+WARN	missing_definition	HA(CA)NNH experiment [FIX:0000572]	IAO:0000115		
+WARN	missing_definition	HN(CA)HA-GLY experiment [FIX:0000573]	IAO:0000115		
+WARN	missing_definition	HBHA(CO)NH experiment [FIX:0000574]	IAO:0000115		
+WARN	missing_definition	HN(CA)NNH experiment [FIX:0000575]	IAO:0000115		
+WARN	missing_definition	HA[CAN]HN experiment [FIX:0000576]	IAO:0000115		
+WARN	missing_definition	H(CCO)NH-TOCSY [FIX:0000577]	IAO:0000115		
+WARN	missing_definition	carbon-13 method [FIX:0000578]	IAO:0000115		
+WARN	missing_definition	nitrogen-15 method [FIX:0000579]	IAO:0000115		
+WARN	missing_definition	deuterium method [FIX:0000580]	IAO:0000115		
+WARN	missing_definition	tritium method [FIX:0000581]	IAO:0000115		
+WARN	missing_definition	cadmium-113 method [FIX:0000582]	IAO:0000115		
+WARN	missing_definition	fluorine-19 method [FIX:0000583]	IAO:0000115		
+WARN	missing_definition	iodine-127 method [FIX:0000584]	IAO:0000115		
+WARN	missing_definition	phosphorus-31 method [FIX:0000585]	IAO:0000115		
+WARN	missing_definition	xenon-129 method [FIX:0000586]	IAO:0000115		
+WARN	missing_definition	site-directed mutagenesis [FIX:0000587]	IAO:0000115		
+WARN	missing_definition	deuterium magnetic resonance spectroscopy [FIX:0000588]	IAO:0000115		
+WARN	missing_definition	2H decoupled NMR [FIX:0000589]	IAO:0000115		
+WARN	missing_definition	2H decoupled 1H,13C NMR [FIX:0000590]	IAO:0000115		
+WARN	missing_definition	constant-time [13C,1H]-TROSY [FIX:0000591]	IAO:0000115		
+WARN	missing_definition	[15N,1H]-TROSY-HNCA [FIX:0000592]	IAO:0000115		
+WARN	missing_definition	[15N,1H]-TROSY-HNCO [FIX:0000593]	IAO:0000115		
+WARN	missing_definition	3D [15N,1H]-TROSY-HNCACB [FIX:0000594]	IAO:0000115		
+WARN	missing_definition	3D [13C]-ct-[15N,1H]-TROSY-HNCA [FIX:0000595]	IAO:0000115		
+WARN	missing_definition	oxygen-17 method [FIX:0000596]	IAO:0000115		
+WARN	missing_definition	oxygen-17 magnetic resonance spectroscopy [FIX:0000597]	IAO:0000115		
+WARN	missing_definition	1H ENDOR [FIX:0000598]	IAO:0000115		
+WARN	missing_definition	3-10-helix [FIX:0000599]	IAO:0000115		
+WARN	missing_definition	iodine-127 magnetic resonance spectroscopy [FIX:0000600]	IAO:0000115		
+WARN	missing_definition	chemical method [FIX:0000601]	IAO:0000115		
+WARN	missing_definition	biological method [FIX:0000602]	IAO:0000115		
+WARN	missing_definition	right-handed alpha-helix [FIX:0000603]	IAO:0000115		
+WARN	missing_definition	right-handed helix [FIX:0000604]	IAO:0000115		
+WARN	missing_definition	left-handed helix [FIX:0000605]	IAO:0000115		
+WARN	missing_definition	polyproline helix [FIX:0000606]	IAO:0000115		
+WARN	missing_definition	chromatography by mobile phase state [FIX:0000607]	IAO:0000115		
+WARN	missing_definition	liquid chromatography [FIX:0000608]	IAO:0000115		
+WARN	missing_definition	supercritical-fluid chromatography [FIX:0000609]	IAO:0000115		
+WARN	missing_definition	chromatography by separation mechanism [FIX:0000610]	IAO:0000115		
+WARN	missing_definition	adsorption chromatography [FIX:0000611]	IAO:0000115		
+WARN	missing_definition	partition chromatography [FIX:0000612]	IAO:0000115		
+WARN	missing_definition	ion-exchange chromatography [FIX:0000613]	IAO:0000115		
+WARN	missing_definition	exclusion chromatography [FIX:0000614]	IAO:0000115		
+WARN	missing_definition	affinity chromatography [FIX:0000615]	IAO:0000115		
+WARN	missing_definition	frontal chromatography [FIX:0000616]	IAO:0000115		
+WARN	missing_definition	elution chromatography [FIX:0000617]	IAO:0000115		
+WARN	missing_definition	displacement chromatography [FIX:0000618]	IAO:0000115		
+WARN	missing_definition	normal-phase chromatography [FIX:0000619]	IAO:0000115		
+WARN	missing_definition	reversed-phase chromatography [FIX:0000620]	IAO:0000115		
+WARN	missing_definition	gradient elution chromatography [FIX:0000621]	IAO:0000115		
+WARN	missing_definition	stepwise elution chromatography [FIX:0000622]	IAO:0000115		
+WARN	missing_definition	elution chromatography by mobile phase composition [FIX:0000623]	IAO:0000115		
+WARN	missing_definition	isocratic elution chromatography [FIX:0000624]	IAO:0000115		
+WARN	missing_definition	isoelectric focusing [FIX:0000625]	IAO:0000115		
+WARN	missing_definition	size-exclusion chromatography [FIX:0000626]	IAO:0000115		
+WARN	missing_definition	ion-exclusion chromatography [FIX:0000627]	IAO:0000115		
+WARN	missing_definition	gel electrophoresis [FIX:0000628]	IAO:0000115		
+WARN	missing_definition	pulsed field gel electrophoresis [FIX:0000629]	IAO:0000115		
+WARN	missing_definition	high-pressure liquid chromatography [FIX:0000630]	IAO:0000115		
+WARN	missing_definition	gas-liquid chromatography [FIX:0000631]	IAO:0000115		
+WARN	missing_definition	gas-solid chromatography [FIX:0000632]	IAO:0000115		
+WARN	missing_definition	liquid-liquid chromatography [FIX:0000633]	IAO:0000115		
+WARN	missing_definition	liquid-solid chromatography [FIX:0000634]	IAO:0000115		
+WARN	missing_definition	immunological method [FIX:0000635]	IAO:0000115		
+WARN	missing_definition	immunoelectrophoresis [FIX:0000636]	IAO:0000115		
+WARN	missing_definition	electroblotting method [FIX:0000637]	IAO:0000115		
+WARN	missing_definition	Western blotting [FIX:0000638]	IAO:0000115		
+WARN	missing_definition	Southern blotting [FIX:0000639]	IAO:0000115		
+WARN	missing_definition	Northern blotting [FIX:0000640]	IAO:0000115		
+WARN	missing_definition	infrared spectroscopy by spectral region [FIX:0000641]	IAO:0000115		
+WARN	missing_definition	mid-infrared spectroscopy [FIX:0000642]	IAO:0000115		
+WARN	missing_definition	far-infrared spectroscopy [FIX:0000643]	IAO:0000115		
+WARN	missing_definition	attenuated total reflectance Fourier transform infrared spectrometry [FIX:0000644]	IAO:0000115		
+WARN	missing_definition	Fourier transform method [FIX:0000645]	IAO:0000115		
+WARN	missing_definition	high resolution electron energy loss spectroscopy [FIX:0000646]	IAO:0000115		
+WARN	missing_definition	fast Fourier transform infrared spectroscopy [FIX:0000647]	IAO:0000115		
+WARN	missing_definition	infrared spectroscopy by instrument [FIX:0000648]	IAO:0000115		
+WARN	missing_definition	dispersive infrared spectroscopy [FIX:0000649]	IAO:0000115		
+WARN	missing_definition	infrared spectroscopy by radiation behaviour [FIX:0000650]	IAO:0000115		
+WARN	missing_definition	infrared emission spectroscopy [FIX:0000651]	IAO:0000115		
+WARN	missing_definition	infrared reflection spectroscopy [FIX:0000652]	IAO:0000115		
+WARN	missing_definition	attenuated total reflectance spectroscopy [FIX:0000653]	IAO:0000115		
+WARN	missing_definition	reflection-absorption spectroscopy [FIX:0000654]	IAO:0000115		
+WARN	missing_definition	diffuse reflectance spectroscopy [FIX:0000655]	IAO:0000115		
+WARN	missing_definition	diffuse reflectance infrared spectroscopy [FIX:0000656]	IAO:0000115		
+WARN	missing_definition	diffuse reflectance infrared spectroscopy by Fourier transform [FIX:0000657]	IAO:0000115		
+WARN	missing_definition	infrared absorption spectroscopy [FIX:0000658]	IAO:0000115		
+WARN	missing_definition	reflection-absorption infrared spectroscopy [FIX:0000659]	IAO:0000115		
+WARN	missing_definition	infrared transmission spectroscopy [FIX:0000660]	IAO:0000115		
+WARN	missing_definition	infrared photoacoustic spectroscopy [FIX:0000661]	IAO:0000115		
+WARN	missing_definition	infrared ellipsometric spectroscopy [FIX:0000662]	IAO:0000115		
+WARN	missing_definition	electron energy loss spectroscopy [FIX:0000663]	IAO:0000115		
+WARN	missing_definition	electron impact spectroscopy [FIX:0000664]	IAO:0000115		
+WARN	missing_definition	angle resolved synchrotron radiation photoelectron spectroscopy [FIX:0000665]	IAO:0000115		
+WARN	missing_definition	electron scattering spectroscopy [FIX:0000666]	IAO:0000115		
+WARN	missing_definition	electron-induced photon emission spectroscopy [FIX:0000667]	IAO:0000115		
+WARN	missing_definition	extended electron energy loss fine structure [FIX:0000668]	IAO:0000115		
+WARN	missing_definition	electron transmission spectroscopy [FIX:0000669]	IAO:0000115		
+WARN	missing_definition	ionization spectroscopy [FIX:0000670]	IAO:0000115		
+WARN	missing_definition	17O ENDOR [FIX:0000671]	IAO:0000115		
+WARN	missing_definition	valence band X-ray emission spectroscopy [FIX:0000672]	IAO:0000115		
+WARN	missing_definition	X-ray fluorescence spectroscopy [FIX:0000673]	IAO:0000115		
+WARN	missing_definition	electron probe X-ray microanalysis [FIX:0000674]	IAO:0000115		
+WARN	missing_definition	gamma-ray photoelectron spectroscopy [FIX:0000675]	IAO:0000115		
+WARN	missing_definition	synchrotron radiation photoelectron spectroscopy [FIX:0000676]	IAO:0000115		
+WARN	missing_definition	energy distribution spectroscopy [FIX:0000677]	IAO:0000115		
+WARN	missing_definition	total yield spectroscopy [FIX:0000678]	IAO:0000115		
+WARN	missing_definition	partial yield spectroscopy [FIX:0000679]	IAO:0000115		
+WARN	missing_definition	constant initial state spectroscopy [FIX:0000680]	IAO:0000115		
+WARN	missing_definition	constant final state spectroscopy [FIX:0000681]	IAO:0000115		
+WARN	missing_definition	electron-induced X-ray emission spectroscopy [FIX:0000682]	IAO:0000115		
+WARN	missing_definition	angle resolved ultraviolet photoelectron spectroscopy [FIX:0000683]	IAO:0000115		
+WARN	missing_definition	angle resolved X-ray photoelectron spectroscopy [FIX:0000684]	IAO:0000115		
+WARN	missing_definition	resonance enhanced photoelectron spectroscopy [FIX:0000685]	IAO:0000115		
+WARN	missing_definition	surface extended X-ray absorption fine structure [FIX:0000686]	IAO:0000115		
+WARN	missing_definition	inverse photoemission spectroscopy [FIX:0000687]	IAO:0000115		
+WARN	missing_definition	momentum-resolved Bremsstrahlung spectroscopy [FIX:0000688]	IAO:0000115		
+WARN	missing_definition	magnetophoresis [FIX:0000689]	IAO:0000115		
+WARN	missing_definition	Edman degradation [FIX:0000690]	IAO:0000115		
+WARN	missing_definition	cellular property [FIX:0000691]	IAO:0000115		
+WARN	missing_definition	cellular size [FIX:0000692]	IAO:0000115		
+WARN	missing_definition	cellular shape [FIX:0000693]	IAO:0000115		
+WARN	missing_definition	cellular volume [FIX:0000694]	IAO:0000115		
+WARN	missing_definition	vibrational spectroscopic imaging [FIX:0000695]	IAO:0000115		
+WARN	missing_definition	infrared imaging [FIX:0000696]	IAO:0000115		
+WARN	missing_definition	Raman imaging [FIX:0000697]	IAO:0000115		
+WARN	missing_definition	mid-infrared imaging [FIX:0000698]	IAO:0000115		
+WARN	missing_definition	near-infrared imaging [FIX:0000699]	IAO:0000115		
+WARN	missing_definition	photoacoustic spectroscopy [FIX:0000700]	IAO:0000115		
+WARN	missing_definition	selenium-77 magnetic resonance spectroscopy [FIX:0000701]	IAO:0000115		
+WARN	missing_definition	atomic number [FIX:0000702]	IAO:0000115		
+WARN	missing_definition	cellular charge [FIX:0000703]	IAO:0000115		
+WARN	missing_definition	sequencing method [FIX:0000704]	IAO:0000115		
+WARN	missing_definition	protein sequencing method [FIX:0000705]	IAO:0000115		
+WARN	missing_definition	dielectrometry [FIX:0000706]	IAO:0000115		
+WARN	missing_definition	accelerator mass spectrometry [FIX:0000707]	IAO:0000115		
+WARN	missing_definition	Edman-AMS sequencing [FIX:0000708]	IAO:0000115		
+WARN	missing_definition	amino-terminal residue labelling [FIX:0000709]	IAO:0000115		
+WARN	missing_definition	phenylthiohydantoin-amino acid detection [FIX:0000710]	IAO:0000115		
+WARN	missing_definition	PTH-amino acid detection by AMS [FIX:0000711]	IAO:0000115		
+WARN	missing_definition	PTH-amino acid detection by HPLC [FIX:0000712]	IAO:0000115		
+WARN	missing_definition	carbon-14 method [FIX:0000713]	IAO:0000115		
+WARN	missing_definition	entire polypeptide sequencing [FIX:0000714]	IAO:0000115		
+WARN	missing_definition	disulfide bond cleavage [FIX:0000715]	IAO:0000115		
+WARN	missing_definition	disulfide bond assignment [FIX:0000716]	IAO:0000115		
+WARN	missing_definition	amino-terminal sequencing [FIX:0000717]	IAO:0000115		
+WARN	missing_definition	carboxy-terminal sequencing [FIX:0000718]	IAO:0000115		
+WARN	missing_definition	limited proteolysis [FIX:0000719]	IAO:0000115		
+WARN	missing_definition	limited trypsinolysis [FIX:0000720]	IAO:0000115		
+WARN	missing_definition	peptide fragment sequencing [FIX:0000721]	IAO:0000115		
+WARN	missing_definition	peptide mapping [FIX:0000722]	IAO:0000115		
+WARN	missing_definition	protein acid hydrolysis [FIX:0000723]	IAO:0000115		
+WARN	missing_definition	protein base hydrolysis [FIX:0000724]	IAO:0000115		
+WARN	missing_definition	peptide mass fingerprinting [FIX:0000725]	IAO:0000115		
+WARN	missing_definition	amino acid composition identification [FIX:0000726]	IAO:0000115		
+WARN	missing_definition	amino acid composition [FIX:0000727]	IAO:0000115		
+WARN	missing_definition	protein vapor-phase acid hydrolysis [FIX:0000728]	IAO:0000115		
+WARN	missing_definition	protein vapor-phase hydrolysis [FIX:0000729]	IAO:0000115		
+WARN	missing_definition	nucleic acid mapping method [FIX:0000730]	IAO:0000115		
+WARN	missing_definition	nucleic acid sequencing method [FIX:0000731]	IAO:0000115		
+WARN	missing_definition	iron-57 Mossbauer spectroscopy [FIX:0000732]	IAO:0000115		
+WARN	missing_definition	tin-119 Mossbauer spectroscopy [FIX:0000733]	IAO:0000115		
+WARN	missing_definition	antimony-121 Mossbauer spectroscopy [FIX:0000734]	IAO:0000115		
+WARN	missing_definition	tellurium-125 Mossbauer spectroscopy [FIX:0000735]	IAO:0000115		
+WARN	missing_definition	europium-151 Mossbauer spectroscopy [FIX:0000736]	IAO:0000115		
+WARN	missing_definition	iodine-127 Mossbauer spectroscopy [FIX:0000737]	IAO:0000115		
+WARN	missing_definition	gold-197 Mossbauer spectroscopy [FIX:0000738]	IAO:0000115		
+WARN	missing_definition	iodine-129 method [FIX:0000739]	IAO:0000115		
+WARN	missing_definition	tin-119 method [FIX:0000740]	IAO:0000115		
+WARN	missing_definition	tin-119 magnetic resonance spectroscopy [FIX:0000741]	IAO:0000115		
+WARN	missing_definition	antimony-121 method [FIX:0000742]	IAO:0000115		
+WARN	missing_definition	antimony-123 method [FIX:0000743]	IAO:0000115		
+WARN	missing_definition	antimony-121 magnetic resonance spectroscopy [FIX:0000744]	IAO:0000115		
+WARN	missing_definition	antimony-123 magnetic resonance spectroscopy [FIX:0000745]	IAO:0000115		
+WARN	missing_definition	tellurium-125 method [FIX:0000746]	IAO:0000115		
+WARN	missing_definition	tellurium-125 magnetic resonance spectroscopy [FIX:0000747]	IAO:0000115		
+WARN	missing_definition	gold-197 method [FIX:0000748]	IAO:0000115		
+WARN	missing_definition	gold-197 magnetic resonance spectroscopy [FIX:0000749]	IAO:0000115		
+WARN	missing_definition	xenon-129 Mossbauer spectroscopy [FIX:0000750]	IAO:0000115		
+WARN	missing_definition	selenium-77 method [FIX:0000751]	IAO:0000115		
+WARN	missing_definition	europium-151 method [FIX:0000752]	IAO:0000115		
+WARN	missing_definition	iron-57 method [FIX:0000753]	IAO:0000115		
+WARN	missing_definition	iodine-129 Mossbauer spectroscopy [FIX:0000754]	IAO:0000115		
+WARN	missing_definition	57Fe ENDOR [FIX:0000755]	IAO:0000115		
+WARN	missing_definition	molybdenum-95 method [FIX:0000756]	IAO:0000115		
+WARN	missing_definition	molybdenum-95 magnetic resonance spectroscopy [FIX:0000757]	IAO:0000115		
+WARN	missing_definition	95Mo ENDOR [FIX:0000758]	IAO:0000115		
+WARN	missing_definition	iron-57 magnetic resonance spectroscopy [FIX:0000759]	IAO:0000115		
+WARN	missing_definition	high-pressure fluorescence correlation spectroscopy [FIX:0000760]	IAO:0000115		
+WARN	missing_definition	fast-scan cyclic voltammetry [FIX:0000761]	IAO:0000115		
+WARN	missing_definition	continuous scan cyclic voltammetry [FIX:0000762]	IAO:0000115		
+WARN	missing_definition	fast-scan cyclic voltammetry of protein film on pyrolytic graphite edge electrode [FIX:0000763]	IAO:0000115		
+WARN	missing_definition	electroanalytical method [FIX:0000764]	IAO:0000115		
+WARN	missing_definition	voltammetric method [FIX:0000765]	IAO:0000115		
+WARN	missing_definition	potentiometric method [FIX:0000766]	IAO:0000115		
+WARN	missing_definition	amperometric method [FIX:0000767]	IAO:0000115		
+WARN	missing_definition	conductometric method [FIX:0000768]	IAO:0000115		
+WARN	missing_definition	spectroelectrochemical method [FIX:0000769]	IAO:0000115		
+WARN	missing_definition	conductometry [FIX:0000770]	IAO:0000115		
+WARN	missing_definition	conductometric titration [FIX:0000771]	IAO:0000115		
+WARN	missing_definition	dielectrometric titration [FIX:0000772]	IAO:0000115		
+WARN	missing_definition	high frequency conductometry [FIX:0000773]	IAO:0000115		
+WARN	missing_definition	high frequency conductometric titration [FIX:0000774]	IAO:0000115		
+WARN	missing_definition	potentiometry [FIX:0000775]	IAO:0000115		
+WARN	missing_definition	differential potentiometric titration [FIX:0000776]	IAO:0000115		
+WARN	missing_definition	differential potentiometry [FIX:0000777]	IAO:0000115		
+WARN	missing_definition	controlled-current potentiometry [FIX:0000778]	IAO:0000115		
+WARN	missing_definition	controlled-current potentiometric titration [FIX:0000779]	IAO:0000115		
+WARN	missing_definition	chronopotentiometry [FIX:0000780]	IAO:0000115		
+WARN	missing_definition	coulometric titration [FIX:0000781]	IAO:0000115		
+WARN	missing_definition	potentiometric coulometric titration [FIX:0000782]	IAO:0000115		
+WARN	missing_definition	amperometry [FIX:0000783]	IAO:0000115		
+WARN	missing_definition	amperometric titration [FIX:0000784]	IAO:0000115		
+WARN	missing_definition	chronoamperometry [FIX:0000785]	IAO:0000115		
+WARN	missing_definition	chronocoulometry [FIX:0000786]	IAO:0000115		
+WARN	missing_definition	controlled potential coulometry [FIX:0000787]	IAO:0000115		
+WARN	missing_definition	controlled potential electrogravimetry [FIX:0000788]	IAO:0000115		
+WARN	missing_definition	electrogravimetry [FIX:0000789]	IAO:0000115		
+WARN	missing_definition	electrography [FIX:0000790]	IAO:0000115		
+WARN	missing_definition	linear sweep voltammetry [FIX:0000791]	IAO:0000115		
+WARN	missing_definition	hydrodynamic voltammetry [FIX:0000792]	IAO:0000115		
+WARN	missing_definition	triangular wave voltammetry [FIX:0000793]	IAO:0000115		
+WARN	missing_definition	polarography [FIX:0000794]	IAO:0000115		
+WARN	missing_definition	Tast polarography [FIX:0000795]	IAO:0000115		
+WARN	missing_definition	single drop sweep polarography [FIX:0000796]	IAO:0000115		
+WARN	missing_definition	edge-plane pyrolytic graphite electrode method [FIX:0000797]	IAO:0000115		
+WARN	missing_definition	anion-exchange chromatography [FIX:0000798]	IAO:0000115		
+WARN	missing_definition	cation-exchange chromatography [FIX:0000799]	IAO:0000115		
+WARN	missing_definition	high-performance anion-exchange chromatography [FIX:0000800]	IAO:0000115		
+WARN	missing_definition	high-performance anion-exchange chromatography with conductivity detection [FIX:0000801]	IAO:0000115		
+WARN	missing_definition	bis(4-pyridyl)-disulphide-modified gold electrode method [FIX:0000802]	IAO:0000115		
+WARN	missing_definition	gold electrode method [FIX:0000803]	IAO:0000115		
+WARN	missing_definition	alkanethiol-modified gold electrode method [FIX:0000804]	IAO:0000115		
+WARN	missing_definition	bare gold electrode method [FIX:0000805]	IAO:0000115		
+WARN	missing_definition	bare EPG electrode method [FIX:0000806]	IAO:0000115		
+WARN	missing_definition	2-mercaptodecylhydroquinone-modified gold electrode method [FIX:0000807]	IAO:0000115		
+WARN	missing_definition	didodecyldimethylammonium bromide-modified EPG electrode method [FIX:0000808]	IAO:0000115		
+WARN	missing_definition	glassy carbon electrode method [FIX:0000809]	IAO:0000115		
+WARN	missing_definition	didodecyldimethylammonium bromide-modified GC electrode method [FIX:0000810]	IAO:0000115		
+WARN	missing_definition	film electrode method [FIX:0000811]	IAO:0000115		
+WARN	missing_definition	normal pulse polarography [FIX:0000812]	IAO:0000115		
+WARN	missing_definition	differential pulse polarography [FIX:0000813]	IAO:0000115		
+WARN	missing_definition	alternating current polarography [FIX:0000814]	IAO:0000115		
+WARN	missing_definition	double potential step chronoamperometry [FIX:0000815]	IAO:0000115		
+WARN	missing_definition	square-wave polarography [FIX:0000816]	IAO:0000115		
+WARN	missing_definition	alternating voltage chronopotentiometry [FIX:0000817]	IAO:0000115		
+WARN	missing_definition	protein film method [FIX:0000818]	IAO:0000115		
+WARN	missing_definition	protein-chitosan film method [FIX:0000819]	IAO:0000115		
+WARN	missing_definition	protein-polyion film method [FIX:0000820]	IAO:0000115		
+WARN	missing_definition	protein-poly(ester sulfonic acid) film method [FIX:0000821]	IAO:0000115		
+WARN	missing_definition	protein-poly(vinyl sulfonate) film method [FIX:0000822]	IAO:0000115		
+WARN	missing_definition	protein-surfactant film method [FIX:0000823]	IAO:0000115		
+WARN	missing_definition	protein-composite film method [FIX:0000824]	IAO:0000115		
+WARN	missing_definition	protein-polyion-surfactant film method [FIX:0000825]	IAO:0000115		
+WARN	missing_definition	protein-clay-surfactant film method [FIX:0000826]	IAO:0000115		
+WARN	missing_definition	protein-dihexadecylphosphate-poly(diallyldimethylammonium) film method [FIX:0000827]	IAO:0000115		
+WARN	missing_definition	protein-dimyristoyl phosphatidylcholine method [FIX:0000828]	IAO:0000115		
+WARN	missing_definition	protein-poly(diallyldimethylammonium) film method [FIX:0000829]	IAO:0000115		
+WARN	missing_definition	protein-didodecyldimethylammonium bromide film method [FIX:0000830]	IAO:0000115		
+WARN	missing_definition	protein-dihexadecylphosphate film method [FIX:0000831]	IAO:0000115		
+WARN	missing_definition	multi-wall carbon nanotubes-modified glassy carbon electrode method [FIX:0000832]	IAO:0000115		
+WARN	missing_definition	bare glassy carbon electrode method [FIX:0000833]	IAO:0000115		
+WARN	missing_definition	boron-doped diamond electrode method [FIX:0000834]	IAO:0000115		
+WARN	missing_definition	boron-doped diamond thin-film electrode method [FIX:0000835]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis [FIX:0000836]	IAO:0000115		
+WARN	missing_definition	capillary gel electrophoresis [FIX:0000837]	IAO:0000115		
+WARN	missing_definition	free solution capillary electrophoresis [FIX:0000838]	IAO:0000115		
+WARN	missing_definition	microchip capillary electrophoresis [FIX:0000839]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis with electrochemical detection [FIX:0000840]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis with amperometric detection [FIX:0000841]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis with voltammetric detection [FIX:0000842]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis with conductometric detection [FIX:0000843]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis with potentiometric detection [FIX:0000844]	IAO:0000115		
+WARN	missing_definition	microchip capillary electrophoresis with amperometric detection [FIX:0000845]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis with laser-induced fluorescence detection [FIX:0000846]	IAO:0000115		
+WARN	missing_definition	microchip capillary electrophoresis with electrochemical detection [FIX:0000847]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis with biosensor detection [FIX:0000848]	IAO:0000115		
+WARN	missing_definition	capillary electrophoresis by detection [FIX:0000849]	IAO:0000115		
+WARN	missing_definition	biosensor method [FIX:0000850]	IAO:0000115		
+WARN	missing_definition	non-aqueous capillary electrophoresis [FIX:0000851]	IAO:0000115		
+WARN	missing_definition	aqueous capillary electrophoresis [FIX:0000852]	IAO:0000115		
+WARN	missing_definition	non-aqueous capillary electrophoresis with mass spectrometry [FIX:0000853]	IAO:0000115		
+WARN	missing_definition	CEEC by BDD electrode [FIX:0000854]	IAO:0000115		
+WARN	missing_definition	microchip CE with amperometric detection by BDD electrode [FIX:0000855]	IAO:0000115		
+WARN	missing_definition	immobilized metal affinity chromatography [FIX:0000856]	IAO:0000115		
+WARN	missing_definition	chromatography by detection [FIX:0000857]	IAO:0000115		
+WARN	missing_definition	chromatography with flame ionization detection [FIX:0000858]	IAO:0000115		
+WARN	missing_definition	gas chromatography with flame ionization detection [FIX:0000859]	IAO:0000115		
+WARN	missing_definition	chromatography with electrochemical detection [FIX:0000860]	IAO:0000115		
+WARN	missing_definition	high-performance anion-exchange chromatography with pulsed amperometric detection [FIX:0000861]	IAO:0000115		
+WARN	missing_definition	ion spray ionization mass spectrometry [FIX:0000862]	IAO:0000115		
+WARN	missing_definition	inductively coupled plasma mass spectrometry [FIX:0000863]	IAO:0000115		
+WARN	missing_definition	electrothermal vaporization-inductively coupled plasma-mass spectrometry [FIX:0000864]	IAO:0000115		
+WARN	missing_definition	liquid chromatography-inductively coupled plasma mass spectrometry [FIX:0000865]	IAO:0000115		
+WARN	missing_definition	atmospheric pressure chemical ionization mass spectrometry [FIX:0000866]	IAO:0000115		
+WARN	missing_definition	fluorescence recovery after photobleaching [FIX:0000867]	IAO:0000115		
+WARN	missing_definition	enzyme-dependent fluorescence recovery after photobleaching [FIX:0000868]	IAO:0000115		
+WARN	missing_definition	immunochromatography [FIX:0000869]	IAO:0000115		
+WARN	missing_definition	immunoaffinity chromatography [FIX:0000870]	IAO:0000115		
+WARN	missing_definition	tandem IMAC/IAC of His-tagged protein [FIX:0000871]	IAO:0000115		
+WARN	missing_definition	IMAC of His-tagged protein [FIX:0000872]	IAO:0000115		
+WARN	missing_definition	DNA sequencing [FIX:0000873]	IAO:0000115		
+WARN	missing_definition	RNA sequencing [FIX:0000874]	IAO:0000115		
+WARN	missing_definition	Maxam-Gilbert sequencing [FIX:0000875]	IAO:0000115		
+WARN	missing_definition	dideoxynucleotide sequencing [FIX:0000876]	IAO:0000115		
+WARN	missing_definition	dideoxynucleotide DNA sequencing [FIX:0000877]	IAO:0000115		
+WARN	missing_definition	transcriptional sequencing [FIX:0000878]	IAO:0000115		
+WARN	missing_definition	RNA sequencing using RNA-dependent RNA polymerase [FIX:0000879]	IAO:0000115		
+WARN	missing_definition	Maxam-Gilbert RNA sequencing [FIX:0000880]	IAO:0000115		
+WARN	missing_definition	Maxam-Gilbert DNA sequencing [FIX:0000881]	IAO:0000115		
+WARN	missing_definition	nucleic acid sequencing using polymerase [FIX:0000882]	IAO:0000115		
+WARN	missing_definition	polyacrylamide gel electrophoresis [FIX:0000883]	IAO:0000115		
+WARN	missing_definition	SDS polyacrylamide gel electrophoresis [FIX:0000884]	IAO:0000115		
+WARN	missing_definition	gradient SDS polyacrylamide gel electrophoresis [FIX:0000885]	IAO:0000115		
+WARN	missing_definition	two-dimensional polyacrylamide gel electrophoresis [FIX:0000886]	IAO:0000115		
+WARN	missing_definition	selenium K-edge XAS [FIX:0000887]	IAO:0000115		
+WARN	missing_definition	X-ray absorption spectroscopy by atom type [FIX:0000888]	IAO:0000115		
+WARN	missing_definition	selenium XAS [FIX:0000889]	IAO:0000115		
+WARN	missing_definition	selenium K X-ray absorption near-edge spectroscopy [FIX:0000890]	IAO:0000115		
+WARN	missing_definition	zinc XAS [FIX:0000891]	IAO:0000115		
+WARN	missing_definition	zinc K-edge XAS [FIX:0000892]	IAO:0000115		
+WARN	missing_definition	molybdenum K-edge XAS [FIX:0000893]	IAO:0000115		
+WARN	missing_definition	molybdenum XAS [FIX:0000894]	IAO:0000115		
+WARN	missing_definition	tungsten XAS [FIX:0000895]	IAO:0000115		
+WARN	missing_definition	tungsten L-edge XAS [FIX:0000896]	IAO:0000115		
+WARN	missing_definition	copper XAS [FIX:0000897]	IAO:0000115		
+WARN	missing_definition	nickel XAS [FIX:0000898]	IAO:0000115		
+WARN	missing_definition	manganese XAS [FIX:0000899]	IAO:0000115		
+WARN	missing_definition	cadmium-111 magnetic resonance spectroscopy [FIX:0000900]	IAO:0000115		
+WARN	missing_definition	cadmium-111 method [FIX:0000901]	IAO:0000115		
+WARN	missing_definition	time-resolved EXAFS [FIX:0000902]	IAO:0000115		
+WARN	missing_definition	spark ionization mass spectroscopy [FIX:0000903]	IAO:0000115		
+WARN	missing_definition	isotope-dilution ICP-MS [FIX:0000904]	IAO:0000115		
+WARN	missing_definition	plasma desorption ionization mass spectrometry [FIX:0000905]	IAO:0000115		
+WARN	missing_definition	photoionization mass spectrometry [FIX:0000906]	IAO:0000115		
+WARN	missing_definition	atmospheric pressure photoionization mass spectrometry [FIX:0000907]	IAO:0000115		
+WARN	missing_definition	atmospheric pressure ionization mass spectrometry [FIX:0000908]	IAO:0000115		
+WARN	missing_definition	sonic spray ionization mass spectrometry [FIX:0000909]	IAO:0000115		
+WARN	missing_definition	stopped-flow electrospray ionization mass spectrometry [FIX:0000910]	IAO:0000115		
+WARN	missing_definition	laser desorption-atmospheric pressure chemical ionization-mass spectrometry [FIX:0000911]	IAO:0000115		
+WARN	missing_definition	thermal ionization mass spectrometry [FIX:0000912]	IAO:0000115		
+WARN	missing_definition	field ionization mass spectrometry [FIX:0000913]	IAO:0000115		
+WARN	missing_definition	positive thermal ionization mass spectrometry [FIX:0000914]	IAO:0000115		
+WARN	missing_definition	negative thermal ionization mass spectrometry [FIX:0000915]	IAO:0000115		
+WARN	missing_definition	isotope dilution thermal ionization mass spectrometry [FIX:0000916]	IAO:0000115		
+WARN	missing_definition	ion trap mass spectrometry [FIX:0000917]	IAO:0000115		
+WARN	missing_definition	proton transfer reaction mass spectrometry [FIX:0000918]	IAO:0000115		
+WARN	missing_definition	proton transfer reaction ion trap mass spectrometry [FIX:0000919]	IAO:0000115		
+WARN	missing_definition	MALDI-TOF mass spectrometry [FIX:0000920]	IAO:0000115		
+WARN	missing_definition	gas chromatography-mass spectrometry [FIX:0000921]	IAO:0000115		
+WARN	missing_definition	capillary gas chromatography-mass spectrometry [FIX:0000922]	IAO:0000115		
+WARN	missing_definition	capillary gas chromatography [FIX:0000923]	IAO:0000115		
+WARN	missing_definition	liquid chromatography-mass spectrometry [FIX:0000924]	IAO:0000115		
+WARN	missing_definition	gas chromatography with microwave-induced plasma and atomic-emission detection [FIX:0000925]	IAO:0000115		
+WARN	missing_definition	atomic absorption spectroscopy [FIX:0000926]	IAO:0000115		
+WARN	missing_definition	atomic emission spectroscopy [FIX:0000927]	IAO:0000115		
+WARN	missing_definition	flame atomic emission spectroscopy [FIX:0000928]	IAO:0000115		
+WARN	missing_definition	flame atomic absorption spectroscopy [FIX:0000929]	IAO:0000115		
+WARN	missing_definition	flame atomic fluorescence spectroscopy [FIX:0000930]	IAO:0000115		
+WARN	missing_definition	microwave-induced plasma atomic emission spectrometry [FIX:0000931]	IAO:0000115		
+WARN	missing_definition	flame emission spectroscopy [FIX:0000932]	IAO:0000115		
+WARN	missing_definition	plasma method [FIX:0000933]	IAO:0000115		
+WARN	missing_definition	arc method [FIX:0000934]	IAO:0000115		
+WARN	missing_definition	spark method [FIX:0000935]	IAO:0000115		
+WARN	missing_definition	low pressure electrical discharge method [FIX:0000936]	IAO:0000115		
+WARN	missing_definition	microwave plasma method [FIX:0000937]	IAO:0000115		
+WARN	missing_definition	radiofrequency plasma method [FIX:0000938]	IAO:0000115		
+WARN	missing_definition	inductively coupled plasma method [FIX:0000939]	IAO:0000115		
+WARN	missing_definition	capacitively coupled plasma method [FIX:0000940]	IAO:0000115		
+WARN	missing_definition	microwave-induced plasma method [FIX:0000941]	IAO:0000115		
+WARN	missing_definition	atomic electronic spectroscopy [FIX:0000942]	IAO:0000115		
+WARN	missing_definition	molecular electronic spectroscopy [FIX:0000943]	IAO:0000115		
+WARN	missing_definition	electronic absorption spectroscopy [FIX:0000944]	IAO:0000115		
+WARN	missing_definition	flame atomic spectroscopy [FIX:0000945]	IAO:0000115		
+WARN	missing_definition	flame spectroscopy [FIX:0000946]	IAO:0000115		
+WARN	missing_definition	flame molecular spectroscopy [FIX:0000947]	IAO:0000115		
+WARN	missing_definition	coherent radiation source method [FIX:0000948]	IAO:0000115		
+WARN	missing_definition	non-coherent radiation source method [FIX:0000949]	IAO:0000115		
+WARN	missing_definition	chemical flame method [FIX:0000950]	IAO:0000115		
+WARN	missing_definition	graphite furnace atomic absorption spectrometry [FIX:0000951]	IAO:0000115		
+WARN	missing_definition	coherent synchrotron radiation method [FIX:0000952]	IAO:0000115		
+WARN	missing_definition	continuous spallation neutron source method [FIX:0000953]	IAO:0000115		
+WARN	missing_definition	pulse spallation neutron source method [FIX:0000954]	IAO:0000115		
+WARN	missing_definition	fission reactor source method [FIX:0000955]	IAO:0000115		
+WARN	missing_definition	fission reactor neutron source method [FIX:0000956]	IAO:0000115		
+WARN	missing_definition	size exclusion chromatography-flame atomic absorption spectrometry [FIX:0000957]	IAO:0000115		
+WARN	missing_definition	quadrupole time-of-flight mass spectrometry [FIX:0000958]	IAO:0000115		
+WARN	missing_definition	time-of-flight secondary ion mass spectrometry [FIX:0000959]	IAO:0000115		
+WARN	missing_definition	SIMS microscopy [FIX:0000960]	IAO:0000115		
+WARN	missing_definition	liquid secondary ion mass spectrometry [FIX:0000961]	IAO:0000115		
+WARN	missing_definition	ion microscopy [FIX:0000962]	IAO:0000115		
+WARN	missing_definition	scanning ion microscopy [FIX:0000963]	IAO:0000115		
+WARN	missing_definition	molybdenum-99 method [FIX:0000964]	IAO:0000115		
+WARN	missing_definition	iron-55 method [FIX:0000965]	IAO:0000115		
+WARN	missing_definition	iron-59 method [FIX:0000966]	IAO:0000115		
+WARN	missing_definition	iron-52 method [FIX:0000967]	IAO:0000115		
+WARN	missing_definition	[57Fe,13C] double resonance [FIX:0000968]	IAO:0000115		
+WARN	missing_definition	multinuclear [13C,17O,57Fe] 1D NMR [FIX:0000969]	IAO:0000115		
+WARN	missing_definition	57Fe 1D NMR [FIX:0000970]	IAO:0000115		
+WARN	missing_definition	13C 1D NMR [FIX:0000971]	IAO:0000115		
+WARN	missing_definition	17O 1D NMR [FIX:0000972]	IAO:0000115		
+WARN	missing_definition	rotational-echo double-resonance NMR [FIX:0000973]	IAO:0000115		
+WARN	missing_definition	13C-15N REDOR [FIX:0000974]	IAO:0000115		
+WARN	missing_definition	transfer-echo double-resonance NMR [FIX:0000975]	IAO:0000115		
+WARN	missing_definition	2D TEDOR [FIX:0000976]	IAO:0000115		
+WARN	missing_definition	3D TEDOR [FIX:0000977]	IAO:0000115		
+WARN	missing_definition	31P-13C REDOR [FIX:0000978]	IAO:0000115		
+WARN	missing_definition	31P-15N REDOR [FIX:0000979]	IAO:0000115		
+WARN	missing_definition	31P-19F REDOR [FIX:0000980]	IAO:0000115		
+WARN	missing_definition	homonuclear distance measurement [FIX:0000981]	IAO:0000115		
+WARN	missing_definition	heteronuclear distance measurement [FIX:0000982]	IAO:0000115		
+WARN	missing_definition	rotational resonance NMR [FIX:0000983]	IAO:0000115		
+WARN	missing_definition	13C-13C rotational resonance NMR [FIX:0000984]	IAO:0000115		
+WARN	missing_definition	13C-13C rotational resonance width experiment [FIX:0000985]	IAO:0000115		
+WARN	missing_definition	rotational resonance width experiment [FIX:0000986]	IAO:0000115		
+WARN	missing_definition	rotational resonance tickling experiment [FIX:0000987]	IAO:0000115		
+WARN	missing_definition	rotational-echo adiabatic-passage double-resonance NMR [FIX:0000988]	IAO:0000115		
+WARN	missing_definition	19F-13C REDOR [FIX:0000989]	IAO:0000115		
+WARN	missing_definition	13C-14N REAPDOR [FIX:0000990]	IAO:0000115		
+WARN	missing_definition	2H-13C REDOR [FIX:0000991]	IAO:0000115		
+WARN	missing_definition	13C-2D theta-REDOR [FIX:0000992]	IAO:0000115		
+WARN	missing_definition	transfer of populations in double resonance NMR [FIX:0000993]	IAO:0000115		
+WARN	missing_definition	1H-27Al TRAPDOR [FIX:0000994]	IAO:0000115		
+WARN	missing_definition	23Na-51V TRAPDOR [FIX:0000995]	IAO:0000115		
+WARN	missing_definition	13C-27Al TRAPDOR [FIX:0000996]	IAO:0000115		
+WARN	missing_definition	sodium-23 magnetic resonance spectroscopy [FIX:0000997]	IAO:0000115		
+WARN	missing_definition	vanadium-51 magnetic resonance spectroscopy [FIX:0000998]	IAO:0000115		
+WARN	missing_definition	13C-2H REAPDOR [FIX:0000999]	IAO:0000115		
+WARN	missing_definition	13C-23Na REAPDOR [FIX:0001000]	IAO:0000115		
+WARN	missing_definition	aluminium-27 magnetic resonance spectroscopy [FIX:0001001]	IAO:0000115		
+WARN	missing_definition	cross-polarization magic-angle-spinning NMR [FIX:0001002]	IAO:0000115		
+WARN	missing_definition	13C CP/MAS [FIX:0001003]	IAO:0000115		
+WARN	missing_definition	1H-2H CP/MAS [FIX:0001004]	IAO:0000115		
+WARN	missing_definition	1H-31P CP/MAS [FIX:0001005]	IAO:0000115		
+WARN	missing_definition	polarization inversion spin exchange at the magic angle [FIX:0001006]	IAO:0000115		
+WARN	missing_definition	2D PISEMA [FIX:0001007]	IAO:0000115		
+WARN	missing_definition	3D PISEMA [FIX:0001008]	IAO:0000115		
+WARN	missing_definition	1H-15N dipolar coupling/15N chemical shift PISEMA [FIX:0001009]	IAO:0000115		
+WARN	missing_definition	1H chemical shift/1H-15N dipolar coupling/15N chemical shift PISEMA [FIX:0001010]	IAO:0000115		
+WARN	missing_definition	13C chemical shift/1H-13C dipolar coupling/15N chemical shift PISEMA [FIX:0001011]	IAO:0000115		
+WARN	missing_definition	1H13C dipolar coupling/13C chemical shift PISEMA [FIX:0001012]	IAO:0000115		
+WARN	missing_definition	1H-15N dipolar coupling/15N chemical shift with magic-angle sample spinning [FIX:0001013]	IAO:0000115		
+WARN	missing_definition	silver-109 method [FIX:0001014]	IAO:0000115		
+WARN	missing_definition	silver-109 magnetic resonance spectroscopy [FIX:0001015]	IAO:0000115		
+WARN	missing_definition	109Ag CP/MAS [FIX:0001016]	IAO:0000115		
+WARN	missing_definition	1H-109Ag HMQC [FIX:0001017]	IAO:0000115		
+WARN	missing_definition	113Cd 1D NMR [FIX:0001018]	IAO:0000115		
+WARN	missing_definition	1H-113Cd correlated spectroscopy [FIX:0001019]	IAO:0000115		
+WARN	missing_definition	113Cd-113Cd correlated spectroscopy [FIX:0001020]	IAO:0000115		
+WARN	missing_definition	1H-113Cd HMQC [FIX:0001021]	IAO:0000115		
+WARN	missing_definition	113Cd-113Cd DQF-COSY [FIX:0001022]	IAO:0000115		
+WARN	missing_definition	15N-1H HMBC [FIX:0001023]	IAO:0000115		
+WARN	missing_definition	13C-1H HMBC [FIX:0001024]	IAO:0000115		
+WARN	missing_definition	proton-detected heteronuclear correlated spectroscopy [FIX:0001025]	IAO:0000115		
+WARN	missing_definition	1H-13C heteronuclear correlated spectroscopy [FIX:0001026]	IAO:0000115		
+WARN	missing_definition	gradient-enhanced jump-return spin-echo 15N-1H HMQC [FIX:0001027]	IAO:0000115		
+WARN	missing_definition	1H-31P heteronuclear correlated spectroscopy [FIX:0001028]	IAO:0000115		
+WARN	missing_definition	constant-time HMQC-HN experiment [FIX:0001029]	IAO:0000115		
+WARN	missing_definition	constant-time HMQC-HA experiment [FIX:0001030]	IAO:0000115		
+WARN	missing_definition	HCN experiment [FIX:0001031]	IAO:0000115		
+WARN	missing_definition	multiple-quantum HCN-CCH-TOCSY experiment [FIX:0001032]	IAO:0000115		
+WARN	missing_definition	HCN-CCH-TOCSY experiment [FIX:0001033]	IAO:0000115		
+WARN	missing_definition	(H,C,P) 3D NMR [FIX:0001034]	IAO:0000115		
+WARN	missing_definition	HCP-CCH-TOCSY experiment [FIX:0001035]	IAO:0000115		
+WARN	missing_definition	P,H-COSY-H,C-HMQC experiment [FIX:0001036]	IAO:0000115		
+WARN	missing_definition	P,H-TOCSY-H,C-HMQC experiment [FIX:0001037]	IAO:0000115		
+WARN	missing_definition	(H,C,N) 3D NMR [FIX:0001038]	IAO:0000115		
+WARN	missing_definition	13C REDOR [FIX:0001039]	IAO:0000115		
+WARN	missing_definition	15N REDOR [FIX:0001040]	IAO:0000115		
+WARN	missing_definition	31P REDOR [FIX:0001041]	IAO:0000115		
+WARN	missing_definition	19F REDOR [FIX:0001042]	IAO:0000115		
+WARN	missing_definition	nitrogen-14 magnetic resonance spectroscopy [FIX:0001043]	IAO:0000115		
+WARN	missing_definition	nitrogen-14 method [FIX:0001044]	IAO:0000115		
+WARN	missing_definition	14N ESEEM [FIX:0001045]	IAO:0000115		
+WARN	missing_definition	chlorine-35 method [FIX:0001046]	IAO:0000115		
+WARN	missing_definition	chlorine-35 nuclear quadrupole resonance spectroscopy [FIX:0001047]	IAO:0000115		
+WARN	missing_definition	nuclear quadrupole resonance spectroscopy [FIX:0001048]	IAO:0000115		
+WARN	missing_definition	nitrogen-14 nuclear quadrupole resonance spectroscopy [FIX:0001049]	IAO:0000115		
+WARN	missing_definition	oxygen-17 nuclear quadrupole resonance spectroscopy [FIX:0001050]	IAO:0000115		
+WARN	missing_definition	Zeeman-perturbated NQR [FIX:0001051]	IAO:0000115		
+WARN	missing_definition	rotating-frame NQR imaging [FIX:0001052]	IAO:0000115		
+WARN	missing_definition	NQR by nucleus type [FIX:0001053]	IAO:0000115		
+WARN	missing_definition	nuclear-quadrupole double-resonance spectroscopy [FIX:0001054]	IAO:0000115		
+WARN	missing_definition	1H-17O nuclear-quadrupole double-resonance spectroscopy [FIX:0001055]	IAO:0000115		
+WARN	missing_definition	1H-35Cl nuclear-quadrupole double-resonance spectroscopy [FIX:0001056]	IAO:0000115		
+WARN	missing_definition	silicon-29 method [FIX:0001057]	IAO:0000115		
+WARN	missing_definition	silicon-29 magnetic resonance spectroscopy [FIX:0001058]	IAO:0000115		
+WARN	missing_definition	29Si CP/MAS [FIX:0001059]	IAO:0000115		
+WARN	missing_definition	gas-phase NMR [FIX:0001060]	IAO:0000115		
+WARN	missing_definition	laser-polarized gas NMR [FIX:0001061]	IAO:0000115		
+WARN	missing_definition	laser-polarized gaseous 129Xe NMR [FIX:0001062]	IAO:0000115		
+WARN	missing_definition	laser-polarized gaseous 3He NMR [FIX:0001063]	IAO:0000115		
+WARN	missing_definition	helium-3 magnetic resonance spectroscopy [FIX:0001064]	IAO:0000115		
+WARN	missing_definition	helium-3 method [FIX:0001065]	IAO:0000115		
+WARN	missing_definition	laser-polarized solid 129Xe NMR [FIX:0001066]	IAO:0000115		
+WARN	missing_definition	iodine-127 nuclear quadrupole resonance spectroscopy [FIX:0001067]	IAO:0000115		
+WARN	missing_definition	time-resolved infrared spectroscopy [FIX:0001068]	IAO:0000115		
+WARN	missing_definition	two-dimensional infrared spectroscopy [FIX:0001069]	IAO:0000115		
+WARN	missing_definition	two-pulse IR correlation spectroscopy [FIX:0001070]	IAO:0000115		
+WARN	missing_definition	three IR pulse stimulated echo spectroscopy [FIX:0001071]	IAO:0000115		
+WARN	missing_definition	pulsed laser method [FIX:0001072]	IAO:0000115		
+WARN	missing_definition	time-resolved resonance Raman spectroscopy [FIX:0001073]	IAO:0000115		
+WARN	missing_definition	time-resolved step-scan FT-IR spectroscopy [FIX:0001074]	IAO:0000115		
+WARN	missing_definition	time-resolved non-resonance Raman spectroscopy [FIX:0001075]	IAO:0000115		
+WARN	missing_definition	time-resolved Raman spectroscopy [FIX:0001076]	IAO:0000115		
+WARN	missing_definition	picosecond time-resolved resonance Raman spectroscopy [FIX:0001077]	IAO:0000115		
+WARN	missing_definition	step-scan FT-IR spectroscopy [FIX:0001078]	IAO:0000115		
+WARN	missing_definition	lithium-6 method [FIX:0001079]	IAO:0000115		
+WARN	missing_definition	lithium-6 magnetic resonance spectroscopy [FIX:0001080]	IAO:0000115		
+WARN	missing_definition	lithium-7 magnetic resonance spectroscopy [FIX:0001081]	IAO:0000115		
+WARN	missing_definition	lithium-7 method [FIX:0001082]	IAO:0000115		
+WARN	missing_definition	beryllium-9 magnetic resonance spectroscopy [FIX:0001083]	IAO:0000115		
+WARN	missing_definition	beryllium-9 method [FIX:0001084]	IAO:0000115		
+WARN	missing_definition	heteronuclear Overhauser effect spectroscopy [FIX:0001085]	IAO:0000115		
+WARN	missing_definition	6Li-1H HOESY [FIX:0001086]	IAO:0000115		
+WARN	missing_definition	19F-1H HOESY [FIX:0001087]	IAO:0000115		
+WARN	missing_definition	pulsed gradient spin-echo NMR [FIX:0001088]	IAO:0000115		
+WARN	missing_definition	2H PGSE [FIX:0001089]	IAO:0000115		
+WARN	missing_definition	19F PGSE [FIX:0001090]	IAO:0000115		
+WARN	missing_definition	1H PGSE [FIX:0001091]	IAO:0000115		
+WARN	missing_definition	7Li PGSE [FIX:0001092]	IAO:0000115		
+WARN	missing_definition	13C PGSE [FIX:0001093]	IAO:0000115		
+WARN	missing_definition	aluminium-27 method [FIX:0001094]	IAO:0000115		
+WARN	missing_definition	solid-state 29Si MAS NMR [FIX:0001095]	IAO:0000115		
+WARN	missing_definition	29Si REDOR [FIX:0001096]	IAO:0000115		
+WARN	missing_definition	19F-29Si REDOR [FIX:0001097]	IAO:0000115		
+WARN	missing_definition	19F-29Si theta-REDOR [FIX:0001098]	IAO:0000115		
+WARN	missing_definition	yttrium-89 method [FIX:0001099]	IAO:0000115		
+WARN	missing_definition	yttrium-89 NMR [FIX:0001100]	IAO:0000115		
+WARN	missing_definition	89Y CP/MAS [FIX:0001101]	IAO:0000115		
+WARN	missing_definition	copper-63 method [FIX:0001102]	IAO:0000115		
+WARN	missing_definition	copper-63 magnetic resonance spectroscopy [FIX:0001103]	IAO:0000115		
+WARN	missing_definition	copper-63 electron paramagnetic resonance spectroscopy [FIX:0001104]	IAO:0000115		
+WARN	missing_definition	boron-11 method [FIX:0001105]	IAO:0000115		
+WARN	missing_definition	boron-11 magnetic resonance spectroscopy [FIX:0001106]	IAO:0000115		
+WARN	missing_definition	copper-63 nuclear quadrupole resonance spectroscopy [FIX:0001107]	IAO:0000115		
+WARN	missing_definition	copper-65 method [FIX:0001108]	IAO:0000115		
+WARN	missing_definition	copper-65 nuclear quadrupole resonance spectroscopy [FIX:0001109]	IAO:0000115		
+WARN	missing_definition	copper-65 electron paramagnetic resonance spectroscopy [FIX:0001110]	IAO:0000115		
+WARN	missing_definition	aluminium-27 nuclear quadrupole resonance spectroscopy [FIX:0001111]	IAO:0000115		
+WARN	missing_definition	arsenic-75 nuclear quadrupole resonance spectroscopy [FIX:0001112]	IAO:0000115		
+WARN	missing_definition	arsenic-75 method [FIX:0001113]	IAO:0000115		
+WARN	missing_definition	1H-75As nuclear-quadrupole double-resonance spectroscopy [FIX:0001114]	IAO:0000115		
+WARN	missing_definition	rubidium-87 nuclear quadrupole resonance spectroscopy [FIX:0001115]	IAO:0000115		
+WARN	missing_definition	rubidium-87 method [FIX:0001116]	IAO:0000115		
+WARN	missing_definition	potassium-39 nuclear quadrupole resonance spectroscopy [FIX:0001117]	IAO:0000115		
+WARN	missing_definition	potassium-39 method [FIX:0001118]	IAO:0000115		
+WARN	missing_definition	potassium-39 magnetic resonance spectroscopy [FIX:0001119]	IAO:0000115		
+WARN	missing_definition	sodium-23 method [FIX:0001120]	IAO:0000115		
+WARN	missing_definition	lanthanum-139 method [FIX:0001121]	IAO:0000115		
+WARN	missing_definition	lanthanum-139 magnetic resonance spectroscopy [FIX:0001122]	IAO:0000115		
+WARN	missing_definition	lanthanum-139 nuclear quadrupole resonance spectroscopy [FIX:0001123]	IAO:0000115		
+WARN	missing_definition	vanadium-51 method [FIX:0001124]	IAO:0000115		
+WARN	missing_definition	surface plasmon resonance mass spectrometry [FIX:0001125]	IAO:0000115		
+WARN	missing_definition	biomolecular interaction analysis mass spectrometry [FIX:0001126]	IAO:0000115		
+WARN	missing_definition	surface plasmon resonance biomolecular interaction analysis [FIX:0001127]	IAO:0000115		
+WARN	missing_definition	wide-angle X-ray scattering [FIX:0001128]	IAO:0000115		
+WARN	missing_definition	wide-angle scattering [FIX:0001129]	IAO:0000115		
+WARN	missing_definition	wide-angle neutron scattering [FIX:0001130]	IAO:0000115		
+WARN	missing_definition	vanadium K-edge XAS [FIX:0001131]	IAO:0000115		
+WARN	missing_definition	vanadium K X-ray absorption near-edge spectroscopy [FIX:0001132]	IAO:0000115		
+WARN	missing_definition	time-resolved XAS [FIX:0001133]	IAO:0000115		
+WARN	missing_definition	time-resolved energy-dispersive XAS [FIX:0001134]	IAO:0000115		
+WARN	missing_definition	energy-dispersive X-ray absorption spectroscopy [FIX:0001135]	IAO:0000115		
+WARN	missing_definition	X-ray magnetic circular dichroism [FIX:0001136]	IAO:0000115		
+WARN	missing_definition	energy-dispersive EXAFS [FIX:0001137]	IAO:0000115		
+WARN	missing_definition	iron K-edge XAS [FIX:0001138]	IAO:0000115		
+WARN	missing_definition	sulfur K-edge XAS [FIX:0001139]	IAO:0000115		
+WARN	missing_definition	copper K-edge XAS [FIX:0001140]	IAO:0000115		
+WARN	missing_definition	copper L-edge XAS [FIX:0001141]	IAO:0000115		
+WARN	missing_definition	molybdenum L-edge XAS [FIX:0001142]	IAO:0000115		
+WARN	missing_definition	nickel K-edge XAS [FIX:0001143]	IAO:0000115		
+WARN	missing_definition	sulfur K-edge EXAFS [FIX:0001144]	IAO:0000115		
+WARN	missing_definition	manganese K-edge XAS [FIX:0001145]	IAO:0000115		
+WARN	missing_definition	iron XAS [FIX:0001146]	IAO:0000115		
+WARN	missing_definition	vanadium XAS [FIX:0001147]	IAO:0000115		
+WARN	missing_definition	sulfur XAS [FIX:0001148]	IAO:0000115		
+WARN	missing_definition	magnesium XAS [FIX:0001149]	IAO:0000115		
+WARN	missing_definition	magnesium K-edge XAS [FIX:0001150]	IAO:0000115		
+WARN	missing_definition	achiral-chiral liquid chromatography-tandem mass spectrometry [FIX:0001151]	IAO:0000115		
+WARN	missing_definition	two-dimensional chromatography [FIX:0001152]	IAO:0000115		
+WARN	missing_definition	two-dimensional liquid chromatography [FIX:0001153]	IAO:0000115		
+WARN	missing_definition	two-dimensional liquid chromatography x gas chromatography [FIX:0001154]	IAO:0000115		
+WARN	missing_definition	two-dimensional gas chromatography [FIX:0001155]	IAO:0000115		
+WARN	missing_definition	two-dimensional liquid chromatography-tandem mass spectrometry [FIX:0001156]	IAO:0000115		
+WARN	missing_definition	liquid chromatography/NMR spectrometry/mass spectrometry [FIX:0001157]	IAO:0000115		
+WARN	missing_definition	liquid chromatography nuclear magnetic resonance [FIX:0001158]	IAO:0000115		
+WARN	missing_definition	liquid exclusion-adsorption chromatography [FIX:0001159]	IAO:0000115		
+WARN	missing_definition	LCCC-LEAC [FIX:0001160]	IAO:0000115		
+WARN	missing_definition	liquid chromatography at the critical condition [FIX:0001161]	IAO:0000115		
+WARN	missing_definition	enhanced-fluidity liquid chromatography at the critical condition [FIX:0001162]	IAO:0000115		
+INFO	missing_superclass	biophysical chemistry [FIX:0000000]	rdfs:subClassOf		

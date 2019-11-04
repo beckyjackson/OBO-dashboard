@@ -1,0 +1,137 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	muscle indole amount [VT:1000431]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume of this tryptophan degradation product detected in the tissue composed of contractile cells or fibers that effects movement.	
+ERROR	duplicate_definition	muscle skatole amount [VT:1000434]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume of this tryptophan degradation product detected in the tissue composed of contractile cells or fibers that effects movement.	
+ERROR	duplicate_definition	milk calcium amount [VT:0010290]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of this metallic element.	
+ERROR	duplicate_definition	milk potassium amount [VT:0010291]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of this metallic element.	
+ERROR	duplicate_definition	milk sodium amount [VT:0010292]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of this metallic element.	
+ERROR	duplicate_definition	milk magnesium amount [VT:0010295]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of this metallic element.	
+ERROR	duplicate_definition	milk CD36 molecule amount [VT:0010393]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of this integral membrane protein.	
+ERROR	duplicate_definition	milk stomatin amount [VT:0010396]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of this integral membrane protein.	
+ERROR	duplicate_definition	milk butyrophilin amount [VT:0010389]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of one of the three predominant proteins in the milk fat globule membrane.	
+ERROR	duplicate_definition	milk xanthine oxidoreductase amount [VT:0010390]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of one of the three predominant proteins in the milk fat globule membrane.	
+ERROR	duplicate_definition	milk adipophilin amount [VT:0010391]	IAO_0000115 [IAO:0000115]	The proportion, quantity, or volume in milk of one of the three predominant proteins in the milk fat globule membrane.	
+ERROR	duplicate_definition	motor neuron quantity [VT:0000939]	IAO_0000115 [IAO:0000115]	The proportion or number of cells that innervate an effector (muscle or glandular) tissue.	
+ERROR	duplicate_definition	sensory neuron quantity [VT:0006006]	IAO_0000115 [IAO:0000115]	The proportion or number of cells that innervate an effector (muscle or glandular) tissue.	
+ERROR	duplicate_definition	cerebellum vermis size trait [VT:0000865]	IAO_0000115 [IAO:0000115]	Any measurable or observable characteristic related to the physical magnitude of the narrow middle zone between the two hemispheres of the cerebellum.	
+ERROR	duplicate_definition	cerebellum anterior vermis size trait [VT:0000868]	IAO_0000115 [IAO:0000115]	Any measurable or observable characteristic related to the physical magnitude of the narrow middle zone between the two hemispheres of the cerebellum.	
+ERROR	missing_ontology_description	TEMP	dc11:description		
+ERROR	duplicate_label	pulmonary blood flow trait [VT:0002295]	label [rdfs:label]	pulmonary blood flow trait	
+ERROR	duplicate_label	pulmonary blood flow trait [VT:2000007]	label [rdfs:label]	pulmonary blood flow trait	
+ERROR	duplicate_label	ear orientation trait [VT:0000023]	label [rdfs:label]	ear orientation trait	
+ERROR	duplicate_label	ear orientation trait [VT:0010274]	label [rdfs:label]	ear orientation trait	
+ERROR	missing_ontology_license	TEMP	dc:license		
+ERROR	missing_ontology_title	TEMP	dc11:title		
+WARN	annotation_whitespace	lifetime offspring quantity [VT:0000073]	hasExactSynonym [oboInOwl:hasExactSynonym]	total number of offspring 	
+WARN	annotation_whitespace	leukocyte quantity [VT:0000217]	hasExactSynonym [oboInOwl:hasExactSynonym]	leukocyte count 	
+WARN	annotation_whitespace	epidermis stratum basale morphology trait [VT:0001231]	hasExactSynonym [oboInOwl:hasExactSynonym]	stratum basale epidermis morphology trait 	
+WARN	annotation_whitespace	epidermis stratum basale morphology trait [VT:0001231]	hasExactSynonym [oboInOwl:hasExactSynonym]	stratum germinativum morphology trait 	
+WARN	annotation_whitespace	penile erection physiology trait [VT:0001379]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	penile erection function 	
+WARN	annotation_whitespace	hematopoiesis trait [VT:0002123]	hasExactSynonym [oboInOwl:hasExactSynonym]	blood development trait 	
+WARN	annotation_whitespace	B cell antigen presentation trait [VT:0002453]	hasExactSynonym [oboInOwl:hasExactSynonym]	lymphocyte antigen presentation 	
+WARN	annotation_whitespace	Langerhans cell antigen presentation trait [VT:0002456]	hasExactSynonym [oboInOwl:hasExactSynonym]	interdigitating reticular cell antigen presentation 	
+WARN	annotation_whitespace	saccular macula morphology trait [VT:0004330]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	saccular spot morphology trait 	
+WARN	annotation_whitespace	zygomatic bone morphology trait [VT:0005270]	hasExactSynonym [oboInOwl:hasExactSynonym]	 jugal bone morphology trait	
+WARN	annotation_whitespace	T-helper 1 cell quantity [VT:0008085]	hasExactSynonym [oboInOwl:hasExactSynonym]	 T helper 1 cell number	
+WARN	annotation_whitespace	B-1b B cell morphology trait [VT:0008165]	hasExactSynonym [oboInOwl:hasExactSynonym]	 B-1b B-cell morphology trait	
+WARN	annotation_whitespace	colon mass [VT:0010194]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	tissue weight of the colon 	
+WARN	annotation_whitespace	hindlimb muscle mass [VT:0010449]	hasNarrowSynonym [oboInOwl:hasNarrowSynonym]	ham muscle mass 	
+WARN	missing_definition	mammary gland secreted fluid morphology trait [VT:0000000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mammary gland growth trait [VT:0000007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	total urine protein amount [VT:0000032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	total milk casein amount [VT:0000053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	total milk mineral amount [VT:0000055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	organism trait [VT:0010454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	excretion behavior trait [VT:0010461]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	defecation behavior trait [VT:0010462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	touch perception trait [VT:0015099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	red blood cell quantity [VT:0000009]	label [rdfs:label]	red blood cell quantity	
+WARN	missing_obsolete_label	ear orientation trait [VT:0000023]	label [rdfs:label]	ear orientation trait	
+WARN	missing_obsolete_label	total urine molecular amount [VT:0000043]	label [rdfs:label]	total urine molecular amount	
+WARN	missing_obsolete_label	blood morphology trait [VT:0000067]	label [rdfs:label]	blood morphology trait	
+WARN	missing_obsolete_label	blood circulatory physiology trait [VT:0000153]	label [rdfs:label]	blood circulatory physiology trait	
+WARN	missing_obsolete_label	lymph circulatory physiology trait [VT:0000154]	label [rdfs:label]	lymph circulatory physiology trait	
+WARN	missing_obsolete_label	blood molecular composition trait [VT:0000179]	label [rdfs:label]	blood molecular composition trait	
+WARN	missing_obsolete_label	blood flow velocity [VT:0000185]	label [rdfs:label]	blood flow velocity	
+WARN	missing_obsolete_label	blood vessel proliferation trait [VT:0000194]	label [rdfs:label]	blood vessel proliferation trait	
+WARN	missing_obsolete_label	cardiac output amount [VT:0000244]	label [rdfs:label]	cardiac output amount	
+WARN	missing_obsolete_label	interdigital webbing trait [VT:0000571]	label [rdfs:label]	interdigital webbing trait	
+WARN	missing_obsolete_label	cochlear inner hair cell afferent innervation pattern trait [VT:0000895]	label [rdfs:label]	cochlear inner hair cell afferent innervation pattern trait	
+WARN	missing_obsolete_label	cochlear inner hair cell efferent innervation pattern trait [VT:0000896]	label [rdfs:label]	cochlear inner hair cell efferent innervation pattern trait	
+WARN	missing_obsolete_label	motor neuron innervation pattern trait [VT:0000940]	label [rdfs:label]	motor neuron innervation pattern trait	
+WARN	missing_obsolete_label	dorsal root ganglion organization trait [VT:0000962]	label [rdfs:label]	dorsal root ganglion organization trait	
+WARN	missing_obsolete_label	sensory neuron innervation pattern trait [VT:0000968]	label [rdfs:label]	sensory neuron innervation pattern trait	
+WARN	missing_obsolete_label	hair guard neuron morphology trait [VT:0000974]	label [rdfs:label]	hair guard neuron morphology trait	
+WARN	missing_obsolete_label	hair guard cell innervation pattern trait [VT:0000976]	label [rdfs:label]	hair guard cell innervation pattern trait	
+WARN	missing_obsolete_label	hair-tylotrich neuron morphology trait [VT:0000977]	label [rdfs:label]	hair-tylotrich neuron morphology trait	
+WARN	missing_obsolete_label	hair-tylotrich cell innervation pattern trait [VT:0000978]	label [rdfs:label]	hair-tylotrich cell innervation pattern trait	
+WARN	missing_obsolete_label	hair-down neuron morphology trait [VT:0000979]	label [rdfs:label]	hair-down neuron morphology trait	
+WARN	missing_obsolete_label	hair-down cell innervation pattern trait [VT:0000981]	label [rdfs:label]	hair-down cell innervation pattern trait	
+WARN	missing_obsolete_label	Meissner\'s corpuscle innervation pattern trait [VT:0000984]	label [rdfs:label]	Meissner's corpuscle innervation pattern trait	
+WARN	missing_obsolete_label	Merkel\'s receptor innervation pattern trait [VT:0000987]	label [rdfs:label]	Merkel's receptor innervation pattern trait	
+WARN	missing_obsolete_label	adrenergic innervation pattern trait [VT:0001027]	label [rdfs:label]	adrenergic innervation pattern trait	
+WARN	missing_obsolete_label	cholinergic innervation pattern trait [VT:0001039]	label [rdfs:label]	cholinergic innervation pattern trait	
+WARN	missing_obsolete_label	lacrimal gland cholinergic innervation pattern trait [VT:0001041]	label [rdfs:label]	lacrimal gland cholinergic innervation pattern trait	
+WARN	missing_obsolete_label	sublingual salivary gland cholinergic innervation pattern trait [VT:0001042]	label [rdfs:label]	sublingual salivary gland cholinergic innervation pattern trait	
+WARN	missing_obsolete_label	parotid salivary gland cholinergic innervation pattern trait [VT:0001043]	label [rdfs:label]	parotid salivary gland cholinergic innervation pattern trait	
+WARN	missing_obsolete_label	enteric cholinergic innervation pattern trait [VT:0001049]	label [rdfs:label]	enteric cholinergic innervation pattern trait	
+WARN	missing_obsolete_label	muscle innervation pattern trait [VT:0001052]	label [rdfs:label]	muscle innervation pattern trait	
+WARN	missing_obsolete_label	vibrissa density [VT:0001283]	label [rdfs:label]	vibrissa density	
+WARN	missing_obsolete_label	distance between the eyes [VT:0001300]	label [rdfs:label]	distance between the eyes	
+WARN	missing_obsolete_label	optic nerve innervation pattern trait [VT:0001332]	label [rdfs:label]	optic nerve innervation pattern trait	
+WARN	missing_obsolete_label	learning/memory trait [VT:0001449]	label [rdfs:label]	learning/memory trait	
+WARN	missing_obsolete_label	conditioning behavior trait [VT:0002062]	label [rdfs:label]	conditioning behavior trait	
+WARN	missing_obsolete_label	hair physiology trait [VT:0002073]	label [rdfs:label]	hair physiology trait	
+WARN	missing_obsolete_label	cornea/lens morphology trait [VT:0002093]	label [rdfs:label]	cornea/lens morphology trait	
+WARN	missing_obsolete_label	red blood cell trait [VT:0002124]	label [rdfs:label]	red blood cell trait	
+WARN	missing_obsolete_label	blood circulation trait [VT:0002128]	label [rdfs:label]	blood circulation trait	
+WARN	missing_obsolete_label	neurotransmitter amount [VT:0002204]	label [rdfs:label]	neurotransmitter amount	
+WARN	missing_obsolete_label	acute phase protein physiology trait [VT:0002483]	label [rdfs:label]	acute phase protein physiology trait	
+WARN	missing_obsolete_label	C-reactive protein physiology trait [VT:0002484]	label [rdfs:label]	C-reactive protein physiology trait	
+WARN	missing_obsolete_label	serum amyloid protein physiology trait [VT:0002486]	label [rdfs:label]	serum amyloid protein physiology trait	
+WARN	missing_obsolete_label	behavioral response to addictive substance trait [VT:0002568]	label [rdfs:label]	behavioral response to addictive substance trait	
+WARN	missing_obsolete_label	immune serum protein activity trait [VT:0002723]	label [rdfs:label]	immune serum protein activity trait	
+WARN	missing_obsolete_label	ear rotation trait [VT:0003713]	label [rdfs:label]	ear rotation trait	
+WARN	missing_obsolete_label	bone structure trait [VT:0003795]	label [rdfs:label]	bone structure trait	
+WARN	missing_obsolete_label	cortical bone morphology trait [VT:0003796]	label [rdfs:label]	cortical bone morphology trait	
+WARN	missing_obsolete_label	lens bow organization trait [VT:0003847]	label [rdfs:label]	lens bow organization trait	
+WARN	missing_obsolete_label	Purkinje cell innervation pattern trait [VT:0003894]	label [rdfs:label]	Purkinje cell innervation pattern trait	
+WARN	missing_obsolete_label	vertical eye alignment trait [VT:0006199]	label [rdfs:label]	vertical eye alignment trait	
+WARN	missing_obsolete_label	mannose-binding protein physiology trait [VT:0010146]	label [rdfs:label]	mannose-binding protein physiology trait	
+WARN	missing_obsolete_label	inflammatory mediator physiology trait [VT:0010147]	label [rdfs:label]	inflammatory mediator physiology trait	
+WARN	missing_obsolete_label	chemokine physiology trait [VT:0010149]	label [rdfs:label]	chemokine physiology trait	
+WARN	missing_obsolete_label	chemotactic interleukin physiology trait [VT:0010152]	label [rdfs:label]	chemotactic interleukin physiology trait	
+WARN	missing_obsolete_label	interleukin-8 physiology trait [VT:0010153]	label [rdfs:label]	interleukin-8 physiology trait	
+WARN	missing_obsolete_label	cytokine physiology trait [VT:0010156]	label [rdfs:label]	cytokine physiology trait	
+WARN	missing_obsolete_label	interferon physiology trait [VT:0010158]	label [rdfs:label]	interferon physiology trait	
+WARN	missing_obsolete_label	interleukin physiology trait [VT:0010159]	label [rdfs:label]	interleukin physiology trait	
+WARN	missing_obsolete_label	tumor necrosis factor-alpha physiology trait [VT:0010160]	label [rdfs:label]	tumor necrosis factor-alpha physiology trait	
+WARN	missing_obsolete_label	interleukin-1 physiology trait [VT:0010161]	label [rdfs:label]	interleukin-1 physiology trait	
+WARN	missing_obsolete_label	interleukin-10 physiology trait [VT:0010162]	label [rdfs:label]	interleukin-10 physiology trait	
+WARN	missing_obsolete_label	interleukin-2 physiology trait [VT:0010163]	label [rdfs:label]	interleukin-2 physiology trait	
+WARN	missing_obsolete_label	interleukin-6 physiology trait [VT:0010164]	label [rdfs:label]	interleukin-6 physiology trait	
+WARN	missing_obsolete_label	interleukin-2 activity [VT:0010165]	label [rdfs:label]	interleukin-2 activity	
+WARN	missing_obsolete_label	induced interleukin-2 activity [VT:0010166]	label [rdfs:label]	induced interleukin-2 activity	
+WARN	missing_obsolete_label	complement protein physiology trait [VT:0010167]	label [rdfs:label]	complement protein physiology trait	
+WARN	missing_obsolete_label	C1 physiology trait [VT:0010168]	label [rdfs:label]	C1 physiology trait	
+WARN	missing_obsolete_label	C2 physiology trait [VT:0010169]	label [rdfs:label]	C2 physiology trait	
+WARN	missing_obsolete_label	C3 physiology trait [VT:0010170]	label [rdfs:label]	C3 physiology trait	
+WARN	missing_obsolete_label	C4 physiology trait [VT:0010171]	label [rdfs:label]	C4 physiology trait	
+WARN	missing_obsolete_label	C5 physiology trait [VT:0010172]	label [rdfs:label]	C5 physiology trait	
+WARN	missing_obsolete_label	C6 physiology trait [VT:0010173]	label [rdfs:label]	C6 physiology trait	
+WARN	missing_obsolete_label	C7 physiology trait [VT:0010174]	label [rdfs:label]	C7 physiology trait	
+WARN	missing_obsolete_label	C8 physiology trait [VT:0010175]	label [rdfs:label]	C8 physiology trait	
+WARN	missing_obsolete_label	C9 physiology trait [VT:0010176]	label [rdfs:label]	C9 physiology trait	
+WARN	missing_obsolete_label	factor B physiology trait [VT:0010177]	label [rdfs:label]	factor B physiology trait	
+WARN	missing_obsolete_label	factor D physiology trait [VT:0010178]	label [rdfs:label]	factor D physiology trait	
+WARN	missing_obsolete_label	milk fatty acid cis-14/trans-16-C18:1 amount [VT:0010336]	label [rdfs:label]	milk fatty acid cis-14/trans-16-C18:1 amount	
+WARN	missing_obsolete_label	behavioral response to xenobiotic stimulus trait [VT:0015031]	label [rdfs:label]	behavioral response to xenobiotic stimulus trait	
+WARN	missing_obsolete_label	behavioral response to alcohol trait [VT:0015032]	label [rdfs:label]	behavioral response to alcohol trait	
+WARN	missing_obsolete_label	sympathetic neuron innervation pattern trait [VT:0015107]	label [rdfs:label]	sympathetic neuron innervation pattern trait	
+WARN	missing_obsolete_label	total heart ventricle morphology trait [VT:1000059]	label [rdfs:label]	total heart ventricle morphology trait	
+WARN	missing_obsolete_label	social tendency trait [VT:1000244]	label [rdfs:label]	social tendency trait	
+WARN	missing_obsolete_label	glycolytic potential [VT:1000415]	label [rdfs:label]	glycolytic potential	
+WARN	missing_obsolete_label	total heart ventricle size trait [VT:1000683]	label [rdfs:label]	total heart ventricle size trait	
+WARN	missing_obsolete_label	temperament trait [VT:1000736]	label [rdfs:label]	temperament trait	
+WARN	missing_obsolete_label	pulmonary blood flow trait [VT:2000007]	label [rdfs:label]	pulmonary blood flow trait	
+WARN	missing_obsolete_label	venous return amount [VT:2000016]	label [rdfs:label]	venous return amount	
+INFO	missing_superclass	Trait [VT:0000001]	rdfs:subClassOf		

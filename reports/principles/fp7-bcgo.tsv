@@ -1,0 +1,32 @@
+IRI	Label	Issue
+http://purl.obolibrary.org/obo/BCGO_0000187	context of binding	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000099	associated pubmed id	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000072	has experimental factor	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000170	is denoted by	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000180	is about development stage	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000063	has contact	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000185	differential expression context	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000181	is about treatment	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000024	not_produce	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000184	binding context	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000015	has_genetic_background_of	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000177	has gene member	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000064	has external resource	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000067	executes	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000022	produces_low_amount	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000182	has duration	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000065	has external identifier	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000074	value of experimental factor	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000172	is about cell type	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000075	examines	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000178	is about strain	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000171	is about genotype	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000183	has concentration	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000173	is about cell line	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000023	produces_high_amount	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000179	is about phenotype	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000073	has experimental factor value	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000174	is about tissue	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000186	context of differential expression	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000169	is about organism species	not an RO property
+http://purl.obolibrary.org/obo/BCGO_0000066	has email address	not an RO property

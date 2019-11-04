@@ -1,0 +1,1823 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	vertebra 4 [TAO:0001170]	IAO_0000115 [IAO:0000115]	Vertebra that is posteriorly adjacent to vertebra 5.	
+ERROR	duplicate_definition	vertebra 6 [TAO:0001980]	IAO_0000115 [IAO:0000115]	Vertebra that is posteriorly adjacent to vertebra 5.	
+ERROR	duplicate_definition	somite 1 [TAO:0000072]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 5 [TAO:0000073]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 26 [TAO:0000074]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 20 [TAO:0000156]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 30 [TAO:0000157]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 11 [TAO:0000725]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 14 [TAO:0000726]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 17 [TAO:0000727]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 2 [TAO:0000728]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 23 [TAO:0000730]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 27 [TAO:0000731]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 3 [TAO:0000732]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 7 [TAO:0000733]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 12 [TAO:0000851]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 15 [TAO:0000852]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 18 [TAO:0000853]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 21 [TAO:0000854]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 24 [TAO:0000855]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 28 [TAO:0000856]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 4 [TAO:0000857]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 8 [TAO:0000858]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 10 [TAO:0000974]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 13 [TAO:0000975]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 16 [TAO:0000976]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 19 [TAO:0000977]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 22 [TAO:0000978]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 25 [TAO:0000980]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 29 [TAO:0000981]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 6 [TAO:0000982]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	somite 9 [TAO:0000983]	IAO_0000115 [IAO:0000115]	Undifferentiated mesodermal component of early trunk or tail segment or metamere, derived from paraxial mesoderm; forms the myotome, sclerotome and perhaps dermatome. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hair cell posterior macula [TAO:0000281]	IAO_0000115 [IAO:0000115]	Specialized neuronal receptor cells of the lateral line and acoustico-vestibular systems. Kimmel et al, 1995. (Also see Anatomical Atlas entry for hair cells by T. Whitfield.)	
+ERROR	duplicate_definition	hair cell anterior macula [TAO:0000678]	IAO_0000115 [IAO:0000115]	Specialized neuronal receptor cells of the lateral line and acoustico-vestibular systems. Kimmel et al, 1995. (Also see Anatomical Atlas entry for hair cells by T. Whitfield.)	
+ERROR	duplicate_definition	renal capsular space [TAO:0005283]	IAO_0000115 [IAO:0000115]	Space between the renal glomerulus and the glomerular capsule.  Renal filtrate collects here then passes into the renal tubule.	
+ERROR	duplicate_definition	pronephric capsular space [TAO:0005312]	IAO_0000115 [IAO:0000115]	Space between the renal glomerulus and the glomerular capsule.  Renal filtrate collects here then passes into the renal tubule.	
+ERROR	duplicate_definition	hypaxial region somite 11 [TAO:0000767]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 14 [TAO:0000768]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 17 [TAO:0000769]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 2 [TAO:0000770]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 22 [TAO:0000771]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 25 [TAO:0000772]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 28 [TAO:0000774]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 30 [TAO:0000775]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 6 [TAO:0000776]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 9 [TAO:0000777]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 1 [TAO:0000891]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 12 [TAO:0000892]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 15 [TAO:0000894]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 18 [TAO:0000895]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 20 [TAO:0000896]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 23 [TAO:0000897]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 26 [TAO:0000898]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 29 [TAO:0000899]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 4 [TAO:0000900]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 7 [TAO:0000901]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 10 [TAO:0000925]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 13 [TAO:0000937]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 16 [TAO:0000946]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 19 [TAO:0000957]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 21 [TAO:0000968]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 24 [TAO:0000979]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 27 [TAO:0000986]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 3 [TAO:0000987]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 5 [TAO:0000988]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	hypaxial region somite 8 [TAO:0000989]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present ventral to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 27 [TAO:0000718]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 3 [TAO:0000729]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 11 [TAO:0000739]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 5 [TAO:0000740]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 14 [TAO:0000741]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 17 [TAO:0000742]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 2 [TAO:0000743]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 22 [TAO:0000744]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 25 [TAO:0000745]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 28 [TAO:0000746]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 30 [TAO:0000747]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 6 [TAO:0000748]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 9 [TAO:0000749]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 8 [TAO:0000751]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 1 [TAO:0000864]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 12 [TAO:0000865]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 15 [TAO:0000866]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 18 [TAO:0000867]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 20 [TAO:0000868]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 23 [TAO:0000869]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 26 [TAO:0000870]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 29 [TAO:0000872]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 4 [TAO:0000873]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 10 [TAO:0000991]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 13 [TAO:0001001]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 16 [TAO:0001012]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 19 [TAO:0001023]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 21 [TAO:0001030]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	epaxial region somite 24 [TAO:0001040]	IAO_0000115 [IAO:0000115]	Somite-derived body wall muscle present dorsal to the horizontal myoseptum. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 14 [TAO:0000044]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 11 [TAO:0000801]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 15 [TAO:0000802]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 18 [TAO:0000803]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 20 [TAO:0000804]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 23 [TAO:0000805]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 26 [TAO:0000807]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 29 [TAO:0000808]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 4 [TAO:0000809]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 7 [TAO:0000810]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 1 [TAO:0000924]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 12 [TAO:0000926]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 16 [TAO:0000927]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 21 [TAO:0000929]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 24 [TAO:0000930]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 27 [TAO:0000931]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 3 [TAO:0000932]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 5 [TAO:0000933]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 8 [TAO:0000934]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 10 [TAO:0001013]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 13 [TAO:0001014]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 2 [TAO:0001016]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 22 [TAO:0001017]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 25 [TAO:0001018]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 28 [TAO:0001019]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 30 [TAO:0001020]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 6 [TAO:0001021]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. Kimmel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 17 [TAO:0001015]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. immel et al, 1995.	
+ERROR	duplicate_definition	myotome somite 9 [TAO:0001022]	IAO_0000115 [IAO:0000115]	Portion of the somite giving rise to body wall muscle masses. immel et al, 1995.	
+ERROR	duplicate_definition	lateral crista [TAO:0000166]	IAO_0000115 [IAO:0000115]	Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own charcteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.)	
+ERROR	duplicate_definition	anterior macula [TAO:0000168]	IAO_0000115 [IAO:0000115]	Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own charcteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.)	
+ERROR	duplicate_definition	macula [TAO:0000386]	IAO_0000115 [IAO:0000115]	Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own charcteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.)	
+ERROR	duplicate_definition	posterior macula [TAO:0000558]	IAO_0000115 [IAO:0000115]	Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own charcteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.)	
+ERROR	duplicate_definition	posterior crista [TAO:0000566]	IAO_0000115 [IAO:0000115]	Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own charcteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.)	
+ERROR	duplicate_definition	anterior crista [TAO:0000619]	IAO_0000115 [IAO:0000115]	Patches of thickened, pseudostratified epithelium of the inner ear, consisting of regular arrays of sensory hair cells interspersed with supporting cells. Each patch has its own charcteristic shape and polarity pattern. (See Anatomical Atlas entry for sensory patches of the ear by T. Whitfield.)	
+ERROR	duplicate_definition	lateral semicircular canal [TAO:0000220]	IAO_0000115 [IAO:0000115]	One of three fluid-filled toroidal spaces, arranged orthogonally to each other in each ear, that detect angular acceleration. (See Anatomical Atlas entry for semicircular canals by T. Whitfield.)	
+ERROR	duplicate_definition	posterior semicircular canal [TAO:0000262]	IAO_0000115 [IAO:0000115]	One of three fluid-filled toroidal spaces, arranged orthogonally to each other in each ear, that detect angular acceleration. (See Anatomical Atlas entry for semicircular canals by T. Whitfield.)	
+ERROR	duplicate_definition	anterior semicircular canal [TAO:0000314]	IAO_0000115 [IAO:0000115]	One of three fluid-filled toroidal spaces, arranged orthogonally to each other in each ear, that detect angular acceleration. (See Anatomical Atlas entry for semicircular canals by T. Whitfield.)	
+ERROR	duplicate_definition	cardiac ventricle [TAO:0000009]	IAO_0000115 [IAO:0000115]	One of four heart chambers.	
+ERROR	duplicate_definition	atrium [TAO:0000471]	IAO_0000115 [IAO:0000115]	One of four heart chambers.	
+ERROR	duplicate_definition	mandibular lateral line [TAO:0000259]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	middle lateral line [TAO:0000344]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	occipital lateral line [TAO:0000400]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	opercular lateral line [TAO:0000424]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	supraorbital lateral line [TAO:0000443]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	otic lateral line [TAO:0000464]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	infraorbital lateral line [TAO:0000524]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	posterior lateral line [TAO:0000944]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	dorsal lateral line [TAO:0005112]	IAO_0000115 [IAO:0000115]	One of eight distinct lateral lines in the 4-day larva. A sensory system on the surface of the fish, consisting of small sensory patches (neuromasts) distributed in discrete lines over the body surface. The lateral line system is stimulated by local water displacements and vibrations, and detects propulsion of the fish through the water, as well as facilitating shoaling, prey capture, and predator and obstacle avoidance. (See Anatomical Atlas entry for lateral line by T. Whitfield.)	
+ERROR	duplicate_definition	sclerotome somite 11 [TAO:0000829]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 14 [TAO:0000830]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 17 [TAO:0000831]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 2 [TAO:0000832]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 22 [TAO:0000833]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 25 [TAO:0000834]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 28 [TAO:0000835]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 30 [TAO:0000836]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 6 [TAO:0000837]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 9 [TAO:0000839]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 1 [TAO:0000952]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 12 [TAO:0000953]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 15 [TAO:0000954]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 20 [TAO:0000956]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 23 [TAO:0000958]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 26 [TAO:0000959]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 29 [TAO:0000960]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 4 [TAO:0000961]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 7 [TAO:0000962]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 10 [TAO:0001036]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 13 [TAO:0001037]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 16 [TAO:0001038]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 19 [TAO:0001039]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 21 [TAO:0001041]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 24 [TAO:0001042]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 27 [TAO:0001043]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 3 [TAO:0001044]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 5 [TAO:0001045]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	sclerotome somite 8 [TAO:0001046]	IAO_0000115 [IAO:0000115]	Medial ventral region of the somite that will form vertebral cartilages. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 6 [TAO:0000069]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 8 [TAO:0000153]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 2 [TAO:0000822]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 5 [TAO:0000823]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 3 [TAO:0000948]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 7 [TAO:0000949]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 1 [TAO:0001031]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	rhombomere 4 [TAO:0001032]	IAO_0000115 [IAO:0000115]	Hindbrain segment or neuromere. Kimmel et al, 1995.	
+ERROR	duplicate_definition	fourth ventricle [TAO:0000110]	IAO_0000115 [IAO:0000115]	Fluid-filled brain cavity. Kimmel et al, 1995.	
+ERROR	duplicate_definition	third ventricle [TAO:0000161]	IAO_0000115 [IAO:0000115]	Fluid-filled brain cavity. Kimmel et al, 1995.	
+ERROR	duplicate_definition	basioccipital posterodorsal region [TAO:0000337]	IAO_0000115 [IAO:0000115]	Endochondral bone which is the posterodorsal region of the basioccipital bone.	
+ERROR	duplicate_definition	exoccipital posteroventral region [TAO:0000348]	IAO_0000115 [IAO:0000115]	Endochondral bone which is the posterodorsal region of the basioccipital bone.	
+ERROR	duplicate_definition	aortic arch 3 [TAO:0005007]	IAO_0000115 [IAO:0000115]	Aortic arches 3 and 4 are not remodeled but are retained largely intact as the branchial arteries providing circulation through the gills.  These areches  are direct branches from the ventral aorta to the lateral dorsal aorta. Isogai et al. 2001.	
+ERROR	duplicate_definition	aortic arch 4 [TAO:0005008]	IAO_0000115 [IAO:0000115]	Aortic arches 3 and 4 are not remodeled but are retained largely intact as the branchial arteries providing circulation through the gills.  These areches  are direct branches from the ventral aorta to the lateral dorsal aorta. Isogai et al. 2001.	
+ERROR	missing_ontology_description	tao.owl	dc11:description		
+ERROR	missing_ontology_license	tao.owl	dc:license		
+ERROR	missing_ontology_title	tao.owl	dc11:title		
+WARN	annotation_whitespace	preopercle vertical limb [TAO:0000336]	hasExactSynonym [oboInOwl:hasExactSynonym]	preopercle vertical arm 	
+WARN	annotation_whitespace	posterior cardinal vein [TAO:0000477]	IAO_0000115 [IAO:0000115]	Continuation of the caudal vein cranial to the anal pore. The cardinal vein splits into a pair of vessels in the cranial trunk, just caudal to the radix of the aorta. The posterior cardinals each empty into the common cardinal vein.  	
+WARN	annotation_whitespace	epural [TAO:0000660]	hasExactSynonym [oboInOwl:hasExactSynonym]	 epiural apophysis	
+WARN	annotation_whitespace	anterior copula [TAO:0001221]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior basibranchial copula 	
+WARN	annotation_whitespace	trigeminal foramen [TAO:0001809]	hasExactSynonym [oboInOwl:hasExactSynonym]	posterior opening of trigeminofacialis chamber 	
+WARN	annotation_whitespace	primordial ligament [TAO:0001828]	hasExactSynonym [oboInOwl:hasExactSynonym]	ligamentum primordiale 	
+WARN	annotation_whitespace	RoM3l [TAO:0005207]	hasExactSynonym [oboInOwl:hasExactSynonym]	rostral medial 3 lateral interneuron 	
+WARN	annotation_whitespace	RoM3m [TAO:0005208]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	rostral medial 3 medial interneuron 	
+WARN	annotation_whitespace	renal glomerular capsule [TAO:0005254]	hasExactSynonym [oboInOwl:hasExactSynonym]	Bowman's capsule 	
+WARN	duplicate_exact_synonym	zone of polarizing activity pectoral fin bud [TAO:0001451]	hasExactSynonym [oboInOwl:hasExactSynonym]	ZPA	
+WARN	duplicate_exact_synonym	zone of polarizing activity pelvic fin bud [TAO:0001452]	hasExactSynonym [oboInOwl:hasExactSynonym]	ZPA	
+WARN	duplicate_exact_synonym	hyoid arch [TAO:0001276]	hasExactSynonym [oboInOwl:hasExactSynonym]	ventral visceral arch 2	
+WARN	duplicate_exact_synonym	ventral hyoid arch [TAO:0001402]	hasExactSynonym [oboInOwl:hasExactSynonym]	ventral visceral arch 2	
+WARN	duplicate_exact_synonym	renal capsular space [TAO:0005283]	hasExactSynonym [oboInOwl:hasExactSynonym]	urinary space	
+WARN	duplicate_exact_synonym	pronephric capsular space [TAO:0005312]	hasExactSynonym [oboInOwl:hasExactSynonym]	urinary space	
+WARN	duplicate_exact_synonym	interhyal bone [TAO:0000171]	hasExactSynonym [oboInOwl:hasExactSynonym]	stylohyal	
+WARN	duplicate_exact_synonym	interhyal cartilage [TAO:0001511]	hasExactSynonym [oboInOwl:hasExactSynonym]	stylohyal	
+WARN	duplicate_exact_synonym	lateral crista [TAO:0000166]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patches	
+WARN	duplicate_exact_synonym	posterior crista [TAO:0000566]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patches	
+WARN	duplicate_exact_synonym	anterior crista [TAO:0000619]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patches	
+WARN	duplicate_exact_synonym	lateral crista [TAO:0000166]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patch	
+WARN	duplicate_exact_synonym	anterior macula [TAO:0000168]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patch	
+WARN	duplicate_exact_synonym	macula [TAO:0000386]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patch	
+WARN	duplicate_exact_synonym	posterior macula [TAO:0000558]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patch	
+WARN	duplicate_exact_synonym	posterior crista [TAO:0000566]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patch	
+WARN	duplicate_exact_synonym	anterior crista [TAO:0000619]	hasExactSynonym [oboInOwl:hasExactSynonym]	sensory patch	
+WARN	duplicate_exact_synonym	caudal procurrent ray [TAO:0001584]	hasExactSynonym [oboInOwl:hasExactSynonym]	rudimentary ray	
+WARN	duplicate_exact_synonym	caudal fin ventral procurrent ray [TAO:0001830]	hasExactSynonym [oboInOwl:hasExactSynonym]	rudimentary ray	
+WARN	duplicate_exact_synonym	rhombic lip [TAO:0001440]	hasExactSynonym [oboInOwl:hasExactSynonym]	presumptive cerebellum	
+WARN	duplicate_exact_synonym	upper rhombic lip [TAO:0001442]	hasExactSynonym [oboInOwl:hasExactSynonym]	presumptive cerebellum	
+WARN	duplicate_exact_synonym	presumptive neural plate [TAO:0000063]	hasExactSynonym [oboInOwl:hasExactSynonym]	presumptive central nervous system	
+WARN	duplicate_exact_synonym	neural keel [TAO:0000131]	hasExactSynonym [oboInOwl:hasExactSynonym]	presumptive central nervous system	
+WARN	duplicate_exact_synonym	neural plate [TAO:0000132]	hasExactSynonym [oboInOwl:hasExactSynonym]	presumptive central nervous system	
+WARN	duplicate_exact_synonym	neural rod [TAO:0000133]	hasExactSynonym [oboInOwl:hasExactSynonym]	presumptive central nervous system	
+WARN	duplicate_exact_synonym	neural tube [TAO:0001135]	hasExactSynonym [oboInOwl:hasExactSynonym]	presumptive central nervous system	
+WARN	duplicate_exact_synonym	mature neutrophil [TAO:0009049]	hasExactSynonym [oboInOwl:hasExactSynonym]	polynuclear neutrophilic leukocyte	
+WARN	duplicate_exact_synonym	neutrophil [TAO:0009327]	hasExactSynonym [oboInOwl:hasExactSynonym]	polynuclear neutrophilic leukocyte	
+WARN	duplicate_exact_synonym	mature neutrophil [TAO:0009049]	hasExactSynonym [oboInOwl:hasExactSynonym]	polynuclear neutrophilic leucocyte	
+WARN	duplicate_exact_synonym	neutrophil [TAO:0009327]	hasExactSynonym [oboInOwl:hasExactSynonym]	polynuclear neutrophilic leucocyte	
+WARN	duplicate_exact_synonym	mature neutrophil [TAO:0009049]	hasExactSynonym [oboInOwl:hasExactSynonym]	polymorphonuclear neutrophil	
+WARN	duplicate_exact_synonym	neutrophil [TAO:0009327]	hasExactSynonym [oboInOwl:hasExactSynonym]	polymorphonuclear neutrophil	
+WARN	duplicate_exact_synonym	mature neutrophil [TAO:0009049]	hasExactSynonym [oboInOwl:hasExactSynonym]	polymorphonuclear leukocyte	
+WARN	duplicate_exact_synonym	neutrophil [TAO:0009327]	hasExactSynonym [oboInOwl:hasExactSynonym]	polymorphonuclear leukocyte	
+WARN	duplicate_exact_synonym	mature neutrophil [TAO:0009049]	hasExactSynonym [oboInOwl:hasExactSynonym]	polymorphonuclear leucocyte	
+WARN	duplicate_exact_synonym	neutrophil [TAO:0009327]	hasExactSynonym [oboInOwl:hasExactSynonym]	polymorphonuclear leucocyte	
+WARN	duplicate_exact_synonym	mature neutrophil [TAO:0009049]	hasExactSynonym [oboInOwl:hasExactSynonym]	poly	
+WARN	duplicate_exact_synonym	neutrophil [TAO:0009327]	hasExactSynonym [oboInOwl:hasExactSynonym]	poly	
+WARN	duplicate_exact_synonym	mature neutrophil [TAO:0009049]	hasExactSynonym [oboInOwl:hasExactSynonym]	PMN	
+WARN	duplicate_exact_synonym	neutrophil [TAO:0009327]	hasExactSynonym [oboInOwl:hasExactSynonym]	PMN	
+WARN	duplicate_exact_synonym	otic vesicle [TAO:0000051]	hasExactSynonym [oboInOwl:hasExactSynonym]	otocyst	
+WARN	duplicate_exact_synonym	otic placode [TAO:0000138]	hasExactSynonym [oboInOwl:hasExactSynonym]	otocyst	
+WARN	duplicate_exact_synonym	inner ear [TAO:0000217]	hasExactSynonym [oboInOwl:hasExactSynonym]	otocyst	
+WARN	duplicate_exact_synonym	otic vesicle [TAO:0000051]	hasExactSynonym [oboInOwl:hasExactSynonym]	otic capsule	
+WARN	duplicate_exact_synonym	otic placode [TAO:0000138]	hasExactSynonym [oboInOwl:hasExactSynonym]	otic capsule	
+WARN	duplicate_exact_synonym	inner ear [TAO:0000217]	hasExactSynonym [oboInOwl:hasExactSynonym]	otic capsule	
+WARN	duplicate_exact_synonym	auditory capsule [TAO:0001500]	hasExactSynonym [oboInOwl:hasExactSynonym]	otic capsule	
+WARN	duplicate_exact_synonym	taenia marginalis anterior [TAO:0001505]	hasExactSynonym [oboInOwl:hasExactSynonym]	orbital cartilage	
+WARN	duplicate_exact_synonym	taenia marginalis posterior [TAO:0001515]	hasExactSynonym [oboInOwl:hasExactSynonym]	orbital cartilage	
+WARN	duplicate_exact_synonym	opercle [TAO:0000250]	hasExactSynonym [oboInOwl:hasExactSynonym]	operculum	
+WARN	duplicate_exact_synonym	opercular flap [TAO:0000555]	hasExactSynonym [oboInOwl:hasExactSynonym]	operculum	
+WARN	duplicate_exact_synonym	dorsal motor nucleus trigeminal nerve [TAO:0000502]	hasExactSynonym [oboInOwl:hasExactSynonym]	nV	
+WARN	duplicate_exact_synonym	trigeminal motor nuclei [TAO:0001365]	hasExactSynonym [oboInOwl:hasExactSynonym]	nV	
+WARN	duplicate_exact_synonym	natural killer cell [TAO:0009278]	hasExactSynonym [oboInOwl:hasExactSynonym]	null cell	
+WARN	duplicate_exact_synonym	natural killer cell progenitor [TAO:0009348]	hasExactSynonym [oboInOwl:hasExactSynonym]	null cell	
+WARN	duplicate_exact_synonym	rhombomere [TAO:0001064]	hasExactSynonym [oboInOwl:hasExactSynonym]	neuromeres	
+WARN	duplicate_exact_synonym	neuromere [TAO:0001328]	hasExactSynonym [oboInOwl:hasExactSynonym]	neuromeres	
+WARN	duplicate_exact_synonym	presumptive neural plate [TAO:0000063]	hasExactSynonym [oboInOwl:hasExactSynonym]	neurectoderm	
+WARN	duplicate_exact_synonym	neuroectoderm [TAO:0001120]	hasExactSynonym [oboInOwl:hasExactSynonym]	neurectoderm	
+WARN	duplicate_exact_synonym	dorsal motor nucleus trigeminal nerve [TAO:0000502]	hasExactSynonym [oboInOwl:hasExactSynonym]	motor nucleus V	
+WARN	duplicate_exact_synonym	trigeminal motor nuclei [TAO:0001365]	hasExactSynonym [oboInOwl:hasExactSynonym]	motor nucleus V	
+WARN	duplicate_exact_synonym	renal capsular space [TAO:0005283]	hasExactSynonym [oboInOwl:hasExactSynonym]	inter-glomerular space	
+WARN	duplicate_exact_synonym	pronephric capsular space [TAO:0005312]	hasExactSynonym [oboInOwl:hasExactSynonym]	inter-glomerular space	
+WARN	duplicate_exact_synonym	hematopoietic stem cell [TAO:0009014]	hasExactSynonym [oboInOwl:hasExactSynonym]	hemopoietic progenitor cell	
+WARN	duplicate_exact_synonym	hematopoietic progenitor cell [TAO:0009354]	hasExactSynonym [oboInOwl:hasExactSynonym]	hemopoietic progenitor cell	
+WARN	duplicate_exact_synonym	follicle stimulating hormone secreting cell [TAO:0009202]	hasExactSynonym [oboInOwl:hasExactSynonym]	gonadotroph	
+WARN	duplicate_exact_synonym	luteinizing hormone secreting cell [TAO:0009203]	hasExactSynonym [oboInOwl:hasExactSynonym]	gonadotroph	
+WARN	duplicate_exact_synonym	claustrum cartilage [TAO:0000637]	hasExactSynonym [oboInOwl:hasExactSynonym]	first Weberian ossicle	
+WARN	duplicate_exact_synonym	claustrum bone [TAO:0001592]	hasExactSynonym [oboInOwl:hasExactSynonym]	first Weberian ossicle	
+WARN	duplicate_exact_synonym	palatoquadrate arch [TAO:0001272]	hasExactSynonym [oboInOwl:hasExactSynonym]	dorsal visceral arch 2	
+WARN	duplicate_exact_synonym	dorsal hyoid arch [TAO:0001401]	hasExactSynonym [oboInOwl:hasExactSynonym]	dorsal visceral arch 2	
+WARN	duplicate_exact_synonym	anterior copula [TAO:0001221]	hasExactSynonym [oboInOwl:hasExactSynonym]	copula 2	
+WARN	duplicate_exact_synonym	posterior copula [TAO:0001222]	hasExactSynonym [oboInOwl:hasExactSynonym]	copula 2	
+WARN	duplicate_exact_synonym	anterior copula [TAO:0001221]	hasExactSynonym [oboInOwl:hasExactSynonym]	copula 1	
+WARN	duplicate_exact_synonym	basihyal cartilage [TAO:0001510]	hasExactSynonym [oboInOwl:hasExactSynonym]	copula 1	
+WARN	duplicate_exact_synonym	gill arch 1 skeleton [TAO:0001228]	hasExactSynonym [oboInOwl:hasExactSynonym]	branchial arch 1	
+WARN	duplicate_exact_synonym	gill arch 1 [TAO:0001598]	hasExactSynonym [oboInOwl:hasExactSynonym]	branchial arch 1	
+WARN	duplicate_exact_synonym	basidorsal [TAO:0001060]	hasExactSynonym [oboInOwl:hasExactSynonym]	arcualia	
+WARN	duplicate_exact_synonym	basiventral [TAO:0001361]	hasExactSynonym [oboInOwl:hasExactSynonym]	arcualia	
+WARN	duplicate_exact_synonym	anterior dentation of pectoral fin spine [TAO:0002001]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior tooth of pectoral fin spine	
+WARN	duplicate_exact_synonym	anterior distal serration of pectoral fin spine [TAO:0002002]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior tooth of pectoral fin spine	
+WARN	duplicate_exact_synonym	anterior dentation of pectoral fin spine [TAO:0002001]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior thorn of pectoral fin spine	
+WARN	duplicate_exact_synonym	anterior distal serration of pectoral fin spine [TAO:0002002]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior thorn of pectoral fin spine	
+WARN	duplicate_exact_synonym	anterior dentation of pectoral fin spine [TAO:0002001]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior serration of pectoral fin spine	
+WARN	duplicate_exact_synonym	anterior distal serration of pectoral fin spine [TAO:0002002]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior serration of pectoral fin spine	
+WARN	duplicate_exact_synonym	anterior dentation of pectoral fin spine [TAO:0002001]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior denticle of pectoral fin spine	
+WARN	duplicate_exact_synonym	anterior distal serration of pectoral fin spine [TAO:0002002]	hasExactSynonym [oboInOwl:hasExactSynonym]	anterior denticle of pectoral fin spine	
+WARN	duplicate_exact_synonym	antorbital [TAO:0000127]	hasExactSynonym [oboInOwl:hasExactSynonym]	adnasal	
+WARN	duplicate_exact_synonym	nasal bone [TAO:0000365]	hasExactSynonym [oboInOwl:hasExactSynonym]	adnasal	
+WARN	missing_definition	adaxial cell [TAO:0000003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior axial hypoblast [TAO:0000004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	artery [TAO:0000005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiovascular system [TAO:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ectoderm [TAO:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endoderm [TAO:0000017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate [TAO:0000022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retinal ganglion cell layer [TAO:0000024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macula utricle [TAO:0000030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intermediate cell mass of mesoderm [TAO:0000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lens [TAO:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	liver and biliary system [TAO:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	margin [TAO:0000038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	median axial vein [TAO:0000039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesoderm [TAO:0000041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain hindbrain boundary [TAO:0000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 1 [TAO:0000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retinal neural layer [TAO:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peripheral olfactory organ [TAO:0000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory placode [TAO:0000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic recess [TAO:0000049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic vesicle [TAO:0000050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive segmental plate [TAO:0000053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pericardial sac [TAO:0000054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	postoptic commissure [TAO:0000059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive forebrain [TAO:0000062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive pigmented epithelium [TAO:0000064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric mesoderm [TAO:0000067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	proneural cluster [TAO:0000068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory axons peripheral [TAO:0000070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	shield [TAO:0000071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal cord [TAO:0000075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tail bud [TAO:0000077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trunk mesenchyme [TAO:0000081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vein [TAO:0000082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral mesoderm [TAO:0000083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	axial chorda mesoderm [TAO:0000091]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardinal system [TAO:0000096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	proliferative region [TAO:0000098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	brain vasculature [TAO:0000099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	germ ring [TAO:0000111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macula lagena [TAO:0000116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retinal inner nuclear layer [TAO:0000119]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral line ganglion [TAO:0000120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral plate mesoderm [TAO:0000121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	liver [TAO:0000123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	liver primordium [TAO:0000124]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory pit [TAO:0000130]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic stalk [TAO:0000137]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pancreas [TAO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS tracts and commissures [TAO:0000145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive brain [TAO:0000146]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive epidermis [TAO:0000147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive midbrain [TAO:0000148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primitive heart tube [TAO:0000149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tectal ventricle [TAO:0000159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tegmentum [TAO:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal system [TAO:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral mesenchyme [TAO:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferior lobe [TAO:0000165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	branchial muscle [TAO:0000172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal cerebellar tract [TAO:0000174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral entopeduncular nucleus [TAO:0000176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal oblique [TAO:0000177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal peduncle [TAO:0000178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal root of abducens nerve [TAO:0000179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal zone of D [TAO:0000181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central caudal thalamic nucleus [TAO:0000182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central pretectum [TAO:0000183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	commissura rostral, pars ventralis [TAO:0000185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral granular eminence [TAO:0000187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	corpus cerebelli [TAO:0000188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	descending trigeminal root [TAO:0000192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diffuse nuclei [TAO:0000193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal accessory optic nucleus [TAO:0000194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal depressor [TAO:0000195]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal nucleus [TAO:0000197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal periventricular hypothalamus [TAO:0000199]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal transverse [TAO:0000201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	efferent branchial artery [TAO:0000202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	esophagus [TAO:0000204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	external ventral flexor [TAO:0000205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	facial nerve motor nucleus [TAO:0000206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fin musculature [TAO:0000207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gall bladder [TAO:0000208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral preglomerular nucleus [TAO:0000209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gigantocellular part of magnocellular preoptic nucleus [TAO:0000210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill lamella [TAO:0000211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granular eminence [TAO:0000212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypobranchial vessel [TAO:0000214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferior olive [TAO:0000215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	infracarinalis [TAO:0000216]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intermediate reticular formation [TAO:0000219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	internal levator [TAO:0000221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	isthmic primary nucleus [TAO:0000222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral crista primordium [TAO:0000225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral hypothalamic nucleus [TAO:0000227]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral line primordium [TAO:0000228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral olfactory tract [TAO:0000229]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	longitudinal hypochordal [TAO:0000230]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral recess [TAO:0000231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral semicircular canal primordium [TAO:0000232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lower oral valve [TAO:0000233]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macula neglecta [TAO:0000234]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	magnocellular superficial pretectal nucleus [TAO:0000235]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mandibular muscle [TAO:0000236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial forebrain bundle diencephalon [TAO:0000237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial olfactory tract [TAO:0000238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midline column [TAO:0000241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus Edinger-Westphal [TAO:0000244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus of the descending root [TAO:0000245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus taeniae [TAO:0000246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve VIII [TAO:0000247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	magnocellular preoptic nucleus [TAO:0000248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve I [TAO:0000249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic tract [TAO:0000252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pancreas primordium [TAO:0000254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraxial mesoderm [TAO:0000255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pars subcommissuralis of V [TAO:0000256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	periventricular nucleus [TAO:0000260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngohyoid [TAO:0000261]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive dorsal mesoderm [TAO:0000265]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pretecto-mamillary tract [TAO:0000266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary olfactory fiber layer [TAO:0000267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferior ventral flexor [TAO:0000269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	respiratory system [TAO:0000272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral octaval nucleus [TAO:0000274]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral tegmental nucleus [TAO:0000275]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostrolateral thalamic nucleus of Butler & Saidel [TAO:0000276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary gustatory nucleus medulla oblongata [TAO:0000278]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial division [TAO:0000280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory system [TAO:0000282]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sternohyoid [TAO:0000283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superficial adductor [TAO:0000285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superficial lateralis [TAO:0000286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superior dorsal flexor [TAO:0000287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supracarinalis [TAO:0000288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial octavolateralis nucleus [TAO:0000291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	synencephalon [TAO:0000293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	torus lateralis [TAO:0000294]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uncrossed tecto-bulbar tract [TAO:0000296]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal lobe [TAO:0000297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vent [TAO:0000298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral entopeduncular nucleus V [TAO:0000299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial rectus [TAO:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral nucleus [TAO:0000302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral telencephalon [TAO:0000304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral sulcus [TAO:0000305]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventrolateral thalamic nucleus [TAO:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vestibulolateralis lobe [TAO:0000307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve VI [TAO:0000310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adductor mandibulae complex [TAO:0000311]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesencephalic nucleus of trigeminal nerve [TAO:0000312]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal inclinator [TAO:0000313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	asteriscus [TAO:0000315]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	brain stem/spinal tract and commissures [TAO:0000318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	branchiostegal membrane [TAO:0000319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal commissure [TAO:0000320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal levator [TAO:0000321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal octaval nucleus [TAO:0000322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal periventricular hypothalamus [TAO:0000324]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal thalamic nucleus [TAO:0000325]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central zone [TAO:0000327]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cephalic musculature [TAO:0000328]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cloacal chamber [TAO:0000330]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	commissure infima of Haller [TAO:0000331]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesovarium [TAO:0000333]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	corpus mamillare [TAO:0000334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	crossed tecto-bulbar tract [TAO:0000335]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diencephalic tracts and commissures [TAO:0000338]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	digestive system [TAO:0000339]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal entopeduncular nucleus [TAO:0000340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal flexor [TAO:0000341]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal inclinator [TAO:0000342]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal nucleus of V [TAO:0000343]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal rectus [TAO:0000345]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal tegmental nucleus [TAO:0000346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal zone [TAO:0000347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epaxialis [TAO:0000349]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	external cellular layer [TAO:0000352]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fasciculus retroflexus [TAO:0000353]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill [TAO:0000354]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate midbrain [TAO:0000355]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glomerular layer [TAO:0000357]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granular layer corpus cerebelli [TAO:0000358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	habenular commissure [TAO:0000359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart tube [TAO:0000360]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypaxialis [TAO:0000362]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferior raphe nucleus [TAO:0000366]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intermandibularis [TAO:0000369]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intermediate thalamic nucleus [TAO:0000370]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	internal pharyngoclavicularis [TAO:0000371]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interpeduncular nucleus medulla oblongata [TAO:0000372]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lagena [TAO:0000374]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral forebrain bundle diencephalon [TAO:0000379]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral lemniscus nucleus [TAO:0000380]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral line sensory nuclei [TAO:0000381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral rectus [TAO:0000383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	levator arcus palatini [TAO:0000384]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lymphatic system [TAO:0000385]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus motorius of nervi vagi [TAO:0000387]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial caudal lobe [TAO:0000388]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial funicular nucleus medulla oblongata [TAO:0000389]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial preglomerular nucleus [TAO:0000390]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial zone of D [TAO:0000391]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	median tuberal portion [TAO:0000392]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular layer corpus cerebelli [TAO:0000394]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 2 [TAO:0000395]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus subglomerulosis [TAO:0000397]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus isthmi [TAO:0000398]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary gustatory nucleus trigeminal nuclei [TAO:0000399]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	octaval nerve sensory nuclei [TAO:0000401]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory bulb [TAO:0000402]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paracommissural nucleus [TAO:0000404]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve III [TAO:0000405]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parvocellular superficial pretectal nucleus [TAO:0000406]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	periventricular nucleus of caudal tuberculum [TAO:0000408]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior crista primordium [TAO:0000411]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior semicircular canal primordium [TAO:0000412]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive cephalic mesoderm [TAO:0000414]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	esophageal sphincter [TAO:0000415]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive endoderm [TAO:0000416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive spinal cord [TAO:0000417]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pretectum [TAO:0000418]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal artery [TAO:0000420]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reticular formation [TAO:0000421]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior cardinal vein [TAO:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral parvocellular preoptic nucleus [TAO:0000426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral thalamic nucleus [TAO:0000427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	saccule [TAO:0000428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary gustatory tract [TAO:0000430]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory trigeminal nuclei [TAO:0000433]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spleen [TAO:0000436]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superficial pelvic abductor [TAO:0000439]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superior raphe nucleus [TAO:0000440]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	suprachiasmatic nucleus [TAO:0000441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	suspensorium [TAO:0000444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tecto-bulbar tract [TAO:0000446]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tela chorioidea [TAO:0000447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tertiary gustatory nucleus [TAO:0000448]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	torus longitudinalis [TAO:0000449]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trochlear motor nucleus [TAO:0000450]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	upper oral valve [TAO:0000451]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve X [TAO:0000453]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral accessory optic nucleus [TAO:0000454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral flexor [TAO:0000455]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral nucleus of V [TAO:0000456]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral rectus [TAO:0000457]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral thalamus [TAO:0000458]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventromedial thalamic nucleus [TAO:0000459]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abductor hyohyoid [TAO:0000462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adductor [TAO:0000463]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adductor operculi [TAO:0000465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal depressor [TAO:0000466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior crista primordium [TAO:0000468]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior semicircular canal primordium [TAO:0000469]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trunk musculature [TAO:0000473]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraventricular organ [TAO:0000475]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal mesencephalo-cerebellar tract [TAO:0000479]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal octavolateralis nucleus [TAO:0000480]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal preglomerular nucleus [TAO:0000481]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal tuberal nucleus [TAO:0000482]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	celiacomesenteric artery [TAO:0000484]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central nucleus inferior lobe [TAO:0000485]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central zone of D [TAO:0000487]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	commissura cerebelli [TAO:0000490]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	commissure of the caudal tuberculum [TAO:0000491]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coracoradialis [TAO:0000492]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decussation of medial funicular nucleus [TAO:0000493]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	deep white zone [TAO:0000494]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic adductor profundus [TAO:0000497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dilator operculi [TAO:0000498]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal arrector [TAO:0000499]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal erector [TAO:0000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal funiculus [TAO:0000501]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal motor nucleus trigeminal nerve [TAO:0000502]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal oblique branchial muscle [TAO:0000503]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal retractor [TAO:0000504]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal telencephalon [TAO:0000505]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal zone of D [TAO:0000506]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithalamus [TAO:0000509]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	external levatores [TAO:0000510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	extraocular musculature [TAO:0000511]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	facial lobe [TAO:0000512]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 1 [TAO:0000513]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	periventricular grey zone [TAO:0000516]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glossopharyngeal lobe [TAO:0000517]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	griseum centrale [TAO:0000518]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	horizontal commissure [TAO:0000520]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hyoid muscle [TAO:0000521]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferior hyohyoid [TAO:0000522]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inferior reticular formation [TAO:0000523]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interradialis [TAO:0000528]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney [TAO:0000529]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lapillus [TAO:0000530]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral column [TAO:0000531]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral division [TAO:0000532]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral funiculus [TAO:0000533]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral longitudinal fasciculus [TAO:0000534]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral reticular nucleus [TAO:0000535]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral zone of D [TAO:0000536]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	levator operculi [TAO:0000537]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	locus coeruleus [TAO:0000539]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	magnocellular octaval nucleus [TAO:0000540]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial column [TAO:0000542]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial longitudinal fasciculus [TAO:0000543]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medulla oblongata [TAO:0000545]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesonephric duct [TAO:0000546]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mouth [TAO:0000547]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	naris [TAO:0000550]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus lateralis valvulae [TAO:0000551]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus ruber [TAO:0000552]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oculomotor nucleus [TAO:0000553]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	opercular flap [TAO:0000555]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic chiasm [TAO:0000556]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	otolith organ [TAO:0000559]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oviduct [TAO:0000560]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral fin musculature [TAO:0000563]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic abductor profundus [TAO:0000564]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive blood [TAO:0000568]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive hindbrain [TAO:0000569]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic primordium [TAO:0000570]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive telencephalon [TAO:0000571]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	internal cellular layer [TAO:0000573]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive diencephalon [TAO:0000574]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal portal vein [TAO:0000577]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral mesencephalo-cerebellar tract [TAO:0000579]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral preglomerular nucleus [TAO:0000580]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral tuberal nucleus [TAO:0000581]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	saccus dorsalis [TAO:0000582]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sulcus ypsiloniformis [TAO:0000589]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oral region [TAO:0000590]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive paraxial mesoderm [TAO:0000591]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superficial pelvic adductor [TAO:0000592]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superior reticular formation medial column [TAO:0000593]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	telencephalic tracts [TAO:0000597]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	torus semicircularis [TAO:0000599]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve IV [TAO:0000600]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pretectal periventricular nucleus [TAO:0000601]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	valvula cerebelli [TAO:0000603]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral funiculus [TAO:0000605]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral oblique branchial muscle [TAO:0000606]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral rhombencephalic commissure brain stem [TAO:0000607]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral transverse [TAO:0000608]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventrolateral nucleus [TAO:0000609]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visceromotor column [TAO:0000611]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abductor profundus [TAO:0000614]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adductor arcus palatini [TAO:0000615]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adductor profundus [TAO:0000616]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal erector [TAO:0000617]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ansulate commissure [TAO:0000618]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	brachium conjunctivum [TAO:0000624]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bulbo-spinal tract [TAO:0000626]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal fin musculature [TAO:0000628]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal motor nucleus [TAO:0000629]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal parvocellular preoptic nucleus [TAO:0000630]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal pretectal nucleus [TAO:0000631]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reproductive system [TAO:0000632]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal tuberculum [TAO:0000633]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal zone [TAO:0000634]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central pretectal nucleus [TAO:0000635]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cerebellar crest [TAO:0000636]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	commissura rostral, pars dorsalis [TAO:0000638]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	commissure of the secondary gustatory nuclei [TAO:0000639]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cornea [TAO:0000640]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	decussation of the medial octavolateralis nucleus [TAO:0000642]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral cerebellar tract [TAO:0000643]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dental plate [TAO:0000644]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	descending octaval nucleus [TAO:0000645]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal caudal thalamic nucleus [TAO:0000647]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin musculature [TAO:0000648]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal horn spinal cord [TAO:0000649]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal motor root of V [TAO:0000650]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal pelvic arrector [TAO:0000651]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal root [TAO:0000652]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal thalamus [TAO:0000653]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral motor nucleus [TAO:0000654]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsomedial optic tract [TAO:0000655]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	external pharyngoclavicularis [TAO:0000662]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve VII [TAO:0000664]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral root of abducens nerve [TAO:0000665]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	filamental artery [TAO:0000666]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve IX [TAO:0000668]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hepatic vein [TAO:0000670]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sagitta [TAO:0000676]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	segmental intercostal artery [TAO:0000677]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory root of facial nerve [TAO:0000679]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinoatrial valve [TAO:0000680]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal artery [TAO:0000682]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subcommissural organ [TAO:0000683]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intertectal commissure [TAO:0000684]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superficial abductor [TAO:0000685]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superficial grey and white zone [TAO:0000686]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superficial pretectum [TAO:0000687]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory support cell [TAO:0000688]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supracommissural nucleus of V [TAO:0000689]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraoptic commissure [TAO:0000690]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tangential nucleus [TAO:0000693]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	labial cavities [TAO:0000695]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	telencephalic ventricle [TAO:0000696]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve V [TAO:0000697]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	utricle [TAO:0000700]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral arrector [TAO:0000701]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral horn spinal cord [TAO:0000702]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral motor nucleus trigeminal nerve [TAO:0000703]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral pelvic arrector [TAO:0000704]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral root [TAO:0000705]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral zone [TAO:0000707]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventrolateral optic tract [TAO:0000708]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vestibulo-spinal tract [TAO:0000709]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	viscerosensory commissural nucleus of Cajal [TAO:0000710]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accessory pretectal nucleus [TAO:0000714]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adductor hyohyoid [TAO:0000715]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	afferent branchial artery [TAO:0000716]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 21 [TAO:0000719]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 24 [TAO:0000720]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 27 [TAO:0000721]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 3 [TAO:0000722]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 5 [TAO:0000723]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 8 [TAO:0000724]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal oblique extraocular muscle [TAO:0000738]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 10 [TAO:0000750]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 13 [TAO:0000752]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 16 [TAO:0000753]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 19 [TAO:0000754]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 21 [TAO:0000755]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 24 [TAO:0000756]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 27 [TAO:0000757]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 3 [TAO:0000758]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 5 [TAO:0000759]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 8 [TAO:0000760]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basal plate midbrain [TAO:0000761]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 2 [TAO:0000763]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 5 [TAO:0000764]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 8 [TAO:0000765]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granular layer valvula cerebelli [TAO:0000766]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 12 [TAO:0000773]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interneuron spinal cord [TAO:0000778]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral forebrain bundle telencephalon [TAO:0000779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall diencephalon [TAO:0000780]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 1 [TAO:0000781]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 4 [TAO:0000782]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 7 [TAO:0000783]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 15 [TAO:0000784]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall telencephalon [TAO:0000785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial migration pathway mesenchyme [TAO:0000786]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesenchyme derived from head neural crest [TAO:0000787]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesenchyme dorsal fin [TAO:0000788]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 10 [TAO:0000790]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 13 [TAO:0000791]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 16 [TAO:0000792]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 19 [TAO:0000793]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 22 [TAO:0000794]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 18 [TAO:0000795]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 25 [TAO:0000796]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 28 [TAO:0000797]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 30 [TAO:0000798]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 6 [TAO:0000799]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 9 [TAO:0000800]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 20 [TAO:0000806]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neural crest diencephalon [TAO:0000811]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus of the medial longitudinal fasciculus medulla oblongata [TAO:0000815]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oral epithelium [TAO:0000816]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 23 [TAO:0000817]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	postcommissural nucleus of V central entopeduncular nucleus [TAO:0000819]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive neuron neural tube [TAO:0000820]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary neuron hindbrain [TAO:0000821]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 2 [TAO:0000824]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 6 [TAO:0000825]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central nucleus torus semicircularis [TAO:0000826]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 26 [TAO:0000827]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 5 [TAO:0000828]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 29 [TAO:0000838]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 11 [TAO:0000840]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 14 [TAO:0000841]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 17 [TAO:0000842]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 2 [TAO:0000843]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 22 [TAO:0000844]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 25 [TAO:0000845]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 28 [TAO:0000846]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 30 [TAO:0000847]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 6 [TAO:0000848]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 4 [TAO:0000849]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 9 [TAO:0000850]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	specialized hemal arch and spine [TAO:0000859]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 7 [TAO:0000860]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral oblique extraocular muscle [TAO:0000861]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate diencephalon [TAO:0000871]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 11 [TAO:0000876]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 14 [TAO:0000877]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 17 [TAO:0000878]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 2 [TAO:0000879]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 22 [TAO:0000880]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 25 [TAO:0000881]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 1 [TAO:0000882]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 28 [TAO:0000883]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 30 [TAO:0000884]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 6 [TAO:0000885]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell somite 9 [TAO:0000886]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate neural rod [TAO:0000887]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 3 [TAO:0000888]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 6 [TAO:0000889]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate spinal cord [TAO:0000890]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 4 [TAO:0000893]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural musculature [TAO:0000902]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interpeduncular nucleus tegmentum [TAO:0000903]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate rhombomere 7 [TAO:0000904]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral mesenchyme derived from mesoderm [TAO:0000905]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall midbrain [TAO:0000906]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 2 [TAO:0000907]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 5 [TAO:0000908]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 8 [TAO:0000909]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial forebrain bundle telencephalon [TAO:0000910]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesenchyme median fin fold [TAO:0000912]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	molecular layer valvula cerebelli [TAO:0000913]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate telencephalon [TAO:0000914]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 11 [TAO:0000915]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 14 [TAO:0000916]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 17 [TAO:0000917]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 20 [TAO:0000918]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 23 [TAO:0000919]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 26 [TAO:0000920]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 29 [TAO:0000921]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 4 [TAO:0000922]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 7 [TAO:0000923]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neural crest midbrain [TAO:0000935]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	central canal [TAO:0000938]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus of the medial longitudinal fasciculus synencephalon [TAO:0000941]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paraxial mesenchyme [TAO:0000942]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 3 [TAO:0000950]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 7 [TAO:0000951]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 1 [TAO:0000963]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 12 [TAO:0000964]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 15 [TAO:0000965]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 18 [TAO:0000966]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 20 [TAO:0000967]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 23 [TAO:0000969]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 26 [TAO:0000970]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 29 [TAO:0000971]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 4 [TAO:0000972]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 7 [TAO:0000973]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	superior reticular formation tegmentum [TAO:0000984]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral rhombencephalic commissure medulla oblongata [TAO:0000985]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intermediate mesenchyme [TAO:0000990]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral migration pathway mesenchyme [TAO:0000992]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall neural rod [TAO:0000993]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 3 [TAO:0000994]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall rhombomere 6 [TAO:0000995]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall spinal cord [TAO:0000996]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial funicular nucleus trigeminal nuclei [TAO:0000997]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesenchyme derived from head mesoderm [TAO:0000998]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesenchyme derived from trunk neural crest [TAO:0000999]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	motor axons peripheral [TAO:0001002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 12 [TAO:0001003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 15 [TAO:0001004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 18 [TAO:0001005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 21 [TAO:0001006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 24 [TAO:0001007]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 27 [TAO:0001008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 3 [TAO:0001009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 5 [TAO:0001010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer somite 8 [TAO:0001011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trunk neural crest [TAO:0001024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oral cavity [TAO:0001027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner limiting membrane [TAO:0001029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 1 [TAO:0001033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 4 [TAO:0001034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere 8 [TAO:0001035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 10 [TAO:0001047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 13 [TAO:0001048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 16 [TAO:0001049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell somite 19 [TAO:0001050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal division of the internal carotid artery [TAO:0001051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primitive internal carotid artery [TAO:0001053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric duct opening [TAO:0001055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial division of the internal carotid artery [TAO:0001059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intersegmental artery [TAO:0001061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior caudal vein [TAO:0001063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral mesoderm [TAO:0001065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior cerebral vein [TAO:0001067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral fin fold [TAO:0001069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive pronephric mesoderm [TAO:0001070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive retina [TAO:0001071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thyroid follicle [TAO:0001072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	axial vasculature [TAO:0001073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	taste bud [TAO:0001074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choroid fissure [TAO:0001075]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thymus [TAO:0001078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood vasculature [TAO:0001079]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sclerotome [TAO:0001080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thyroid primordium [TAO:0001081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular zone [TAO:0001083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epaxial myotome region [TAO:0001084]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypaxial myotome region [TAO:0001085]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle pioneer [TAO:0001086]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myoseptum [TAO:0001089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature macula [TAO:0001095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature anterior macula [TAO:0001096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature posterior macula [TAO:0001097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature hair cell anterior macula [TAO:0001098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature hair cell posterior macula [TAO:0001099]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gustatory system [TAO:0001101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature anterior otolith [TAO:0001102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature posterior otolith [TAO:0001103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal endoderm [TAO:0001104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	internal gill bud [TAO:0001107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior commissure [TAO:0001108]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oocyte [TAO:0001109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	zona radiata [TAO:0001111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granulosa cell layer [TAO:0001112]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thecal cell layer [TAO:0001113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive structure [TAO:0001116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroectoderm [TAO:0001120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive shield [TAO:0001121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary germ layer [TAO:0001122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visual system [TAO:0001127]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal pouch 1 [TAO:0001128]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal pouches 2-6 [TAO:0001129]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal pouch 2 [TAO:0001130]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal pouch 3 [TAO:0001131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal pouch 6 [TAO:0001132]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal pouch 5 [TAO:0001133]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal pouch 4 [TAO:0001134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neural tube [TAO:0001135]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vestibuloauditory system [TAO:0001138]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory system [TAO:0001149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin musculature [TAO:0001154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enteric nervous system [TAO:0001155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior lateral line placode [TAO:0001156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocrine system [TAO:0001158]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immune system [TAO:0001159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraneural 7 bone [TAO:0001163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraneural 6 bone [TAO:0001164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraneural 5 bone [TAO:0001165]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraneural 9 bone [TAO:0001166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blastodisc [TAO:0001175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blastoderm [TAO:0001176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate spinal cord [TAO:0001177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non neural ectoderm [TAO:0001178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epidermal superficial stratum [TAO:0001179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epidermal basal stratum [TAO:0001180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epidermal intermediate stratum [TAO:0001181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dermal superficial region [TAO:0001183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive midbrain hindbrain boundary [TAO:0001187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraneural 8 bone [TAO:0001193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pars anterior [TAO:0001195]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pars tuberalis [TAO:0001196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pars intermedia [TAO:0001197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adenohypophyseal placode [TAO:0001198]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral lateral mesoderm [TAO:0001201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic cup [TAO:0001202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ciliary body [TAO:0001203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	axial mesoderm [TAO:0001204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intermediate mesoderm [TAO:0001206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 1 [TAO:0001207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 2 [TAO:0001208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 7 [TAO:0001209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 6 [TAO:0001210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 5 [TAO:0001211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 4 [TAO:0001212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 3 [TAO:0001213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive rhombomere 8 [TAO:0001214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thalamus [TAO:0001215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive hypochord [TAO:0001217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive floor plate [TAO:0001218]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 1 skeleton [TAO:0001228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 5 skeleton [TAO:0001229]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 4 skeleton [TAO:0001230]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 2 skeleton [TAO:0001231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 3 skeleton [TAO:0001232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	iris [TAO:0001238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal scute series [TAO:0001248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal scute series [TAO:0001254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral floor plate [TAO:0001256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate hindbrain [TAO:0001258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain ventricle [TAO:0001259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular system [TAO:0001261]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial vasculature [TAO:0001267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sperm duct [TAO:0001268]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	regenerating fin [TAO:0001269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blastema [TAO:0001270]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurohypophysis [TAO:0001271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hyoid arch [TAO:0001276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pupil [TAO:0001283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic fissure [TAO:0001284]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intersegmental vessel [TAO:0001285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal vein plexus [TAO:0001286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal tubule [TAO:0001287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal glomeruli [TAO:0001288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	facial ganglion [TAO:0001291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior kidney [TAO:0001293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial placode [TAO:0001294]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	facial placode [TAO:0001295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glossopharyngeal placode [TAO:0001296]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal placode 1 [TAO:0001297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal placode 2 [TAO:0001298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal placode 3 [TAO:0001299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal placode 4 [TAO:0001300]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glossopharyngeal ganglion [TAO:0001301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal ganglion 1 [TAO:0001302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal ganglion 2 [TAO:0001303]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal ganglion 3 [TAO:0001304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal ganglion 4 [TAO:0001305]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal arch [TAO:0001306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal musculature [TAO:0001307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurogenic placode [TAO:0001309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsolateral placode [TAO:0001310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate rhombomere [TAO:0001311]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal anterior lateral line ganglion [TAO:0001312]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral anterior lateral line ganglion [TAO:0001313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular canal [TAO:0001315]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior lateral line placode [TAO:0001316]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myocardium [TAO:0001319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurocranial trabecula [TAO:0001321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enteric musculature [TAO:0001324]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lens epithelium [TAO:0001326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	abdominal musculature [TAO:0001327]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	outer limiting membrane [TAO:0001331]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal neuromere [TAO:0001332]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive enteric nervous system [TAO:0001334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spermatogonia [TAO:0001337]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intestine [TAO:0001338]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive intervening zone [TAO:0001342]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	telencephalon diencephalon boundary [TAO:0001343]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	interrenal primordium [TAO:0001346]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratum fibrosum et griseum superficiale [TAO:0001347]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratum marginale [TAO:0001348]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratum opticum [TAO:0001349]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratum griseum centrale [TAO:0001350]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratum album centrale [TAO:0001351]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratum periventriculare [TAO:0001352]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesencephalic tectum [TAO:0001353]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesencephalic tegmentum [TAO:0001354]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primitive meninx [TAO:0001355]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alar plate midbrain [TAO:0001357]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate diencephalon [TAO:0001358]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pineal complex [TAO:0001359]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trigeminal motor nuclei [TAO:0001365]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tract of the postoptic commissure [TAO:0001366]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive forebrain midbrain boundary [TAO:0001368]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior pancreatic bud [TAO:0001369]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior pancreatic bud [TAO:0001370]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pancreatic system [TAO:0001371]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pancreatic duct [TAO:0001372]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial myocardium [TAO:0001374]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventriculo bulbo valve [TAO:0001375]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive ectoderm [TAO:0001376]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive mesoderm [TAO:0001377]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	axial hypoblast [TAO:0001378]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal ectoderm [TAO:0001379]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial mesenchymal boundary [TAO:0001388]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	regeneration epithelium [TAO:0001389]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pancreatic bud [TAO:0001390]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	palatoquadrate cartilage [TAO:0001399]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal hyoid arch [TAO:0001401]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral hyoid arch [TAO:0001402]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic radial 2 [TAO:0001415]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic radial 3 [TAO:0001416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic radial 1 [TAO:0001417]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basal plate cartilage [TAO:0001425]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior naris [TAO:0001426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior naris [TAO:0001427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory rosette [TAO:0001428]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	raphe nucleus [TAO:0001429]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primitive olfactory epithelium [TAO:0001431]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	floor plate neural tube [TAO:0001434]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral wall neural tube [TAO:0001435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	roof plate neural tube [TAO:0001436]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coelom [TAO:0001438]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choroid plexus third ventricle [TAO:0001444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choroid plexus tectal ventricle [TAO:0001445]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choroid plexus fourth ventricle [TAO:0001446]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choroid plexus telencephalic ventricle [TAO:0001447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ultimobranchial body [TAO:0001448]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesenchyme pelvic fin [TAO:0001449]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal arch cartilage [TAO:0001460]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chondrocranium cartilage [TAO:0001461]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	somite border [TAO:0001462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	melanophore stripe [TAO:0001463]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	photoreceptor inner segment layer [TAO:0001465]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	photoreceptor outer segment layer [TAO:0001466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal mesoderm [TAO:0001467]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	median fin cartilage [TAO:0001535]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intercalarium ascending process [TAO:0001548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intercalarium articulating process [TAO:0001549]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	manubrium [TAO:0001553]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural 1 [TAO:0001560]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural 2 [TAO:0001561]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural 3 [TAO:0001562]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural 4 [TAO:0001563]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural 5 [TAO:0001564]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oocyte stage II [TAO:0001565]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oocyte stage III [TAO:0001566]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oocyte stage I [TAO:0001567]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oocyte stage IV [TAO:0001568]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oocyte stage V [TAO:0001569]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unfertilized egg [TAO:0001570]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	postovulatory follicle [TAO:0001571]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	autonomic nervous system [TAO:0001574]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parasympathetic nervous system [TAO:0001575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sympathetic nervous system [TAO:0001576]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-Weberian precaudal vertebra [TAO:0001582]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal arch 1 [TAO:0001595]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal arch 2 [TAO:0001596]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch [TAO:0001597]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 1 [TAO:0001598]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 2 [TAO:0001599]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 3 [TAO:0001600]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 4 [TAO:0001601]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gill arch 5 [TAO:0001602]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal scute series [TAO:0001605]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tooth [TAO:0001625]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	articular cartilage [TAO:0001670]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coronoid process [TAO:0001673]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin lepidotrichium 1 [TAO:0001754]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin lepidotrichium 2 [TAO:0001755]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin lepidotrichium 3 [TAO:0001756]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin lepidotrichium 4 [TAO:0001757]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin lepidotrichium 5 [TAO:0001758]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin lepidotrichium 6 [TAO:0001759]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin lepidotrichium 7 [TAO:0001760]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin lepidotrichium 1 [TAO:0001769]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin lepidotrichium 2 [TAO:0001770]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin lepidotrichium 3 [TAO:0001771]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin lepidotrichium 4 [TAO:0001772]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin lepidotrichium 5 [TAO:0001773]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin lepidotrichium 6 [TAO:0001774]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin lepidotrichium 7 [TAO:0001775]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin lepidotrichium 1 [TAO:0001776]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin lepidotrichium 2 [TAO:0001777]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin lepidotrichium 3 [TAO:0001778]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin lepidotrichium 4 [TAO:0001779]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin lepidotrichium 5 [TAO:0001780]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin lepidotrichium 6 [TAO:0001781]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin lepidotrichium 7 [TAO:0001782]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	branched dorsal fin ray [TAO:0001785]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unbranched dorsal fin ray [TAO:0001786]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 1 [TAO:0001818]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 2 [TAO:0001819]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	groove [TAO:0001838]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	opercular series [TAO:0001875]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parapophysis + rib of vertebra 3 [TAO:0001882]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parapophysis + rib of vertebra 3 + rib of vertebra 4 [TAO:0001883]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ceratobranchial 1 element [TAO:0001899]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ceratobranchial 2 element [TAO:0001900]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ceratobranchial 3 element [TAO:0001901]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ceratobranchial 4 element [TAO:0001902]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ceratobranchial 5 element [TAO:0001903]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial 1 element [TAO:0001905]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial 2 element [TAO:0001906]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial 3 element [TAO:0001907]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial 4 element [TAO:0001908]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial muscle [TAO:0001953]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	axial muscle [TAO:0001954]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial 5 element [TAO:0001966]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subtemporal fossa [TAO:0001974]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	suprabranchial artery [TAO:0001975]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	maxillary canal [TAO:0001996]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Schreckstoff [TAO:0002050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural 6 [TAO:0002056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posttemporal-parietal joint [TAO:0002059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pro-otic fossa [TAO:0002090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	third posttemporal fossa [TAO:0002095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hemal spine series [TAO:0002098]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uroneural 2 [TAO:0002109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metapterygoid-quadrate fenestra [TAO:0002110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	prootic bulla [TAO:0002111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	preural 3 vertebra [TAO:0002112]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	uroneural 3 [TAO:0002115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial organ [TAO:0002116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	radius [TAO:0002118]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	focus [TAO:0002119]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	orbitosphenoid septum [TAO:0002120]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stomach [TAO:0002121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neural arch 5 [TAO:0002123]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cavum sinus imparis [TAO:0002128]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypural 7 [TAO:0002132]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood vessel [TAO:0002137]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	afferent arteriole [TAO:0002139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	efferent arteriole [TAO:0002140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS white matter [TAO:0002143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	arrector muscle [TAO:0002147]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial endocardium [TAO:0002169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular canal endocardium [TAO:0002170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular endothelium [TAO:0002171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	branchial mesenchyme [TAO:0002172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac neural crest [TAO:0002173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	octaval nerve motor nucleus [TAO:0002174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral octaval nerve motor nucleus [TAO:0002175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal octaval nerve motor nucleus [TAO:0002176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindbrain nucleus [TAO:0002177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	telencephalic nucleus [TAO:0002178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	corneal endothelium [TAO:0002186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial nerve root [TAO:0002190]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diencephalic nucleus [TAO:0002191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	immature Schwann cell [TAO:0002203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macula communis [TAO:0002206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial motor nucleus of vagal nerve [TAO:0002207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain nucleus [TAO:0002209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mossy fiber [TAO:0002210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic fiber layer [TAO:0002212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	os suspensorium medial flange [TAO:0002214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	otic vesicle protrusion [TAO:0002215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	otic vesicle ventral protrusion [TAO:0002216]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parasphenoid-pterosphenoid joint [TAO:0002217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parallel fiber [TAO:0002218]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parvocellular preoptic nucleus [TAO:0002219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pericardial muscle [TAO:0002221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	periventricular nucleus of ventral telencephalon [TAO:0002222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pillar of the semicircular canal [TAO:0002223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pleuroperitoneal cavity [TAO:0002224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior pronephric duct [TAO:0002225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive atrium heart tube [TAO:0002228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive atrium primitive heart tube [TAO:0002229]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive cardiac ventricle primitive heart tube [TAO:0002232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive ventral mesoderm [TAO:0002235]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric distal early tubule [TAO:0002236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric proximal convoluted tubule [TAO:0002238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric proximal straight tubule [TAO:0002239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Purkinje cell layer corpus cerebelli [TAO:0002240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Purkinje cell layer valvula cerebelli [TAO:0002241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scale primordium [TAO:0002242]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	statoacoustic (VIII) nucleus [TAO:0002243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraoptic tract [TAO:0002244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supratemporal commissure [TAO:0002248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ctenius [TAO:0002249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epural 2 [TAO:0002250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epural 3 [TAO:0002251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epural 1 [TAO:0002252]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pyloric caecum [TAO:0002253]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premaxilla dentigerous process [TAO:0002257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trituration tooth [TAO:0002258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin spine [TAO:0002261]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anal fin spine [TAO:0002262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epineural 1 [TAO:0002263]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epineural 2 [TAO:0002264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epineural 3 [TAO:0002265]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epineural 4 [TAO:0002266]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epineural 5 [TAO:0002267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epineural 6 [TAO:0002268]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pelvic fin spine [TAO:0002270]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral caudal procurrent ray 2 [TAO:0002271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral caudal procurrent ray 1 [TAO:0002272]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral fin distal radial 1 [TAO:0002277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral fin distal radial 2 [TAO:0002279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral fin distal radial 3 [TAO:0002280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retractor posttemporalis [TAO:0002281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	melanophore spot [TAO:0002283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basal communicating artery [TAO:0005000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basilar artery [TAO:0005002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pharyngeal vasculature [TAO:0005003]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic arch [TAO:0005004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic arch 1 [TAO:0005005]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic arch 2 [TAO:0005006]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	afferent filamental artery [TAO:0005012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	afferent lamellar arteriole [TAO:0005015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	efferent filamental artery [TAO:0005018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	efferent lamellar arteriole [TAO:0005019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hematopoietic system [TAO:0005023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trunk vasculature [TAO:0005024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal ciliary vein [TAO:0005030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vertebral artery [TAO:0005033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	subintestinal vein [TAO:0005035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tail vasculature [TAO:0005037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraintestinal vein [TAO:0005038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior lateral mesoderm [TAO:0005039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior lateral mesoderm [TAO:0005040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior lateral plate mesoderm [TAO:0005041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior lateral plate mesoderm [TAO:0005042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hyaloid vessel [TAO:0005046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nasal ciliary artery [TAO:0005053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inner optic circle [TAO:0005054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trabecular layer of ventricle [TAO:0005060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac conduction system [TAO:0005063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve [TAO:0005065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinoatrial node [TAO:0005069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atriovetricular node [TAO:0005070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	distal conduction system [TAO:0005071]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocardial ring [TAO:0005072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular ring [TAO:0005073]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primordial vasculature [TAO:0005076]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular cord [TAO:0005077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	internal carotid artery [TAO:0005081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal branch nasal ciliary artery [TAO:0005082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral branch nasal ciliary artery [TAO:0005083]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral vein [TAO:0005087]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hepatic portal vein [TAO:0005090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesencephalic vein [TAO:0005092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nasal vein [TAO:0005093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fin vasculature [TAO:0005095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral fin vasculature [TAO:0005096]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal fin vasculature [TAO:0005097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive median fin fold [TAO:0005102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive ventral fin fold [TAO:0005103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive dorsal fin fold [TAO:0005104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	longitudinal lateral lymphatic vessel [TAO:0005106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral lymphatic vessel [TAO:0005107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	facial lymphatic vessel [TAO:0005108]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	jugular lymphatic vessel [TAO:0005109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thoracic duct [TAO:0005110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial forebrain bundle [TAO:0005111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	middle lateral line system [TAO:0005114]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	middle lateral line placode [TAO:0005121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal axial hypoblast [TAO:0005122]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cartilaginous joint [TAO:0005155]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	digestive system duct [TAO:0005162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bile canaliculus [TAO:0005163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bile ductule [TAO:0005164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	duct [TAO:0005171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	VeLD [TAO:0005177]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	DoLA [TAO:0005178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiP motor neuron [TAO:0005179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoP motor neuron [TAO:0005180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	VaP motor neuron [TAO:0005181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	t-interneuron [TAO:0005182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiD2i [TAO:0005183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiD2cl [TAO:0005184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiD2cm [TAO:0005185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiM1 [TAO:0005187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiR1 [TAO:0005188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiR2 [TAO:0005189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiV1 [TAO:0005190]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiV2 [TAO:0005191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoI2C [TAO:0005192]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoI2R [TAO:0005193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoL1 [TAO:0005194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiD3cl [TAO:0005195]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiD3cm [TAO:0005196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MiD3i [TAO:0005197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoL2 [TAO:0005198]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoL2r [TAO:0005199]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoL2c [TAO:0005200]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoL3 [TAO:0005201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoM1c [TAO:0005202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoM1r [TAO:0005203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	rostral ventral 3 interneuron [TAO:0005204]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoM2l [TAO:0005205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoM2m [TAO:0005206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoM3l [TAO:0005207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	RoM3m [TAO:0005208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindbrain interneuron [TAO:0005209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MeL [TAO:0005211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MeM [TAO:0005212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MeLr [TAO:0005213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MeLc [TAO:0005214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MeLm [TAO:0005215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MeM1 [TAO:0005216]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CaD [TAO:0005218]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	larval melanophore stripe [TAO:0005220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal larval melanophore stripe [TAO:0005221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral larval melanophore stripe [TAO:0005222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral larval melanophore stripe [TAO:0005223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yolk larval melanophore stripe [TAO:0005224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	median fin proximal radial [TAO:0005226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protoneuromast [TAO:0005227]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	segmented lepidotrichium [TAO:0005228]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	optic choroid [TAO:0005229]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bifurcate interneuron [TAO:0005231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	MCoD [TAO:0005232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	UCoD [TAO:0005235]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basophilic erythroblast [TAO:0005236]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	erythroblast [TAO:0005237]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	juxtaglomerular cell [TAO:0005238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	micropylar cell [TAO:0005239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polychromatophilic erythroblast [TAO:0005241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	auditory epithelial support cell [TAO:0005244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trans-choroid plexus branch [TAO:0005248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vasculature [TAO:0005249]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	capillary [TAO:0005250]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	microcirculatory vessels [TAO:0005251]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal glomerular capsule [TAO:0005254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	frontal-parietal joint [TAO:0005255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood vessel endothelium [TAO:0005257]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraoccipital-parietal joint [TAO:0005264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inclinator muscle [TAO:0005276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac muscle [TAO:0005280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	renal duct [TAO:0005289]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	axial blood vessel [TAO:0005295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cranial lymph vessel [TAO:0005298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fin blood vessel [TAO:0005299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fin lymph vessel [TAO:0005300]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral fin blood vessel [TAO:0005301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pectoral fin lymph vessel [TAO:0005302]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal fin lymph vessel [TAO:0005303]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	caudal fin blood vessel [TAO:0005304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney vasculature [TAO:0005305]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	kidney blood vessel [TAO:0005306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric glomerular capillary [TAO:0005309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric glomerular capsule [TAO:0005310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pronephric glomerular basement membrane [TAO:0005313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lymph node [TAO:0005318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	intersegmental lymph vessel [TAO:0005319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal longitudinal lymphatic vessel [TAO:0005320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular smooth muscle [TAO:0005321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tongue [TAO:0005333]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	swim bladder bud [TAO:0005335]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	presumptive swim bladder [TAO:0005336]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus of the lateral recess [TAO:0005339]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nucleus of the posterior recess [TAO:0005340]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	medial longitudinal catecholaminergic tract [TAO:0005341]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	preopticohypothalamic tract [TAO:0005344]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin pterygiophore 2 [TAO:0005365]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin pterygiophore 3 [TAO:0005366]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin pterygiophore 4 [TAO:0005367]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin pterygiophore 5 [TAO:0005368]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin pterygiophore 6 [TAO:0005369]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin pterygiophore 7 [TAO:0005370]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin pterygiophore 8 [TAO:0005371]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 1 [TAO:0005372]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 2 [TAO:0005373]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 3 [TAO:0005374]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 4 [TAO:0005375]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 5 [TAO:0005376]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 6 [TAO:0005377]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 7 [TAO:0005378]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin distal radial 8 [TAO:0005379]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 3 [TAO:0005380]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 4 [TAO:0005381]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 5 [TAO:0005382]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 6 [TAO:0005383]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 7 [TAO:0005384]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsal fin proximal radial 8 [TAO:0005385]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	common crus [TAO:0005411]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	perilymph [TAO:0005413]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endolymph [TAO:0005414]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sacculoagenar foramen [TAO:0005416]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macula saccule [TAO:0007000]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral intermandibularis anterior [TAO:0007008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lateral forebrain bundle [TAO:0007012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior presumptive neural plate [TAO:0007014]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior presumptive neural plate [TAO:0007015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior neural plate [TAO:0007016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior neural plate [TAO:0007017]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain neural plate [TAO:0007018]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain neural plate [TAO:0007019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain midbrain boundary neural plate [TAO:0007020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal cord neural plate [TAO:0007021]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindbrain neural plate [TAO:0007022]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior neural keel [TAO:0007023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior neural keel [TAO:0007024]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain neural keel [TAO:0007025]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain neural keel [TAO:0007026]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain midbrain boundary neural keel [TAO:0007027]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal cord neural keel [TAO:0007028]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindbrain neural keel [TAO:0007029]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior neural rod [TAO:0007030]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior neural rod [TAO:0007031]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain neural rod [TAO:0007032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain midbrain boundary neural rod [TAO:0007033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain neural rod [TAO:0007034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal cord neural rod [TAO:0007035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindbrain neural rod [TAO:0007036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	posterior neural tube [TAO:0007037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anterior neural tube [TAO:0007038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain neural tube [TAO:0007039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain midbrain boundary neural tube [TAO:0007040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	forebrain neural tube [TAO:0007041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	spinal cord neural tube [TAO:0007042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hindbrain neural tube [TAO:0007043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain hindbrain boundary neural plate [TAO:0007044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain hindbrain boundary neural keel [TAO:0007045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain hindbrain boundary neural rod [TAO:0007046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	midbrain hindbrain boundary neural tube [TAO:0007047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral intermandibularis posterior [TAO:0007048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adductor mandibulae [TAO:0007049]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	constrictor dorsalis [TAO:0007050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventral interhyoideus [TAO:0007051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pillar of the anterior semicircular canal [TAO:0007054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pillar of the lateral semicircular canal [TAO:0007055]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ocular blood vessel [TAO:0007057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurogenic field [TAO:0007059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dorsolateral field [TAO:0007060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epibranchial field [TAO:0007061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory field [TAO:0007062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mandibular neural crest [TAO:0007064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vagal ganglion [TAO:0007067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	receptor cell (sensu Animalia) [TAO:0009001]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	early embryonic cell [TAO:0009002]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	trunk neural crest cell [TAO:0009004]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	egg [TAO:0009008]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuron neural crest derived [TAO:0009009]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glioblast [TAO:0009010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroblast [TAO:0009011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroplacodal cell [TAO:0009012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	single fate stem cell [TAO:0009013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	germ line cell [TAO:0009016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuronal stem cell [TAO:0009019]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ciliated cell [TAO:0009032]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ciliated epithelial cell [TAO:0009035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood vessel endothelial cell [TAO:0009036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	barrier epithelial cell [TAO:0009037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	columnar/cuboidal epithelial cell [TAO:0009038]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	squamous epithelial cell [TAO:0009039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesothelial cell [TAO:0009040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peridermal cell [TAO:0009041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified epithelial cell [TAO:0009042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial cell of pancreas [TAO:0009045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory epithelial cell [TAO:0009050]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory neuron [TAO:0009053]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	polymodal neuron [TAO:0009054]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	multipolar neuron [TAO:0009056]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pseudounipolar neuron [TAO:0009057]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unipolar neuron [TAO:0009058]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	autonomic neuron [TAO:0009059]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cholinergic neuron [TAO:0009060]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adrenergic neuron [TAO:0009061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptidergic neuron [TAO:0009062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peripheral neuron [TAO:0009063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endothelial cell [TAO:0009065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pioneer neuron [TAO:0009066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS neuron (sensu Vertebrata) [TAO:0009067]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	basket cell [TAO:0009068]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Golgi cell [TAO:0009069]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	granule cell [TAO:0009070]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stellate cell [TAO:0009072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	macroglial cell [TAO:0009074]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gut endothelial cell [TAO:0009078]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurectodermal cell [TAO:0009080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	simple columnar epithelial cell [TAO:0009089]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pigment cell [TAO:0009090]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GAG secreting cell [TAO:0009093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acid secreting cell [TAO:0009095]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enteroendocrine cell [TAO:0009097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	peptide hormone secreting cell [TAO:0009100]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insulin secreting cell [TAO:0009101]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pancreatic B cell [TAO:0009102]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucagon secreting cell [TAO:0009103]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pancreatic A cell [TAO:0009104]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	somatostatin secreting cell [TAO:0009105]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	steroid hormone secreting cell [TAO:0009106]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	testosterone secreting cell [TAO:0009107]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Leydig cell [TAO:0009108]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	progesterone secreting cell [TAO:0009109]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	estradiol secreting cell [TAO:0009110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myoepithelial cell [TAO:0009113]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	skeletal muscle cell [TAO:0009115]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	slow muscle cell [TAO:0009116]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fast muscle cell [TAO:0009117]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	auditory receptor cell [TAO:0009121]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	olfactory receptor cell [TAO:0009125]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	taste receptor cell [TAO:0009126]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	synovial cell [TAO:0009131]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	insulating cell [TAO:0009134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	brush border epithelial cell [TAO:0009143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified squamous epithelial cell [TAO:0009144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified cuboidal epithelial cell [TAO:0009145]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	transitional epithelial cell [TAO:0009148]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mauthner neuron [TAO:0009149]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Rohon-Beard neuron [TAO:0009150]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hatching gland cell [TAO:0009151]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	extramedullary cell [TAO:0009152]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eurydendroid cell [TAO:0009153]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	eye photoreceptor cell [TAO:0009154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	gamete [TAO:0009156]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	keratin accumulating cell [TAO:0009157]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mucus secreting cell [TAO:0009159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	seminal fluid secreting cell [TAO:0009160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	metanephric mesenchyme stem cell [TAO:0009161]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	extracellular matrix secreting cell [TAO:0009162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myelin accumulating cell [TAO:0009163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oxygen accumulating cell [TAO:0009164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesenchyme condensation cell [TAO:0009166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	adrenal medulla cell [TAO:0009167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroblast (sensu Vertebrata) [TAO:0009168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glioblast (sensu Vertebrata) [TAO:0009169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pigment cell (sensu Vertebrata) [TAO:0009170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visual pigment cell (sensu Vertebrata) [TAO:0009171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	non-visual cell (sensu Vertebrata) [TAO:0009172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	dental papilla cell [TAO:0009173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	scleral cell [TAO:0009174]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	choroidal cell [TAO:0009175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	extraembryonic cell [TAO:0009176]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blastemal cell [TAO:0009178]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle stem cell [TAO:0009179]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified epithelial stem cell [TAO:0009180]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular associated smooth muscle cell [TAO:0009181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	osteoprogenitor cell [TAO:0009184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sensory processing neuron [TAO:0009185]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neurosecretory neuron [TAO:0009186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	nephrogenic mesenchyme stem cell [TAO:0009187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ligament cell [TAO:0009188]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tendon cell [TAO:0009189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS interneuron [TAO:0009191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS short range interneuron [TAO:0009194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CNS long range interneuron [TAO:0009195]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypodermal cell [TAO:0009196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	yolk cell [TAO:0009197]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	reticular cell [TAO:0009200]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	alkali secreting cell [TAO:0009201]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	follicle stimulating hormone secreting cell [TAO:0009202]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	luteinizing hormone secreting cell [TAO:0009203]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	calcitonin secreting cell [TAO:0009206]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parathyroid hormone secreting cell [TAO:0009207]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	lipocyte [TAO:0009208]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thyroid hormone secreting cell [TAO:0009210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epinephrin secreting cell [TAO:0009211]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	biogenic amine secreting cell [TAO:0009212]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	serotonin secreting cell [TAO:0009213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	norepinephrin secreting cell [TAO:0009214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glucocorticoid secreting cell [TAO:0009215]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	digestive enzyme secreting cell [TAO:0009217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	visible light photoreceptor cell [TAO:0009219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	photopic photoreceptor cell [TAO:0009220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	UV sensitive photoreceptor cell [TAO:0009221]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blue sensitive photoreceptor cell [TAO:0009222]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	green sensitive photoreceptor cell [TAO:0009223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	red sensitive photoreceptor cell [TAO:0009224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inhibitory interneuron [TAO:0009225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	substance P secreting cell [TAO:0009230]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enkephalin secreting cell [TAO:0009231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endorphin secreting cell [TAO:0009232]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paracrine cell [TAO:0009233]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pigmented epithelial cell [TAO:0009241]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary neuron [TAO:0009242]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CAP motoneuron [TAO:0009243]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary motor neuron [TAO:0009244]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primary interneuron [TAO:0009245]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary neuron [TAO:0009246]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	secondary motor neuron [TAO:0009247]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	angioblastic mesenchymal cell [TAO:0009258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac mesenchymal cell [TAO:0009259]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	parafollicular cell [TAO:0009260]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	corneal epithelial cell [TAO:0009264]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	enterocyte [TAO:0009269]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	androgen secreting cell [TAO:0009271]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	GABAergic neuron [TAO:0009276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acinar cell [TAO:0009277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ito cell [TAO:0009279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Muller cell [TAO:0009280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Bergmann glial cell [TAO:0009282]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mesangial cell [TAO:0009283]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pinealocyte [TAO:0009284]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	podocyte [TAO:0009285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fenestrated cell [TAO:0009286]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	collagen secreting cell [TAO:0009287]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	primordial germ cell [TAO:0009288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	glutamatergic neuron [TAO:0009290]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	muscle precursor cell [TAO:0009291]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cerebrospinal fluid secreting cell [TAO:0009295]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stellate interneuron [TAO:0009297]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	neuroepithelial cell [TAO:0009306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	somatic stem cell [TAO:0009307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac muscle cell [TAO:0009316]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stretch receptor cell [TAO:0009370]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stratified keratinized epithelial stem cell [TAO:0009371]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	extraembryonic structure [TAO:0000020]	label [rdfs:label]	extraembryonic structure	
+WARN	missing_obsolete_label	paired fin skeleton [TAO:0000027]	label [rdfs:label]	paired fin skeleton	
+WARN	missing_obsolete_label	anatomical structure [TAO:0000037]	label [rdfs:label]	anatomical structure	
+WARN	missing_obsolete_label	axis [TAO:0000092]	label [rdfs:label]	axis	
+WARN	missing_obsolete_label	fin [TAO:0000108]	label [rdfs:label]	fin	
+WARN	missing_obsolete_label	centrum [TAO:0000126]	label [rdfs:label]	centrum	
+WARN	missing_obsolete_label	notochord [TAO:0000135]	label [rdfs:label]	notochord	
+WARN	missing_obsolete_label	anal fin skeleton [TAO:0000167]	label [rdfs:label]	anal fin skeleton	
+WARN	missing_obsolete_label	scale [TAO:0000277]	label [rdfs:label]	scale	
+WARN	missing_obsolete_label	surface structure [TAO:0000292]	label [rdfs:label]	surface structure	
+WARN	missing_obsolete_label	postcranial axial skeleton [TAO:0000317]	label [rdfs:label]	postcranial axial skeleton	
+WARN	missing_obsolete_label	coracoid [TAO:0000332]	label [rdfs:label]	coracoid	
+WARN	missing_obsolete_label	joint [TAO:0000367]	label [rdfs:label]	joint	
+WARN	missing_obsolete_label	integument [TAO:0000368]	label [rdfs:label]	integument	
+WARN	missing_obsolete_label	acellular anatomical structure [TAO:0000382]	label [rdfs:label]	acellular anatomical structure	
+WARN	missing_obsolete_label	pectoral girdle [TAO:0000407]	label [rdfs:label]	pectoral girdle	
+WARN	missing_obsolete_label	skeletal system [TAO:0000434]	label [rdfs:label]	skeletal system	
+WARN	missing_obsolete_label	compound organ [TAO:0000496]	label [rdfs:label]	compound organ	
+WARN	missing_obsolete_label	musculature system [TAO:0000548]	label [rdfs:label]	musculature system	
+WARN	missing_obsolete_label	pelvic girdle [TAO:0000565]	label [rdfs:label]	pelvic girdle	
+WARN	missing_obsolete_label	scapula [TAO:0000583]	label [rdfs:label]	scapula	
+WARN	missing_obsolete_label	caudal fin skeleton [TAO:0000862]	label [rdfs:label]	caudal fin skeleton	
+WARN	missing_obsolete_label	pectoral fin skeleton [TAO:0000943]	label [rdfs:label]	pectoral fin skeleton	
+WARN	missing_obsolete_label	caudal fin [TAO:0001058]	label [rdfs:label]	caudal fin	
+WARN	missing_obsolete_label	unspecified [TAO:0001093]	label [rdfs:label]	unspecified	
+WARN	missing_obsolete_label	embryonic structure [TAO:0001105]	label [rdfs:label]	embryonic structure	
+WARN	missing_obsolete_label	median fin skeleton [TAO:0001123]	label [rdfs:label]	median fin skeleton	
+WARN	missing_obsolete_label	dorsal fin skeleton [TAO:0001124]	label [rdfs:label]	dorsal fin skeleton	
+WARN	missing_obsolete_label	pectoral fin [TAO:0001161]	label [rdfs:label]	pectoral fin	
+WARN	missing_obsolete_label	anal fin [TAO:0001162]	label [rdfs:label]	anal fin	
+WARN	missing_obsolete_label	dorsal fin [TAO:0001173]	label [rdfs:label]	dorsal fin	
+WARN	missing_obsolete_label	pelvic fin [TAO:0001184]	label [rdfs:label]	pelvic fin	
+WARN	missing_obsolete_label	organism subdivision [TAO:0001308]	label [rdfs:label]	organism subdivision	
+WARN	missing_obsolete_label	fin bud [TAO:0001383]	label [rdfs:label]	fin bud	
+WARN	missing_obsolete_label	pelvic fin skeleton [TAO:0001387]	label [rdfs:label]	pelvic fin skeleton	
+WARN	missing_obsolete_label	dorsal fin lepidotrichium [TAO:0001418]	label [rdfs:label]	dorsal fin lepidotrichium	
+WARN	missing_obsolete_label	anal fin lepidotrichium [TAO:0001421]	label [rdfs:label]	anal fin lepidotrichium	
+WARN	missing_obsolete_label	anatomical system [TAO:0001439]	label [rdfs:label]	anatomical system	
+WARN	missing_obsolete_label	portion of tissue [TAO:0001477]	label [rdfs:label]	portion of tissue	
+WARN	missing_obsolete_label	anatomical cluster [TAO:0001478]	label [rdfs:label]	anatomical cluster	
+WARN	missing_obsolete_label	basal lamina [TAO:0001485]	label [rdfs:label]	basal lamina	
+WARN	missing_obsolete_label	epithelium [TAO:0001486]	label [rdfs:label]	epithelium	
+WARN	missing_obsolete_label	portion of organism substance [TAO:0001487]	label [rdfs:label]	portion of organism substance	
+WARN	missing_obsolete_label	multi-tissue structure [TAO:0001488]	label [rdfs:label]	multi-tissue structure	
+WARN	missing_obsolete_label	compound organ component [TAO:0001489]	label [rdfs:label]	compound organ component	
+WARN	missing_obsolete_label	cavitated compound organ [TAO:0001490]	label [rdfs:label]	cavitated compound organ	
+WARN	missing_obsolete_label	solid compound organ [TAO:0001491]	label [rdfs:label]	solid compound organ	
+WARN	missing_obsolete_label	simple organ [TAO:0001492]	label [rdfs:label]	simple organ	
+WARN	missing_obsolete_label	atypical epithelium [TAO:0001493]	label [rdfs:label]	atypical epithelium	
+WARN	missing_obsolete_label	multilaminar epithelium [TAO:0001494]	label [rdfs:label]	multilaminar epithelium	
+WARN	missing_obsolete_label	unilaminar epithelium [TAO:0001495]	label [rdfs:label]	unilaminar epithelium	
+WARN	missing_obsolete_label	simple columnar epithelium [TAO:0001496]	label [rdfs:label]	simple columnar epithelium	
+WARN	missing_obsolete_label	simple cuboidal epithelium [TAO:0001497]	label [rdfs:label]	simple cuboidal epithelium	
+WARN	missing_obsolete_label	simple squamous epithelium [TAO:0001498]	label [rdfs:label]	simple squamous epithelium	
+WARN	missing_obsolete_label	cartilage [TAO:0001501]	label [rdfs:label]	cartilage	
+WARN	missing_obsolete_label	anatomical group [TAO:0001512]	label [rdfs:label]	anatomical group	
+WARN	missing_obsolete_label	bone [TAO:0001514]	label [rdfs:label]	bone	
+WARN	missing_obsolete_label	caudal fin lepidotrichium [TAO:0001550]	label [rdfs:label]	caudal fin lepidotrichium	
+WARN	missing_obsolete_label	pectoral fin lepidotrichium [TAO:0001551]	label [rdfs:label]	pectoral fin lepidotrichium	
+WARN	missing_obsolete_label	pelvic fin lepidotrichium [TAO:0001552]	label [rdfs:label]	pelvic fin lepidotrichium	
+WARN	missing_obsolete_label	lepidotrichium [TAO:0001554]	label [rdfs:label]	lepidotrichium	
+WARN	missing_obsolete_label	vertebral column [TAO:0001559]	label [rdfs:label]	vertebral column	
+WARN	missing_obsolete_label	dermal bone [TAO:0001590]	label [rdfs:label]	dermal bone	
+WARN	missing_obsolete_label	endochondral bone [TAO:0001591]	label [rdfs:label]	endochondral bone	
+WARN	missing_obsolete_label	replacement bone [TAO:0001637]	label [rdfs:label]	replacement bone	
+WARN	missing_obsolete_label	perichondral bone [TAO:0001638]	label [rdfs:label]	perichondral bone	
+WARN	missing_obsolete_label	portion of connective tissue [TAO:0001641]	label [rdfs:label]	portion of connective tissue	
+WARN	missing_obsolete_label	perichordal connective tissue [TAO:0001642]	label [rdfs:label]	perichordal connective tissue	
+WARN	missing_obsolete_label	perichondrium [TAO:0001643]	label [rdfs:label]	perichondrium	
+WARN	missing_obsolete_label	intramembranous bone [TAO:0001644]	label [rdfs:label]	intramembranous bone	
+WARN	missing_obsolete_label	membrane bone [TAO:0001645]	label [rdfs:label]	membrane bone	
+WARN	missing_obsolete_label	anatomical space [TAO:0001668]	label [rdfs:label]	anatomical space	
+WARN	missing_obsolete_label	ligament [TAO:0001682]	label [rdfs:label]	ligament	
+WARN	missing_obsolete_label	process [TAO:0001834]	label [rdfs:label]	process	
+WARN	missing_obsolete_label	immaterial anatomical entity [TAO:0001835]	label [rdfs:label]	immaterial anatomical entity	
+WARN	missing_obsolete_label	material anatomical entity [TAO:0001836]	label [rdfs:label]	material anatomical entity	
+WARN	missing_obsolete_label	anatomical line [TAO:0001837]	label [rdfs:label]	anatomical line	
+WARN	missing_obsolete_label	anatomical point [TAO:0001839]	label [rdfs:label]	anatomical point	
+WARN	missing_obsolete_label	skeletal element [TAO:0001890]	label [rdfs:label]	skeletal element	
+WARN	missing_obsolete_label	pigmentation [TAO:0001955]	label [rdfs:label]	pigmentation	
+WARN	missing_obsolete_label	median fin [TAO:0002276]	label [rdfs:label]	median fin	
+WARN	missing_obsolete_label	paired fin [TAO:0002278]	label [rdfs:label]	paired fin	
+WARN	missing_obsolete_label	dental papilla [TAO:0005140]	label [rdfs:label]	dental papilla	
+WARN	missing_obsolete_label	enameloid [TAO:0005142]	label [rdfs:label]	enameloid	
+WARN	missing_obsolete_label	dentine [TAO:0005143]	label [rdfs:label]	dentine	
+WARN	missing_obsolete_label	cell [TAO:0009000]	label [rdfs:label]	cell	
+WARN	missing_obsolete_label	cranial neural crest cell [TAO:0009003]	label [rdfs:label]	cranial neural crest cell	
+WARN	missing_obsolete_label	chondroblast [TAO:0009027]	label [rdfs:label]	chondroblast	
+WARN	missing_obsolete_label	ameloblast [TAO:0009028]	label [rdfs:label]	ameloblast	
+WARN	missing_obsolete_label	odontoblast [TAO:0009029]	label [rdfs:label]	odontoblast	
+WARN	missing_obsolete_label	cementoblast [TAO:0009030]	label [rdfs:label]	cementoblast	
+WARN	missing_obsolete_label	osteoblast [TAO:0009031]	label [rdfs:label]	osteoblast	
+WARN	missing_obsolete_label	epithelial cell [TAO:0009034]	label [rdfs:label]	epithelial cell	
+WARN	missing_obsolete_label	mesenchymal cell [TAO:0009081]	label [rdfs:label]	mesenchymal cell	
+WARN	missing_obsolete_label	osteocyte [TAO:0009083]	label [rdfs:label]	osteocyte	
+WARN	missing_obsolete_label	chondrocyte [TAO:0009084]	label [rdfs:label]	chondrocyte	
+WARN	missing_obsolete_label	amelocyte [TAO:0009085]	label [rdfs:label]	amelocyte	
+WARN	missing_obsolete_label	odontocyte [TAO:0009086]	label [rdfs:label]	odontocyte	
+WARN	missing_obsolete_label	cementocyte [TAO:0009087]	label [rdfs:label]	cementocyte	
+WARN	missing_obsolete_label	mesodermal cell [TAO:0009138]	label [rdfs:label]	mesodermal cell	
+WARN	missing_obsolete_label	neural crest cell [TAO:0009165]	label [rdfs:label]	neural crest cell	
+WARN	missing_obsolete_label	periarticular chondrocyte [TAO:0009312]	label [rdfs:label]	periarticular chondrocyte	
+WARN	missing_obsolete_label	hypertrophic chondrocyte [TAO:0009313]	label [rdfs:label]	hypertrophic chondrocyte	
+WARN	missing_obsolete_label	columnar chondrocyte [TAO:0009314]	label [rdfs:label]	columnar chondrocyte	
+WARN	missing_obsolete_label	teleost anatomical entity [TAO:0100000]	label [rdfs:label]	teleost anatomical entity	
+INFO	lowercase_definition	palatine cartilage [TAO:0001688]	IAO_0000115 [IAO:0000115]	palatine cartilage - cartilage that is separate from and anterior to the pterygoquadrate cartilage.	
+INFO	lowercase_definition	pterygoquadrate cartilage [TAO:0001689]	IAO_0000115 [IAO:0000115]	pterygoquadrate cartilage - cartilage that is separate from and posterior to the palatine cartilage.	
+INFO	lowercase_definition	anterior cartilage of palatine [TAO:0001690]	IAO_0000115 [IAO:0000115]	anterior cartilage of palatine - cartilage that caps the anterior end of the autopalatine bone. It is typically present in adults.	
+INFO	lowercase_definition	posterior cartilage of palatine [TAO:0001691]	IAO_0000115 [IAO:0000115]	posterior cartilage of palatine - cartilage that caps the posterior end of the autopalatine bone. It is typically present in adults.	
+INFO	missing_superclass	CARO_0000003 [CARO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000004 [CARO:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000005 [CARO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000008 [CARO:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000009 [CARO:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000011 [CARO:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000013 [CARO:0000013]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000019 [CARO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000024 [CARO:0000024]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000032 [CARO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000040 [CARO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000041 [CARO:0000041]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000042 [CARO:0000042]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000043 [CARO:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000055 [CARO:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000065 [CARO:0000065]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000066 [CARO:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000068 [CARO:0000068]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000070 [CARO:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000072 [CARO:0000072]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000073 [CARO:0000073]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000077 [CARO:0000077]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000008 [CL:0000008]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000134 [CL:0000134]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000222 [CL:0000222]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000333 [CL:0000333]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0001957 [GO:0001957]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0036072 [GO:0036072]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000014 [PATO:0000014]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000000 [VSAO:0000000]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000001 [VSAO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000003 [VSAO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000023 [VSAO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000025 [VSAO:0000025]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000027 [VSAO:0000027]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000029 [VSAO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000032 [VSAO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000033 [VSAO:0000033]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000037 [VSAO:0000037]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000048 [VSAO:0000048]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000049 [VSAO:0000049]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000054 [VSAO:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000072 [VSAO:0000072]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000093 [VSAO:0000093]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000099 [VSAO:0000099]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000101 [VSAO:0000101]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000128 [VSAO:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000129 [VSAO:0000129]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000130 [VSAO:0000130]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000134 [VSAO:0000134]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000135 [VSAO:0000135]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000139 [VSAO:0000139]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000145 [VSAO:0000145]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000147 [VSAO:0000147]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000153 [VSAO:0000153]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000154 [VSAO:0000154]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000155 [VSAO:0000155]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000156 [VSAO:0000156]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000158 [VSAO:0000158]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000162 [VSAO:0000162]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000163 [VSAO:0000163]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000164 [VSAO:0000164]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000165 [VSAO:0000165]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000166 [VSAO:0000166]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000167 [VSAO:0000167]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000168 [VSAO:0000168]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000169 [VSAO:0000169]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000170 [VSAO:0000170]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000172 [VSAO:0000172]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000173 [VSAO:0000173]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000174 [VSAO:0000174]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000175 [VSAO:0000175]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000176 [VSAO:0000176]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000177 [VSAO:0000177]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000178 [VSAO:0000178]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000179 [VSAO:0000179]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000180 [VSAO:0000180]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000183 [VSAO:0000183]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000184 [VSAO:0000184]	rdfs:subClassOf		
+INFO	missing_superclass	VSAO_0000185 [VSAO:0000185]	rdfs:subClassOf		

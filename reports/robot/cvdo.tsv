@@ -1,0 +1,481 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	cvdo	dc11:description		
+ERROR	duplicate_label	left bundle branch block (process) [CVDO:0000320]	label [rdfs:label]	left bundle branch block (process)@en	
+ERROR	duplicate_label	left bundle branch block (process) [CVDO:0000476]	label [rdfs:label]	left bundle branch block (process)@en	
+ERROR	missing_ontology_license	cvdo	dc:license		
+ERROR	missing_ontology_title	cvdo	dc11:title		
+WARN	duplicate_label_synonym	inflammatory dilated cardiomyopathy [CVDO:0000577]	hasExactSynonym [oboInOwl:hasExactSynonym]	inflammatory dilated cardiomyopathy@en	
+WARN	missing_definition	bacterial endocarditis [CVDO:0000010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	viral endocarditis [CVDO:0000011]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fungal endocarditis [CVDO:0000012]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart disorder [CVDO:0000015]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular disorder [CVDO:0000016]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocardium disorder [CVDO:0000020]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pericardium disorder [CVDO:0000023]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	infectious pericarditis [CVDO:0000033]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bacterial pericarditis [CVDO:0000034]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	viral pericarditis [CVDO:0000035]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fungal pericarditis [CVDO:0000036]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	protozoal pericarditis [CVDO:0000037]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart pathological process [CVDO:0000039]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pericardium pathological process [CVDO:0000040]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	acute pericarditis [CVDO:0000041]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chronic pericarditis [CVDO:0000042]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular block (disease) [CVDO:0000043]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	first degree atrioventricular block (disease) [CVDO:0000044]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mobitz I second degree atrioventricular block (disease) [CVDO:0000045]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	third degree atrioventricular block (disease) [CVDO:0000046]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart conduction disorder [CVDO:0000047]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	impaired atrioventricular node [CVDO:0000048]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	impaired right branch of atrioventricular bundle [CVDO:0000051]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bundle of Kent [CVDO:0000052]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinoatrial block (disease) [CVDO:0000061]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mobitz I second degree sinoatrial block (disease) [CVDO:0000062]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mobitz II second degree sinoatrial block (disease) [CVDO:0000063]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	first degree sinoatrial block (disease) [CVDO:0000064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	third degree sinoatrial block (disease) [CVDO:0000065]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	impaired sinoatrial node [CVDO:0000066]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart block (disease) [CVDO:0000072]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	impaired posterior division of left branch of atrioventricular bundle [CVDO:0000077]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left posterior fascicular block (disease) [CVDO:0000080]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	infra-hisian block (disease) [CVDO:0000081]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left bundle branch block (disease) [CVDO:0000082]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac arrhythmia (disease) [CVDO:0000088]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial fibrillation (disease) [CVDO:0000092]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial fibrillation (process) [CVDO:0000093]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial flutter (disease) [CVDO:0000094]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	common atrial flutter (disease) [CVDO:0000097]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac atrium fibrosis [CVDO:0000110]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraventricular tachycardia (process) [CVDO:0000111]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bradycardia (disease) [CVDO:0000139]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	bradycardia (process) [CVDO:0000140]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature atrial contraction (disease) [CVDO:0000143]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left anterior fascicle [CVDO:0000144]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	wandering pacemaker [CVDO:0000153]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tricuspid valve disease [CVDO:0000154]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart pathological process involving a heart valve [CVDO:0000159]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitral valve leaflet displacement into the left atrium during left ventricular systole [CVDO:0000160]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tricuspid valve leaflet displacement into the right atrium during right ventricular systole [CVDO:0000162]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic valve leaflet displacement into the left ventricle during left ventricular diastole [CVDO:0000163]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve leaflet displacement into a cardiac chamber during ventricular systole [CVDO:0000164]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitral valve improper close during left ventricular systole [CVDO:0000166]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retrograd blood flow through mitral valve during left ventricular systole [CVDO:0000168]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retrograd blood flow through pulmonary valve during right ventricular diastole [CVDO:0000169]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary valve improper close during right ventricular diastole [CVDO:0000170]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tricuspid valve improper close during right ventricular systole [CVDO:0000171]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic valve improper close during left ventricular diastole [CVDO:0000172]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retrograd blood flow through tricuspid valve during right ventricular systole [CVDO:0000173]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retrograd blood flow through aortic valve during left ventricular diastole [CVDO:0000175]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disturbed anterograd blood flow through mitral valve during left ventricular diastole [CVDO:0000181]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	retrograd blood flow through a heart valve [CVDO:0000182]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disturbed anterograd blood flow through a heart valve [CVDO:0000183]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disturbed anterograd blood flow through tricuspid valve during right ventricular diastole [CVDO:0000184]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disturbed anterograd blood flow through pulmonary valve during right ventricular systole [CVDO:0000186]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disturbed anterograd blood flow through aortic valve during left ventricular systole [CVDO:0000187]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve stenosis [CVDO:0000189]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	impaired cardiac output [CVDO:0000191]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pressure [CVDO:0000193]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood pressure [CVDO:0000194]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	highly pressured arterial blood flow [CVDO:0000196]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve insufficiency [CVDO:0000209]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve improper close [CVDO:0000210]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vein disorder [CVDO:0000214]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular pathological process [CVDO:0000216]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thrombosis [CVDO:0000217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	deep vein thrombosis [CVDO:0000220]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	artery hardening [CVDO:0000223]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atheromous plaque formation in artery [CVDO:0000224]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	embolism [CVDO:0000225]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aneurysm (disorder) [CVDO:0000226]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ischemic disease [CVDO:0000231]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	compression disease [CVDO:0000234]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	permanent atrial fibrillation [CVDO:0000238]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricular myocardium dilatation [CVDO:0000239]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aneurysm rupture [CVDO:0000240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myocardium disorder [CVDO:0000248]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Tako Tsubo cardiomyopathy [CVDO:0000254]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricular noncompaction [CVDO:0000255]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic hypertrophic cardiomyopathy [CVDO:0000256]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pericardium disease [CVDO:0000262]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular disease - unclassified by CVDO [CVDO:0000267]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac atrium pathological process [CVDO:0000273]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac ventricle pathological process [CVDO:0000274]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	thromboembolism [CVDO:0000275]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	infarction [CVDO:0000276]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary valve leaflet displacement into the right ventricle during right ventricular diastole [CVDO:0000277]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac blood circulation pathological process [CVDO:0000279]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vascular blood circulation pathological process [CVDO:0000280]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	part of atrial myocardium with impaired conduction [CVDO:0000281]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diabetic microangiopathy [CVDO:0000284]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	diabetic macroangiopathy [CVDO:0000285]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atheromous plaque formation in coronary artery [CVDO:0000288]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atherosclerotic coronary heart disease [CVDO:0000293]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricular myocardium dilatation [CVDO:0000294]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	supraventricular tachycardia (disease) [CVDO:0000296]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left atrial flutter (disease) [CVDO:0000298]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right atrial flutter (disease) [CVDO:0000299]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	junctional tachycardia (disease) [CVDO:0000301]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular nodal reentrant tachycardia (disease) [CVDO:0000304]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial flutter (process) [CVDO:0000306]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular fibrillation (process) [CVDO:0000307]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	junctional tachycardia (process) [CVDO:0000308]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature atrial contraction (process) [CVDO:0000309]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac arrhythmia (process) [CVDO:0000310]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart block (process) [CVDO:0000311]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular block (process) [CVDO:0000312]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	infra-hisian block (process) [CVDO:0000313]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinoatrial block (process) [CVDO:0000314]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mobitz I second degree atrioventricular block (process) [CVDO:0000315]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mobitz II second degree atrioventricular block (process) [CVDO:0000316]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	first degree atrioventricular block (process) [CVDO:0000317]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	third degree atrioventricular block (process) [CVDO:0000318]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left anterior fascicular block (process) [CVDO:0000319]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left bundle branch block (process) [CVDO:0000320]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left posterior fascicular block (process) [CVDO:0000321]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right bundle branch block (process) [CVDO:0000322]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mobitz I second degree sinoatrial block (process) [CVDO:0000323]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Mobitz II second degree sinoatrial block (process) [CVDO:0000324]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	first degree sinoatrial block (process) [CVDO:0000325]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	third degree sinoatrial block (process) [CVDO:0000326]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coronary artery disorder [CVDO:0000327]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular myocardium dilatation [CVDO:0000330]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular myocardium hypertrophy [CVDO:0000331]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricular myocardium hypertrophy [CVDO:0000332]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricular myocardium hypertrophy [CVDO:0000333]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pathological inflammation process [CVDO:0000403]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in a myocardium [CVDO:0000404]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in an endocardium [CVDO:0000405]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in a pericardium [CVDO:0000406]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in aorta [CVDO:0000407]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in a blood vessel [CVDO:0000408]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in a femoral vein [CVDO:0000409]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in an iliac vein [CVDO:0000410]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in a retinal artery [CVDO:0000411]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in a vein [CVDO:0000412]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fibrofatty replacement in a right ventricular myocardium [CVDO:0000418]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CVDO definition [CVDO:0000419]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	degenerated structure in an aortic valve leaflet [CVDO:0000421]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	degenerated structure in a mitral valve leaflet [CVDO:0000422]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	degenerated structure in a tricuspid valve leaflet [CVDO:0000423]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	degenerated structure in a pulmonary valve leaflet [CVDO:0000424]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	Barlow\'s syndrome [CVDO:0000426]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fluid accumulation in the pericardial cavity [CVDO:0000427]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atherosclerotic ischemic cardiomyopathy [CVDO:0000435]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	paroxysmal atrial fibrillation [CVDO:0000436]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	persistent atrial fibrillation [CVDO:0000437]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature contraction (process) [CVDO:0000439]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature junctional contraction (process) [CVDO:0000441]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature ventricular contraction (process) [CVDO:0000442]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinoatrial arrest (process) [CVDO:0000443]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinus bradycardia (process) [CVDO:0000444]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tachycardia (process) [CVDO:0000445]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left atrial flutter (process) [CVDO:0000447]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right atrial flutter (process) [CVDO:0000448]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	common atrial flutter (process) [CVDO:0000449]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular nodal reentrant tachycardia (process) [CVDO:0000450]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular tachycardia (process) [CVDO:0000453]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	monomorphic ventricular tachycardia (process) [CVDO:0000454]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	torsades de pointes (process) [CVDO:0000455]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular flutter (process) [CVDO:0000456]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inappropriate sinus tachycardia (process) [CVDO:0000457]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular preexcitation (process) [CVDO:0000458]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coronary artery hardening [CVDO:0000459]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	accessory bundle [CVDO:0000462]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular accessory bundle [CVDO:0000463]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	impaired sinus node [CVDO:0000466]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inappropriate sinus tachycardia (disease) [CVDO:0000471]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac channelopathy [CVDO:0000472]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	long QT syndrome [CVDO:0000473]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic cardiac channelopathy [CVDO:0000474]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinus bradycardia (disease) [CVDO:0000475]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left bundle branch block (process) [CVDO:0000476]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tachycardia (disease) [CVDO:0000477]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	sinoatrial arrest (disease) [CVDO:0000479]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular reciprocating tachycardia (disease) [CVDO:0000480]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular tachycardia (disease) [CVDO:0000481]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular flutter (disease) [CVDO:0000484]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	torsades de pointes (disease) [CVDO:0000485]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	monomorphic ventricular tachycardia (disease) [CVDO:0000486]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular fibrillation (disease) [CVDO:0000487]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular tachyarrhythmia (process) [CVDO:0000489]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrioventricular reciprocating tachycardia (process) [CVDO:0000490]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature contraction (disease) [CVDO:0000493]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature junctional contraction (disease) [CVDO:0000495]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	premature ventricular contraction (disease) [CVDO:0000496]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac chamber pathological process [CVDO:0000497]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitral valve disorder [CVDO:0000499]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic valve disorder [CVDO:0000500]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tricuspid valve disorder [CVDO:0000501]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary valve disorder [CVDO:0000502]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic valve improper opening during left ventricular systole [CVDO:0000504]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitral valve narrowed opening during left ventricular diastole [CVDO:0000505]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary valve narrowed opening during right ventricular systole [CVDO:0000506]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tricuspid valve narrowed opening during right ventricular diastole [CVDO:0000507]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atherosclerotic acute coronary syndrome [CVDO:0000509]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	angina pectoris [CVDO:0000510]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	stable angina pectoris [CVDO:0000511]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	unstable angina pectoris [CVDO:0000512]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart pathological process involving an aortic valve [CVDO:0000514]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve leaflet displacement into a cardiac chamber during ventricular diastole [CVDO:0000517]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular systole [CVDO:0000518]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular diastole [CVDO:0000519]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial systole [CVDO:0000520]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	atrial diastole [CVDO:0000521]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricular diastole [CVDO:0000522]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricular diastole [CVDO:0000523]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricular systole [CVDO:0000524]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricular systole [CVDO:0000525]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left atrial systole [CVDO:0000526]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right atrial systole [CVDO:0000527]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left atrial diastole [CVDO:0000528]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right atrial diastole [CVDO:0000529]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	fluid in the pericardial cavity [CVDO:0000531]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	blood in the pericardial cavity [CVDO:0000532]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	CVDO editor note [CVDO:0000533]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart conduction pathological process [CVDO:0000534]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anomalous atrioventricular excitation (process) [CVDO:0000535]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular preexcitation (disease) [CVDO:0000536]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiac ion channels disorder [CVDO:0000537]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary valve prolapse [CVDO:0000538]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	impaired anterior division of left branch of atrioventricular bundle [CVDO:0000539]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular tachyarrhythmia (disease) [CVDO:0000540]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammation process in a heart valve [CVDO:0000541]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart bodily process [CVDO:0000542]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic dilated cardiomyopathy [CVDO:0000543]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic cardiomyopathy [CVDO:0000544]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	embolus [CVDO:0000545]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammatory disease [CVDO:0000546]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myocardium pathological process [CVDO:0000547]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aorta pathological process [CVDO:0000548]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aorta disorder [CVDO:0000549]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocardium pathological process [CVDO:0000550]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocardium thickening [CVDO:0000551]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	endocardium disease [CVDO:0000552]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricle disorder [CVDO:0000553]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricle disorder [CVDO:0000554]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart ventricle disorder [CVDO:0000555]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart ischemia [CVDO:0000556]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	vein pathological process [CVDO:0000557]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ischemic cardiomyopathy [CVDO:0000558]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	material anatomical entity disorder [CVDO:0000559]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	material anatomical entity pathological process [CVDO:0000560]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiovascular system disorder [CVDO:0000562]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiovascular system pathological process [CVDO:0000563]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	disease of material anatomical entity [CVDO:0000564]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	valvular cardiomyopathy [CVDO:0000567]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cardiomyopathy (2008 definition) [CVDO:0000569]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricular myocardium contraction dysfunctional process [CVDO:0000570]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myocardium contraction dysfunctional process [CVDO:0000571]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricle pathological process [CVDO:0000575]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricle pathological process [CVDO:0000576]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	inflammatory dilated cardiomyopathy [CVDO:0000577]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	hypertensive cardiomyopathy [CVDO:0000578]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	congenital heart disease [CVDO:0000579]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart ventricle disease [CVDO:0000580]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	left ventricle disease [CVDO:0000581]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricle disease [CVDO:0000582]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	ventricular myocardium contraction dysfunctional process [CVDO:0000583]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	right ventricular myocardium contraction dysfunctional process [CVDO:0000584]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myocardium of left ventricle stiffening [CVDO:0000585]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	heart valve pathological process [CVDO:0000586]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	aortic valve pathological process [CVDO:0000587]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	mitral valve pathological process [CVDO:0000588]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tricuspid valve pathological process [CVDO:0000589]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pulmonary valve pathological process [CVDO:0000590]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	myocardium disease [CVDO:0000591]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	genetic heart disease [CVDO:0000596]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	congenital disease [CVDO:0000597]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coronary artery pathological process [CVDO:0000599]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	coronary artery smooth muscle constriction [CVDO:0000600]	IAO_0000115 [IAO:0000115]		
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	heart disorder [CVDO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	vascular disorder [CVDO:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	endocardium disorder [CVDO:0000020]	rdfs:subClassOf		
+INFO	missing_superclass	pericardium disorder [CVDO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	heart pathological process [CVDO:0000039]	rdfs:subClassOf		
+INFO	missing_superclass	pericardium pathological process [CVDO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	acute pericarditis [CVDO:0000041]	rdfs:subClassOf		
+INFO	missing_superclass	chronic pericarditis [CVDO:0000042]	rdfs:subClassOf		
+INFO	missing_superclass	first degree atrioventricular block (disease) [CVDO:0000044]	rdfs:subClassOf		
+INFO	missing_superclass	Mobitz I second degree atrioventricular block (disease) [CVDO:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	third degree atrioventricular block (disease) [CVDO:0000046]	rdfs:subClassOf		
+INFO	missing_superclass	heart conduction disorder [CVDO:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	Mobitz I second degree sinoatrial block (disease) [CVDO:0000062]	rdfs:subClassOf		
+INFO	missing_superclass	Mobitz II second degree sinoatrial block (disease) [CVDO:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	first degree sinoatrial block (disease) [CVDO:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	third degree sinoatrial block (disease) [CVDO:0000065]	rdfs:subClassOf		
+INFO	missing_superclass	heart block (disease) [CVDO:0000072]	rdfs:subClassOf		
+INFO	missing_superclass	infra-hisian block (disease) [CVDO:0000081]	rdfs:subClassOf		
+INFO	missing_superclass	cardiac arrhythmia (disease) [CVDO:0000088]	rdfs:subClassOf		
+INFO	missing_superclass	atrial fibrillation (disease) [CVDO:0000092]	rdfs:subClassOf		
+INFO	missing_superclass	atrial flutter (disease) [CVDO:0000094]	rdfs:subClassOf		
+INFO	missing_superclass	common atrial flutter (disease) [CVDO:0000097]	rdfs:subClassOf		
+INFO	missing_superclass	bradycardia (disease) [CVDO:0000139]	rdfs:subClassOf		
+INFO	missing_superclass	premature atrial contraction (disease) [CVDO:0000143]	rdfs:subClassOf		
+INFO	missing_superclass	heart valve disorder [CVDO:0000148]	rdfs:subClassOf		
+INFO	missing_superclass	tricuspid valve disease [CVDO:0000154]	rdfs:subClassOf		
+INFO	missing_superclass	heart pathological process involving a heart valve [CVDO:0000159]	rdfs:subClassOf		
+INFO	missing_superclass	mitral valve leaflet displacement into the left atrium during left ventricular systole [CVDO:0000160]	rdfs:subClassOf		
+INFO	missing_superclass	tricuspid valve leaflet displacement into the right atrium during right ventricular systole [CVDO:0000162]	rdfs:subClassOf		
+INFO	missing_superclass	aortic valve leaflet displacement into the left ventricle during left ventricular diastole [CVDO:0000163]	rdfs:subClassOf		
+INFO	missing_superclass	heart valve leaflet displacement into a cardiac chamber during ventricular systole [CVDO:0000164]	rdfs:subClassOf		
+INFO	missing_superclass	mitral valve improper close during left ventricular systole [CVDO:0000166]	rdfs:subClassOf		
+INFO	missing_superclass	pulmonary valve improper close during right ventricular diastole [CVDO:0000170]	rdfs:subClassOf		
+INFO	missing_superclass	tricuspid valve improper close during right ventricular systole [CVDO:0000171]	rdfs:subClassOf		
+INFO	missing_superclass	aortic valve improper close during left ventricular diastole [CVDO:0000172]	rdfs:subClassOf		
+INFO	missing_superclass	heart valve stenosis [CVDO:0000189]	rdfs:subClassOf		
+INFO	missing_superclass	heart valve insufficiency [CVDO:0000209]	rdfs:subClassOf		
+INFO	missing_superclass	vein disorder [CVDO:0000214]	rdfs:subClassOf		
+INFO	missing_superclass	ischemic disease [CVDO:0000231]	rdfs:subClassOf		
+INFO	missing_superclass	right ventricular myocardium dilatation [CVDO:0000239]	rdfs:subClassOf		
+INFO	missing_superclass	myocardium disorder [CVDO:0000248]	rdfs:subClassOf		
+INFO	missing_superclass	genetic hypertrophic cardiomyopathy [CVDO:0000256]	rdfs:subClassOf		
+INFO	missing_superclass	pericardium disease [CVDO:0000262]	rdfs:subClassOf		
+INFO	missing_superclass	cardiac atrium pathological process [CVDO:0000273]	rdfs:subClassOf		
+INFO	missing_superclass	cardiac ventricle pathological process [CVDO:0000274]	rdfs:subClassOf		
+INFO	missing_superclass	pulmonary valve leaflet displacement into the right ventricle during right ventricular diastole [CVDO:0000277]	rdfs:subClassOf		
+INFO	missing_superclass	atheromous plaque formation in coronary artery [CVDO:0000288]	rdfs:subClassOf		
+INFO	missing_superclass	atherosclerotic coronary heart disease [CVDO:0000293]	rdfs:subClassOf		
+INFO	missing_superclass	left ventricular myocardium dilatation [CVDO:0000294]	rdfs:subClassOf		
+INFO	missing_superclass	supraventricular tachycardia (disease) [CVDO:0000296]	rdfs:subClassOf		
+INFO	missing_superclass	left atrial flutter (disease) [CVDO:0000298]	rdfs:subClassOf		
+INFO	missing_superclass	right atrial flutter (disease) [CVDO:0000299]	rdfs:subClassOf		
+INFO	missing_superclass	junctional tachycardia (disease) [CVDO:0000301]	rdfs:subClassOf		
+INFO	missing_superclass	atrioventricular nodal reentrant tachycardia (disease) [CVDO:0000304]	rdfs:subClassOf		
+INFO	missing_superclass	coronary artery disorder [CVDO:0000327]	rdfs:subClassOf		
+INFO	missing_superclass	left ventricular myocardium hypertrophy [CVDO:0000332]	rdfs:subClassOf		
+INFO	missing_superclass	right ventricular myocardium hypertrophy [CVDO:0000333]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in a myocardium [CVDO:0000404]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in an endocardium [CVDO:0000405]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in a pericardium [CVDO:0000406]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in aorta [CVDO:0000407]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in a blood vessel [CVDO:0000408]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in a femoral vein [CVDO:0000409]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in an iliac vein [CVDO:0000410]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in a retinal artery [CVDO:0000411]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in a vein [CVDO:0000412]	rdfs:subClassOf		
+INFO	missing_superclass	degenerated structure in an aortic valve leaflet [CVDO:0000421]	rdfs:subClassOf		
+INFO	missing_superclass	degenerated structure in a mitral valve leaflet [CVDO:0000422]	rdfs:subClassOf		
+INFO	missing_superclass	degenerated structure in a tricuspid valve leaflet [CVDO:0000423]	rdfs:subClassOf		
+INFO	missing_superclass	degenerated structure in a pulmonary valve leaflet [CVDO:0000424]	rdfs:subClassOf		
+INFO	missing_superclass	Barlow\'s syndrome [CVDO:0000426]	rdfs:subClassOf		
+INFO	missing_superclass	coronary artery hardening [CVDO:0000459]	rdfs:subClassOf		
+INFO	missing_superclass	inappropriate sinus tachycardia (disease) [CVDO:0000471]	rdfs:subClassOf		
+INFO	missing_superclass	cardiac channelopathy [CVDO:0000472]	rdfs:subClassOf		
+INFO	missing_superclass	genetic cardiac channelopathy [CVDO:0000474]	rdfs:subClassOf		
+INFO	missing_superclass	sinus bradycardia (disease) [CVDO:0000475]	rdfs:subClassOf		
+INFO	missing_superclass	tachycardia (disease) [CVDO:0000477]	rdfs:subClassOf		
+INFO	missing_superclass	sinoatrial arrest (disease) [CVDO:0000479]	rdfs:subClassOf		
+INFO	missing_superclass	atrioventricular reciprocating tachycardia (disease) [CVDO:0000480]	rdfs:subClassOf		
+INFO	missing_superclass	ventricular tachycardia (disease) [CVDO:0000481]	rdfs:subClassOf		
+INFO	missing_superclass	ventricular flutter (disease) [CVDO:0000484]	rdfs:subClassOf		
+INFO	missing_superclass	torsades de pointes (disease) [CVDO:0000485]	rdfs:subClassOf		
+INFO	missing_superclass	monomorphic ventricular tachycardia (disease) [CVDO:0000486]	rdfs:subClassOf		
+INFO	missing_superclass	ventricular fibrillation (disease) [CVDO:0000487]	rdfs:subClassOf		
+INFO	missing_superclass	premature contraction (disease) [CVDO:0000493]	rdfs:subClassOf		
+INFO	missing_superclass	premature junctional contraction (disease) [CVDO:0000495]	rdfs:subClassOf		
+INFO	missing_superclass	premature ventricular contraction (disease) [CVDO:0000496]	rdfs:subClassOf		
+INFO	missing_superclass	cardiac chamber pathological process [CVDO:0000497]	rdfs:subClassOf		
+INFO	missing_superclass	mitral valve disorder [CVDO:0000499]	rdfs:subClassOf		
+INFO	missing_superclass	aortic valve disorder [CVDO:0000500]	rdfs:subClassOf		
+INFO	missing_superclass	tricuspid valve disorder [CVDO:0000501]	rdfs:subClassOf		
+INFO	missing_superclass	pulmonary valve disorder [CVDO:0000502]	rdfs:subClassOf		
+INFO	missing_superclass	aortic valve improper opening during left ventricular systole [CVDO:0000504]	rdfs:subClassOf		
+INFO	missing_superclass	mitral valve narrowed opening during left ventricular diastole [CVDO:0000505]	rdfs:subClassOf		
+INFO	missing_superclass	pulmonary valve narrowed opening during right ventricular systole [CVDO:0000506]	rdfs:subClassOf		
+INFO	missing_superclass	tricuspid valve narrowed opening during right ventricular diastole [CVDO:0000507]	rdfs:subClassOf		
+INFO	missing_superclass	coronary heart disease with stable angina [CVDO:0000508]	rdfs:subClassOf		
+INFO	missing_superclass	atherosclerotic acute coronary syndrome [CVDO:0000509]	rdfs:subClassOf		
+INFO	missing_superclass	heart pathological process involving a mitral valve [CVDO:0000513]	rdfs:subClassOf		
+INFO	missing_superclass	heart pathological process involving an aortic valve [CVDO:0000514]	rdfs:subClassOf		
+INFO	missing_superclass	heart pathological process involving a tricuspid valve [CVDO:0000515]	rdfs:subClassOf		
+INFO	missing_superclass	heart pathological process involving a pulmonary valve [CVDO:0000516]	rdfs:subClassOf		
+INFO	missing_superclass	heart valve leaflet displacement into a cardiac chamber during ventricular diastole [CVDO:0000517]	rdfs:subClassOf		
+INFO	missing_superclass	ventricular preexcitation (disease) [CVDO:0000536]	rdfs:subClassOf		
+INFO	missing_superclass	pulmonary valve prolapse [CVDO:0000538]	rdfs:subClassOf		
+INFO	missing_superclass	ventricular tachyarrhythmia (disease) [CVDO:0000540]	rdfs:subClassOf		
+INFO	missing_superclass	inflammation process in a heart valve [CVDO:0000541]	rdfs:subClassOf		
+INFO	missing_superclass	genetic dilated cardiomyopathy [CVDO:0000543]	rdfs:subClassOf		
+INFO	missing_superclass	genetic cardiomyopathy [CVDO:0000544]	rdfs:subClassOf		
+INFO	missing_superclass	inflammatory disease [CVDO:0000546]	rdfs:subClassOf		
+INFO	missing_superclass	myocardium pathological process [CVDO:0000547]	rdfs:subClassOf		
+INFO	missing_superclass	aorta disorder [CVDO:0000549]	rdfs:subClassOf		
+INFO	missing_superclass	endocardium disease [CVDO:0000552]	rdfs:subClassOf		
+INFO	missing_superclass	left ventricle disorder [CVDO:0000553]	rdfs:subClassOf		
+INFO	missing_superclass	right ventricle disorder [CVDO:0000554]	rdfs:subClassOf		
+INFO	missing_superclass	heart ventricle disorder [CVDO:0000555]	rdfs:subClassOf		
+INFO	missing_superclass	vein pathological process [CVDO:0000557]	rdfs:subClassOf		
+INFO	missing_superclass	material anatomical entity disorder [CVDO:0000559]	rdfs:subClassOf		
+INFO	missing_superclass	material anatomical entity pathological process [CVDO:0000560]	rdfs:subClassOf		
+INFO	missing_superclass	left ventricular myocardium contraction dysfunctional process [CVDO:0000570]	rdfs:subClassOf		
+INFO	missing_superclass	left ventricle pathological process [CVDO:0000575]	rdfs:subClassOf		
+INFO	missing_superclass	right ventricle pathological process [CVDO:0000576]	rdfs:subClassOf		
+INFO	missing_superclass	ventricular myocardium contraction dysfunctional process [CVDO:0000583]	rdfs:subClassOf		
+INFO	missing_superclass	heart valve pathological process [CVDO:0000586]	rdfs:subClassOf		
+INFO	missing_superclass	mitral valve pathological process [CVDO:0000588]	rdfs:subClassOf		
+INFO	missing_superclass	tricuspid valve pathological process [CVDO:0000589]	rdfs:subClassOf		
+INFO	missing_superclass	pulmonary valve pathological process [CVDO:0000590]	rdfs:subClassOf		
+INFO	missing_superclass	genetic heart disease [CVDO:0000596]	rdfs:subClassOf		
+INFO	missing_superclass	coronary artery pathological process [CVDO:0000599]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_0050431 [DOID:0050431]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_0050700 [DOID:0050700]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_0060000 [DOID:0060000]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_10273 [DOID:10273]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_114 [DOID:114]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_11516 [DOID:11516]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_11713 [DOID:11713]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_11984 [DOID:11984]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_12930 [DOID:12930]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_13884 [DOID:13884]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_178 [DOID:178]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_1787 [DOID:1787]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_326 [DOID:326]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_3393 [DOID:3393]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_3394 [DOID:3394]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_397 [DOID:397]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_4079 [DOID:4079]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_4248 [DOID:4248]	rdfs:subClassOf		
+INFO	missing_superclass	DOID_8805 [DOID:8805]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_12151 [FMA:12151]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_14284 [FMA:14284]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_14333 [FMA:14333]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_18883 [FMA:18883]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_18884 [FMA:18884]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_21185 [FMA:21185]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_3710 [FMA:3710]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_3734 [FMA:3734]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_45840 [FMA:45840]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_49879 [FMA:49879]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_49893 [FMA:49893]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_50720 [FMA:50720]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_50723 [FMA:50723]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_6266 [FMA:6266]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_67165 [FMA:67165]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7088 [FMA:7088]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7095 [FMA:7095]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7098 [FMA:7098]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7099 [FMA:7099]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7100 [FMA:7100]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7101 [FMA:7101]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7110 [FMA:7110]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7161 [FMA:7161]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7234 [FMA:7234]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7235 [FMA:7235]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7236 [FMA:7236]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7246 [FMA:7246]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_7280 [FMA:7280]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_83378 [FMA:83378]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_9462 [FMA:9462]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_9535 [FMA:9535]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_9558 [FMA:9558]	rdfs:subClassOf		
+INFO	missing_superclass	FMA_9869 [FMA:9869]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000031 [OGMS:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000045 [OGMS:0000045]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000047 [OGMS:0000047]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000060 [OGMS:0000060]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000061 [OGMS:0000061]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000063 [OGMS:0000063]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000064 [OGMS:0000064]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000065 [OGMS:0000065]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000066 [OGMS:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	OGMS_0000094 [OGMS:0000094]	rdfs:subClassOf		

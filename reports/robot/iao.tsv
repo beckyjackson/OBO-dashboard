@@ -1,0 +1,110 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	is allocated id range [IAO:0000603]	definition [IAO:0000115]	Add as annotation triples in the granting ontology@en	
+ERROR	duplicate_definition	term replaced by [IAO:0100001]	definition [IAO:0000115]	Add as annotation triples in the granting ontology@en	
+ERROR	missing_ontology_description	iao.owl	dc11:description		
+ERROR	multiple_definitions	definition [IAO:0000115]	definition [IAO:0000115]	The official OBI definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.@en	
+ERROR	multiple_definitions	definition [IAO:0000115]	definition [IAO:0000115]	The official definition, explaining the meaning of a class or property. Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions.@en	
+ERROR	multiple_definitions	is allocated id range [IAO:0000603]	definition [IAO:0000115]	Add as annotation triples in the granting ontology@en	
+ERROR	multiple_definitions	is allocated id range [IAO:0000603]	definition [IAO:0000115]	Relates an ontology IRI to an (inclusive) range of IRIs in an OBO name space. The range is give as, e.g. \"IAO_0020000-IAO_0020999\"@en	
+ERROR	multiple_definitions	term replaced by [IAO:0100001]	definition [IAO:0000115]	Add as annotation triples in the granting ontology@en	
+ERROR	multiple_definitions	term replaced by [IAO:0100001]	definition [IAO:0000115]	Use on obsolete terms, relating the term to another term that can be used as a substitute@en	
+ERROR	missing_ontology_license	iao.owl	dc:license		
+ERROR	missing_ontology_title	iao.owl	dc11:title		
+ERROR	multiple_labels	editor preferred label [IAO:0000111]	label [rdfs:label]	editor preferred label	
+ERROR	multiple_labels	editor preferred label [IAO:0000111]	label [rdfs:label]	editor preferred label@en	
+ERROR	multiple_labels	editor preferred label [IAO:0000111]	label [rdfs:label]	editor preferred term	
+ERROR	multiple_labels	editor preferred label [IAO:0000111]	label [rdfs:label]	editor preferred term@en	
+ERROR	multiple_labels	editor preferred label [IAO:0000111]	label [rdfs:label]	editor preferred term~editor preferred label	
+ERROR	multiple_labels	definition [IAO:0000115]	label [rdfs:label]	definition	
+ERROR	multiple_labels	definition [IAO:0000115]	label [rdfs:label]	definition@en	
+ERROR	multiple_labels	definition [IAO:0000115]	label [rdfs:label]	textual definition	
+WARN	annotation_whitespace	software interpreter [IAO:0000065]	definition [IAO:0000115]	A software interpreter is a software application that executes some specified input software. @en	
+WARN	annotation_whitespace	definition [IAO:0000115]	editor note [IAO:0000116]	2012-04-05:     Barry Smith        The official OBI definition, explaining the meaning of a class or property: 'Shall be Aristotelian, formalized and normalized. Can be augmented with colloquial definitions'  is terrible.        Can you fix to something like:        A statement of necessary and sufficient conditions explaining the meaning of an expression referring to a class or property.        Alan Ruttenberg        Your proposed definition is a reasonable candidate, except that it is very common that necessary and sufficient conditions are not given. Mostly they are necessary, occasionally they are necessary and sufficient or just sufficient. Often they use terms that are not themselves defined and so they effectively can't be evaluated by those criteria.         On the specifics of the proposed definition:        We don't have definitions of 'meaning' or 'expression' or 'property'. For 'reference' in the intended sense I think we use the term 'denotation'. For 'expression', I think we you mean symbol, or identifier. For 'meaning' it differs for class and property. For class we want documentation that let's the intended reader determine whether an entity is instance of the class, or not. For property we want documentation that let's the intended reader determine, given a pair of potential relata, whether the assertion that the relation holds is true. The 'intended reader' part suggests that we also specify who, we expect, would be able to understand the definition, and also generalizes over human and computer reader to include textual and logical definition.         Personally, I am more comfortable weakening definition to documentation, with instructions as to what is desirable.         We also have the outstanding issue of how to aim different definitions to different audiences. A clinical audience reading chebi wants a different sort of definition documentation/definition from a chemistry trained audience, and similarly there is a need for a definition that is adequate for an ontologist to work with.  @en	
+WARN	annotation_whitespace	associating information with a centrally registered identifier in its registry [IAO:0000575]	example of usage [IAO:0000112]	Articles in Pubmed are reviewed by curators who add MESH terms to the Pubmed records in order to categorize them better and improve the ability to search for them. 	
+WARN	annotation_whitespace	centrally registered identifier registry [IAO:0000579]	example of usage [IAO:0000112]	PubMed is a CRID registry. It has a dataset of PubMed identifiers associated with journal articles. @en	
+WARN	annotation_whitespace	looking up a centrally registered identifier [IAO:0000580]	example of usage [IAO:0000112]	Going to the PubMed website and entering a PubMed ID in order to retrieve the Pubmed information associated with that ID. 	
+WARN	annotation_whitespace	software module [IAO:0000592]	definition [IAO:0000115]	 A software module is software composed of a collection of software methods.@en	
+WARN	annotation_whitespace	software script [IAO:0000595]	definition [IAO:0000115]	 A software script is software whose instructions can be executed using a software     interpreter.@en	
+WARN	annotation_whitespace	conclusion section [IAO:0000615]	definition [IAO:0000115]	A part of a document used to summarize the findings discussed in the document. The conclusion section is typically found near the end of a document. @en	
+WARN	annotation_whitespace	conflict of interest textual entity [IAO:0000617]	example of usage [IAO:0000112]	SD [an author] is a Merck employee and Merck is the sponsor of this study. [Taken from 'Effects of obstructive sleep apnoea risk on postoperative respiratory complications: protocol for a hospital-based registry study' Shin et al. 2016  (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4735131/)] @en	
+WARN	duplicate_exact_synonym	author summary section [IAO:0000609]	alternative term [IAO:0000118]	summary@en	
+WARN	duplicate_exact_synonym	conclusion section [IAO:0000615]	alternative term [IAO:0000118]	summary@en	
+WARN	missing_definition	has measurement value [IAO:0000004]	definition [IAO:0000115]		
+WARN	missing_definition	has measurement unit label [IAO:0000039]	definition [IAO:0000115]		
+WARN	missing_definition	contour plot [IAO:0000057]	definition [IAO:0000115]		
+WARN	missing_definition	has curation status [IAO:0000114]	definition [IAO:0000115]		
+WARN	missing_definition	has x coordinate value [IAO:0000404]	definition [IAO:0000115]		
+WARN	missing_definition	has z coordinate value [IAO:0000405]	definition [IAO:0000115]		
+WARN	missing_definition	has y coordinate value [IAO:0000406]	definition [IAO:0000115]		
+WARN	missing_definition	has coordinate unit label [IAO:0000407]	definition [IAO:0000115]		
+WARN	missing_definition	first order logic expression [IAO:0000426]	definition [IAO:0000115]		
+WARN	missing_definition	email address [IAO:0000429]	definition [IAO:0000115]		
+WARN	missing_definition	time stamped measurement datum [IAO:0000582]	definition [IAO:0000115]		
+WARN	missing_definition	ontology module [IAO:8000000]	definition [IAO:0000115]		
+WARN	missing_definition	taxonomic bridge ontology module [IAO:8000016]	definition [IAO:0000115]		
+WARN	missing_definition	ontology module subsetted by expressivity [IAO:8000017]	definition [IAO:0000115]		
+WARN	missing_definition	ontology module subsetted by OWL profile [IAO:8000019]	definition [IAO:0000115]		
+WARN	missing_definition	EL++ ontology module [IAO:8000020]	definition [IAO:0000115]		
+WARN	missing_obsolete_label	other [IAO:0000230]	label [rdfs:label]	other@en	
+INFO	lowercase_definition	conditional specification [IAO:0000001]	definition [IAO:0000115]	a directive information entity that specifies what should happen if the trigger condition is fulfilled@en	
+INFO	lowercase_definition	objective specification [IAO:0000005]	definition [IAO:0000115]	a directive information entity that describes an intended process endpoint. When part of a plan specification the concretization is realized in a planned process in which the bearer tries to effect the world so that the process endpoint is achieved.@en	
+INFO	lowercase_definition	action specification [IAO:0000007]	definition [IAO:0000115]	a directive information entity that describes an action the bearer will take@en	
+INFO	lowercase_definition	journal article [IAO:0000013]	definition [IAO:0000115]	a report that is published in a journal@en	
+INFO	lowercase_definition	obsolete_unit of measure [IAO:0000024]	definition [IAO:0000115]	a unit of measure is the quality of some material entity compared to which another quality is some multiple of.	
+INFO	lowercase_definition	data item [IAO:0000027]	definition [IAO:0000115]	a data item is an information content entity that is intended to be a truthful statement about something (modulo, e.g., measurement precision or other systematic errors) and is constructed/acquired by a method which reliably tends to produce (approximately) truthful statements.@en	
+INFO	lowercase_definition	integer numeral [IAO:0000031]	definition [IAO:0000115]	a numeral that denotes an integer@en	
+INFO	lowercase_definition	scalar measurement datum [IAO:0000032]	definition [IAO:0000115]	a scalar measurement datum is a measurement datum that is composed of two parts, numerals and a unit label.@en	
+INFO	lowercase_definition	time trigger [IAO:0000034]	definition [IAO:0000115]	revisit?@en	
+INFO	lowercase_definition	rule [IAO:0000055]	definition [IAO:0000115]	a rule is an executable which guides, defines, restricts actions@en	
+INFO	lowercase_definition	report [IAO:0000088]	definition [IAO:0000115]	a document assembled by an author for the purpose of providing information for the audience. A report is the output of a documenting process and has the objective to be consumed by a specific audience. Topic of the report is on something that has completed. A report is not a single figure. Examples of reports are journal article, patent application, grant progress report, case report (not patient record)@en	
+INFO	lowercase_definition	data about an ontology part [IAO:0000102]	definition [IAO:0000115]	data about an ontology part is a data item about a part of an ontology, for example a term@en	
+INFO	lowercase_definition	definition source [IAO:0000119]	definition [IAO:0000115]	formal citation, e.g. identifier in external database to indicate / attribute source(s) for the definition. Free text indicate / attribute source(s) for the definition. EXAMPLE: Author Name, URI, MeSH Term C04, PUBMED ID, Wiki uri on 31.01.2007@en	
+INFO	lowercase_definition	organizational term [IAO:0000121]	definition [IAO:0000115]	term created to ease viewing/sort terms for development purpose, and will not be included in a release@en	
+INFO	lowercase_definition	obsolete_specifically denotes [IAO:0000135]	definition [IAO:0000115]	c specifically denotes r =def     r is a portion of reality    & c is a particular quality    & c depends specifically on some independent continuant b     & b acquired c as the result of the achievement of an objective to enable pointing to r repeatedly.         Marked means there is a changed or additional quality of the bearer - the  quality is the information carrier.        Case 1    Memory trace as mark created when reading some description of some friend. The trace can denote.        Case 2    Pattern of ink arrayed on paper as mark when writing down a friend's name        Case 3    Pattern of magnetic domains on scattered pieces of a hard disk platter as mark when saving a file.	
+INFO	lowercase_definition	is about [IAO:0000136]	definition [IAO:0000115]	is_about is a (currently) primitive relation that relates an information artifact to an entity.@en	
+INFO	lowercase_definition	denotes [IAO:0000219]	definition [IAO:0000115]	denotes is a primitive, instance-level, relation obtaining between an information content entity and some portion of reality. Denotation is what happens when someone creates an information content entity E in order to specifically refer to something. The only relation between E and the thing is that E can be used to 'pick out' the thing. This relation connects those two together. Freedictionary.com sense 3: To signify directly; refer to specifically@en	
+INFO	lowercase_definition	is quality measurement of [IAO:0000221]	definition [IAO:0000115]	m is a quality measurement of q at t when    q is a quality     there is a measurement process p that has specified output m, a measurement datum, that is about q@en	
+INFO	lowercase_definition	denoted by [IAO:0000235]	definition [IAO:0000115]	inverse of the relation 'denotes'@en	
+INFO	lowercase_definition	citation [IAO:0000301]	definition [IAO:0000115]	a textual entity intended to identify a particular publication@en	
+INFO	lowercase_definition	document part [IAO:0000314]	definition [IAO:0000115]	an information content entity that is part of a document@en	
+INFO	lowercase_definition	author list [IAO:0000321]	definition [IAO:0000115]	part of a document that enumerates the authors of the document@en	
+INFO	lowercase_definition	institution list [IAO:0000322]	definition [IAO:0000115]	part of a document that has parts that are institution identifications associated with the authors of the document@en	
+INFO	lowercase_definition	supplementary material to a document [IAO:0000326]	definition [IAO:0000115]	part of a document that is segregated from the rest of the document due to its size@en	
+INFO	lowercase_definition	is denotator type [IAO:0000411]	definition [IAO:0000115]	relates an class defined in an ontology, to the type of it's denotator	
+INFO	lowercase_definition	is duration of [IAO:0000413]	definition [IAO:0000115]	relates a process to a time-measurement-datum that represents the duration of the process@en	
+INFO	lowercase_definition	is quality measured as [IAO:0000417]	definition [IAO:0000115]	inverse of the relation of is quality measurement of@en	
+INFO	lowercase_definition	is quality specification of [IAO:0000418]	definition [IAO:0000115]	a relation between a data item and a quality of a material entity where the material entity is the specified output of a material transformation which achieves an objective specification that indicates the intended value of the specified quality.@en	
+INFO	lowercase_definition	quality is specified as [IAO:0000419]	definition [IAO:0000115]	inverse of the relation of is quality specification of@en	
+INFO	lowercase_definition	antisymmetric property [IAO:0000427]	definition [IAO:0000115]	use boolean value xsd:true to indicate that the property is an antisymmetric property@en	
+INFO	lowercase_definition	data item extraction from journal article [IAO:0000443]	definition [IAO:0000115]	a planned process in which journal articles are read or processed and data items are extracted, typically for further analysis or indexing	
+INFO	lowercase_definition	documenting [IAO:0000572]	definition [IAO:0000115]	a planned process in which a document is created or added to by including the specified input in it.@en	
+INFO	lowercase_definition	assigning a centrally registered identifier [IAO:0000574]	definition [IAO:0000115]	a planned process in which a new CRID is created, associated with an entity, and stored in the CRID registry thereby registering it as being associated with some entity@en	
+INFO	lowercase_definition	obsolete_establishing a CRID registry [IAO:0000576]	definition [IAO:0000115]	a planned process with the objective to establish a system that allows to refer to specific entities of a certain kind and store information about them, by establishing a CRID registry and plan specifications for the process of 1) assigning a CRID and 2) looking up a CRID.	
+INFO	lowercase_definition	has time stamp [IAO:0000581]	definition [IAO:0000115]	relates a time stamped measurement datum to the time measurement datum that denotes the time when the measurement was taken@en	
+INFO	lowercase_definition	has measurement datum [IAO:0000583]	definition [IAO:0000115]	relates a time stamped measurement datum to the measurement datum that was measured@en	
+INFO	lowercase_definition	software module [IAO:0000592]	definition [IAO:0000115]	 A software module is software composed of a collection of software methods.@en	
+INFO	lowercase_definition	software script [IAO:0000595]	definition [IAO:0000115]	 A software script is software whose instructions can be executed using a software     interpreter.@en	
+INFO	lowercase_definition	retired from use as of [IAO:0000604]	definition [IAO:0000115]	relates a class of CRID to the date after which further instances should not be made, according to the central authority	
+INFO	missing_superclass	BFO_0000001 [BFO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000009 [BFO:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000015 [BFO:0000015]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000017 [BFO:0000017]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000018 [BFO:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000023 [BFO:0000023]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000026 [BFO:0000026]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000028 [BFO:0000028]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000031 [BFO:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	GAZ_00000448 [GAZ:00000448]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000011 [OBI:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000066 [OBI:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0000471 [OBI:0000471]	rdfs:subClassOf		
+INFO	missing_superclass	OBI_0500000 [OBI:0500000]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000122 [PATO:0000122]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000125 [PATO:0000125]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000001 [UO:0000001]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000002 [UO:0000002]	rdfs:subClassOf		
+INFO	missing_superclass	UO_0000003 [UO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	ObsoleteClass [oboInOwl:ObsoleteClass]	rdfs:subClassOf		
+INFO	missing_superclass	Subset [oboInOwl:Subset]	rdfs:subClassOf		

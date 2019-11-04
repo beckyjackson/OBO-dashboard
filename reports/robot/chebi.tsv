@@ -1,0 +1,13 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	CHEBI:70758	IAO:0000115	UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-L-lysyl-D-alanyl-D-alaninate(3-) in which the anomeric centre of the pyranose fragment has alpha-configuration.	
+ERROR	missing_ontology_description	chebi.owl	dc11:description		
+ERROR	duplicate_label	CHEBI:136045	rdfs:label	albiglutide	
+ERROR	missing_ontology_license	chebi.owl	dc:license		
+ERROR	missing_ontology_title	chebi.owl	dc11:title		
+WARN	duplicate_exact_synonym	CHEBI:32738	oboInOwl:hasExactSynonym	[(2S)-2-amino-2-carboxyethyl]sulfanyl	
+WARN	missing_definition	BFO:0000051	IAO:0000115		
+WARN	duplicate_scoped_synonym	CHEBI:10022	oboInOwl:hasExactSynonym	3alpha,7alpha,15-trihydroxy-12,13-epoxytrichothec-9-en-8-one	
+WARN	invalid_xref	CHEBI:133244	oboInOwl:hasDbXref	MetaCyc:quercetin 3-O-rhamnoside-7-O-glucoside	
+WARN	missing_obsolete_label	CHEBI:131515	rdfs:label	GalNAc-beta1-4[GALNAc-4-Neu5Ac-alpha2-3]Gal-beta1-4GlcNAc-beta1-3Gal-R group	
+INFO	lowercase_definition	CHEBI:101096	IAO:0000115	1,3-Benzothiazole substituted a sulfonamide and an ethoxy group at positions 2 and 6, respectively. A carbonic anhydrase inhibitor, it has been used in the treatment of glaucoma, and as a diuretic.	
+INFO	missing_superclass	CHEBI:24431	rdfs:subClassOf		

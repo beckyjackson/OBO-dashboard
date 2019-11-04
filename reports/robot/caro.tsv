@@ -1,0 +1,51 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	multiple_equivalent_classes	cell [CARO:0000013]	owl:equivalentClass	CL_0000003 [CL:0000003]	
+ERROR	multiple_equivalent_classes	cell [CARO:0000013]	owl:equivalentClass	GO_0005623 [GO:0005623]	
+ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/caro/caro.owl	dc11:description		
+ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/caro/caro.owl	dc:license		
+ERROR	missing_ontology_title	http://purl.obolibrary.org/obo/caro/caro.owl	dc11:title		
+WARN	annotation_whitespace	anatomical line [CARO:0000008]	IAO_0000112 [IAO:0000112]	A line between two points where these are typically used to measure some aspect of morphology, such as the distance between the eyes or the length of a leg. 	
+WARN	annotation_whitespace	anatomical point [CARO:0000009]	IAO_0000112 [IAO:0000112]	The tip of the nose or other material anatomical entity, or the end of an anatomical line. 	
+WARN	annotation_whitespace	gross anatomical part [CARO:0001008]	IAO_0000115 [IAO:0000115]	Anatomical structure that is part of a multicellular organism and is at the gross anatomical level, e.g. above the level of a cell.  Included are portions of organism substances such as blood, multi-cell-part structures such as axon tracts, acellular anatomical structures such as hair, and organism subdivisions such as head. Excluded is the whole organism and more granular parts of the organism, such as atoms, molecules, macromolecular complexes and cells. 	
+WARN	equivalent_pair	cell [CARO:0000013]	owl:equivalentClass	CL_0000003 [CL:0000003]	
+WARN	equivalent_pair	cell [CARO:0000013]	owl:equivalentClass	GO_0005623 [GO:0005623]	
+WARN	equivalent_pair	cell part [CARO:0000014]	owl:equivalentClass	GO_0044464 [GO:0044464]	
+WARN	equivalent_pair	cellular organism [CARO:0010004]	owl:equivalentClass	NCBITaxon_131567 [NCBITaxon:131567]	
+WARN	missing_definition	unpaired appendage [CARO:0000134]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	anatomical plane [CARO:0001013]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	epithelial sac [CARO:0010010]	IAO_0000115 [IAO:0000115]		
+WARN	missing_obsolete_label	anatomical cluster [CARO:0000041]	label [rdfs:label]	anatomical cluster	
+WARN	missing_obsolete_label	anatomical group [CARO:0000054]	label [rdfs:label]	anatomical group	
+WARN	missing_obsolete_label	basal lamina [CARO:0000065]	label [rdfs:label]	basal lamina	
+WARN	missing_obsolete_label	epithelial cell [CARO:0000077]	label [rdfs:label]	epithelial cell	
+INFO	missing_superclass	BFO_0000004 [BFO:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000009 [BFO:0000009]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000018 [BFO:0000018]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000026 [BFO:0000026]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000029 [BFO:0000029]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000040 [BFO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000141 [BFO:0000141]	rdfs:subClassOf		
+INFO	missing_superclass	connected anatomical structure [CARO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	acellular anatomical structure [CARO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	cell space [CARO:0000062]	rdfs:subClassOf		
+INFO	missing_superclass	epidermis [CARO:0002000]	rdfs:subClassOf		
+INFO	missing_superclass	multicellular anatomical structure [CARO:0010000]	rdfs:subClassOf		
+INFO	missing_superclass	epithelial tube [CARO:0010009]	rdfs:subClassOf		
+INFO	missing_superclass	epithelial sac [CARO:0010010]	rdfs:subClassOf		
+INFO	missing_superclass	disconnected anatomical group [CARO:0020000]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000003 [CL:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0005623 [GO:0005623]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0044464 [GO:0044464]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_10239 [NCBITaxon:10239]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_12884 [NCBITaxon:12884]	rdfs:subClassOf		
+INFO	missing_superclass	NCBITaxon_131567 [NCBITaxon:131567]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0000125 [PATO:0000125]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001873 [PATO:0001873]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001987 [PATO:0001987]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0001993 [PATO:0001993]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002078 [PATO:0002078]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002124 [PATO:0002124]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002266 [PATO:0002266]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0002309 [PATO:0002309]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0010000 [PATO:0010000]	rdfs:subClassOf		
+INFO	missing_superclass	PATO_0010001 [PATO:0010001]	rdfs:subClassOf		

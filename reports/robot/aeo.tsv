@@ -1,0 +1,55 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	aeo.owl	dc11:description		
+ERROR	missing_ontology_license	aeo.owl	dc:license		
+ERROR	missing_ontology_title	aeo.owl	dc11:title		
+WARN	missing_obsolete_label	anatomical surface feature [AEO:0000192]	label [rdfs:label]	anatomical surface feature	
+INFO	missing_superclass	CARO_0000003 [CARO:0000003]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000004 [CARO:0000004]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000005 [CARO:0000005]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000010 [CARO:0000010]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000011 [CARO:0000011]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000012 [CARO:0000012]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000024 [CARO:0000024]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000032 [CARO:0000032]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000040 [CARO:0000040]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000041 [CARO:0000041]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000043 [CARO:0000043]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000054 [CARO:0000054]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000055 [CARO:0000055]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000066 [CARO:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000069 [CARO:0000069]	rdfs:subClassOf		
+INFO	missing_superclass	CARO_0000070 [CARO:0000070]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000031 [CL:0000031]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000034 [CL:0000034]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000039 [CL:0000039]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000057 [CL:0000057]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000058 [CL:0000058]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000062 [CL:0000062]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000066 [CL:0000066]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000068 [CL:0000068]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000071 [CL:0000071]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000075 [CL:0000075]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000079 [CL:0000079]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000101 [CL:0000101]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000107 [CL:0000107]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000127 [CL:0000127]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000128 [CL:0000128]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000129 [CL:0000129]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000134 [CL:0000134]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000136 [CL:0000136]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000138 [CL:0000138]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000192 [CL:0000192]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000228 [CL:0000228]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000243 [CL:0000243]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000327 [CL:0000327]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000335 [CL:0000335]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000445 [CL:0000445]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000468 [CL:0000468]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000526 [CL:0000526]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000527 [CL:0000527]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000658 [CL:0000658]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000680 [CL:0000680]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000737 [CL:0000737]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0000746 [CL:0000746]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0002320 [CL:0002320]	rdfs:subClassOf		
+INFO	missing_superclass	CL_0002573 [CL:0002573]	rdfs:subClassOf		

@@ -1,0 +1,7 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	oarcs.owl	dc11:description		
+ERROR	missing_ontology_license	oarcs.owl	dc:license		
+ERROR	missing_ontology_title	oarcs.owl	dc11:title		
+INFO	missing_superclass	anatomical entity [OARCS:0000226]	rdfs:subClassOf		
+INFO	missing_superclass	anatomical group [OARCS:0000250]	rdfs:subClassOf		
+INFO	missing_superclass	branching artery system [OARCS:0000263]	rdfs:subClassOf		

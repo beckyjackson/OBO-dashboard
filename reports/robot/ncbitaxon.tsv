@@ -1,0 +1,10 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	NCBITaxon:2651128	rdfs:label		
+ERROR	missing_ontology_description	ncbitaxon.owl	dc11:description		
+ERROR	missing_ontology_license	ncbitaxon.owl	dc:license		
+ERROR	missing_ontology_title	ncbitaxon.owl	dc11:title		
+WARN	duplicate_exact_synonym	NCBITaxon:2478879	oboInOwl:hasExactSynonym	Zygorhizidium	
+WARN	duplicate_label_synonym	NCBITaxon:2302422	oboInOwl:hasExactSynonym	Isoetes goebelii	
+WARN	missing_definition	IAO:0000115	IAO:0000115		
+WARN	duplicate_scoped_synonym	NCBITaxon:10190	oboInOwl:hasExactSynonym	rotifers	
+INFO	missing_superclass	http://purl.obolibrary.org/obo/NCBITaxon#_taxonomic_rank	rdfs:subClassOf		

@@ -1,0 +1,8 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	trans.owl	dc11:description		
+ERROR	missing_ontology_license	trans.owl	dc:license		
+ERROR	missing_ontology_title	trans.owl	dc11:title		
+WARN	missing_obsolete_label	unknown [TRANS:0000004]	label [rdfs:label]	unknown	
+WARN	missing_obsolete_label	undocumented [TRANS:0000016]	label [rdfs:label]	undocumented	
+WARN	missing_obsolete_label	not curated [TRANS:0000017]	label [rdfs:label]	not curated	
+INFO	missing_superclass	transmission process [TRANS:0000000]	rdfs:subClassOf		
