@@ -1,10 +1,10 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_equivalent_classes	macromere, 8 cell stage [CTENO:0000082]	owl:equivalentClass	blank node <bb783e2f3e517b0b0b28d61626a7adaa>	
-ERROR	multiple_equivalent_classes	macromere, 8 cell stage [CTENO:0000082]	owl:equivalentClass	blank node <ed219e22506cacd0d6be84e8429a0155>	
-ERROR	multiple_equivalent_classes	macromere, 16 cell stage [CTENO:0000085]	owl:equivalentClass	blank node <558d6a66c4cbc84146d9a3e8826f10c4>	
-ERROR	multiple_equivalent_classes	macromere, 16 cell stage [CTENO:0000085]	owl:equivalentClass	blank node <6acd33079484de1b8bd7579871a4432b>	
-ERROR	multiple_equivalent_classes	micromere, 16 cell stage [CTENO:0000096]	owl:equivalentClass	blank node <57fa564e8926a969e6884562c911e8c2>	
-ERROR	multiple_equivalent_classes	micromere, 16 cell stage [CTENO:0000096]	owl:equivalentClass	blank node <f4f80b5234ef938bfe82d9ab213ea1a1>	
+ERROR	multiple_equivalent_classes	macromere, 8 cell stage [CTENO:0000082]	owl:equivalentClass	blank node <3e6cf91ca49792bf2cb53bf56a651d15>	
+ERROR	multiple_equivalent_classes	macromere, 8 cell stage [CTENO:0000082]	owl:equivalentClass	blank node <bb128ff0c417feac11855ba90dd103cc>	
+ERROR	multiple_equivalent_classes	macromere, 16 cell stage [CTENO:0000085]	owl:equivalentClass	blank node <79cac24af532702b5a58cbfb6a6d674f>	
+ERROR	multiple_equivalent_classes	macromere, 16 cell stage [CTENO:0000085]	owl:equivalentClass	blank node <8abd73a0d0d6b824d4c5ab1e63a38a7a>	
+ERROR	multiple_equivalent_classes	micromere, 16 cell stage [CTENO:0000096]	owl:equivalentClass	blank node <0188a7597c829445934b9e0e8b4cb439>	
+ERROR	multiple_equivalent_classes	micromere, 16 cell stage [CTENO:0000096]	owl:equivalentClass	blank node <9169282ee10c850d27b9bc6ef6b53522>	
 ERROR	missing_ontology_description	cteno.owl	dc11:description		
 ERROR	missing_ontology_license	cteno.owl	dc:license		
 ERROR	missing_ontology_title	cteno.owl	dc11:title		

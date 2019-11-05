@@ -1,4 +1,4 @@
 IRI	Label	Issue
 http://purl.obolibrary.org/obo/OGSF_0000013	is_allele_of_gene	not an RO property
-http://purl.obolibrary.org/obo/OGSF_0001009	is negative statistical  evidence of	not an RO property
 http://purl.obolibrary.org/obo/OGSF_0001008	is positive supporting statistical evidence of	not an RO property
+http://purl.obolibrary.org/obo/OGSF_0001009	is negative statistical  evidence of	not an RO property

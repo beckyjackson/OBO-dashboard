@@ -3,6 +3,8 @@ ERROR	duplicate_definition	chinese box thorn plant [FOODON:03413411]	IAO_0000115
 ERROR	duplicate_definition	wolfberry plant [FOODON:03414197]	IAO_0000115 [IAO:0000115]	Wolfberry, commercially called goji berry, is the common name for the fruit of two very closely related species: *Lycium barbarum* and *Lycium chinense*, two species of boxthorn in the family *Solanaceae* (which also includes the potato, tomato, eggplant, deadly nightshade, chili pepper, and tobacco). It is native to southeastern Europe and Asia.@en	
 ERROR	duplicate_definition	Williams bon chrétien pear plant [FOODON:00002842]	IAO_0000115 [IAO:0000115]	The Williams' bon chrétien pear, commonly called the Williams pear or the Bartlett pear in the United States and Canada, is the most commonly grown variety of pear in most countries outside Asia.@en	
 ERROR	duplicate_definition	Williams bon chrétien pear [FOODON:00002843]	IAO_0000115 [IAO:0000115]	The Williams' bon chrétien pear, commonly called the Williams pear or the Bartlett pear in the United States and Canada, is the most commonly grown variety of pear in most countries outside Asia.@en	
+ERROR	duplicate_definition	cupuaçu fruit (whole, raw) [FOODON:00003195]	IAO_0000600 [IAO:0000600]	The white pulp of the cupuaçu frruit is uniquely fragrant (described as a mix of chocolate and pineapple), and it contains theacrine (1,3,7,9-tetramethyluric acid) instead of the xanthines (caffeine, theobromine, and theophylline) found in cacao.[1] It is frequently used in desserts, juices and sweets. The juice tastes primarily like a pear, with a hint of banana.[wikipedia]@en	
+ERROR	duplicate_definition	cupuaçu fruit food product [FOODON:00003221]	IAO_0000600 [IAO:0000600]	The white pulp of the cupuaçu frruit is uniquely fragrant (described as a mix of chocolate and pineapple), and it contains theacrine (1,3,7,9-tetramethyluric acid) instead of the xanthines (caffeine, theobromine, and theophylline) found in cacao.[1] It is frequently used in desserts, juices and sweets. The juice tastes primarily like a pear, with a hint of banana.[wikipedia]@en	
 ERROR	duplicate_definition	pseudomonadales [FOODON:03412847]	IAO_0000115 [IAO:0000115]	The Prokaryotes, 2d ed., 1992, v.III, p.2940.@en	
 ERROR	duplicate_definition	eubacteriales [FOODON:03412848]	IAO_0000115 [IAO:0000115]	The Prokaryotes, 2d ed., 1992, v.III, p.2940.@en	
 ERROR	duplicate_definition	swine food product [FOODON:00001132]	IAO_0000115 [IAO:0000115]	Suidae is a family of artiodactyl mammals which are commonly called pigs, hogs or boars. In addition to numerous fossil species, 17 extant species are currently recognized (or 18 counting domestic pigs and wild boars separately), classified into between four and eight genera. The family includes the domestic pig, Sus scrofa domesticus or Sus domesticus, in addition to numerous species of wild pig, such as babirusas and warthogs. All suids, or swine, are native to the Old World, ranging from Asia to Europe and Africa.@en	
@@ -480,21 +482,25 @@ ERROR	duplicate_definition	fondant food product [FOODON:00001863]	IAO_0000115 [I
 ERROR	duplicate_definition	fondant (us cfr) [FOODON:03400244]	IAO_0000115 [IAO:0000115]	Candy prepared by cooking together sugar, water and ingredients to control crystal growth to a temperature of 238-246 degrees F. The product is then cooled approximately 100 degrees and agitated to promote a smooth, creamy texture.@en	
 ERROR	duplicate_definition	eel [FOODON:03411278]	IAO_0000115 [IAO:0000115]	An eel is any fish belonging to the order Anguilliformes, which consists of four suborders, 20 families, 111 genera and about 800 species. Most eels are predators. The term \"eel\" (originally referring to the European eel) is also used for some other similarly shaped fish, such as electric eels and spiny eels, but these are not members of the Anguilliformes order. [https://en.wikipedia.org/wiki/Eel]@en	
 ERROR	duplicate_definition	fish, anguilliform [FOODON:03411574]	IAO_0000115 [IAO:0000115]	An eel is any fish belonging to the order Anguilliformes, which consists of four suborders, 20 families, 111 genera and about 800 species. Most eels are predators. The term \"eel\" (originally referring to the European eel) is also used for some other similarly shaped fish, such as electric eels and spiny eels, but these are not members of the Anguilliformes order. [https://en.wikipedia.org/wiki/Eel]@en	
+ERROR	duplicate_definition	soybean oil (partly hydrogenated) [FOODON:00003225]	IAO_0000115 [IAO:0000115]	A partly hydrogenated oil made from soybeans.@en	
+ERROR	duplicate_definition	soybean oil (fully hydrogenated) [FOODON:00003227]	IAO_0000115 [IAO:0000115]	A partly hydrogenated oil made from soybeans.@en	
 ERROR	duplicate_definition	thickness of 1.5 cm to less than 7.0 cm [FOODON:00002407]	IAO_0000115 [IAO:0000115]	A material entity having a thickness of 1.5 to less than 7.0 cm@en	
 ERROR	duplicate_definition	thickness of 1.5 cm or more [FOODON:00002410]	IAO_0000115 [IAO:0000115]	A material entity having a thickness of 1.5 to less than 7.0 cm@en	
+ERROR	duplicate_definition	cupuaçu fruit (whole, raw) [FOODON:00003195]	IAO_0000115 [IAO:0000115]	A fruit of the Cupuaçu plant (Theobroma grandiflorum).@en	
+ERROR	duplicate_definition	cupuaçu fruit food product [FOODON:00003221]	IAO_0000115 [IAO:0000115]	A fruit of the Cupuaçu plant (Theobroma grandiflorum).@en	
 ERROR	duplicate_definition	prostrate knotweed plant [FOODON:03415073]	IAO_0000115 [IAO:0000115]	*Polygonum aviculare* or common knotgrass is a plant related to buckwheat and dock. It is also called prostrate knotweed, birdweed, pigweed and lowgrass. In Vietnam, it is widely used to prepare soup and hot pot, particularly in the southern region. [https://en.wikipedia.org/wiki/Polygonum_aviculare]@en	
 ERROR	duplicate_definition	prostrate knotweed plant [FOODON:03415143]	IAO_0000115 [IAO:0000115]	*Polygonum aviculare* or common knotgrass is a plant related to buckwheat and dock. It is also called prostrate knotweed, birdweed, pigweed and lowgrass. In Vietnam, it is widely used to prepare soup and hot pot, particularly in the southern region. [https://en.wikipedia.org/wiki/Polygonum_aviculare]@en	
 ERROR	duplicate_definition	phaseolus vulgaris, edible pod cultivar (plant) [FOODON:03411060]	IAO_0000115 [IAO:0000115]	*Phaseolus vulgaris*, also known as the common bean among other names,[ is a herbaceous annual plant grown worldwide for its edible dry seeds or unripe fruit. The main categories of common beans, on the basis of use, are dry beans (seeds harvested at complete maturity), snap beans (tender pods with reduced fibre harvested before the seed development phase) and shell beans (seeds harvested at physiological maturity). Its leaf is also occasionally used as a vegetable and the straw as fodder. Its botanical classification, along with other *Phaseolus* species, is as a member of the legume family *Fabaceae*, most of whose members acquire the nitrogen they require through an association with rhizobia, a species of nitrogen-fixing bacteria.[https://en.wikipedia.org/wiki/Phaseolus_vulgaris]@en	
 ERROR	duplicate_definition	phaseolus vulgaris, edible seed cultivar (plant) [FOODON:03411061]	IAO_0000115 [IAO:0000115]	*Phaseolus vulgaris*, also known as the common bean among other names,[ is a herbaceous annual plant grown worldwide for its edible dry seeds or unripe fruit. The main categories of common beans, on the basis of use, are dry beans (seeds harvested at complete maturity), snap beans (tender pods with reduced fibre harvested before the seed development phase) and shell beans (seeds harvested at physiological maturity). Its leaf is also occasionally used as a vegetable and the straw as fodder. Its botanical classification, along with other *Phaseolus* species, is as a member of the legume family *Fabaceae*, most of whose members acquire the nitrogen they require through an association with rhizobia, a species of nitrogen-fixing bacteria.[https://en.wikipedia.org/wiki/Phaseolus_vulgaris]@en	
 ERROR	duplicate_definition	phaseolus vulgaris plant [FOODON:03411555]	IAO_0000115 [IAO:0000115]	*Phaseolus vulgaris*, also known as the common bean among other names,[ is a herbaceous annual plant grown worldwide for its edible dry seeds or unripe fruit. The main categories of common beans, on the basis of use, are dry beans (seeds harvested at complete maturity), snap beans (tender pods with reduced fibre harvested before the seed development phase) and shell beans (seeds harvested at physiological maturity). Its leaf is also occasionally used as a vegetable and the straw as fodder. Its botanical classification, along with other *Phaseolus* species, is as a member of the legume family *Fabaceae*, most of whose members acquire the nitrogen they require through an association with rhizobia, a species of nitrogen-fixing bacteria.[https://en.wikipedia.org/wiki/Phaseolus_vulgaris]@en	
-ERROR	multiple_equivalent_classes	bell pepper plant [FOODON:03412628]	owl:equivalentClass	blank node <354049dba70047dcf1ce2b7b4fe66a53>	
-ERROR	multiple_equivalent_classes	bell pepper plant [FOODON:03412628]	owl:equivalentClass	blank node <b520c927a5794bceb27abf7b39fcec67>	
-ERROR	multiple_equivalent_classes	fruit peel (anatomical part) [FOODON:03420294]	owl:equivalentClass	blank node <46984d00edad07ea2d5fde027461ff23>	
-ERROR	multiple_equivalent_classes	fruit peel (anatomical part) [FOODON:03420294]	owl:equivalentClass	blank node <be03a0a6ad5147f8978274eba516d058>	
+ERROR	multiple_equivalent_classes	bell pepper plant [FOODON:03412628]	owl:equivalentClass	blank node <6d1370aeccfcdeb016761a2d6f0fb5f9>	
+ERROR	multiple_equivalent_classes	bell pepper plant [FOODON:03412628]	owl:equivalentClass	blank node <e62bcb1598334947c2d98a2ccf57179f>	
+ERROR	multiple_equivalent_classes	fruit peel (anatomical part) [FOODON:03420294]	owl:equivalentClass	blank node <4a82a54bba82e6fad8011a232a3bcc89>	
+ERROR	multiple_equivalent_classes	fruit peel (anatomical part) [FOODON:03420294]	owl:equivalentClass	blank node <994be6b14f8fa9e4d0f69f15e48d2b62>	
 ERROR	missing_label	FOODON:03520521	label [rdfs:label]		
-ERROR	deprecated_class_reference	9378c5c6-2b1c-4998-a37b-f78def8699a6	owl:someValuesFrom	blood (deprecated) [FOODON:03317130]	
-ERROR	deprecated_class_reference	a79f4e0c-68d7-4e12-bd51-9813d7003bd3	owl:someValuesFrom	liquid cow milk (food product) [FOODON:03306744]	
-ERROR	deprecated_class_reference	ae9ba37c-06db-4531-abff-8d235176da48	owl:someValuesFrom	ocean quahog (deprecated) [FOODON:03411953]	
+ERROR	deprecated_class_reference	2c904f56-c974-46f8-9b2e-17868f2d8bd5	owl:someValuesFrom	liquid cow milk (food product) [FOODON:03306744]	
+ERROR	deprecated_class_reference	85144f94-eaf9-497c-8c9e-80aa5977704d	owl:someValuesFrom	ocean quahog (deprecated) [FOODON:03411953]	
+ERROR	deprecated_class_reference	dd86d4f9-f420-43e6-a1fe-2f1758dd1357	owl:someValuesFrom	blood (deprecated) [FOODON:03317130]	
 ERROR	deprecated_class_reference	mace (dried) [FOODON:03301185]	owl:someValuesFrom	mace (deprecated) [FOODON:03411321]	
 ERROR	deprecated_class_reference	fructose product [FOODON:03301305]	owl:someValuesFrom	product type, not known [FOODON:03400001]	
 ERROR	deprecated_class_reference	peas and carrots (canned) [FOODON:03301378]	owl:someValuesFrom	pea and carrot (deprecated) [FOODON:03411613]	
@@ -542,7 +548,6 @@ ERROR	deprecated_class_reference	food for invalids [FOODON:03315429]	owl:someVal
 ERROR	deprecated_class_reference	food for pregnant and nursing women [FOODON:03315464]	owl:someValuesFrom	product type, not known [FOODON:03400001]	
 ERROR	deprecated_class_reference	filling mix, dry [FOODON:03315569]	owl:someValuesFrom	product type, not known [FOODON:03400001]	
 ERROR	deprecated_class_reference	sugar coated product [FOODON:03315596]	owl:someValuesFrom	product type, not known [FOODON:03400001]	
-ERROR	deprecated_class_reference	natural extractives [FOODON:03315655]	owl:someValuesFrom	product type, not known [FOODON:03400001]	
 ERROR	deprecated_class_reference	meat binder [FOODON:03315660]	owl:someValuesFrom	product type, other (deprecated) [FOODON:03400004]	
 ERROR	deprecated_class_reference	dry mix, unstandardized [FOODON:03315682]	owl:someValuesFrom	product type, not known [FOODON:03400001]	
 ERROR	deprecated_class_reference	filling mix [FOODON:03315705]	owl:someValuesFrom	product type, not known [FOODON:03400001]	
@@ -709,6 +714,8 @@ ERROR	multiple_definitions	crispbread [FOODON:00003185]	IAO_0000600 [IAO:0000600
 ERROR	multiple_definitions	crispbread [FOODON:00003185]	IAO_0000600 [IAO:0000600]	Swedish: knäckebröd, hårt bröd, hårdbröd, spisbröd, knäcke, Danish: knækbrød, Norwegian: knekkebrød, Finnish: näkkileipä, Estonian: näkileib, Icelandic: hrökkbrauð, Faroese: knekkbreyð, German: 'Knäckebrot' or 'Knäcke', Low German: Knackbrood, Dutch: knäckebröd@en	
 ERROR	multiple_definitions	food harvesting process [FOODON:00003203]	IAO_0000600 [IAO:0000600]	IAO:0000428	
 ERROR	multiple_definitions	food harvesting process [FOODON:00003203]	IAO_0000600 [IAO:0000600]	This includes harvesting from plants, hunting a deer, or milking process of a cow.  The food is derived from part or whole of a single organism species (with perhaps a few exceptions, such as lichen).@en	
+ERROR	multiple_definitions	confectionery fat [FOODON:00003212]	IAO_0000115 [IAO:0000115]	https://encyclopedia2.thefreedictionary.com/Confectionery+Fats	
+ERROR	multiple_definitions	confectionery fat [FOODON:00003212]	IAO_0000115 [IAO:0000115]	A fat used in the confectionery industry for making chocolate, candies, and baked goods. Confectionery fats must remain relatively stable during storage.@en	
 ERROR	multiple_definitions	frankfurter [FOODON:03302012]	IAO_0000115 [IAO:0000115]	https://en.wikipedia.org/wiki/Vienna_sausage	
 ERROR	multiple_definitions	frankfurter [FOODON:03302012]	IAO_0000115 [IAO:0000115]	A frankfurter is a thin parboiled sausage traditionally made of pork and beef in a casing of sheep's intestine, then given a low temperature smoking.@en	
 ERROR	multiple_definitions	cellulose sausage casing (edible) [FOODON:03303119]	IAO_0000115 [IAO:0000115]	Cellulose sausage casings include those made from cotton bags and those derived from processed cotton linters. The cloth bags give a high degree of uniformity to the encased sausage product. Cotton linters are a fine fuzz-like material that is removed from cottonseed after the cotton fiber and seed have been separated at the cotton gin.@en	
@@ -787,8 +794,8 @@ ERROR	multiple_labels	lemon-flavored cocktail mix (sweet-sour) [FOODON:03303621]
 ERROR	multiple_labels	lemon-flavored cocktail mix (sweet-sour) [FOODON:03303621]	label [rdfs:label]	lemon-flavored cocktail mix, sweet-sour@en	
 ERROR	multiple_labels	st. paulin cheese (food product) [FOODON:03303676]	label [rdfs:label]	st. paulin cheese@en	
 ERROR	multiple_labels	st. paulin cheese (food product) [FOODON:03303676]	label [rdfs:label]	st. paulin cheese (food product)@en	
-ERROR	multiple_labels	baker\'s cheese [FOODON:03303692]	label [rdfs:label]	baker's cheese@en	
-ERROR	multiple_labels	baker\'s cheese [FOODON:03303692]	label [rdfs:label]	baker's cheese (food product)@en	
+ERROR	multiple_labels	baker\'s cheese (food product) [FOODON:03303692]	label [rdfs:label]	baker's cheese@en	
+ERROR	multiple_labels	baker\'s cheese (food product) [FOODON:03303692]	label [rdfs:label]	baker's cheese (food product)@en	
 ERROR	multiple_labels	cheese 2% milk [FOODON:03303693]	label [rdfs:label]	cheese (2% milk)@en	
 ERROR	multiple_labels	cheese 2% milk [FOODON:03303693]	label [rdfs:label]	cheese 2% milk@en	
 ERROR	multiple_labels	cold-pack cheese alcohol added [FOODON:03303698]	label [rdfs:label]	cold-pack cheese (alcohol added)@en	
@@ -847,8 +854,8 @@ ERROR	multiple_labels	pollock (mashed, scallop-flavored) [FOODON:03305694]	label
 ERROR	multiple_labels	pollock (mashed, scallop-flavored) [FOODON:03305694]	label [rdfs:label]	pollock mashed scallop-flavored@en	
 ERROR	multiple_labels	pollock mashed crab-flavored [FOODON:03305695]	label [rdfs:label]	pollock (mashed, crab-flavored)@en	
 ERROR	multiple_labels	pollock mashed crab-flavored [FOODON:03305695]	label [rdfs:label]	pollock mashed crab-flavored@en	
-ERROR	multiple_labels	grape juice beverage base (sweetened, powdered) [FOODON:03305744]	label [rdfs:label]	grape juice base sweetened powdered@en	
-ERROR	multiple_labels	grape juice beverage base (sweetened, powdered) [FOODON:03305744]	label [rdfs:label]	grape juice beverage base (sweetened, powdered)@en	
+ERROR	multiple_labels	grape juice base sweetened powdered [FOODON:03305744]	label [rdfs:label]	grape juice base sweetened powdered@en	
+ERROR	multiple_labels	grape juice base sweetened powdered [FOODON:03305744]	label [rdfs:label]	grape juice beverage base (sweetened, powdered)@en	
 ERROR	multiple_labels	calf\'s foot gelatin [FOODON:03305871]	label [rdfs:label]	calf's foot gelatin@en	
 ERROR	multiple_labels	calf\'s foot gelatin [FOODON:03305871]	label [rdfs:label]	calf's foot gelatin (food product)@en	
 ERROR	multiple_labels	imitation mint-flavored jelly (artificially colored) [FOODON:03305887]	label [rdfs:label]	imitation mint-flavored jelly (artificially colored)@en	
@@ -917,8 +924,8 @@ ERROR	multiple_labels	frankfurter on a stick batter-dipped cooked [FOODON:033095
 ERROR	multiple_labels	frankfurter on a stick batter-dipped cooked [FOODON:03309562]	label [rdfs:label]	frankfurter on a stick batter-dipped cooked@en	
 ERROR	multiple_labels	Chablis wine [FOODON:03311123]	label [rdfs:label]	Chablis wine@en	
 ERROR	multiple_labels	Chablis wine [FOODON:03311123]	label [rdfs:label]	chablis wine@en	
-ERROR	multiple_labels	Beaujolais wine [FOODON:03311270]	label [rdfs:label]	Beaujolais wine@en	
-ERROR	multiple_labels	Beaujolais wine [FOODON:03311270]	label [rdfs:label]	beaujolais wine@en	
+ERROR	multiple_labels	beaujolais wine [FOODON:03311270]	label [rdfs:label]	Beaujolais wine@en	
+ERROR	multiple_labels	beaujolais wine [FOODON:03311270]	label [rdfs:label]	beaujolais wine@en	
 WARN	annotation_whitespace	Pinot noir wine [FOODON:00002596]	hasExactSynonym [oboInOwl:hasExactSynonym]	 Pinot Nero@fr	
 WARN	annotation_whitespace	Pinot noir wine [FOODON:00002596]	hasExactSynonym [oboInOwl:hasExactSynonym]	 Spätburgunder@ge	
 WARN	annotation_whitespace	Pinot noir wine [FOODON:00002596]	hasExactSynonym [oboInOwl:hasExactSynonym]	Blauburgunder @ge	
@@ -1099,6 +1106,10 @@ WARN	duplicate_exact_synonym	artichoke plant [FOODON:03411466]	hasExactSynonym [
 WARN	duplicate_exact_synonym	cardoon plant [FOODON:03411727]	hasExactSynonym [oboInOwl:hasExactSynonym]	cynara cardunculus@en	
 WARN	duplicate_exact_synonym	custard apple (whole, raw) [FOODON:00003032]	hasExactSynonym [oboInOwl:hasExactSynonym]	custard apple@en	
 WARN	duplicate_exact_synonym	cherimoya fruit (whole, raw) [FOODON:00003033]	hasExactSynonym [oboInOwl:hasExactSynonym]	custard apple@en	
+WARN	duplicate_exact_synonym	cupuaçu fruit (whole, raw) [FOODON:00003195]	hasExactSynonym [oboInOwl:hasExactSynonym]	cupuaçu fruit@en	
+WARN	duplicate_exact_synonym	cupuaçu fruit food product [FOODON:00003221]	hasExactSynonym [oboInOwl:hasExactSynonym]	cupuaçu fruit@en	
+WARN	duplicate_exact_synonym	cupuaçu fruit (whole, raw) [FOODON:00003195]	hasExactSynonym [oboInOwl:hasExactSynonym]	cupuaçu@en	
+WARN	duplicate_exact_synonym	cupuaçu fruit food product [FOODON:00003221]	hasExactSynonym [oboInOwl:hasExactSynonym]	cupuaçu@en	
 WARN	duplicate_exact_synonym	cumin seed (whole, dried) [FOODON:00003024]	hasExactSynonym [oboInOwl:hasExactSynonym]	cumin@en	
 WARN	duplicate_exact_synonym	cumin food product [FOODON:03311872]	hasExactSynonym [oboInOwl:hasExactSynonym]	cumin@en	
 WARN	duplicate_exact_synonym	horned melon (whole, raw) [FOODON:00003191]	hasExactSynonym [oboInOwl:hasExactSynonym]	cucumis metuliferus@en	
@@ -1471,7 +1482,6 @@ WARN	missing_definition	common banana food product [FOODON:00001756]	IAO_0000115
 WARN	missing_definition	common bean food product [FOODON:00001757]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	common millet food product [FOODON:00001758]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	common oat cereal food product [FOODON:00001759]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	common oat food product [FOODON:00001760]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	condiment sauce [FOODON:00001761]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	cookie food product [FOODON:00001762]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	coriander food product [FOODON:00001763]	IAO_0000115 [IAO:0000115]		
@@ -1706,7 +1716,6 @@ WARN	missing_definition	mandarin orange food product [FOODON:00002018]	IAO_00001
 WARN	missing_definition	mandarin orange juice [FOODON:00002019]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	mango food product [FOODON:00002020]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	mango nectar beverage [FOODON:00002021]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine food product [FOODON:00002022]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	marjoram food product [FOODON:00002023]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	marlin food product [FOODON:00002024]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	mate beverage [FOODON:00002025]	IAO_0000115 [IAO:0000115]		
@@ -1977,7 +1986,7 @@ WARN	missing_definition	thyme food product [FOODON:00002312]	IAO_0000115 [IAO:00
 WARN	missing_definition	tomato relish food product [FOODON:00002313]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	tomato based gravy or sauce food product [FOODON:00002314]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	tomato condiment [FOODON:00002315]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	tomato juice food produc [FOODON:00002316]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	tomato juice food product [FOODON:00002316]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	tomato soup food product [FOODON:00002317]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	tomato substance [FOODON:00002318]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	trout food product [FOODON:00002319]	IAO_0000115 [IAO:0000115]		
@@ -2278,6 +2287,7 @@ WARN	missing_definition	tronchuda cabbage (raw) [FOODON:00003171]	IAO_0000115 [I
 WARN	missing_definition	loquat (whole, raw) [FOODON:00003181]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	jojoba bean (whole, dried) [FOODON:00003183]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	peanut substance [FOODON:00003205]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	cupuaçu oil [FOODON:00003222]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	apple (peeled) [FOODON:0002000]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	starch [FOODON:03301000]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	wheat (raw) [FOODON:03301002]	IAO_0000115 [IAO:0000115]		
@@ -2753,7 +2763,6 @@ WARN	missing_definition	tuna (canned) [FOODON:03301668]	IAO_0000115 [IAO:0000115
 WARN	missing_definition	orange-flavored drink [FOODON:03301669]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	sake (food product) [FOODON:03301670]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	cranberry juice [FOODON:03301671]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine [FOODON:03301672]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	shrimp (whole or parts) [FOODON:03301673]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	rice bean (canned) [FOODON:03301675]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	crabmeat (frozen) [FOODON:03301677]	IAO_0000115 [IAO:0000115]		
@@ -4048,7 +4057,7 @@ WARN	missing_definition	provolone cheese (smoked) [FOODON:03303688]	IAO_0000115 
 WARN	missing_definition	parmigiano cheese (block) [FOODON:03303689]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	milwaukee cheese [FOODON:03303690]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	spare cheese [FOODON:03303691]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	baker\'s cheese [FOODON:03303692]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	baker\'s cheese (food product) [FOODON:03303692]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	cheese 2% milk [FOODON:03303693]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	graddost cheese (semisoft, ripened) [FOODON:03303694]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	liver paste (canned) [FOODON:03303695]	IAO_0000115 [IAO:0000115]		
@@ -5473,7 +5482,7 @@ WARN	missing_definition	tomato juice concentrate [FOODON:03305740]	IAO_0000115 [
 WARN	missing_definition	prune juice (made from dried prunes) [FOODON:03305741]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	citrus juice [FOODON:03305742]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	apple juice (concentrated, sweetened) [FOODON:03305743]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	grape juice beverage base (sweetened, powdered) [FOODON:03305744]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	grape juice base sweetened powdered [FOODON:03305744]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	apple juice (artificially colored, canned) [FOODON:03305745]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	berry juice (food product) [FOODON:03305746]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	lemon juice (reconstituted) [FOODON:03305747]	IAO_0000115 [IAO:0000115]		
@@ -5498,7 +5507,7 @@ WARN	missing_definition	apple and grape juice (food product) [FOODON:03305765]	I
 WARN	missing_definition	grape juice (concentrated) [FOODON:03305766]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	grapefruit juice (artificially sweetened) [FOODON:03305767]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	chocolate chip cookie (chocolate liquor added) [FOODON:03305768]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	pecan (shell off) [FOODON:03305769]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pecan (whole, raw, shell off) [FOODON:03305769]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	imitation cherry-apple juice [FOODON:03305770]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	lime juice (sweetened, diluted) [FOODON:03305772]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	passion fruit juice (frozen) [FOODON:03305773]	IAO_0000115 [IAO:0000115]		
@@ -5771,7 +5780,6 @@ WARN	missing_definition	soda water concentrate [FOODON:03306195]	IAO_0000115 [IA
 WARN	missing_definition	green tomato relish [FOODON:03306197]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	root beer beverage base [FOODON:03306198]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	gluten noodle [FOODON:03306200]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine (danish chill roll processed) [FOODON:03306204]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	butter and margarine mixture (whipped) [FOODON:03306205]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	margarine (nondairy) [FOODON:03306207]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	safflower oil margarine [FOODON:03306208]	IAO_0000115 [IAO:0000115]		
@@ -5935,7 +5943,7 @@ WARN	missing_definition	meatloaf seasoning mix [FOODON:03306444]	IAO_0000115 [IA
 WARN	missing_definition	pork (uncooked, cured) [FOODON:03306445]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	mold-ripened cheese [FOODON:03306447]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	infant food product [FOODON:03306448]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	chiffon pie filling (food product) [FOODON:03306451]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	chiffon pie filling [FOODON:03306451]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	flaxseed (defatted) [FOODON:03306452]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	meat (powdered, freeze-dried) [FOODON:03306453]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	mule meat (raw) [FOODON:03306457]	IAO_0000115 [IAO:0000115]		
@@ -6071,7 +6079,6 @@ WARN	missing_definition	puff pastry shortening [FOODON:03306655]	IAO_0000115 [IA
 WARN	missing_definition	cooking oil (blended) [FOODON:03306658]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	vegetable oil (cold-pressed) [FOODON:03306663]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	vegetable oil (heat-processed) [FOODON:03306664]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	soybean oil (hydrogenated) [FOODON:03306665]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	imitation maple syrup (artificially sweetened) [FOODON:03306667]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	imitation salad dressing [FOODON:03306668]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	russian dressing [FOODON:03306669]	IAO_0000115 [IAO:0000115]		
@@ -6256,7 +6263,7 @@ WARN	missing_definition	rice (crisped) [FOODON:03306909]	IAO_0000115 [IAO:000011
 WARN	missing_definition	red skin peanut (whole, with skin, raw) [FOODON:03306913]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pecan (whole and pieces, raw) [FOODON:03306915]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	imitation cinnamon (made from pecan shells) [FOODON:03306916]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	pecan (whole, shell on) [FOODON:03306917]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pecan (whole, raw, shell on) [FOODON:03306917]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pimiento (salad, pickled) [FOODON:03306919]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pimiento (whole, canned) [FOODON:03306922]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pimiento cheese [FOODON:03306924]	IAO_0000115 [IAO:0000115]		
@@ -8189,7 +8196,6 @@ WARN	missing_definition	plaa tuu [FOODON:03310037]	IAO_0000115 [IAO:0000115]
 WARN	missing_definition	doliches bean (whole) [FOODON:03310039]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	lupine seed meal [FOODON:03310040]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	rapeseed meal [FOODON:03310043]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	coconut oil [FOODON:03310046]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	coconut meal [FOODON:03310047]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pea meal (food product) [FOODON:03310048]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	palm kernel (feed) [FOODON:03310052]	IAO_0000115 [IAO:0000115]		
@@ -8438,7 +8444,6 @@ WARN	missing_definition	rapeseed oil [FOODON:03310482]	IAO_0000115 [IAO:0000115]
 WARN	missing_definition	hard candy sweetened with sorbitol [FOODON:03310483]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	minitrout raw [FOODON:03310484]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	remoulade [FOODON:03310485]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	palm kernel oil [FOODON:03310486]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pyracantha berry (raw) [FOODON:03310487]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	tea bag [FOODON:03310489]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	ginger (ground) [FOODON:03310490]	IAO_0000115 [IAO:0000115]		
@@ -8533,7 +8538,7 @@ WARN	missing_definition	chicken parts (marinated, raw) [FOODON:03310644]	IAO_000
 WARN	missing_definition	legume (whole) [FOODON:03310646]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fruit puree [FOODON:03310649]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fruit paste [FOODON:03310650]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	oats ground [FOODON:03310651]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oats (ground) [FOODON:03310651]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	canola and olive oil blend [FOODON:03310652]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	chocolate milk (lowfat, vitamin a and d added, aspartame sweetened) [FOODON:03310653]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	rice (boiled) [FOODON:03310654]	IAO_0000115 [IAO:0000115]		
@@ -8831,7 +8836,7 @@ WARN	missing_definition	farina (cooked) [FOODON:03311057]	IAO_0000115 [IAO:00001
 WARN	missing_definition	cream sherry wine [FOODON:03311061]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	white raisin [FOODON:03311062]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	peppermint leaf (whole) [FOODON:03311063]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	oat cracked [FOODON:03311064]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oats (cracked) [FOODON:03311064]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	red snapper (smoked) [FOODON:03311065]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	orange juice (freshly squeezed) [FOODON:03311067]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	monterey jack cheese made from raw milk [FOODON:03311068]	IAO_0000115 [IAO:0000115]		
@@ -8954,13 +8959,13 @@ WARN	missing_definition	roasted almond oil [FOODON:03311209]	IAO_0000115 [IAO:00
 WARN	missing_definition	almond (dry, roasted) [FOODON:03311210]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	brazilnut oil (roasted) [FOODON:03311211]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	cashew nut (oil roasted) [FOODON:03311212]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	pecan (oil roasted) [FOODON:03311213]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pecan (whole, oil roasted) [FOODON:03311213]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	cashew nut (dry, roasted) [FOODON:03311214]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	filbert nut (oil roasted) [FOODON:03311215]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	filbert nut (dry roasted) [FOODON:03311216]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	pecan (dry roasted) [FOODON:03311217]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	pecan (whole, dry roasted) [FOODON:03311217]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pecan meal [FOODON:03311218]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	butter lowfat [FOODON:03311219]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	butter (lowfat) [FOODON:03311219]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fish stick made from cod coated raw [FOODON:03311221]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	plaice fillet (coated, partially cooked) [FOODON:03311222]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fish (minced, raw) [FOODON:03311223]	IAO_0000115 [IAO:0000115]		
@@ -8976,7 +8981,7 @@ WARN	missing_definition	cow whole milk (fortified, pasteurized) [FOODON:03311234
 WARN	missing_definition	skim milk (fortified, pasteurized) [FOODON:03311235]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	lowfat cow milk (2%, fortified, pasteurized) [FOODON:03311236]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	infant formula (milk-based, soy-based, liquid) [FOODON:03311239]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine diet soft [FOODON:03311240]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	margarine (diet, soft) [FOODON:03311240]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	anchovy (dried) [FOODON:03311241]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	apple juice (diluted) [FOODON:03311244]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	grape juice (diluted) [FOODON:03311245]	IAO_0000115 [IAO:0000115]		
@@ -8986,7 +8991,7 @@ WARN	missing_definition	sauerkraut brine [FOODON:03311252]	IAO_0000115 [IAO:0000
 WARN	missing_definition	green pea (whole, cooked) [FOODON:03311255]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	coho salmon (frozen) [FOODON:03311256]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	cocoa butter substitute (made from marine oil) [FOODON:03311257]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine reduced calorie [FOODON:03311258]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	margarine (reduced calorie) [FOODON:03311258]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	scallop (battered, frozen, whole) [FOODON:03311259]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	lobster meat (canned, drained) [FOODON:03311260]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	margarine, low calorie [FOODON:03311261]	IAO_0000115 [IAO:0000115]		
@@ -9289,7 +9294,7 @@ WARN	missing_definition	radish root (japanese) [FOODON:03311672]	IAO_0000115 [IA
 WARN	missing_definition	carrot (peeled) [FOODON:03311673]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	corn (sweet, frozen) [FOODON:03311676]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	potato (cooked, dehydrated, refrigerated) [FOODON:03311680]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine spread low fat [FOODON:03311681]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	margarine spread (low fat) [FOODON:03311681]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	mortadella [FOODON:03311682]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	sweet green pepper (freeze-dried) [FOODON:03311683]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	giardiniere pickle [FOODON:03311684]	IAO_0000115 [IAO:0000115]		
@@ -9319,7 +9324,7 @@ WARN	missing_definition	swine carcass [FOODON:03311719]	IAO_0000115 [IAO:0000115
 WARN	missing_definition	corn meal product [FOODON:03311721]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	milkfish in oil canned [FOODON:03311723]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	seafood chowder [FOODON:03311724]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	oat bran oil (food product) [FOODON:03311725]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oat bran oil [FOODON:03311725]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	spread, low calorie [FOODON:03311727]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	chocolate substitute [FOODON:03311728]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	ricotone cheese [FOODON:03311730]	IAO_0000115 [IAO:0000115]		
@@ -9855,7 +9860,6 @@ WARN	missing_definition	beer (small) [FOODON:03315616]	IAO_0000115 [IAO:0000115]
 WARN	missing_definition	salted sticks [FOODON:03315618]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	figure-of-eight [FOODON:03315619]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	soup (thick) [FOODON:03315620]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine bakery [FOODON:03315622]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	malt liquor [FOODON:03315625]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pickle mustard [FOODON:03315626]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	porter [FOODON:03315627]	IAO_0000115 [IAO:0000115]		
@@ -9883,7 +9887,7 @@ WARN	missing_definition	meat (preserved) [FOODON:03315649]	IAO_0000115 [IAO:0000
 WARN	missing_definition	meat by-product (preserved) [FOODON:03315650]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	poultry meat (preserved) [FOODON:03315651]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	poultry meat by-product (preserved) [FOODON:03315652]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	natural extractives [FOODON:03315655]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	natural extractive [FOODON:03315655]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	poultry (canned) [FOODON:03315657]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fruit jelly with pectin [FOODON:03315659]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	meat binder [FOODON:03315660]	IAO_0000115 [IAO:0000115]		
@@ -10333,8 +10337,8 @@ WARN	missing_definition	shrimp product (unsterilized) [FOODON:03316328]	IAO_0000
 WARN	missing_definition	seasoning substance based on lemon juice (food product) [FOODON:03316330]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	meat salad [FOODON:03316331]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	gelatinous coating for meat products edible [FOODON:03316332]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine half-fat [FOODON:03316333]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	butter half-fat [FOODON:03316334]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	margarine (half-fat) [FOODON:03316333]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	butter (half-fat) [FOODON:03316334]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fruit for further processing in the confectionery and beverages industries [FOODON:03316335]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fruit drink beverage base [FOODON:03316337]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	fruit (cooked) [FOODON:03316338]	IAO_0000115 [IAO:0000115]		
@@ -10592,7 +10596,6 @@ WARN	missing_definition	fish fillets and minced fish (quick-frozen in blocks) [F
 WARN	missing_definition	olive oil (refined) [FOODON:03316684]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	olive oil (refined residue blends) [FOODON:03316685]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	mixtures of refined olive oil and refined olive oil residue [FOODON:03316686]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	grape seed oil (edible) [FOODON:03316687]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	babassu oil (edible) [FOODON:03316688]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	premier jus [FOODON:03316690]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	vegetable fat food product [FOODON:03316694]	IAO_0000115 [IAO:0000115]		
@@ -10958,7 +10961,7 @@ WARN	missing_definition	fruit pulp (no energy-containing sweetener added) [FOODO
 WARN	missing_definition	lemon tea (no added energy-containing sweetener, powdered) [FOODON:03317159]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	citrus nectar [FOODON:03317162]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	citrus fruit syrup [FOODON:03317163]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	oat hulled [FOODON:03317167]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	oats (hulled) [FOODON:03317167]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	oat must [FOODON:03317168]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	root vegetable (dried) [FOODON:03317169]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	shrimp (peeled, deep-frozen) [FOODON:03317171]	IAO_0000115 [IAO:0000115]		
@@ -11108,7 +11111,7 @@ WARN	missing_definition	poultry (comminuted, cured) [FOODON:03317350]	IAO_000011
 WARN	missing_definition	poultry product (cured) [FOODON:03317351]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	pie dough (fresh) [FOODON:03317353]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	muscle tissue (raw) [FOODON:03317355]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	margarine dietary [FOODON:03317356]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	margarine (dietary) [FOODON:03317356]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	poultry product (raw, packaged) [FOODON:03317357]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	poultry product (raw, packaged, frozen) [FOODON:03317358]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	poultry (deboned, canned) [FOODON:03317359]	IAO_0000115 [IAO:0000115]		
@@ -11718,7 +11721,6 @@ WARN	missing_definition	cotton plant [FOODON:03411210]	IAO_0000115 [IAO:0000115]
 WARN	missing_definition	lychee plant [FOODON:03411212]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	nut producing plant [FOODON:03411213]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	lotus plant [FOODON:03411216]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	common oat plant [FOODON:03411219]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	insect [FOODON:03411220]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	sesame plant [FOODON:03411226]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	horse [FOODON:03411229]	IAO_0000115 [IAO:0000115]		
@@ -17945,6 +17947,7 @@ WARN	missing_obsolete_label	animal product stew or hash category (deprecated) [F
 WARN	missing_obsolete_label	avocado food product (deprecated) [FOODON:00001624]	label [rdfs:label]	avocado food product (deprecated)@en	
 WARN	missing_obsolete_label	cabbage pickle food product (deprecated) [FOODON:00001676]	label [rdfs:label]	cabbage pickle food product (deprecated)@en	
 WARN	missing_obsolete_label	cassava food product (deprecated) [FOODON:00001690]	label [rdfs:label]	cassava food product (deprecated)@en	
+WARN	missing_obsolete_label	common oat food product (deprecated) [FOODON:00001760]	label [rdfs:label]	common oat food product (deprecated)@en	
 WARN	missing_obsolete_label	flax nut food product (deprecated) [FOODON:00001858]	label [rdfs:label]	flax nut food product (deprecated)@en	
 WARN	missing_obsolete_label	goat dried milk food product (deprecated) [FOODON:00001908]	label [rdfs:label]	goat dried milk food product (deprecated)@en	
 WARN	missing_obsolete_label	horseradish food product (deprecated) [FOODON:00001954]	label [rdfs:label]	horseradish food product (deprecated)@en	
@@ -20761,6 +20764,7 @@ INFO	missing_superclass	NCBITaxon_9986 [NCBITaxon:9986]	rdfs:subClassOf
 INFO	missing_superclass	NCBITaxon_9995 [NCBITaxon:9995]	rdfs:subClassOf		
 INFO	missing_superclass	NCBITaxon_999584 [NCBITaxon:999584]	rdfs:subClassOf		
 INFO	missing_superclass	NCIT_C45305 [NCIT:C45305]	rdfs:subClassOf		
+INFO	missing_superclass	NCIT_C944 [NCIT:C944]	rdfs:subClassOf		
 INFO	missing_superclass	OBI_0001930 [OBI:0001930]	rdfs:subClassOf		
 INFO	missing_superclass	PATO_0000383 [PATO:0000383]	rdfs:subClassOf		
 INFO	missing_superclass	PATO_0000915 [PATO:0000915]	rdfs:subClassOf		

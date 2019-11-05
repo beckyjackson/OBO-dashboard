@@ -49,8 +49,8 @@ ERROR	missing_ontology_license	ero.owl	dc:license
 ERROR	missing_ontology_title	ero.owl	dc11:title		
 ERROR	multiple_labels	is_member_of_organization [ERO:0000024]	label [rdfs:label]	is_member_of	
 ERROR	multiple_labels	is_member_of_organization [ERO:0000024]	label [rdfs:label]	is_member_of_organization	
-ERROR	multiple_labels	Instrumentation fabrication [ERO:0000748]	label [rdfs:label]	Instrumentation fabrication	
-ERROR	multiple_labels	Instrumentation fabrication [ERO:0000748]	label [rdfs:label]	instrumentation fabrication	
+ERROR	multiple_labels	instrumentation fabrication [ERO:0000748]	label [rdfs:label]	Instrumentation fabrication	
+ERROR	multiple_labels	instrumentation fabrication [ERO:0000748]	label [rdfs:label]	instrumentation fabrication	
 ERROR	multiple_labels	optical system design [ERO:0000750]	label [rdfs:label]	optical design	
 ERROR	multiple_labels	optical system design [ERO:0000750]	label [rdfs:label]	optical system design	
 ERROR	multiple_labels	fourier transport infrared spectrometer [ERO:0000901]	label [rdfs:label]	fourier transform infrared spectrometer	

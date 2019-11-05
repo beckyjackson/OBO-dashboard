@@ -1,5 +1,5 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_equivalent_classes	reduced peripheral circulation diagnosis [AERO:0000279]	owl:equivalentClass	blank node <a8e2f6bf68f8810571a4cad593c2eb08>	
+ERROR	multiple_equivalent_classes	reduced peripheral circulation diagnosis [AERO:0000279]	owl:equivalentClass	blank node <aa3ccd607b205eda303757d14ad469ae>	
 ERROR	multiple_equivalent_classes	reduced peripheral circulation diagnosis [AERO:0000279]	owl:equivalentClass	minor cardiovascular criterion for anaphylaxis according to Brighton [AERO:0000304]	
 ERROR	missing_label	AERO:0000352	label [rdfs:label]		
 ERROR	missing_ontology_description	aero.owl	dc11:description		

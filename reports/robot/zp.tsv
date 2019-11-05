@@ -11,562 +11,562 @@ ERROR	duplicate_definition	cell retina decreased amount, abnormal [ZP:0002061]	I
 ERROR	duplicate_definition	cell retina decreased amount, abnormal [ZP:0006721]	IAO_0000115 [IAO:0000115]	Abnormal(ly) decreased amount (of) retina of cell.	
 ERROR	duplicate_definition	cell head apoptotic, abnormal [ZP:0007542]	IAO_0000115 [IAO:0000115]	Abnormal(ly) apoptotic (of) head of cell.	
 ERROR	duplicate_definition	cell head apoptotic, abnormal [ZP:0011625]	IAO_0000115 [IAO:0000115]	Abnormal(ly) apoptotic (of) head of cell.	
-ERROR	multiple_equivalent_classes	trunk normal neural crest cell development, abnormal [ZP:0013012]	owl:equivalentClass	blank node <6b6b0bea7708e5bda48c13382773fe67>	
-ERROR	multiple_equivalent_classes	trunk normal neural crest cell development, abnormal [ZP:0013012]	owl:equivalentClass	blank node <f95b09faeb825b1ca538087915df4dab>	
-ERROR	multiple_equivalent_classes	muscle pioneer normal amount, abnormal [ZP:0100001]	owl:equivalentClass	blank node <128b41bb7e6008648014755c938dfea3>	
-ERROR	multiple_equivalent_classes	muscle pioneer normal amount, abnormal [ZP:0100001]	owl:equivalentClass	blank node <f45a28c74e7c375a8efd4d27a32d2b50>	
-ERROR	multiple_equivalent_classes	choroid plexus increased distribution, abnormal [ZP:0100002]	owl:equivalentClass	blank node <03ca5ab70f076d9ab63c14c2efb704c2>	
-ERROR	multiple_equivalent_classes	choroid plexus increased distribution, abnormal [ZP:0100002]	owl:equivalentClass	blank node <5672a42e7cbf5c3d637edc607693ecb8>	
-ERROR	multiple_equivalent_classes	forerunner cell group amount, abnormal [ZP:0100003]	owl:equivalentClass	blank node <2f82c924f968222457abeefd1e8f307b>	
-ERROR	multiple_equivalent_classes	forerunner cell group amount, abnormal [ZP:0100003]	owl:equivalentClass	blank node <58cba6ca0f19cdf9942dab683fe32744>	
-ERROR	multiple_equivalent_classes	integument occurrence proton export across plasma membrane, abnormal [ZP:0100004]	owl:equivalentClass	blank node <67b7361c36a89b0d2e9b396e7578bd2f>	
-ERROR	multiple_equivalent_classes	integument occurrence proton export across plasma membrane, abnormal [ZP:0100004]	owl:equivalentClass	blank node <d8257944404a9cccd03fe72cc9b54dab>	
-ERROR	multiple_equivalent_classes	integument increased occurrence proton export across plasma membrane, abnormal [ZP:0100005]	owl:equivalentClass	blank node <3a5ff05baed3477f7a01c1a1df2ed27a>	
-ERROR	multiple_equivalent_classes	integument increased occurrence proton export across plasma membrane, abnormal [ZP:0100005]	owl:equivalentClass	blank node <41921e6bc15fce50aca2e07c9508ef1f>	
-ERROR	multiple_equivalent_classes	proton export across plasma membrane occurrence, abnormal [ZP:0100006]	owl:equivalentClass	blank node <52988f73fe623e62227f3360e4dad6a1>	
-ERROR	multiple_equivalent_classes	proton export across plasma membrane occurrence, abnormal [ZP:0100006]	owl:equivalentClass	blank node <c736739c8f4a5e3f66c5ee066ed7152d>	
-ERROR	multiple_equivalent_classes	axon trigeminal ganglion normal amount, abnormal [ZP:0100007]	owl:equivalentClass	blank node <514c11ebdebab0948e482273ec1c2ff4>	
-ERROR	multiple_equivalent_classes	axon trigeminal ganglion normal amount, abnormal [ZP:0100007]	owl:equivalentClass	blank node <69240d319ceeabd4f8a08104f5773fd0>	
-ERROR	multiple_equivalent_classes	extracellular matrix notochord morphology, abnormal [ZP:0100008]	owl:equivalentClass	blank node <90be41dbd5793f8ad32c129febcacf87>	
-ERROR	multiple_equivalent_classes	extracellular matrix notochord morphology, abnormal [ZP:0100008]	owl:equivalentClass	blank node <bae046de688619e7b74b2b154f3b75cf>	
-ERROR	multiple_equivalent_classes	whole organism quality, abnormal [ZP:0100009]	owl:equivalentClass	blank node <7767b742d8718f96bffb729017771635>	
-ERROR	multiple_equivalent_classes	whole organism quality, abnormal [ZP:0100009]	owl:equivalentClass	blank node <d9dc86a42a29fd9b8b9bd06e3d13079b>	
-ERROR	multiple_equivalent_classes	anatomical system quality, abnormal [ZP:0100010]	owl:equivalentClass	blank node <b218bb22c8f507f9147f42a7b9899c95>	
-ERROR	multiple_equivalent_classes	anatomical system quality, abnormal [ZP:0100010]	owl:equivalentClass	blank node <e547324ec22dc45b90534d54237c14d2>	
-ERROR	multiple_equivalent_classes	blood cell normal amount, abnormal [ZP:0100011]	owl:equivalentClass	blank node <08d362040d4cb3afad8dac51893d6cd3>	
-ERROR	multiple_equivalent_classes	blood cell normal amount, abnormal [ZP:0100011]	owl:equivalentClass	blank node <8f95ea83de3a8abde35a7dbaf962bc4d>	
-ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle normal amount, abnormal [ZP:0100012]	owl:equivalentClass	blank node <4d0154f3ba21d608ac263ad1c256c350>	
-ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle normal amount, abnormal [ZP:0100012]	owl:equivalentClass	blank node <619d3cd08df9b4b4003e973ebaa845d1>	
-ERROR	multiple_equivalent_classes	cartilage element pharyngeal arch cartilage mislocalised, abnormal [ZP:0100013]	owl:equivalentClass	blank node <833a9bbe2fc3c7dfe0191dd0cd988646>	
-ERROR	multiple_equivalent_classes	cartilage element pharyngeal arch cartilage mislocalised, abnormal [ZP:0100013]	owl:equivalentClass	blank node <f27d82ff0629a359453482307016243a>	
-ERROR	multiple_equivalent_classes	chondrocyte pharyngeal arch cartilage stacked, abnormal [ZP:0100014]	owl:equivalentClass	blank node <854a42961a9179a1e257a2e9b361640d>	
-ERROR	multiple_equivalent_classes	chondrocyte pharyngeal arch cartilage stacked, abnormal [ZP:0100014]	owl:equivalentClass	blank node <b931f90b0ea65fa3a4599433efb23b10>	
-ERROR	multiple_equivalent_classes	hair cell anterior macula amount, abnormal [ZP:0100015]	owl:equivalentClass	blank node <851aefe9fdaef81b34ff2a2d73951253>	
-ERROR	multiple_equivalent_classes	hair cell anterior macula amount, abnormal [ZP:0100015]	owl:equivalentClass	blank node <aa6f23eb7c1d2099b084b9a7a7875fc6>	
-ERROR	multiple_equivalent_classes	pronephric duct occurrence autophagy, abnormal [ZP:0100016]	owl:equivalentClass	blank node <5f639a3ecf6f4eb2bea2f9add498f37f>	
-ERROR	multiple_equivalent_classes	pronephric duct occurrence autophagy, abnormal [ZP:0100016]	owl:equivalentClass	blank node <7b4fbebca8535bc1c8df91ba17223d43>	
-ERROR	multiple_equivalent_classes	pronephric duct decreased occurrence autophagy, abnormal [ZP:0100017]	owl:equivalentClass	blank node <949034947aea114e42b6328ffdd1c995>	
-ERROR	multiple_equivalent_classes	pronephric duct decreased occurrence autophagy, abnormal [ZP:0100017]	owl:equivalentClass	blank node <d5ffbe36d22da2532dcfdd6fd38b54f9>	
-ERROR	multiple_equivalent_classes	pronephric duct spatial pattern, abnormal [ZP:0100018]	owl:equivalentClass	blank node <204e7a9c6a15dc57ebcc14f6ec0614da>	
-ERROR	multiple_equivalent_classes	pronephric duct spatial pattern, abnormal [ZP:0100018]	owl:equivalentClass	blank node <46138c5d7c65a13b4cd68f6409a9687c>	
-ERROR	multiple_equivalent_classes	pronephric duct amount, abnormal [ZP:0100019]	owl:equivalentClass	blank node <5b4d31d3bcbd51760475fb12ee535704>	
-ERROR	multiple_equivalent_classes	pronephric duct amount, abnormal [ZP:0100019]	owl:equivalentClass	blank node <5bca1e11982e9acff2ab52221d781c05>	
-ERROR	multiple_equivalent_classes	vent morphology, abnormal [ZP:0100020]	owl:equivalentClass	blank node <57832a340835965f31e45a4aaed8cb41>	
-ERROR	multiple_equivalent_classes	vent morphology, abnormal [ZP:0100020]	owl:equivalentClass	blank node <fa3aab42b83a1cb7690afc0d7864a0af>	
-ERROR	multiple_equivalent_classes	vent malformed, abnormal [ZP:0100021]	owl:equivalentClass	blank node <0f6ba3aa19bfada93d781a00e701fb56>	
-ERROR	multiple_equivalent_classes	vent malformed, abnormal [ZP:0100021]	owl:equivalentClass	blank node <3f34839a6c0d38481c1c4a1363dcab7c>	
-ERROR	multiple_equivalent_classes	photoreceptor cell normal amount, abnormal [ZP:0100022]	owl:equivalentClass	blank node <ababc73e97908b1284f5a07e3e80a037>	
-ERROR	multiple_equivalent_classes	photoreceptor cell normal amount, abnormal [ZP:0100022]	owl:equivalentClass	blank node <e042a3bff04278ac80ae2d49f618a609>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium amount, abnormal [ZP:0100023]	owl:equivalentClass	blank node <33909f068f427fb240dc97da4a567fa1>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium amount, abnormal [ZP:0100023]	owl:equivalentClass	blank node <a7c8417da1cbfa52c6ed5cb6cc2fe0b3>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell ventricular myocardium amount, abnormal [ZP:0100024]	owl:equivalentClass	blank node <ded7ffe4e7058a97f1c50661c689c8c9>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell ventricular myocardium amount, abnormal [ZP:0100024]	owl:equivalentClass	blank node <fa7b43b28668611d0027efa622ec8423>	
-ERROR	multiple_equivalent_classes	myelin sheath oligodendrocyte length, abnormal [ZP:0100025]	owl:equivalentClass	blank node <3a450a93e13c199525d76c31fa1fd450>	
-ERROR	multiple_equivalent_classes	myelin sheath oligodendrocyte length, abnormal [ZP:0100025]	owl:equivalentClass	blank node <b600afe158c4a3518f4dfa2bacd8a778>	
-ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm occurrence apoptotic process, abnormal [ZP:0100026]	owl:equivalentClass	blank node <49bea369f4ea090a4bdd3db493cbad03>	
-ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm occurrence apoptotic process, abnormal [ZP:0100026]	owl:equivalentClass	blank node <514d32cf6f83ffc793b3900b6bfc06de>	
-ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm increased occurrence cell population proliferation, abnormal [ZP:0100027]	owl:equivalentClass	blank node <446b42e140774ad7cf58528366e3e62f>	
-ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm increased occurrence cell population proliferation, abnormal [ZP:0100027]	owl:equivalentClass	blank node <93692ad9ec78300247faa921b1705571>	
-ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane decreased occurrence, abnormal [ZP:0100028]	owl:equivalentClass	blank node <6ffb5c8ec3f5325025308e5347c0d459>	
-ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane decreased occurrence, abnormal [ZP:0100028]	owl:equivalentClass	blank node <e67ed76a10a2133353d7faff65ae62d2>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta increased distribution, abnormal [ZP:0100029]	owl:equivalentClass	blank node <697f03294729895748a7ccb5c9805659>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta increased distribution, abnormal [ZP:0100029]	owl:equivalentClass	blank node <709e554f469c8d9b315cb33f35fecb99>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell head kidney increased distribution, abnormal [ZP:0100030]	owl:equivalentClass	blank node <1a4afcd82caf0089c245bca61233ce6d>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell head kidney increased distribution, abnormal [ZP:0100030]	owl:equivalentClass	blank node <b03d6095af100ee685a26bc7504333cf>	
-ERROR	multiple_equivalent_classes	T cell thymus increased amount, abnormal [ZP:0100031]	owl:equivalentClass	blank node <3c21bd026dc987427af5a8227781f211>	
-ERROR	multiple_equivalent_classes	T cell thymus increased amount, abnormal [ZP:0100031]	owl:equivalentClass	blank node <3e24fb7d8d460af24e27fa450d3eddff>	
-ERROR	multiple_equivalent_classes	T cell thymus increased distribution, abnormal [ZP:0100032]	owl:equivalentClass	blank node <81fef88f565f0fce16013418838f0044>	
-ERROR	multiple_equivalent_classes	T cell thymus increased distribution, abnormal [ZP:0100032]	owl:equivalentClass	blank node <d81cbbec1226d547dd2790d4ffbd8c21>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell increased distribution, abnormal [ZP:0100033]	owl:equivalentClass	blank node <0e01c305f8db7238f9e9a753376c3822>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell increased distribution, abnormal [ZP:0100033]	owl:equivalentClass	blank node <dffb246517efe22f18d3474eb0161142>	
-ERROR	multiple_equivalent_classes	intersegmental vessel amount, abnormal [ZP:0100034]	owl:equivalentClass	blank node <24362a2313eabf13c0ce4ff4f90e9488>	
-ERROR	multiple_equivalent_classes	intersegmental vessel amount, abnormal [ZP:0100034]	owl:equivalentClass	blank node <37127800dde435ef7e1c525f09a06fda>	
-ERROR	multiple_equivalent_classes	macrophage normal amount, abnormal [ZP:0100035]	owl:equivalentClass	blank node <82c589fd07083210fd6e9399a4d6266f>	
-ERROR	multiple_equivalent_classes	macrophage normal amount, abnormal [ZP:0100035]	owl:equivalentClass	blank node <b64b932914fb08df62a38e61d00700c9>	
-ERROR	multiple_equivalent_classes	Rohon-Beard neuron amount, abnormal [ZP:0100036]	owl:equivalentClass	blank node <25ee29f812093c3b03e9b35add940a76>	
-ERROR	multiple_equivalent_classes	Rohon-Beard neuron amount, abnormal [ZP:0100036]	owl:equivalentClass	blank node <a2488edc9e0123b914ae163eb41523c8>	
-ERROR	multiple_equivalent_classes	optic vesicle decreased amount, abnormal [ZP:0100037]	owl:equivalentClass	blank node <360a96e73fba4e6354107e3be1a32b2a>	
-ERROR	multiple_equivalent_classes	optic vesicle decreased amount, abnormal [ZP:0100037]	owl:equivalentClass	blank node <c239cdbd0f59d45031dffae7c9113474>	
-ERROR	multiple_equivalent_classes	anterior neural plate decreased distribution, abnormal [ZP:0100038]	owl:equivalentClass	blank node <45e37f3feb247f7d6ff231c84a9073b1>	
-ERROR	multiple_equivalent_classes	anterior neural plate decreased distribution, abnormal [ZP:0100038]	owl:equivalentClass	blank node <af08d61557760bff0519ffa48174e253>	
-ERROR	multiple_equivalent_classes	posterior neural plate increased distribution, abnormal [ZP:0100039]	owl:equivalentClass	blank node <8a53ec4d39cfdb20302fc1f6c33087b6>	
-ERROR	multiple_equivalent_classes	posterior neural plate increased distribution, abnormal [ZP:0100039]	owl:equivalentClass	blank node <d120f0512f5c7eb5773fd27a0fe41b61>	
-ERROR	multiple_equivalent_classes	presumptive telencephalon decreased distribution, abnormal [ZP:0100040]	owl:equivalentClass	blank node <8707a1006b453bcf30e1575eb2257130>	
-ERROR	multiple_equivalent_classes	presumptive telencephalon decreased distribution, abnormal [ZP:0100040]	owl:equivalentClass	blank node <ef9d839177a8a2279d65fac3615bc95d>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell amount, abnormal [ZP:0100041]	owl:equivalentClass	blank node <1698cc52f2db576dfddf636dd5c17fe2>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell amount, abnormal [ZP:0100041]	owl:equivalentClass	blank node <768ccf226703826d9cc18fd999e13143>	
-ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has fewer parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100042]	owl:equivalentClass	blank node <25c7a48f5f20fff507c5b1b69a843812>	
-ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has fewer parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100042]	owl:equivalentClass	blank node <b978842e7f5aaaee396fc8f486a1938a>	
-ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has extra parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100043]	owl:equivalentClass	blank node <4eb4ae517c2cd714230fa2496bb5d13a>	
-ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has extra parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100043]	owl:equivalentClass	blank node <d68e51e7ee3c15fd7149244e95c70111>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta spatial pattern, abnormal [ZP:0100044]	owl:equivalentClass	blank node <29fc77fba4e1667782e1318d82dc0ec8>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta spatial pattern, abnormal [ZP:0100044]	owl:equivalentClass	blank node <6784453504355f97613984996b5a9e2a>	
-ERROR	multiple_equivalent_classes	neutrophil kidney decreased amount, abnormal [ZP:0100045]	owl:equivalentClass	blank node <3c60f3127c4cccb73f962c31fa554609>	
-ERROR	multiple_equivalent_classes	neutrophil kidney decreased amount, abnormal [ZP:0100045]	owl:equivalentClass	blank node <a88d5a5c54904ae6a692388de4e19020>	
-ERROR	multiple_equivalent_classes	myeloid cell normal amount, abnormal [ZP:0100046]	owl:equivalentClass	blank node <80e729bdd72ecddb18d2b4c9514f0f5e>	
-ERROR	multiple_equivalent_classes	myeloid cell normal amount, abnormal [ZP:0100046]	owl:equivalentClass	blank node <e0b29211df9afef56f463fe5c4c7aa72>	
-ERROR	multiple_equivalent_classes	cilium inner ear morphology, abnormal [ZP:0100047]	owl:equivalentClass	blank node <350af813cc7f351e3ed76cc1a677c89c>	
-ERROR	multiple_equivalent_classes	cilium inner ear morphology, abnormal [ZP:0100047]	owl:equivalentClass	blank node <8aed0a5e839d087efb74e357e81389e9>	
-ERROR	multiple_equivalent_classes	photoreceptor connecting cilium photoreceptor cell decreased amount, abnormal [ZP:0100048]	owl:equivalentClass	blank node <300f138f8a268424860f2c12e038f406>	
-ERROR	multiple_equivalent_classes	photoreceptor connecting cilium photoreceptor cell decreased amount, abnormal [ZP:0100048]	owl:equivalentClass	blank node <8a2bccbb78d4fd45e2cabdccdf251c6a>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type somatotropin secreting cell, abnormal [ZP:0100049]	owl:equivalentClass	blank node <7a9a581d6a1237b898ae5a1cb51844d2>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type somatotropin secreting cell, abnormal [ZP:0100049]	owl:equivalentClass	blank node <aff4143b1a45092f8d8daaf7269c7fb6>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has number of thyroid stimulating hormone secreting cell, abnormal [ZP:0100050]	owl:equivalentClass	blank node <18f143a22aaafad76fab0bc6ad28aa5d>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has number of thyroid stimulating hormone secreting cell, abnormal [ZP:0100050]	owl:equivalentClass	blank node <765009b53c91372f803d8e9cde22246d>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100051]	owl:equivalentClass	blank node <3b4b6faae0de97fb5297f3598ac27b2e>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100051]	owl:equivalentClass	blank node <413b0adf994105b9d62a91bbde4b6374>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has extra parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100052]	owl:equivalentClass	blank node <96fcec64ff7e27e54186b4252d6e482d>	
-ERROR	multiple_equivalent_classes	proximal pars anterior has extra parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100052]	owl:equivalentClass	blank node <fac845e4e712b9be5d201bf32046a1fa>	
-ERROR	multiple_equivalent_classes	central region retina increased amount, abnormal [ZP:0100053]	owl:equivalentClass	blank node <93b1488f00c9c0dcb4977a3d181ba9d1>	
-ERROR	multiple_equivalent_classes	central region retina increased amount, abnormal [ZP:0100053]	owl:equivalentClass	blank node <cb23c93ee120a0766c4f82b2970dedaa>	
-ERROR	multiple_equivalent_classes	peripheral region retina increased amount, abnormal [ZP:0100054]	owl:equivalentClass	blank node <6af2789a04789aa6a15c23d06cbdc419>	
-ERROR	multiple_equivalent_classes	peripheral region retina increased amount, abnormal [ZP:0100054]	owl:equivalentClass	blank node <aabdeba39a5afebce81122a0ae163316>	
-ERROR	multiple_equivalent_classes	posterior lateral line neuromast normal amount, abnormal [ZP:0100055]	owl:equivalentClass	blank node <28e0f63bebc73ac05166c6385e63acd7>	
-ERROR	multiple_equivalent_classes	posterior lateral line neuromast normal amount, abnormal [ZP:0100055]	owl:equivalentClass	blank node <8d5af581bbebc5f5bfc2e7e1278e7953>	
-ERROR	multiple_equivalent_classes	thrombocyte normal amount, abnormal [ZP:0100056]	owl:equivalentClass	blank node <22ecc2de89d4a7677fce60079f346717>	
-ERROR	multiple_equivalent_classes	thrombocyte normal amount, abnormal [ZP:0100056]	owl:equivalentClass	blank node <2cf656f8a6651ab3ed028a59fa64583d>	
-ERROR	multiple_equivalent_classes	erythroid lineage cell normal amount, abnormal [ZP:0100057]	owl:equivalentClass	blank node <590695affb08f0e89ca94cc5a3de9c3f>	
-ERROR	multiple_equivalent_classes	erythroid lineage cell normal amount, abnormal [ZP:0100057]	owl:equivalentClass	blank node <d2035980635c32e3d771be134d3e67d3>	
-ERROR	multiple_equivalent_classes	Kupffer\'s vesicle decreased fluid flow, abnormal [ZP:0100058]	owl:equivalentClass	blank node <08b8fbcc033cbfe929ffaaed69750c92>	
-ERROR	multiple_equivalent_classes	Kupffer\'s vesicle decreased fluid flow, abnormal [ZP:0100058]	owl:equivalentClass	blank node <fd221c5a9b938ca8bb1ae7ab73805edc>	
-ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle amount, abnormal [ZP:0100059]	owl:equivalentClass	blank node <784c3d54c6c6c07de1f9ff4b4faa3f8d>	
-ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle amount, abnormal [ZP:0100059]	owl:equivalentClass	blank node <96fb26419cb92eba14a1478f38cff842>	
-ERROR	multiple_equivalent_classes	cell body Muller cell displaced, abnormal [ZP:0100060]	owl:equivalentClass	blank node <5477c5a9f4aa82d7bd1175635e164d0f>	
-ERROR	multiple_equivalent_classes	cell body Muller cell displaced, abnormal [ZP:0100060]	owl:equivalentClass	blank node <8c0f3bc1f9ebd90eb6780e5b3568b308>	
-ERROR	multiple_equivalent_classes	hepatocyte amount, abnormal [ZP:0100061]	owl:equivalentClass	blank node <1425bd784dade3f0f67ce08154093452>	
-ERROR	multiple_equivalent_classes	hepatocyte amount, abnormal [ZP:0100061]	owl:equivalentClass	blank node <b55d2c16ecf301058ac4e7e31dc3c7cc>	
-ERROR	multiple_equivalent_classes	primordial germ cell aggregated, abnormal [ZP:0100062]	owl:equivalentClass	blank node <550f40ebf5c3cf956946e62f61e9bc70>	
-ERROR	multiple_equivalent_classes	primordial germ cell aggregated, abnormal [ZP:0100062]	owl:equivalentClass	blank node <6520c9f6da46145c7fa1b14e87e727e3>	
-ERROR	multiple_equivalent_classes	calcium carbonate caudal fin increased amount, abnormal [ZP:0100063]	owl:equivalentClass	blank node <3d326a6ca43103bf9777979a8a3b9e89>	
-ERROR	multiple_equivalent_classes	calcium carbonate caudal fin increased amount, abnormal [ZP:0100063]	owl:equivalentClass	blank node <73572f2bb528bfc2f16e9fe63fa62a3a>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell normal amount, abnormal [ZP:0100064]	owl:equivalentClass	blank node <2f23d1db46923c40be8fc9030e4f38b0>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell normal amount, abnormal [ZP:0100064]	owl:equivalentClass	blank node <d328ffdc7b6fb8697707a9c996971b14>	
-ERROR	multiple_equivalent_classes	axon retinal neural layer truncated, abnormal [ZP:0100065]	owl:equivalentClass	blank node <53ad8c6246bebbdc293b998231203592>	
-ERROR	multiple_equivalent_classes	axon retinal neural layer truncated, abnormal [ZP:0100065]	owl:equivalentClass	blank node <8019b56089e7690ea4e46c4625683f43>	
-ERROR	multiple_equivalent_classes	axon retinal neural layer decreased branchiness, abnormal [ZP:0100066]	owl:equivalentClass	blank node <4fc19dd9ac9a538be2f7baade8a76d9b>	
-ERROR	multiple_equivalent_classes	axon retinal neural layer decreased branchiness, abnormal [ZP:0100066]	owl:equivalentClass	blank node <c2b09665b60ef9818028782f3772049b>	
-ERROR	multiple_equivalent_classes	heparan sulfate 6-O-sulfotransferase activity process quality, abnormal [ZP:0100067]	owl:equivalentClass	blank node <7b468f650f471a1f00736b2eb033d4d0>	
-ERROR	multiple_equivalent_classes	heparan sulfate 6-O-sulfotransferase activity process quality, abnormal [ZP:0100067]	owl:equivalentClass	blank node <ad8181ff4fd8c19f0a8fc9d0297c7cc2>	
-ERROR	multiple_equivalent_classes	inner ear increased occurrence apoptotic process, abnormal [ZP:0100068]	owl:equivalentClass	blank node <8d924be588861a0de752ae64b1f9e234>	
-ERROR	multiple_equivalent_classes	inner ear increased occurrence apoptotic process, abnormal [ZP:0100068]	owl:equivalentClass	blank node <f4421750c12ece32d84fbbec813b825d>	
-ERROR	multiple_equivalent_classes	pectoral fin increased occurrence apoptotic process, abnormal [ZP:0100069]	owl:equivalentClass	blank node <14eae005cddeef5afa5af8eb33704281>	
-ERROR	multiple_equivalent_classes	pectoral fin increased occurrence apoptotic process, abnormal [ZP:0100069]	owl:equivalentClass	blank node <2018bec1f435ac3a7f807a7632c39524>	
-ERROR	multiple_equivalent_classes	hair cell neuromast decreased amount, abnormal [ZP:0100070]	owl:equivalentClass	blank node <2749c39b799329f9084fd96e6971f170>	
-ERROR	multiple_equivalent_classes	hair cell neuromast decreased amount, abnormal [ZP:0100070]	owl:equivalentClass	blank node <b43e71e29429a30e89d4179bace8cc73>	
-ERROR	multiple_equivalent_classes	otolith development decreased process quality, abnormal [ZP:0100071]	owl:equivalentClass	blank node <b1c1ed99f547b3c7dca2e7d2662f2b9f>	
-ERROR	multiple_equivalent_classes	otolith development decreased process quality, abnormal [ZP:0100071]	owl:equivalentClass	blank node <ffa79223004c1135550ef7ee231a683d>	
-ERROR	multiple_equivalent_classes	neuromast normal amount, abnormal [ZP:0100072]	owl:equivalentClass	blank node <1553fd277fd4dcb79a06b6f7958f29cb>	
-ERROR	multiple_equivalent_classes	neuromast normal amount, abnormal [ZP:0100072]	owl:equivalentClass	blank node <3b4cf3be5f2fe394806649a0be155456>	
-ERROR	multiple_equivalent_classes	macrophage amount, abnormal [ZP:0100073]	owl:equivalentClass	blank node <7f5b00f16a9bd20330cab8186913adb1>	
-ERROR	multiple_equivalent_classes	macrophage amount, abnormal [ZP:0100073]	owl:equivalentClass	blank node <8d4615dbf927d3a5901bf68e5700b8e4>	
-ERROR	multiple_equivalent_classes	caudal fin actinotrichium regenerating fin decreased amount, abnormal [ZP:0100074]	owl:equivalentClass	blank node <cb30db76296a92a51ef096d90095c04b>	
-ERROR	multiple_equivalent_classes	caudal fin actinotrichium regenerating fin decreased amount, abnormal [ZP:0100074]	owl:equivalentClass	blank node <f683be16a6b862cc57c9b30f1d70823e>	
-ERROR	multiple_equivalent_classes	hypochord spatial pattern, abnormal [ZP:0100075]	owl:equivalentClass	blank node <5480a8af8440d6075696eb10cee13ef0>	
-ERROR	multiple_equivalent_classes	hypochord spatial pattern, abnormal [ZP:0100075]	owl:equivalentClass	blank node <6111375911d103cfbb5275405749cad0>	
-ERROR	multiple_equivalent_classes	intermediate mesoderm spatial pattern, abnormal [ZP:0100076]	owl:equivalentClass	blank node <904ea672ee607b9a90319cc755c65ea3>	
-ERROR	multiple_equivalent_classes	intermediate mesoderm spatial pattern, abnormal [ZP:0100076]	owl:equivalentClass	blank node <dbb26938143b4312eda340a57ebc48ef>	
-ERROR	multiple_equivalent_classes	angioblastic mesenchymal cell spatial pattern, abnormal [ZP:0100077]	owl:equivalentClass	blank node <919a194f56a58dbab9cac8971ed6ef6d>	
-ERROR	multiple_equivalent_classes	angioblastic mesenchymal cell spatial pattern, abnormal [ZP:0100077]	owl:equivalentClass	blank node <a5b70b8c10bf663e27502be72e6b29b2>	
-ERROR	multiple_equivalent_classes	pronephric proximal convoluted tubule has extra parts of type cytoplasm vesicle pronephric proximal convoluted tubule, abnormal [ZP:0100078]	owl:equivalentClass	blank node <7ad37547c6f4705ef4a4a9360a8c60af>	
-ERROR	multiple_equivalent_classes	pronephric proximal convoluted tubule has extra parts of type cytoplasm vesicle pronephric proximal convoluted tubule, abnormal [ZP:0100078]	owl:equivalentClass	blank node <b481ddafa5c826efd34dcd8b24d1f53e>	
-ERROR	multiple_equivalent_classes	pronephric proximal straight tubule has normal numbers of parts of type cytoplasm vesicle pronephric proximal straight tubule, abnormal [ZP:0100079]	owl:equivalentClass	blank node <488a02dd5b4985f196e391bff333f554>	
-ERROR	multiple_equivalent_classes	pronephric proximal straight tubule has normal numbers of parts of type cytoplasm vesicle pronephric proximal straight tubule, abnormal [ZP:0100079]	owl:equivalentClass	blank node <b5e21af0d8ba935509f31f3d8aac827a>	
-ERROR	multiple_equivalent_classes	proximal convoluted tubule occurrence cell population proliferation, abnormal [ZP:0100080]	owl:equivalentClass	blank node <12c8e56f823b0580642ee344f51c95ff>	
-ERROR	multiple_equivalent_classes	proximal convoluted tubule occurrence cell population proliferation, abnormal [ZP:0100080]	owl:equivalentClass	blank node <99d89edd65685c9deb5403b6da488b5d>	
-ERROR	multiple_equivalent_classes	proximal straight tubule occurrence cell population proliferation, abnormal [ZP:0100081]	owl:equivalentClass	blank node <4547a7975ff0525f9f32cb4d925cf097>	
-ERROR	multiple_equivalent_classes	proximal straight tubule occurrence cell population proliferation, abnormal [ZP:0100081]	owl:equivalentClass	blank node <d40b1419b1145ba020f513ae6d68f168>	
-ERROR	multiple_equivalent_classes	vesicle pronephric proximal convoluted tubule increased variability of size, abnormal [ZP:0100082]	owl:equivalentClass	blank node <1b018924a2eaafceae30a43591311fdf>	
-ERROR	multiple_equivalent_classes	vesicle pronephric proximal convoluted tubule increased variability of size, abnormal [ZP:0100082]	owl:equivalentClass	blank node <2646ca3cf0e6798a30542811ab28d89f>	
-ERROR	multiple_equivalent_classes	cell pronephric proximal convoluted tubule botryoidal, abnormal [ZP:0100083]	owl:equivalentClass	blank node <5555cab8dd8a9bd84045c7b09c29049c>	
-ERROR	multiple_equivalent_classes	cell pronephric proximal convoluted tubule botryoidal, abnormal [ZP:0100083]	owl:equivalentClass	blank node <c96a0c9dcfa420acaab7bb6dc8085b5e>	
-ERROR	multiple_equivalent_classes	cell pronephric proximal straight tubule botryoidal, abnormal [ZP:0100084]	owl:equivalentClass	blank node <0527ed12d953dc16a6ffea7988972419>	
-ERROR	multiple_equivalent_classes	cell pronephric proximal straight tubule botryoidal, abnormal [ZP:0100084]	owl:equivalentClass	blank node <22631023c260dd9a774d0bc22d124d63>	
-ERROR	multiple_equivalent_classes	pronephros development decreased process quality, abnormal [ZP:0100085]	owl:equivalentClass	blank node <82670b20247a170b38a7734839f20e2d>	
-ERROR	multiple_equivalent_classes	pronephros development decreased process quality, abnormal [ZP:0100085]	owl:equivalentClass	blank node <ad54fecb263a7b52f6aa3af4934909da>	
-ERROR	multiple_equivalent_classes	pronephric podocyte increased amount, abnormal [ZP:0100086]	owl:equivalentClass	blank node <18ba1640179b9a6d15e13bf8a5d44372>	
-ERROR	multiple_equivalent_classes	pronephric podocyte increased amount, abnormal [ZP:0100086]	owl:equivalentClass	blank node <226e5a7431c382d7079d4bd1545ba0d7>	
-ERROR	multiple_equivalent_classes	pronephric capsular space increased width, abnormal [ZP:0100087]	owl:equivalentClass	blank node <2d5ca4cd738633e337d71eee8798eccf>	
-ERROR	multiple_equivalent_classes	pronephric capsular space increased width, abnormal [ZP:0100087]	owl:equivalentClass	blank node <abba1db4beacd5fd105f1b7c27f6bbd8>	
-ERROR	multiple_equivalent_classes	capillary loop nephron increased amount, abnormal [ZP:0100088]	owl:equivalentClass	blank node <24cf3e936c027e947aac4c3401b25503>	
-ERROR	multiple_equivalent_classes	capillary loop nephron increased amount, abnormal [ZP:0100088]	owl:equivalentClass	blank node <9ad002ae7f4f7216b420f479888fab57>	
-ERROR	multiple_equivalent_classes	capillary loop nephron dilated, abnormal [ZP:0100089]	owl:equivalentClass	blank node <3d4abd851ccb73751d9fd32c00d49321>	
-ERROR	multiple_equivalent_classes	capillary loop nephron dilated, abnormal [ZP:0100089]	owl:equivalentClass	blank node <696ef62bf112310d15c9413c8e8e50cd>	
-ERROR	multiple_equivalent_classes	melanocyte normal amount, abnormal [ZP:0100090]	owl:equivalentClass	blank node <46da8ead9e1a702ae8e9df35b29f1c7e>	
-ERROR	multiple_equivalent_classes	melanocyte normal amount, abnormal [ZP:0100090]	owl:equivalentClass	blank node <fcbd859dc9c283b19970c616125797cc>	
-ERROR	multiple_equivalent_classes	whole organism increased frequency apoptotic process, abnormal [ZP:0100091]	owl:equivalentClass	blank node <4bfb42a0f1f4375783f5497c6c574743>	
-ERROR	multiple_equivalent_classes	whole organism increased frequency apoptotic process, abnormal [ZP:0100091]	owl:equivalentClass	blank node <cf995488accf2e5233e8e70f0f1139aa>	
-ERROR	multiple_equivalent_classes	whole organism decreased frequency apoptotic process, abnormal [ZP:0100092]	owl:equivalentClass	blank node <4e4195ffe088e6a467bf0df40a0951e9>	
-ERROR	multiple_equivalent_classes	whole organism decreased frequency apoptotic process, abnormal [ZP:0100092]	owl:equivalentClass	blank node <d2a93000e78e5a5f3a85f4a557ac5c03>	
-ERROR	multiple_equivalent_classes	ventral region pharyngeal arch cartilage amount, abnormal [ZP:0100093]	owl:equivalentClass	blank node <715ba273fda5dea2f4dc5235d77c250d>	
-ERROR	multiple_equivalent_classes	ventral region pharyngeal arch cartilage amount, abnormal [ZP:0100093]	owl:equivalentClass	blank node <bba2ca4e9cdc5247341a2541978dc6a6>	
-ERROR	multiple_equivalent_classes	ventral region pharyngeal arch 2 size, abnormal [ZP:0100094]	owl:equivalentClass	blank node <3a30f9b3b636450cc8a122d61a680e07>	
-ERROR	multiple_equivalent_classes	ventral region pharyngeal arch 2 size, abnormal [ZP:0100094]	owl:equivalentClass	blank node <7bff67adb993fefcc1846a700d04e5ee>	
-ERROR	multiple_equivalent_classes	trunk neural crest cell migration arrested, abnormal [ZP:0100095]	owl:equivalentClass	blank node <98d7f030a3c1268b46b378382d6f0565>	
-ERROR	multiple_equivalent_classes	trunk neural crest cell migration arrested, abnormal [ZP:0100095]	owl:equivalentClass	blank node <ef8ddbfcbcfb0bda6436a84313895212>	
-ERROR	multiple_equivalent_classes	neural crest separated from dorsal aorta, abnormal [ZP:0100096]	owl:equivalentClass	blank node <20fea3322e26978a0e33b6f3e6c81662>	
-ERROR	multiple_equivalent_classes	neural crest separated from dorsal aorta, abnormal [ZP:0100096]	owl:equivalentClass	blank node <d9b85b6d94379131f0fee2d7e36f5ada>	
-ERROR	multiple_equivalent_classes	midbrain lacks all parts of type lymph vessel endothelial cell, abnormal [ZP:0100097]	owl:equivalentClass	blank node <1efeedada6a0e962025471ebd88d2216>	
-ERROR	multiple_equivalent_classes	midbrain lacks all parts of type lymph vessel endothelial cell, abnormal [ZP:0100097]	owl:equivalentClass	blank node <5857aee347f56717e36dfe77ff851913>	
-ERROR	multiple_equivalent_classes	neuromast hair cell amount, abnormal [ZP:0100098]	owl:equivalentClass	blank node <5080c22b8ca1e983645e9068139108b5>	
-ERROR	multiple_equivalent_classes	neuromast hair cell amount, abnormal [ZP:0100098]	owl:equivalentClass	blank node <f2ab2e7859fde5b4ec03df836aa3f5a6>	
-ERROR	multiple_equivalent_classes	dorsal region spinal cord increased amount, abnormal [ZP:0100099]	owl:equivalentClass	blank node <9be2f94c392df392d876466aec176871>	
-ERROR	multiple_equivalent_classes	dorsal region spinal cord increased amount, abnormal [ZP:0100099]	owl:equivalentClass	blank node <eaae3899322a5036e8b40b4e3a45c96b>	
-ERROR	multiple_equivalent_classes	ventral region spinal cord increased amount, abnormal [ZP:0100100]	owl:equivalentClass	blank node <7b005be5964820e9d3352049ab053b59>	
-ERROR	multiple_equivalent_classes	ventral region spinal cord increased amount, abnormal [ZP:0100100]	owl:equivalentClass	blank node <a45dc7b04d9833e4a5a0f6c159b4bbc8>	
-ERROR	multiple_equivalent_classes	ventricular zone hindbrain increased amount, abnormal [ZP:0100101]	owl:equivalentClass	blank node <0ed13cc523542961d309eb9e0439551f>	
-ERROR	multiple_equivalent_classes	ventricular zone hindbrain increased amount, abnormal [ZP:0100101]	owl:equivalentClass	blank node <8aa63142dc70ac49bdaaf4b16e668f58>	
-ERROR	multiple_equivalent_classes	ventricular zone forebrain increased amount, abnormal [ZP:0100102]	owl:equivalentClass	blank node <ba2f97a35f06634ac5d1f7fcb789c8f5>	
-ERROR	multiple_equivalent_classes	ventricular zone forebrain increased amount, abnormal [ZP:0100102]	owl:equivalentClass	blank node <f414e1135461990449def1c1626611d4>	
-ERROR	multiple_equivalent_classes	ventricular zone midbrain increased amount, abnormal [ZP:0100103]	owl:equivalentClass	blank node <18c99868e7ab91a1202483497bf8ebd2>	
-ERROR	multiple_equivalent_classes	ventricular zone midbrain increased amount, abnormal [ZP:0100103]	owl:equivalentClass	blank node <a0f8660a8dc4a6576c921ebc3c3cde31>	
-ERROR	multiple_equivalent_classes	neuronal stem cell increased amount, abnormal [ZP:0100104]	owl:equivalentClass	blank node <525df6663721caa4e283982b94e44340>	
-ERROR	multiple_equivalent_classes	neuronal stem cell increased amount, abnormal [ZP:0100104]	owl:equivalentClass	blank node <a99814e86ce5f9cc0d03098082e4ca09>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased length, abnormal [ZP:0100105]	owl:equivalentClass	blank node <16c673e30e98761aeb7ceade8d092f37>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased length, abnormal [ZP:0100105]	owl:equivalentClass	blank node <cdf198f6cc9484d5bc3daf9daeb67ff7>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased length, abnormal [ZP:0100106]	owl:equivalentClass	blank node <3ab0984bdeecb27c1388d6ca4d235758>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased length, abnormal [ZP:0100106]	owl:equivalentClass	blank node <934f6a12bd51a22482f30edede968097>	
-ERROR	multiple_equivalent_classes	posterior lateral line primordium spatial pattern, abnormal [ZP:0100107]	owl:equivalentClass	blank node <e7b2340c098ff132ab2b5e41a9a27696>	
-ERROR	multiple_equivalent_classes	posterior lateral line primordium spatial pattern, abnormal [ZP:0100107]	owl:equivalentClass	blank node <f33cd204718d82df58579b9c6b99a14d>	
-ERROR	multiple_equivalent_classes	dorsal-most region somite mislocalised, abnormal [ZP:0100108]	owl:equivalentClass	blank node <1d33abe2c90178e3911a407d50432f55>	
-ERROR	multiple_equivalent_classes	dorsal-most region somite mislocalised, abnormal [ZP:0100108]	owl:equivalentClass	blank node <8765afecd04afe7e5860a66dd70740c7>	
-ERROR	multiple_equivalent_classes	anatomical region dorsal aorta decreased amount, abnormal [ZP:0100109]	owl:equivalentClass	blank node <8940871b17fd9689c25e6329820f0dca>	
-ERROR	multiple_equivalent_classes	anatomical region dorsal aorta decreased amount, abnormal [ZP:0100109]	owl:equivalentClass	blank node <c76fd34d7216ea9cd2d7b5cdd4f25c8f>	
-ERROR	multiple_equivalent_classes	trunk mesenchyme decreased amount, abnormal [ZP:0100110]	owl:equivalentClass	blank node <1f968831e2f3739aa401406ff6784426>	
-ERROR	multiple_equivalent_classes	trunk mesenchyme decreased amount, abnormal [ZP:0100110]	owl:equivalentClass	blank node <7bb62bf1f3e2b75a308bc32a773339ce>	
-ERROR	multiple_equivalent_classes	sclerotome increased amount, abnormal [ZP:0100111]	owl:equivalentClass	blank node <0d3308bcc45a27f77240e9d9196aa479>	
-ERROR	multiple_equivalent_classes	sclerotome increased amount, abnormal [ZP:0100111]	owl:equivalentClass	blank node <cb5ddda7f0fa46aa54a8fa65b802f21f>	
-ERROR	multiple_equivalent_classes	axial vasculature decreased amount, abnormal [ZP:0100112]	owl:equivalentClass	blank node <a9da025b355625e60041cfc57b4039de>	
-ERROR	multiple_equivalent_classes	axial vasculature decreased amount, abnormal [ZP:0100112]	owl:equivalentClass	blank node <cac65e4857b342e1d38e0da675a786c6>	
-ERROR	multiple_equivalent_classes	post-vent vasculature increased amount, abnormal [ZP:0100113]	owl:equivalentClass	blank node <331bdf745cef5e58963ca92fa1b94fc4>	
-ERROR	multiple_equivalent_classes	post-vent vasculature increased amount, abnormal [ZP:0100113]	owl:equivalentClass	blank node <bb8d86db48b0524e9f6807e2d3763a8a>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell normal amount, abnormal [ZP:0100114]	owl:equivalentClass	blank node <20aa33541195977fad8ac49d60e179fd>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell normal amount, abnormal [ZP:0100114]	owl:equivalentClass	blank node <fe817e5e3d707aaae682eff73c37be10>	
-ERROR	multiple_equivalent_classes	paired fin morphology, abnormal [ZP:0100115]	owl:equivalentClass	blank node <836fef7d1fbfef46fb5357e2c303b152>	
-ERROR	multiple_equivalent_classes	paired fin morphology, abnormal [ZP:0100115]	owl:equivalentClass	blank node <b3b746a54628c32cf2e5efcf5ddedccd>	
-ERROR	multiple_equivalent_classes	paired fin absent, abnormal [ZP:0100116]	owl:equivalentClass	blank node <34f97d32b7a9df79018d4a3f2fd03be6>	
-ERROR	multiple_equivalent_classes	paired fin absent, abnormal [ZP:0100116]	owl:equivalentClass	blank node <a0a8f020740cb89e4075a529b2b24512>	
-ERROR	multiple_equivalent_classes	paired fin decreased size, abnormal [ZP:0100117]	owl:equivalentClass	blank node <499ed2d5ed10199d36d2ae2063198bcf>	
-ERROR	multiple_equivalent_classes	paired fin decreased size, abnormal [ZP:0100117]	owl:equivalentClass	blank node <c908e6d9aabfe431e94cc9c9d76202d1>	
-ERROR	multiple_equivalent_classes	thyroid follicle spatial pattern, abnormal [ZP:0100118]	owl:equivalentClass	blank node <295e7e22e10ceaf2b006165494433841>	
-ERROR	multiple_equivalent_classes	thyroid follicle spatial pattern, abnormal [ZP:0100118]	owl:equivalentClass	blank node <ac7a608c8c67b0a889f261677a21a59d>	
-ERROR	multiple_equivalent_classes	aortic arch dysplastic, abnormal [ZP:0100119]	owl:equivalentClass	blank node <4966248864ef68d2aedc0cacea4f7f58>	
-ERROR	multiple_equivalent_classes	aortic arch dysplastic, abnormal [ZP:0100119]	owl:equivalentClass	blank node <c9df2c00949aa20bface5f28834b41e9>	
-ERROR	multiple_equivalent_classes	thyroid follicle decreased diameter, abnormal [ZP:0100120]	owl:equivalentClass	blank node <590e01e463864bfad6a751ca02741d21>	
-ERROR	multiple_equivalent_classes	thyroid follicle decreased diameter, abnormal [ZP:0100120]	owl:equivalentClass	blank node <ac451969a3ecf93a598325f693da1e39>	
-ERROR	multiple_equivalent_classes	thyroid primordium increased amount, abnormal [ZP:0100121]	owl:equivalentClass	blank node <060008996b778c17b9a3eb8ec77020f0>	
-ERROR	multiple_equivalent_classes	thyroid primordium increased amount, abnormal [ZP:0100121]	owl:equivalentClass	blank node <c7a82af2ec164a48d0a803a584717c9a>	
-ERROR	multiple_equivalent_classes	protein localization to plasma membrane disrupted, abnormal [ZP:0100122]	owl:equivalentClass	blank node <63f09af5f34b30ed309951ce6b24fe10>	
-ERROR	multiple_equivalent_classes	protein localization to plasma membrane disrupted, abnormal [ZP:0100122]	owl:equivalentClass	blank node <7573e7b61a151cfca60f36b03a7079b9>	
-ERROR	multiple_equivalent_classes	apical side peridermal cell increased amount, abnormal [ZP:0100123]	owl:equivalentClass	blank node <01038280fa552ff67fd7e67a9034843e>	
-ERROR	multiple_equivalent_classes	apical side peridermal cell increased amount, abnormal [ZP:0100123]	owl:equivalentClass	blank node <11fc7042cdc52cb51bdfabed3856c38f>	
-ERROR	multiple_equivalent_classes	apical side peridermal cell decreased amount, abnormal [ZP:0100124]	owl:equivalentClass	blank node <641f6bd03fbbadcc1e2a088abdfcee07>	
-ERROR	multiple_equivalent_classes	apical side peridermal cell decreased amount, abnormal [ZP:0100124]	owl:equivalentClass	blank node <6d01fee9a497754adc0e9af73ddefd73>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell length, abnormal [ZP:0100125]	owl:equivalentClass	blank node <57954dc24b86b58025dd5dfe18c82768>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell length, abnormal [ZP:0100125]	owl:equivalentClass	blank node <a718d0b66cd2ba892864772c09ad968c>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased amount, abnormal [ZP:0100126]	owl:equivalentClass	blank node <09d1ce7fc9a4bb7ba4f48b090820bd94>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased amount, abnormal [ZP:0100126]	owl:equivalentClass	blank node <3fdf32f8d09fecbd923b30ebced341d7>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased amount, abnormal [ZP:0100127]	owl:equivalentClass	blank node <a986eea7fade8ff5815296ce76176b9c>	
-ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased amount, abnormal [ZP:0100127]	owl:equivalentClass	blank node <fb9eb6d3e5cf46e3cc5c051789ee0267>	
-ERROR	multiple_equivalent_classes	endothelial cell decreased distribution, abnormal [ZP:0100128]	owl:equivalentClass	blank node <b201be6d15bfc26f71f29d8f3a550e1d>	
-ERROR	multiple_equivalent_classes	endothelial cell decreased distribution, abnormal [ZP:0100128]	owl:equivalentClass	blank node <e90aa31877f4ea014cbef139f231ec19>	
-ERROR	multiple_equivalent_classes	skeletal muscle decreased occurrence skeletal myofibril assembly, abnormal [ZP:0100129]	owl:equivalentClass	blank node <9094000c79d36388b8f52053d9b5a08a>	
-ERROR	multiple_equivalent_classes	skeletal muscle decreased occurrence skeletal myofibril assembly, abnormal [ZP:0100129]	owl:equivalentClass	blank node <ad96324cb92bdd5966faf230eca60680>	
-ERROR	multiple_equivalent_classes	skeletal muscle myofibril skeletal muscle cell decreased amount, abnormal [ZP:0100130]	owl:equivalentClass	blank node <119a680f3039bc55e0479705cb60ce32>	
-ERROR	multiple_equivalent_classes	skeletal muscle myofibril skeletal muscle cell decreased amount, abnormal [ZP:0100130]	owl:equivalentClass	blank node <399f2582734f63eb8f53eabd1e7fe19d>	
-ERROR	multiple_equivalent_classes	myotome has fewer parts of type skeletal muscle cell skeletal muscle myofibril skeletal muscle cell, abnormal [ZP:0100131]	owl:equivalentClass	blank node <95bfeae19af0cdc910413029d5bf85ed>	
-ERROR	multiple_equivalent_classes	myotome has fewer parts of type skeletal muscle cell skeletal muscle myofibril skeletal muscle cell, abnormal [ZP:0100131]	owl:equivalentClass	blank node <d88485565d793fadf6f5586f8f3872ed>	
-ERROR	multiple_equivalent_classes	chondrocyte ceratohyal cartilage normal amount, abnormal [ZP:0100132]	owl:equivalentClass	blank node <8d0e9c5b1e169edc8366fd8d26becc31>	
-ERROR	multiple_equivalent_classes	chondrocyte ceratohyal cartilage normal amount, abnormal [ZP:0100132]	owl:equivalentClass	blank node <a9681f8ea91e9bdcbaf6f77e04955209>	
-ERROR	multiple_equivalent_classes	melanoma vasculature present, abnormal [ZP:0100133]	owl:equivalentClass	blank node <074806dc83ed0b8a6958f5be189ba47a>	
-ERROR	multiple_equivalent_classes	melanoma vasculature present, abnormal [ZP:0100133]	owl:equivalentClass	blank node <2898587d4ca222e4635ee4a9b79e86df>	
-ERROR	multiple_equivalent_classes	melanocyte amount, abnormal [ZP:0100134]	owl:equivalentClass	blank node <6391e0ddc8ceac76517657840f715ab8>	
-ERROR	multiple_equivalent_classes	melanocyte amount, abnormal [ZP:0100134]	owl:equivalentClass	blank node <f6cc51d121e74b97060269cb52ad2c0c>	
-ERROR	multiple_equivalent_classes	swim bladder increased occurrence neutrophil chemotaxis, abnormal [ZP:0100135]	owl:equivalentClass	blank node <046f1e3006060bb2c263a2dd344fdbf0>	
-ERROR	multiple_equivalent_classes	swim bladder increased occurrence neutrophil chemotaxis, abnormal [ZP:0100135]	owl:equivalentClass	blank node <3e546fc311cbfd96162a1866b03b4570>	
-ERROR	multiple_equivalent_classes	dopaminergic neuron diencephalon normal amount, abnormal [ZP:0100136]	owl:equivalentClass	blank node <7ad4bccdadbf49dbde66b002d6332f73>	
-ERROR	multiple_equivalent_classes	dopaminergic neuron diencephalon normal amount, abnormal [ZP:0100136]	owl:equivalentClass	blank node <e3ce1e320aab1ef79bfa95f12dd8340f>	
-ERROR	multiple_equivalent_classes	muscle tendon junction myotome spatial pattern, abnormal [ZP:0100137]	owl:equivalentClass	blank node <1de9a52604083ab593cc1e03c99a3239>	
-ERROR	multiple_equivalent_classes	muscle tendon junction myotome spatial pattern, abnormal [ZP:0100137]	owl:equivalentClass	blank node <4cb5965a77e8da9583b3c54b45752369>	
-ERROR	multiple_equivalent_classes	muscle tendon junction myotome increased amount, abnormal [ZP:0100138]	owl:equivalentClass	blank node <48106789bd2bc35594b11221af24e5fb>	
-ERROR	multiple_equivalent_classes	muscle tendon junction myotome increased amount, abnormal [ZP:0100138]	owl:equivalentClass	blank node <e10f9f3b0345856b3a495fb6ba97a517>	
-ERROR	multiple_equivalent_classes	muscle tendon junction fast muscle cell increased amount, abnormal [ZP:0100139]	owl:equivalentClass	blank node <2f79df206cb9cf4cd93f9a1a388df23b>	
-ERROR	multiple_equivalent_classes	muscle tendon junction fast muscle cell increased amount, abnormal [ZP:0100139]	owl:equivalentClass	blank node <f3241244df23c5f233d30f859d3777bf>	
-ERROR	multiple_equivalent_classes	slow muscle cell degenerate, abnormal [ZP:0100140]	owl:equivalentClass	blank node <91e20e763df64f5b99ea1e9735026325>	
-ERROR	multiple_equivalent_classes	slow muscle cell degenerate, abnormal [ZP:0100140]	owl:equivalentClass	blank node <fe5b91e6086c6063e0fc2204aed94dbb>	
-ERROR	multiple_equivalent_classes	slow muscle cell detached from slow muscle cell, abnormal [ZP:0100141]	owl:equivalentClass	blank node <9d0310eb3aac83c47d021dcd5e50341b>	
-ERROR	multiple_equivalent_classes	slow muscle cell detached from slow muscle cell, abnormal [ZP:0100141]	owl:equivalentClass	blank node <b46e8e96e0c9882b85ecc144cdd971c9>	
-ERROR	multiple_equivalent_classes	muscle tendon junction myotome decreased amount, abnormal [ZP:0100142]	owl:equivalentClass	blank node <56208a19dc6dbbb85bdf053f225886ef>	
-ERROR	multiple_equivalent_classes	muscle tendon junction myotome decreased amount, abnormal [ZP:0100142]	owl:equivalentClass	blank node <eed883fa73f3a3939ee2f80a2a4c0919>	
-ERROR	multiple_equivalent_classes	olfactory pit arrested epithelial cilium movement, abnormal [ZP:0100143]	owl:equivalentClass	blank node <46d0df01f6815a02e94f57b61cd05709>	
-ERROR	multiple_equivalent_classes	olfactory pit arrested epithelial cilium movement, abnormal [ZP:0100143]	owl:equivalentClass	blank node <54a901bce5eede2b852ad44a267db7cc>	
-ERROR	multiple_equivalent_classes	amacrine cell normal amount, abnormal [ZP:0100144]	owl:equivalentClass	blank node <5f863150d2f536298202bf557fb7495d>	
-ERROR	multiple_equivalent_classes	amacrine cell normal amount, abnormal [ZP:0100144]	owl:equivalentClass	blank node <d8b0c5af1b24f32f3d3e134cd020fee9>	
-ERROR	multiple_equivalent_classes	pigment cell normal amount, abnormal [ZP:0100145]	owl:equivalentClass	blank node <b063583820aaa87bdbf0e4f45e99780b>	
-ERROR	multiple_equivalent_classes	pigment cell normal amount, abnormal [ZP:0100145]	owl:equivalentClass	blank node <b75a57d69fe0cb5125dc005cb90df098>	
-ERROR	multiple_equivalent_classes	rhombomere 2 mislocalised, abnormal [ZP:0100146]	owl:equivalentClass	blank node <4dd1ed8add5b27a5a0ec2eae36213abc>	
-ERROR	multiple_equivalent_classes	rhombomere 2 mislocalised, abnormal [ZP:0100146]	owl:equivalentClass	blank node <e8bffd3bd07b1817bc5ad2b0f5c623fc>	
-ERROR	multiple_equivalent_classes	rhombomere 4 mislocalised, abnormal [ZP:0100147]	owl:equivalentClass	blank node <5f5aefdec71f77c1413a204945ae82c3>	
-ERROR	multiple_equivalent_classes	rhombomere 4 mislocalised, abnormal [ZP:0100147]	owl:equivalentClass	blank node <6dcef4047356cbb257deaec1d7da8145>	
-ERROR	multiple_equivalent_classes	erythroblast premature mitophagy, abnormal [ZP:0100148]	owl:equivalentClass	blank node <7539087a6f617c664f4dc21389a667f6>	
-ERROR	multiple_equivalent_classes	erythroblast premature mitophagy, abnormal [ZP:0100148]	owl:equivalentClass	blank node <f83407f2212126df94b4fb9f58bea837>	
-ERROR	multiple_equivalent_classes	erythroblast increased occurrence mitophagy, abnormal [ZP:0100149]	owl:equivalentClass	blank node <cb39035748cff533c3eb3862ba43192f>	
-ERROR	multiple_equivalent_classes	erythroblast increased occurrence mitophagy, abnormal [ZP:0100149]	owl:equivalentClass	blank node <fa53344f9fb0b0b4ec1d5e0c181b1bc6>	
-ERROR	multiple_equivalent_classes	nucleus erythroblast size, abnormal [ZP:0100150]	owl:equivalentClass	blank node <29c5551e825c86192db7fcce96bc0fa6>	
-ERROR	multiple_equivalent_classes	nucleus erythroblast size, abnormal [ZP:0100150]	owl:equivalentClass	blank node <2e08175ec526dea35728f1ba1095af2f>	
-ERROR	multiple_equivalent_classes	mitochondrion erythroblast decreased amount, abnormal [ZP:0100151]	owl:equivalentClass	blank node <308c6ebe82b0bac8a45541cb46253499>	
-ERROR	multiple_equivalent_classes	mitochondrion erythroblast decreased amount, abnormal [ZP:0100151]	owl:equivalentClass	blank node <706398f4cfc9908facb554eb3e65f48c>	
-ERROR	multiple_equivalent_classes	erythroblast has extra parts of type lysosome mitochondrion erythroblast, abnormal [ZP:0100152]	owl:equivalentClass	blank node <63888b56f1b91f6d33b420eb467f1729>	
-ERROR	multiple_equivalent_classes	erythroblast has extra parts of type lysosome mitochondrion erythroblast, abnormal [ZP:0100152]	owl:equivalentClass	blank node <bc2b3801a22c071b40be15432780ea83>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte occurrence hemoglobin biosynthetic process, abnormal [ZP:0100153]	owl:equivalentClass	blank node <85f37f125610b559640b2b397eb06f8d>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte occurrence hemoglobin biosynthetic process, abnormal [ZP:0100153]	owl:equivalentClass	blank node <afbd2f82f242f0e823075c72fb3a6291>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte decreased occurrence hemoglobin biosynthetic process, abnormal [ZP:0100154]	owl:equivalentClass	blank node <80ff1764c6a5110f52f1ea506fa0b25e>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte decreased occurrence hemoglobin biosynthetic process, abnormal [ZP:0100154]	owl:equivalentClass	blank node <a5f933afe2954871b33e65982e8a5197>	
-ERROR	multiple_equivalent_classes	hemoglobin biosynthetic process occurrence, abnormal [ZP:0100155]	owl:equivalentClass	blank node <8c49afa9973dcee8519888dddaebb77c>	
-ERROR	multiple_equivalent_classes	hemoglobin biosynthetic process occurrence, abnormal [ZP:0100155]	owl:equivalentClass	blank node <cf0fb1c1a4dfe94c0d16107780a293a5>	
-ERROR	multiple_equivalent_classes	erythrocyte maturation occurrence, abnormal [ZP:0100156]	owl:equivalentClass	blank node <154de062dc05b5fb517af7b9d53226aa>	
-ERROR	multiple_equivalent_classes	erythrocyte maturation occurrence, abnormal [ZP:0100156]	owl:equivalentClass	blank node <f16129fcd38361932dd3bf357da0e111>	
-ERROR	multiple_equivalent_classes	neutrophil normal amount, abnormal [ZP:0100157]	owl:equivalentClass	blank node <6233e043acd8b947131926029bb0b89c>	
-ERROR	multiple_equivalent_classes	neutrophil normal amount, abnormal [ZP:0100157]	owl:equivalentClass	blank node <bac5bd02cfece79f33071fee338334d5>	
-ERROR	multiple_equivalent_classes	otolith amount, abnormal [ZP:0100158]	owl:equivalentClass	blank node <95995dd182cbeeaf7c3831bf07f3a478>	
-ERROR	multiple_equivalent_classes	otolith amount, abnormal [ZP:0100158]	owl:equivalentClass	blank node <ad4b3c7ac54bad2251f12e93cfd713a6>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell amount, abnormal [ZP:0100159]	owl:equivalentClass	blank node <a69f21d58aced82d19a09da4fbe58312>	
-ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell amount, abnormal [ZP:0100159]	owl:equivalentClass	blank node <c56e7061965ead5dbce49078a9b7a371>	
-ERROR	multiple_equivalent_classes	branchiomotor neuron rhombomere 4 mislocalised anteriorly, abnormal [ZP:0100160]	owl:equivalentClass	blank node <2738179b595e05092701207d74210387>	
-ERROR	multiple_equivalent_classes	branchiomotor neuron rhombomere 4 mislocalised anteriorly, abnormal [ZP:0100160]	owl:equivalentClass	blank node <7c3b470d034e2e3e8c332c38957f8e6c>	
-ERROR	multiple_equivalent_classes	Muller cell amount, abnormal [ZP:0100161]	owl:equivalentClass	blank node <3a82b74b0e909e40e535299c9bb39594>	
-ERROR	multiple_equivalent_classes	Muller cell amount, abnormal [ZP:0100161]	owl:equivalentClass	blank node <daf61f37811e145f74eebcce8cfa097d>	
-ERROR	multiple_equivalent_classes	motor neuron normal amount, abnormal [ZP:0100162]	owl:equivalentClass	blank node <a274b79d3a5bd4ff3739a745ffdd771f>	
-ERROR	multiple_equivalent_classes	motor neuron normal amount, abnormal [ZP:0100162]	owl:equivalentClass	blank node <a7121642529f5385bb165e1618becd8e>	
-ERROR	multiple_equivalent_classes	nucleus oocyte stage I localized, abnormal [ZP:0100163]	owl:equivalentClass	blank node <4a74e1a4cb05ba653255e94fb1c80c05>	
-ERROR	multiple_equivalent_classes	nucleus oocyte stage I localized, abnormal [ZP:0100163]	owl:equivalentClass	blank node <88c978321817f3739e5b7dabc25580f5>	
-ERROR	multiple_equivalent_classes	retinal bipolar neuron normal amount, abnormal [ZP:0100164]	owl:equivalentClass	blank node <a15315f660d79f6a151c1452f7c81aa9>	
-ERROR	multiple_equivalent_classes	retinal bipolar neuron normal amount, abnormal [ZP:0100164]	owl:equivalentClass	blank node <ba08cc6c85a7e9d6f93766880ac661f7>	
-ERROR	multiple_equivalent_classes	myofibril muscle patchy, abnormal [ZP:0100165]	owl:equivalentClass	blank node <52cc7b6eb22dde461c12a1bfaf535aee>	
-ERROR	multiple_equivalent_classes	myofibril muscle patchy, abnormal [ZP:0100165]	owl:equivalentClass	blank node <bc6e2b0ca343d19937fee5e2a9aaf4aa>	
-ERROR	multiple_equivalent_classes	trunk musculature increased duration relaxation of muscle, abnormal [ZP:0100166]	owl:equivalentClass	blank node <23b79a708b982841981456c5d51145b1>	
-ERROR	multiple_equivalent_classes	trunk musculature increased duration relaxation of muscle, abnormal [ZP:0100166]	owl:equivalentClass	blank node <cde9cc6ab01f750628b1ad8e7bcfeb2f>	
-ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction increased duration, abnormal [ZP:0100167]	owl:equivalentClass	blank node <c2e71894502600fef0393537a9a705bb>	
-ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction increased duration, abnormal [ZP:0100167]	owl:equivalentClass	blank node <ec44f403bba18b4a8fd7c489e56ce763>	
-ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction decreased intensity, abnormal [ZP:0100168]	owl:equivalentClass	blank node <7d1b4b7f75a7cdd7dbe273bc1eac963b>	
-ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction decreased intensity, abnormal [ZP:0100168]	owl:equivalentClass	blank node <9241fafa84b647ddb200223f02e8dedc>	
-ERROR	multiple_equivalent_classes	sarcomere trunk musculature increased diameter, abnormal [ZP:0100169]	owl:equivalentClass	blank node <e596589f7c22a14d72059cbe4f1ac8c4>	
-ERROR	multiple_equivalent_classes	sarcomere trunk musculature increased diameter, abnormal [ZP:0100169]	owl:equivalentClass	blank node <eb236d8d4185daa8b84a53f764553229>	
-ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased length, abnormal [ZP:0100170]	owl:equivalentClass	blank node <ea37b735938134cff1bd7933a363c1ff>	
-ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased length, abnormal [ZP:0100170]	owl:equivalentClass	blank node <ffa5647d338eabfa2e3b65e4e7909aa1>	
-ERROR	multiple_equivalent_classes	tonic skeletal muscle contraction decreased intensity, abnormal [ZP:0100171]	owl:equivalentClass	blank node <3035c9cb4ec5c5494ef77028d4faf225>	
-ERROR	multiple_equivalent_classes	tonic skeletal muscle contraction decreased intensity, abnormal [ZP:0100171]	owl:equivalentClass	blank node <48b01099c38ccf2b3f455246e109cf57>	
-ERROR	multiple_equivalent_classes	skeletal muscle adaptation disrupted, abnormal [ZP:0100172]	owl:equivalentClass	blank node <0d6184c7b9ef552cff6f99efe00f73c5>	
-ERROR	multiple_equivalent_classes	skeletal muscle adaptation disrupted, abnormal [ZP:0100172]	owl:equivalentClass	blank node <8e3de09e5830d526cc7f15023ad9a3f9>	
-ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased diameter, abnormal [ZP:0100173]	owl:equivalentClass	blank node <3ff21201e4b39a5e637919e068457b5e>	
-ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased diameter, abnormal [ZP:0100173]	owl:equivalentClass	blank node <f7649726ce9829125520dda9d8674b45>	
-ERROR	multiple_equivalent_classes	sarcomere myotome malformed, abnormal [ZP:0100174]	owl:equivalentClass	blank node <05e1b564e766b0b140eb1e96367e3c3e>	
-ERROR	multiple_equivalent_classes	sarcomere myotome malformed, abnormal [ZP:0100174]	owl:equivalentClass	blank node <1cf2a4d80fed4493d406b09c2cef154a>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell myotome spatial pattern, abnormal [ZP:0100175]	owl:equivalentClass	blank node <b8233b2d3ab3f62b00927e6f72df3507>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell myotome spatial pattern, abnormal [ZP:0100175]	owl:equivalentClass	blank node <e3e87df019b8010941132bfd40ab5b3f>	
-ERROR	multiple_equivalent_classes	whole organism process quality respiratory gaseous exchange, abnormal [ZP:0100176]	owl:equivalentClass	blank node <11b7e615b23fcdaa7ed475c444e7bba7>	
-ERROR	multiple_equivalent_classes	whole organism process quality respiratory gaseous exchange, abnormal [ZP:0100176]	owl:equivalentClass	blank node <5ca5fb08148527701b21249e196672c4>	
-ERROR	multiple_equivalent_classes	mitochondrion slow muscle cell morphology, abnormal [ZP:0100177]	owl:equivalentClass	blank node <b9a79e523d3a734a1fba19359d0cf1e2>	
-ERROR	multiple_equivalent_classes	mitochondrion slow muscle cell morphology, abnormal [ZP:0100177]	owl:equivalentClass	blank node <d8d8b46c905b34d2a2dd8026982c7445>	
-ERROR	multiple_equivalent_classes	mitochondrion fast muscle cell swollen, abnormal [ZP:0100178]	owl:equivalentClass	blank node <0c6fc88c8ab5f8ff7aa4c5204d0de88c>	
-ERROR	multiple_equivalent_classes	mitochondrion fast muscle cell swollen, abnormal [ZP:0100178]	owl:equivalentClass	blank node <a6c4eaf101afb91332fc3cab14512a0a>	
-ERROR	multiple_equivalent_classes	mitochondrial matrix muscle decreased mass density, abnormal [ZP:0100179]	owl:equivalentClass	blank node <d69507f8242c9ed87c5c2b3bfa3ac39f>	
-ERROR	multiple_equivalent_classes	mitochondrial matrix muscle decreased mass density, abnormal [ZP:0100179]	owl:equivalentClass	blank node <e4e072f54f2983a9056e41dccaa4d4d1>	
-ERROR	multiple_equivalent_classes	skeletal muscle attachment quality myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100180]	owl:equivalentClass	blank node <49f3080154b2b6c03f3dbc304acd6f0c>	
-ERROR	multiple_equivalent_classes	skeletal muscle attachment quality myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100180]	owl:equivalentClass	blank node <f715fdcb5b0a0027cafa20990084f69c>	
-ERROR	multiple_equivalent_classes	skeletal muscle detached from myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100181]	owl:equivalentClass	blank node <2066343ff36dda539888b7a74f06be3c>	
-ERROR	multiple_equivalent_classes	skeletal muscle detached from myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100181]	owl:equivalentClass	blank node <3cab68c8f482da27b5c1542898849123>	
-ERROR	multiple_equivalent_classes	mitochondrial crista muscle morphology, abnormal [ZP:0100182]	owl:equivalentClass	blank node <684b55f74ac700e6bd9a54bec6d307d2>	
-ERROR	multiple_equivalent_classes	mitochondrial crista muscle morphology, abnormal [ZP:0100182]	owl:equivalentClass	blank node <829eee481262276d57b7f90f68065391>	
-ERROR	multiple_equivalent_classes	mitochondrial crista muscle decreased amount, abnormal [ZP:0100183]	owl:equivalentClass	blank node <6e94b4c90724c77fa1bcdfbe6197fc61>	
-ERROR	multiple_equivalent_classes	mitochondrial crista muscle decreased amount, abnormal [ZP:0100183]	owl:equivalentClass	blank node <f71e762eb3fc00885fea1d547b207360>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell damaged, abnormal [ZP:0100184]	owl:equivalentClass	blank node <3a4d8f1edb4b413529f5b2727adfda8c>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell damaged, abnormal [ZP:0100184]	owl:equivalentClass	blank node <cd6d37432bf8352cbf9fbf85d0afabb1>	
-ERROR	multiple_equivalent_classes	choline brain decreased amount, abnormal [ZP:0100185]	owl:equivalentClass	blank node <a8862e586cc35dde4758fecc102261c3>	
-ERROR	multiple_equivalent_classes	choline brain decreased amount, abnormal [ZP:0100185]	owl:equivalentClass	blank node <b01feca5fe90c1542750bdae5f10dba5>	
-ERROR	multiple_equivalent_classes	S-adenosyl-L-methionine brain decreased amount, abnormal [ZP:0100186]	owl:equivalentClass	blank node <6f634c264961889ebc2a00eb48b816dd>	
-ERROR	multiple_equivalent_classes	S-adenosyl-L-methionine brain decreased amount, abnormal [ZP:0100186]	owl:equivalentClass	blank node <79be612158d1c36c9af80d57ca361cea>	
-ERROR	multiple_equivalent_classes	arachidonic acid brain decreased amount, abnormal [ZP:0100187]	owl:equivalentClass	blank node <5453f99255d5e9c8b9e3163403f3ad2c>	
-ERROR	multiple_equivalent_classes	arachidonic acid brain decreased amount, abnormal [ZP:0100187]	owl:equivalentClass	blank node <ff169f8f90e9d366601f78860770e4a4>	
-ERROR	multiple_equivalent_classes	CDP-choline brain decreased amount, abnormal [ZP:0100188]	owl:equivalentClass	blank node <613e2bbcf8d5a864cb78fe41b8ce0109>	
-ERROR	multiple_equivalent_classes	CDP-choline brain decreased amount, abnormal [ZP:0100188]	owl:equivalentClass	blank node <dfcdbbe8c1fa477dd9b7fa1f7e6cbebd>	
-ERROR	multiple_equivalent_classes	12-HETE brain increased amount, abnormal [ZP:0100189]	owl:equivalentClass	blank node <d2d205a8c2d012793d97ebf7a35ccb09>	
-ERROR	multiple_equivalent_classes	12-HETE brain increased amount, abnormal [ZP:0100189]	owl:equivalentClass	blank node <e7ba458cd8f3c495c0125043368cc584>	
-ERROR	multiple_equivalent_classes	F4-Neuroprostane (4-series) brain increased amount, abnormal [ZP:0100190]	owl:equivalentClass	blank node <d30210180e375bfa50227e18faf151b0>	
-ERROR	multiple_equivalent_classes	F4-Neuroprostane (4-series) brain increased amount, abnormal [ZP:0100190]	owl:equivalentClass	blank node <e66e04487d0781d73ce58811dc87ad38>	
-ERROR	multiple_equivalent_classes	docosahexaenoic acid brain decreased amount, abnormal [ZP:0100191]	owl:equivalentClass	blank node <0873887d858241d623d999cd76653b32>	
-ERROR	multiple_equivalent_classes	docosahexaenoic acid brain decreased amount, abnormal [ZP:0100191]	owl:equivalentClass	blank node <0ffd97f80ddf87ab2bce5e27ea114ee0>	
-ERROR	multiple_equivalent_classes	5-oxo-ETE brain increased amount, abnormal [ZP:0100192]	owl:equivalentClass	blank node <514e89c2f252ff25ed08fbe7a65829f0>	
-ERROR	multiple_equivalent_classes	5-oxo-ETE brain increased amount, abnormal [ZP:0100192]	owl:equivalentClass	blank node <f33131f59b35c2cf2264e59817e7043a>	
-ERROR	multiple_equivalent_classes	lysophosphatidylcholine brain decreased amount, abnormal [ZP:0100193]	owl:equivalentClass	blank node <0d59bfe0b2dd23ba00a2bfe0bbdfec50>	
-ERROR	multiple_equivalent_classes	lysophosphatidylcholine brain decreased amount, abnormal [ZP:0100193]	owl:equivalentClass	blank node <389c1cb005f7345facbdd05cb0bf863d>	
-ERROR	multiple_equivalent_classes	5-HETE brain increased amount, abnormal [ZP:0100194]	owl:equivalentClass	blank node <45f41878db92e636915e147a0116d084>	
-ERROR	multiple_equivalent_classes	5-HETE brain increased amount, abnormal [ZP:0100194]	owl:equivalentClass	blank node <ce6ad9249fe7a2e70ac204df4bf201af>	
-ERROR	multiple_equivalent_classes	9-HODE brain increased amount, abnormal [ZP:0100195]	owl:equivalentClass	blank node <d0806a1f3d291e80939866fb8e5a6cfb>	
-ERROR	multiple_equivalent_classes	9-HODE brain increased amount, abnormal [ZP:0100195]	owl:equivalentClass	blank node <d871750fc3134163ffdaee074b46e8fb>	
-ERROR	multiple_equivalent_classes	generation of precursor metabolites and energy disrupted, abnormal [ZP:0100196]	owl:equivalentClass	blank node <ab60570b2557ebca14ee39a2a1c680e0>	
-ERROR	multiple_equivalent_classes	generation of precursor metabolites and energy disrupted, abnormal [ZP:0100196]	owl:equivalentClass	blank node <f45404119fecdb269608a3698a79d6ac>	
-ERROR	multiple_equivalent_classes	associative learning disrupted, abnormal [ZP:0100197]	owl:equivalentClass	blank node <a1eb5849f6bf513b0ded74bd8ede68e4>	
-ERROR	multiple_equivalent_classes	associative learning disrupted, abnormal [ZP:0100197]	owl:equivalentClass	blank node <cb016ba09fbf9fa9d8353e6b4e95709e>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell increased occurrence inflammatory response, abnormal [ZP:0100198]	owl:equivalentClass	blank node <256e24fb8eb5310d31136c5f66df5590>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell increased occurrence inflammatory response, abnormal [ZP:0100198]	owl:equivalentClass	blank node <bb2c9154e3241849254e2f7b5c364357>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell increased amount, abnormal [ZP:0100199]	owl:equivalentClass	blank node <ba63e6c72e5d9e2f598d367095a40133>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell increased amount, abnormal [ZP:0100199]	owl:equivalentClass	blank node <ffd34e3162bfd986d4fd72b34043f905>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell detached from skeletal muscle cell, abnormal [ZP:0100200]	owl:equivalentClass	blank node <5be562ee236eaa58ba801b277bab3734>	
-ERROR	multiple_equivalent_classes	skeletal muscle cell detached from skeletal muscle cell, abnormal [ZP:0100200]	owl:equivalentClass	blank node <8ec8105156f31fff52aed13a4fdbe731>	
-ERROR	multiple_equivalent_classes	chromosome, telomeric region cell decreased length, abnormal [ZP:0100201]	owl:equivalentClass	blank node <01aee0f28ce90037a0fda7b0c9741df1>	
-ERROR	multiple_equivalent_classes	chromosome, telomeric region cell decreased length, abnormal [ZP:0100201]	owl:equivalentClass	blank node <2369b304162738d3ccca979fecc92db3>	
-ERROR	multiple_equivalent_classes	macrophage activation increased occurrence, abnormal [ZP:0100202]	owl:equivalentClass	blank node <3f77c9bf1b2379fb3bb739688633f2ae>	
-ERROR	multiple_equivalent_classes	macrophage activation increased occurrence, abnormal [ZP:0100202]	owl:equivalentClass	blank node <e771cb05dfdd6e9def601aba8bd7f587>	
-ERROR	multiple_equivalent_classes	macrophage dead, abnormal [ZP:0100203]	owl:equivalentClass	blank node <86bf342cece84d996a88f2ed550641eb>	
-ERROR	multiple_equivalent_classes	macrophage dead, abnormal [ZP:0100203]	owl:equivalentClass	blank node <dcba4922c151e1939f66264ea806a735>	
-ERROR	multiple_equivalent_classes	neuromast amount, abnormal [ZP:0100204]	owl:equivalentClass	blank node <bf45fa0acf62a9e1dfc80eec9f730f3e>	
-ERROR	multiple_equivalent_classes	neuromast amount, abnormal [ZP:0100204]	owl:equivalentClass	blank node <fb7c820da2e137699ccbf729e2a583d9>	
-ERROR	multiple_equivalent_classes	retina increased occurrence Notch signaling pathway, abnormal [ZP:0100205]	owl:equivalentClass	blank node <23264df6ecfc397bd13a1025bafc83f7>	
-ERROR	multiple_equivalent_classes	retina increased occurrence Notch signaling pathway, abnormal [ZP:0100205]	owl:equivalentClass	blank node <a49219f368f769a5c29e19a3bd24e37c>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer occurrence cell population proliferation, abnormal [ZP:0100206]	owl:equivalentClass	blank node <59e79fa2500525d7b2ed65318c05f5bf>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer occurrence cell population proliferation, abnormal [ZP:0100206]	owl:equivalentClass	blank node <abbdd96afb6f2ff2106573a9e141c6e1>	
-ERROR	multiple_equivalent_classes	retinal inner nuclear layer amount, abnormal [ZP:0100207]	owl:equivalentClass	blank node <888ebddb72c0761fe8a862e3bf237b94>	
-ERROR	multiple_equivalent_classes	retinal inner nuclear layer amount, abnormal [ZP:0100207]	owl:equivalentClass	blank node <d728a3ba8b67ca8217083eb3b1138ff4>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer amount, abnormal [ZP:0100208]	owl:equivalentClass	blank node <0490dbc5580c09a67796a8b7d2e75609>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer amount, abnormal [ZP:0100208]	owl:equivalentClass	blank node <25f129450165459b3a49be1786d639a5>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer increased amount, abnormal [ZP:0100209]	owl:equivalentClass	blank node <3ce58a51f9b4d04746976447e8c9a0ba>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer increased amount, abnormal [ZP:0100209]	owl:equivalentClass	blank node <4159a50626aabc3d57c6ba2af4b40b8d>	
-ERROR	multiple_equivalent_classes	retinal cone cell decreased occurrence regeneration, abnormal [ZP:0100210]	owl:equivalentClass	blank node <56aa1f0afd4856dda1e80c212af0c3e8>	
-ERROR	multiple_equivalent_classes	retinal cone cell decreased occurrence regeneration, abnormal [ZP:0100210]	owl:equivalentClass	blank node <f429d3dcab4c79199e9d44499877838e>	
-ERROR	multiple_equivalent_classes	retinal rod cell decreased occurrence regeneration, abnormal [ZP:0100211]	owl:equivalentClass	blank node <c58895c44a69f7457a9ee5bfa9e0d7cc>	
-ERROR	multiple_equivalent_classes	retinal rod cell decreased occurrence regeneration, abnormal [ZP:0100211]	owl:equivalentClass	blank node <f66b18faa7a5fa7aa76ef2676afc6e2c>	
-ERROR	multiple_equivalent_classes	retinal inner nuclear layer regenerating tissue increased amount, abnormal [ZP:0100212]	owl:equivalentClass	blank node <2e7b8b552d5b771ed077a8256c47d3d3>	
-ERROR	multiple_equivalent_classes	retinal inner nuclear layer regenerating tissue increased amount, abnormal [ZP:0100212]	owl:equivalentClass	blank node <76d0ed786714b0b40db96588c586bf43>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer regenerating tissue increased amount, abnormal [ZP:0100213]	owl:equivalentClass	blank node <7be2a519306e404123ae0ca2757191b3>	
-ERROR	multiple_equivalent_classes	retinal outer nuclear layer regenerating tissue increased amount, abnormal [ZP:0100213]	owl:equivalentClass	blank node <ef08611294d043fe5474f723c6ee5e7d>	
-ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue amount, abnormal [ZP:0100214]	owl:equivalentClass	blank node <44a6133d7897e0a77e0c1582bbb7d750>	
-ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue amount, abnormal [ZP:0100214]	owl:equivalentClass	blank node <bc6b222a9602fc03ad421ee6638d3014>	
-ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue decreased amount, abnormal [ZP:0100215]	owl:equivalentClass	blank node <54299a7672cce32d8c97eea8f8034d9c>	
-ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue decreased amount, abnormal [ZP:0100215]	owl:equivalentClass	blank node <76eda227278d2cf6535d8c334ee1b511>	
-ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue amount, abnormal [ZP:0100216]	owl:equivalentClass	blank node <27e53a074464578849c287cb64aad941>	
-ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue amount, abnormal [ZP:0100216]	owl:equivalentClass	blank node <cf3a3358aa0694a48ea0d94c8e889c9d>	
-ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue decreased amount, abnormal [ZP:0100217]	owl:equivalentClass	blank node <060b45cbcf040876a19411dd6af46e71>	
-ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue decreased amount, abnormal [ZP:0100217]	owl:equivalentClass	blank node <e9605aee55c24834742bda761fae3f84>	
-ERROR	multiple_equivalent_classes	spinal cord spatial pattern, abnormal [ZP:0100218]	owl:equivalentClass	blank node <40814caabb562a9210dc8b3851141aeb>	
-ERROR	multiple_equivalent_classes	spinal cord spatial pattern, abnormal [ZP:0100218]	owl:equivalentClass	blank node <ef3c82fba91f4d12414bf66395211cfd>	
-ERROR	multiple_equivalent_classes	posterior cardinal vein increased amount, abnormal [ZP:0100219]	owl:equivalentClass	blank node <5f7064d05be342314bde1e0335494670>	
-ERROR	multiple_equivalent_classes	posterior cardinal vein increased amount, abnormal [ZP:0100219]	owl:equivalentClass	blank node <80ee6629666f003568becc2cab2b50d5>	
-ERROR	multiple_equivalent_classes	primordial hindbrain channel hypoplastic, abnormal [ZP:0100220]	owl:equivalentClass	blank node <3d84321a2d98cb066f66b90c330742e4>	
-ERROR	multiple_equivalent_classes	primordial hindbrain channel hypoplastic, abnormal [ZP:0100220]	owl:equivalentClass	blank node <bbe272a6b91106fc62252edb77660bb2>	
-ERROR	multiple_equivalent_classes	optic cup decreased amount, abnormal [ZP:0100221]	owl:equivalentClass	blank node <1d7cf852927c29aafe6a47e712fd3f9c>	
-ERROR	multiple_equivalent_classes	optic cup decreased amount, abnormal [ZP:0100221]	owl:equivalentClass	blank node <3c51f7e422338e5324182e6ee16ebc47>	
-ERROR	multiple_equivalent_classes	basement membrane notochord absent, abnormal [ZP:0100222]	owl:equivalentClass	blank node <3079cb2435f74dbbb1741c92563d3798>	
-ERROR	multiple_equivalent_classes	basement membrane notochord absent, abnormal [ZP:0100222]	owl:equivalentClass	blank node <9641781c431e4beca40954ebdabc0cb1>	
-ERROR	multiple_equivalent_classes	posterior region neuroectoderm increased distribution, abnormal [ZP:0100223]	owl:equivalentClass	blank node <a24fadfa9d6e7656279f51336407e6b6>	
-ERROR	multiple_equivalent_classes	posterior region neuroectoderm increased distribution, abnormal [ZP:0100223]	owl:equivalentClass	blank node <c66b89ab5ce0ae6ef10cbe5059f70780>	
-ERROR	multiple_equivalent_classes	microtubule oocyte stage I structure, abnormal [ZP:0100224]	owl:equivalentClass	blank node <2e902a0668bc6ebd1b9033a8ede533bf>	
-ERROR	multiple_equivalent_classes	microtubule oocyte stage I structure, abnormal [ZP:0100224]	owl:equivalentClass	blank node <57f467406df6d4ecad523b2f3220f12a>	
-ERROR	multiple_equivalent_classes	mitochondrial cloud oocyte stage I position, abnormal [ZP:0100225]	owl:equivalentClass	blank node <85e05b7096ee596024b6d10bef3728c4>	
-ERROR	multiple_equivalent_classes	mitochondrial cloud oocyte stage I position, abnormal [ZP:0100225]	owl:equivalentClass	blank node <e7adecf948144761519eba842efc16ac>	
-ERROR	multiple_equivalent_classes	microtubule depolymerization increased occurrence, abnormal [ZP:0100226]	owl:equivalentClass	blank node <67097d11e833be62b8ed1ac705927695>	
-ERROR	multiple_equivalent_classes	microtubule depolymerization increased occurrence, abnormal [ZP:0100226]	owl:equivalentClass	blank node <915f2a9fbbbf69cd32e5084d1e3d91dd>	
-ERROR	multiple_equivalent_classes	posterior region caudal vein fatty, abnormal [ZP:0100227]	owl:equivalentClass	blank node <0233d3077330dd41f32adf7baa72bc2d>	
-ERROR	multiple_equivalent_classes	posterior region caudal vein fatty, abnormal [ZP:0100227]	owl:equivalentClass	blank node <766fe2305ce9b59643d82f8a5c3a3aae>	
-ERROR	multiple_equivalent_classes	lipid blood vessel endothelium increased amount, abnormal [ZP:0100228]	owl:equivalentClass	blank node <83992b02781ecdca76bac8ec9f1ee0a0>	
-ERROR	multiple_equivalent_classes	lipid blood vessel endothelium increased amount, abnormal [ZP:0100228]	owl:equivalentClass	blank node <cb83ec8615416954d85ef69e6e5b2065>	
-ERROR	multiple_equivalent_classes	sodium ion export across plasma membrane increased process quality, abnormal [ZP:0100229]	owl:equivalentClass	blank node <1672b345927d4a45fa23bb571b24a70e>	
-ERROR	multiple_equivalent_classes	sodium ion export across plasma membrane increased process quality, abnormal [ZP:0100229]	owl:equivalentClass	blank node <dd0bcc18579af2810c2f74049246af2e>	
-ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane increased process quality, abnormal [ZP:0100230]	owl:equivalentClass	blank node <1dbe0cd2c8ea1c22f2e3554a728d5242>	
-ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane increased process quality, abnormal [ZP:0100230]	owl:equivalentClass	blank node <58de2a113996037fc0aa782dcb299408>	
-ERROR	multiple_equivalent_classes	integument decreased occurrence proton export across plasma membrane, abnormal [ZP:0100231]	owl:equivalentClass	blank node <5cffe0d67b613ad2e673568dbe54449b>	
-ERROR	multiple_equivalent_classes	integument decreased occurrence proton export across plasma membrane, abnormal [ZP:0100231]	owl:equivalentClass	blank node <c77cf74418a836a056afd38e9a7829d6>	
-ERROR	multiple_equivalent_classes	proton export across plasma membrane decreased occurrence, abnormal [ZP:0100232]	owl:equivalentClass	blank node <16477a64ccc7e0c3c4d624269d3b187e>	
-ERROR	multiple_equivalent_classes	proton export across plasma membrane decreased occurrence, abnormal [ZP:0100232]	owl:equivalentClass	blank node <67eb0a7b293a427c8254d0e2e82489b1>	
-ERROR	multiple_equivalent_classes	neoplasm whole organism decreased size, abnormal [ZP:0100233]	owl:equivalentClass	blank node <031ed42cca4936207dae64c7ab82459d>	
-ERROR	multiple_equivalent_classes	neoplasm whole organism decreased size, abnormal [ZP:0100233]	owl:equivalentClass	blank node <1e90c381b17306adf1ff8dc5774db277>	
-ERROR	multiple_equivalent_classes	vertebral artery absent, abnormal [ZP:0100234]	owl:equivalentClass	blank node <478f45982650f02bc264808fb797f398>	
-ERROR	multiple_equivalent_classes	vertebral artery absent, abnormal [ZP:0100234]	owl:equivalentClass	blank node <7105589c061304bae315084441e90574>	
-ERROR	multiple_equivalent_classes	cardiac ventricle has normal numbers of parts of type cardiac muscle cell, abnormal [ZP:0100235]	owl:equivalentClass	blank node <790d8d3dc99a4e4463cad7354eb7473d>	
-ERROR	multiple_equivalent_classes	cardiac ventricle has normal numbers of parts of type cardiac muscle cell, abnormal [ZP:0100235]	owl:equivalentClass	blank node <bbe689eb51a3bef1ed732a03643b0315>	
-ERROR	multiple_equivalent_classes	melanoma melanocyte increased amount, abnormal [ZP:0100236]	owl:equivalentClass	blank node <b29203e4f0e210bd462f4c4b8c9e8576>	
-ERROR	multiple_equivalent_classes	melanoma melanocyte increased amount, abnormal [ZP:0100236]	owl:equivalentClass	blank node <d53b7a50b05cdb76634a6d0b35f33ed0>	
-ERROR	multiple_equivalent_classes	interneuron normal amount, abnormal [ZP:0100237]	owl:equivalentClass	blank node <34b78bf7957cfd0dda7fb5a6d3db7f5b>	
-ERROR	multiple_equivalent_classes	interneuron normal amount, abnormal [ZP:0100237]	owl:equivalentClass	blank node <e3b454511c7deef9afafb997d2407b1c>	
-ERROR	multiple_equivalent_classes	Rohon-Beard neuron normal amount, abnormal [ZP:0100238]	owl:equivalentClass	blank node <31ac7a8c2be95a074f888d4b559fa1fe>	
-ERROR	multiple_equivalent_classes	Rohon-Beard neuron normal amount, abnormal [ZP:0100238]	owl:equivalentClass	blank node <4103f2c880449b43f839a85a23b28c11>	
-ERROR	multiple_equivalent_classes	secondary motor neuron normal amount, abnormal [ZP:0100239]	owl:equivalentClass	blank node <a8b9fc58622fec1053fe3ad62fde2fc9>	
-ERROR	multiple_equivalent_classes	secondary motor neuron normal amount, abnormal [ZP:0100239]	owl:equivalentClass	blank node <d10ae201540124af09bad6816b91e8fd>	
-ERROR	multiple_equivalent_classes	melanoblast normal amount, abnormal [ZP:0100240]	owl:equivalentClass	blank node <5c129c37bc6c87006bb9e525bac37380>	
-ERROR	multiple_equivalent_classes	melanoblast normal amount, abnormal [ZP:0100240]	owl:equivalentClass	blank node <e265e94518d0c9b67b3ec2659f569311>	
-ERROR	multiple_equivalent_classes	goblet cell normal amount, abnormal [ZP:0100241]	owl:equivalentClass	blank node <5153d480f7216911aeb086803b6e7794>	
-ERROR	multiple_equivalent_classes	goblet cell normal amount, abnormal [ZP:0100241]	owl:equivalentClass	blank node <642f3ae9385c65241c6d02d53110adae>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium normal amount, abnormal [ZP:0100242]	owl:equivalentClass	blank node <729973c5e12a8407539d24bd99f72881>	
-ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium normal amount, abnormal [ZP:0100242]	owl:equivalentClass	blank node <9638c2ac8fc0eb49607d6481605d8a2c>	
-ERROR	multiple_equivalent_classes	neutrophil amount, abnormal [ZP:0100243]	owl:equivalentClass	blank node <449b8588be5b8b76e84a008e266ec466>	
-ERROR	multiple_equivalent_classes	neutrophil amount, abnormal [ZP:0100243]	owl:equivalentClass	blank node <aee47a4529a8f7ff4380250b4234e2e2>	
-ERROR	multiple_equivalent_classes	pancreatic B cell normal amount, abnormal [ZP:0100244]	owl:equivalentClass	blank node <5d9993cc2758e1e8c53d75c1fa081f32>	
-ERROR	multiple_equivalent_classes	pancreatic B cell normal amount, abnormal [ZP:0100244]	owl:equivalentClass	blank node <ec88f79cb36cc7491b6a23091f55e410>	
-ERROR	multiple_equivalent_classes	pancreatic A cell normal amount, abnormal [ZP:0100245]	owl:equivalentClass	blank node <137eb23323bafc5ae35180e5e236f824>	
-ERROR	multiple_equivalent_classes	pancreatic A cell normal amount, abnormal [ZP:0100245]	owl:equivalentClass	blank node <6425dbb3187e3626969a65ba2990d572>	
-ERROR	multiple_equivalent_classes	determination of digestive tract left/right asymmetry decreased occurrence, abnormal [ZP:0100246]	owl:equivalentClass	blank node <d900f55f00c905984a474e3c85f49deb>	
-ERROR	multiple_equivalent_classes	determination of digestive tract left/right asymmetry decreased occurrence, abnormal [ZP:0100246]	owl:equivalentClass	blank node <dd495648ba096aa05e5e2b4c45f301da>	
-ERROR	multiple_equivalent_classes	determination of liver left/right asymmetry decreased occurrence, abnormal [ZP:0100247]	owl:equivalentClass	blank node <1e83cc8f2fff908a30dff386f424ba58>	
-ERROR	multiple_equivalent_classes	determination of liver left/right asymmetry decreased occurrence, abnormal [ZP:0100247]	owl:equivalentClass	blank node <446c1dcacc3e3f1ed0400a6f7a56eb0d>	
-ERROR	multiple_equivalent_classes	digestive system spatial pattern, abnormal [ZP:0100248]	owl:equivalentClass	blank node <66b063fc5ab2d6c326cdf7795bbfeea7>	
-ERROR	multiple_equivalent_classes	digestive system spatial pattern, abnormal [ZP:0100248]	owl:equivalentClass	blank node <9fd30fccf48862c35be755792597b631>	
-ERROR	multiple_equivalent_classes	hypoblast aplastic/hypoplastic, abnormal [ZP:0100249]	owl:equivalentClass	blank node <167429b3767ce75ffae0f275db7d392c>	
-ERROR	multiple_equivalent_classes	hypoblast aplastic/hypoplastic, abnormal [ZP:0100249]	owl:equivalentClass	blank node <b0fcf9831a7efec1e882a722ebc49861>	
-ERROR	multiple_equivalent_classes	myofibril slow muscle cell increased length, abnormal [ZP:0100250]	owl:equivalentClass	blank node <a6d41255bc9f50ed121256093e612f28>	
-ERROR	multiple_equivalent_classes	myofibril slow muscle cell increased length, abnormal [ZP:0100250]	owl:equivalentClass	blank node <e456a7c8a5e96d798d685ec487d4eaba>	
-ERROR	multiple_equivalent_classes	myofibril slow muscle cell decreased width, abnormal [ZP:0100251]	owl:equivalentClass	blank node <221418516cab28c682be271e864defc5>	
-ERROR	multiple_equivalent_classes	myofibril slow muscle cell decreased width, abnormal [ZP:0100251]	owl:equivalentClass	blank node <ba22a45efdc71167f42207472a243207>	
-ERROR	multiple_equivalent_classes	anterior region whole organism decreased amount, abnormal [ZP:0100252]	owl:equivalentClass	blank node <dea1b25b69ea68782a0d5856b031141c>	
-ERROR	multiple_equivalent_classes	anterior region whole organism decreased amount, abnormal [ZP:0100252]	owl:equivalentClass	blank node <f22adb841b4499af36adbb66d29bc20f>	
-ERROR	multiple_equivalent_classes	neural crest increased occurrence apoptotic process, abnormal [ZP:0100253]	owl:equivalentClass	blank node <0f3070f12b54f732a18d31046b25fe8a>	
-ERROR	multiple_equivalent_classes	neural crest increased occurrence apoptotic process, abnormal [ZP:0100253]	owl:equivalentClass	blank node <c829a2c56bc1147c2f2247809879afe1>	
-ERROR	multiple_equivalent_classes	neural crest decreased occurrence cell population proliferation, abnormal [ZP:0100254]	owl:equivalentClass	blank node <1f9e65d767e974700b1a02fe6c8e1a7c>	
-ERROR	multiple_equivalent_classes	neural crest decreased occurrence cell population proliferation, abnormal [ZP:0100254]	owl:equivalentClass	blank node <ec44eeed5a7876d5c7f4d5edf9cc0137>	
-ERROR	multiple_equivalent_classes	neural crest cell development decreased occurrence, abnormal [ZP:0100255]	owl:equivalentClass	blank node <1240c93cd7f29b117eb2069b7c7578f9>	
-ERROR	multiple_equivalent_classes	neural crest cell development decreased occurrence, abnormal [ZP:0100255]	owl:equivalentClass	blank node <c53afb1d48719a1c4573a0879038ffdc>	
-ERROR	multiple_equivalent_classes	neural crest decreased amount, abnormal [ZP:0100256]	owl:equivalentClass	blank node <1b4912d9728a736685e1e275bce783d2>	
-ERROR	multiple_equivalent_classes	neural crest decreased amount, abnormal [ZP:0100256]	owl:equivalentClass	blank node <faa2c3b66b498c7ba014d444bad8212c>	
-ERROR	multiple_equivalent_classes	pronephric proximal straight tubule increased size, abnormal [ZP:0100257]	owl:equivalentClass	blank node <1bcf65ada52bebee0973503d68caa7a1>	
-ERROR	multiple_equivalent_classes	pronephric proximal straight tubule increased size, abnormal [ZP:0100257]	owl:equivalentClass	blank node <bdafa234715814254e6ac6491b45db32>	
-ERROR	multiple_equivalent_classes	pronephric distal early tubule increased size, abnormal [ZP:0100258]	owl:equivalentClass	blank node <c7663868137601e144a565f234908c0c>	
-ERROR	multiple_equivalent_classes	pronephric distal early tubule increased size, abnormal [ZP:0100258]	owl:equivalentClass	blank node <fdfe77d489c8222fe2bd13c6a82b0d21>	
-ERROR	multiple_equivalent_classes	pronephric distal early tubule increased distribution, abnormal [ZP:0100259]	owl:equivalentClass	blank node <aa94248c2239f966408b78569e1102e7>	
-ERROR	multiple_equivalent_classes	pronephric distal early tubule increased distribution, abnormal [ZP:0100259]	owl:equivalentClass	blank node <ce283ccd656f51210c4bb5c16616c3f9>	
-ERROR	multiple_equivalent_classes	(3,4-dihydroxyphenyl)acetic acid brain decreased amount, abnormal [ZP:0100260]	owl:equivalentClass	blank node <2c82fdc2b55076d234433ba868f6a3af>	
-ERROR	multiple_equivalent_classes	(3,4-dihydroxyphenyl)acetic acid brain decreased amount, abnormal [ZP:0100260]	owl:equivalentClass	blank node <8134ef617777c141d6d3a0c3bc1785ed>	
-ERROR	multiple_equivalent_classes	amyloid-beta polypeptide 42 brain increased amount, abnormal [ZP:0100261]	owl:equivalentClass	blank node <072308245c7e414f121b17af65a68f52>	
-ERROR	multiple_equivalent_classes	amyloid-beta polypeptide 42 brain increased amount, abnormal [ZP:0100261]	owl:equivalentClass	blank node <6fa1c48c8f2c0ba9f93a75302fad1b5a>	
-ERROR	multiple_equivalent_classes	telencephalon increased occurrence apoptotic process, abnormal [ZP:0100262]	owl:equivalentClass	blank node <0306c749d587c78c23036caf97f467ab>	
-ERROR	multiple_equivalent_classes	telencephalon increased occurrence apoptotic process, abnormal [ZP:0100262]	owl:equivalentClass	blank node <d6d050aeb8e0a08babb97d869732b8ff>	
-ERROR	multiple_equivalent_classes	diencephalon increased occurrence apoptotic process, abnormal [ZP:0100263]	owl:equivalentClass	blank node <84340dde3319193c670cdb6457bbe2bc>	
-ERROR	multiple_equivalent_classes	diencephalon increased occurrence apoptotic process, abnormal [ZP:0100263]	owl:equivalentClass	blank node <e2e157faca586427a1c7ea92a4a1d417>	
-ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased distribution, abnormal [ZP:0100264]	owl:equivalentClass	blank node <650179c27b368b4b71d1fd03f2980b28>	
-ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased distribution, abnormal [ZP:0100264]	owl:equivalentClass	blank node <8fb8f2541d7f78a129cbf7f2547e9a22>	
-ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased amount, abnormal [ZP:0100265]	owl:equivalentClass	blank node <8ce90e05f16329a7eda1ad61f691b317>	
-ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased amount, abnormal [ZP:0100265]	owl:equivalentClass	blank node <c8bdf1fe7e6d02700dfd9029ccfb6b2c>	
-ERROR	multiple_equivalent_classes	pronephric tubule increased distance cell cell pronephric tubule, abnormal [ZP:0100266]	owl:equivalentClass	blank node <01877f0fce1b4504eb6f78982a0678a2>	
-ERROR	multiple_equivalent_classes	pronephric tubule increased distance cell cell pronephric tubule, abnormal [ZP:0100266]	owl:equivalentClass	blank node <b7f0a07f8de6858c539c4d98411af69d>	
-ERROR	multiple_equivalent_classes	pronephric tubule has fewer parts of type proximal region cell, abnormal [ZP:0100267]	owl:equivalentClass	blank node <6c1f29ec496e3f46a2e9ebbf8b1763ac>	
-ERROR	multiple_equivalent_classes	pronephric tubule has fewer parts of type proximal region cell, abnormal [ZP:0100267]	owl:equivalentClass	blank node <82b4561c9225a116be3e9fa7ba489ef3>	
-ERROR	multiple_equivalent_classes	pronephric tubule has extra parts of type proximal region cell, abnormal [ZP:0100268]	owl:equivalentClass	blank node <b9a7ab1710b0457264a4ab2e6d0255ad>	
-ERROR	multiple_equivalent_classes	pronephric tubule has extra parts of type proximal region cell, abnormal [ZP:0100268]	owl:equivalentClass	blank node <ef8fb67b08b69c7fe9324b188e43a0d4>	
-ERROR	multiple_equivalent_classes	pronephric tubule increased occurrence cell population proliferation, abnormal [ZP:0100269]	owl:equivalentClass	blank node <115d35d50f63c919e535c426ebf8fde3>	
-ERROR	multiple_equivalent_classes	pronephric tubule increased occurrence cell population proliferation, abnormal [ZP:0100269]	owl:equivalentClass	blank node <9ae193e4ac11b91ae73144a90cbbbb51>	
-ERROR	multiple_equivalent_classes	endothelial cell migration process quality, abnormal [ZP:0100270]	owl:equivalentClass	blank node <025dddab19d9b4d398c7300c32127469>	
-ERROR	multiple_equivalent_classes	endothelial cell migration process quality, abnormal [ZP:0100270]	owl:equivalentClass	blank node <bb854479f49cc4e4f418f8bd86ec8926>	
-ERROR	multiple_equivalent_classes	pronephric tubule decreased amount, abnormal [ZP:0100271]	owl:equivalentClass	blank node <3f72e28618d270b9b14d78992f53d4df>	
-ERROR	multiple_equivalent_classes	pronephric tubule decreased amount, abnormal [ZP:0100271]	owl:equivalentClass	blank node <a673b1d95c761db9ea8c717918f0497f>	
-ERROR	multiple_equivalent_classes	lactate whole organism decreased amount, abnormal [ZP:0100272]	owl:equivalentClass	blank node <2d3eebeb44e7d2021309a067c3d35eaa>	
-ERROR	multiple_equivalent_classes	lactate whole organism decreased amount, abnormal [ZP:0100272]	owl:equivalentClass	blank node <3fc89a89e787c80b8edfd609b58547d4>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte heart absent, abnormal [ZP:0100273]	owl:equivalentClass	blank node <30d8e2b86d64ce2d21e1f5b6b455390e>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte heart absent, abnormal [ZP:0100273]	owl:equivalentClass	blank node <f53da5554c2d3e4bfc8c3dddf9249073>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte heart present, abnormal [ZP:0100274]	owl:equivalentClass	blank node <205c45055d3459845e2d5ef292cb81f6>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte heart present, abnormal [ZP:0100274]	owl:equivalentClass	blank node <8398300933b484baf88a2a15126c18e9>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte accumulation caudal fin vasculature, abnormal [ZP:0100275]	owl:equivalentClass	blank node <72b961fc0c87d322c44f1d3b05c84055>	
-ERROR	multiple_equivalent_classes	nucleate erythrocyte accumulation caudal fin vasculature, abnormal [ZP:0100275]	owl:equivalentClass	blank node <e54b6b144f4328cee6f5b02f04fa194e>	
-ERROR	multiple_equivalent_classes	cell cortex oocyte stage I absent, abnormal [ZP:0100276]	owl:equivalentClass	blank node <2d904d1d1178d04164c84544e2b97779>	
-ERROR	multiple_equivalent_classes	cell cortex oocyte stage I absent, abnormal [ZP:0100276]	owl:equivalentClass	blank node <e8a98146451ef2a245df86ff9bc31dd7>	
-ERROR	multiple_equivalent_classes	oocyte stage I decreased occurrence organelle disassembly, abnormal [ZP:0100277]	owl:equivalentClass	blank node <600106a556dd460f78eed274982c8995>	
-ERROR	multiple_equivalent_classes	oocyte stage I decreased occurrence organelle disassembly, abnormal [ZP:0100277]	owl:equivalentClass	blank node <9cf93d914b096e9ad32d6b9ff7af18b0>	
+ERROR	multiple_equivalent_classes	trunk normal neural crest cell development, abnormal [ZP:0013012]	owl:equivalentClass	blank node <d12a724988d2c17c52ddab17ddf66f6b>	
+ERROR	multiple_equivalent_classes	trunk normal neural crest cell development, abnormal [ZP:0013012]	owl:equivalentClass	blank node <e4b68c7e41f198b5b119d9e8b31d3ab2>	
+ERROR	multiple_equivalent_classes	muscle pioneer normal amount, abnormal [ZP:0100001]	owl:equivalentClass	blank node <286f337080763a9d07b77bfa28d3f5ad>	
+ERROR	multiple_equivalent_classes	muscle pioneer normal amount, abnormal [ZP:0100001]	owl:equivalentClass	blank node <af739801f887c686d191b9f6ba778b5c>	
+ERROR	multiple_equivalent_classes	choroid plexus increased distribution, abnormal [ZP:0100002]	owl:equivalentClass	blank node <355c94b1523801678f46f32b1fc48cdc>	
+ERROR	multiple_equivalent_classes	choroid plexus increased distribution, abnormal [ZP:0100002]	owl:equivalentClass	blank node <fc2042267a10d433d1a7b9d070075d6e>	
+ERROR	multiple_equivalent_classes	forerunner cell group amount, abnormal [ZP:0100003]	owl:equivalentClass	blank node <616678dfb8c9e1d7bbb40170d01023e5>	
+ERROR	multiple_equivalent_classes	forerunner cell group amount, abnormal [ZP:0100003]	owl:equivalentClass	blank node <93bdf8c8dba7eb713d37d63891be4d04>	
+ERROR	multiple_equivalent_classes	integument occurrence proton export across plasma membrane, abnormal [ZP:0100004]	owl:equivalentClass	blank node <50c196d323e2db7ba9395b8d4f621272>	
+ERROR	multiple_equivalent_classes	integument occurrence proton export across plasma membrane, abnormal [ZP:0100004]	owl:equivalentClass	blank node <b0335d88947e58e1c8cd28fc3c2be926>	
+ERROR	multiple_equivalent_classes	integument increased occurrence proton export across plasma membrane, abnormal [ZP:0100005]	owl:equivalentClass	blank node <3ee81922cd6cac2e2d5e1cb4af50ff74>	
+ERROR	multiple_equivalent_classes	integument increased occurrence proton export across plasma membrane, abnormal [ZP:0100005]	owl:equivalentClass	blank node <cce7b2a34f585ab2bc4af685d3074226>	
+ERROR	multiple_equivalent_classes	proton export across plasma membrane occurrence, abnormal [ZP:0100006]	owl:equivalentClass	blank node <0a9d3d8259073ae993cffee56f971c33>	
+ERROR	multiple_equivalent_classes	proton export across plasma membrane occurrence, abnormal [ZP:0100006]	owl:equivalentClass	blank node <0abf310005ba18b5f3b08d5635ef6f62>	
+ERROR	multiple_equivalent_classes	axon trigeminal ganglion normal amount, abnormal [ZP:0100007]	owl:equivalentClass	blank node <3c221df55559c1deb323236ecf0f70b5>	
+ERROR	multiple_equivalent_classes	axon trigeminal ganglion normal amount, abnormal [ZP:0100007]	owl:equivalentClass	blank node <f5722c9d03596bd54f6e7b73e9239fd7>	
+ERROR	multiple_equivalent_classes	extracellular matrix notochord morphology, abnormal [ZP:0100008]	owl:equivalentClass	blank node <b1eab11957b0c74b97500aeb13537d68>	
+ERROR	multiple_equivalent_classes	extracellular matrix notochord morphology, abnormal [ZP:0100008]	owl:equivalentClass	blank node <c10a0899adb0bc67ffd9a9c344adf35a>	
+ERROR	multiple_equivalent_classes	whole organism quality, abnormal [ZP:0100009]	owl:equivalentClass	blank node <c4ba959fd43b5a4004ceab91b00ef6e3>	
+ERROR	multiple_equivalent_classes	whole organism quality, abnormal [ZP:0100009]	owl:equivalentClass	blank node <fc763a0bf518a3924da7863465c68935>	
+ERROR	multiple_equivalent_classes	anatomical system quality, abnormal [ZP:0100010]	owl:equivalentClass	blank node <b4e79e7b6d6e6bbb965bdda32df07dfa>	
+ERROR	multiple_equivalent_classes	anatomical system quality, abnormal [ZP:0100010]	owl:equivalentClass	blank node <e871f992bcb0c5f1327523bbc7b22169>	
+ERROR	multiple_equivalent_classes	blood cell normal amount, abnormal [ZP:0100011]	owl:equivalentClass	blank node <903626ae4aa734f03a5e7997b860b4bf>	
+ERROR	multiple_equivalent_classes	blood cell normal amount, abnormal [ZP:0100011]	owl:equivalentClass	blank node <fbc027876d3871a4fe0a88a7bfb49ca5>	
+ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle normal amount, abnormal [ZP:0100012]	owl:equivalentClass	blank node <5b887dd722890c3b101b6e1fee5b7f09>	
+ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle normal amount, abnormal [ZP:0100012]	owl:equivalentClass	blank node <c9424cd4407ad107d2eed253ab932bc4>	
+ERROR	multiple_equivalent_classes	cartilage element pharyngeal arch cartilage mislocalised, abnormal [ZP:0100013]	owl:equivalentClass	blank node <a3ae8f815bfc7e5192fc446cb0e452e0>	
+ERROR	multiple_equivalent_classes	cartilage element pharyngeal arch cartilage mislocalised, abnormal [ZP:0100013]	owl:equivalentClass	blank node <f7950bc8cbbf5fd22edff88dca36f72e>	
+ERROR	multiple_equivalent_classes	chondrocyte pharyngeal arch cartilage stacked, abnormal [ZP:0100014]	owl:equivalentClass	blank node <52fcd4cbcbaf32226267c8998ead7aee>	
+ERROR	multiple_equivalent_classes	chondrocyte pharyngeal arch cartilage stacked, abnormal [ZP:0100014]	owl:equivalentClass	blank node <f764f2cfe7c7fcb55ed686a6aeaad73f>	
+ERROR	multiple_equivalent_classes	hair cell anterior macula amount, abnormal [ZP:0100015]	owl:equivalentClass	blank node <9e1f0ea530e983d33711a14ed9402b80>	
+ERROR	multiple_equivalent_classes	hair cell anterior macula amount, abnormal [ZP:0100015]	owl:equivalentClass	blank node <f046ed4c81ed045a07b05cc5ab357617>	
+ERROR	multiple_equivalent_classes	pronephric duct occurrence autophagy, abnormal [ZP:0100016]	owl:equivalentClass	blank node <3cf9068e5af8e44d1f8ea52850bff949>	
+ERROR	multiple_equivalent_classes	pronephric duct occurrence autophagy, abnormal [ZP:0100016]	owl:equivalentClass	blank node <8bff1b25b41a5737ff8afd984552a0f4>	
+ERROR	multiple_equivalent_classes	pronephric duct decreased occurrence autophagy, abnormal [ZP:0100017]	owl:equivalentClass	blank node <832a134c101cfe5aa5208a6c429bd11f>	
+ERROR	multiple_equivalent_classes	pronephric duct decreased occurrence autophagy, abnormal [ZP:0100017]	owl:equivalentClass	blank node <c7336aed9be37b1153bd27daf6397cae>	
+ERROR	multiple_equivalent_classes	pronephric duct spatial pattern, abnormal [ZP:0100018]	owl:equivalentClass	blank node <2b3fe4a68453b10fa20e2851f1452cd7>	
+ERROR	multiple_equivalent_classes	pronephric duct spatial pattern, abnormal [ZP:0100018]	owl:equivalentClass	blank node <ead9f197c1d5e3f9c873140a307c7c21>	
+ERROR	multiple_equivalent_classes	pronephric duct amount, abnormal [ZP:0100019]	owl:equivalentClass	blank node <d9325254e288784c5af922621e67f5f6>	
+ERROR	multiple_equivalent_classes	pronephric duct amount, abnormal [ZP:0100019]	owl:equivalentClass	blank node <f703690ff4a470b33ff7df3aadc08abd>	
+ERROR	multiple_equivalent_classes	vent morphology, abnormal [ZP:0100020]	owl:equivalentClass	blank node <067ef3736934d4f2de489d2f481d5818>	
+ERROR	multiple_equivalent_classes	vent morphology, abnormal [ZP:0100020]	owl:equivalentClass	blank node <4d7fc2c3914016add9b2ae8bd4bf2bea>	
+ERROR	multiple_equivalent_classes	vent malformed, abnormal [ZP:0100021]	owl:equivalentClass	blank node <7153f88e9d559b36eb6a629de0fa19dd>	
+ERROR	multiple_equivalent_classes	vent malformed, abnormal [ZP:0100021]	owl:equivalentClass	blank node <eb9f9fdc02d42424c3c98fb452fead31>	
+ERROR	multiple_equivalent_classes	photoreceptor cell normal amount, abnormal [ZP:0100022]	owl:equivalentClass	blank node <467e19acf7e03ce5395c3561a152bfc9>	
+ERROR	multiple_equivalent_classes	photoreceptor cell normal amount, abnormal [ZP:0100022]	owl:equivalentClass	blank node <81ce87c15d78d2f70b12084cb9778881>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium amount, abnormal [ZP:0100023]	owl:equivalentClass	blank node <3411aa1d37a76baaacd8340dee797f8f>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium amount, abnormal [ZP:0100023]	owl:equivalentClass	blank node <eb264ea5cd1dc63647879a2abaa8eaef>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell ventricular myocardium amount, abnormal [ZP:0100024]	owl:equivalentClass	blank node <a0e9b7fbb8276d5666497b49c3d5ecfa>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell ventricular myocardium amount, abnormal [ZP:0100024]	owl:equivalentClass	blank node <f6160ce36be8026e49236156f56104e1>	
+ERROR	multiple_equivalent_classes	myelin sheath oligodendrocyte length, abnormal [ZP:0100025]	owl:equivalentClass	blank node <b981e3b581c97f45fb747ecb4e6a4b08>	
+ERROR	multiple_equivalent_classes	myelin sheath oligodendrocyte length, abnormal [ZP:0100025]	owl:equivalentClass	blank node <df392688cb331fd2f7c7676ecc8325e5>	
+ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm occurrence apoptotic process, abnormal [ZP:0100026]	owl:equivalentClass	blank node <e5daefc7e6754cee8d6282eeae9d700e>	
+ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm occurrence apoptotic process, abnormal [ZP:0100026]	owl:equivalentClass	blank node <f35c9e879bd3193fedcedebc547ab929>	
+ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm increased occurrence cell population proliferation, abnormal [ZP:0100027]	owl:equivalentClass	blank node <0aadbb9d66dd3e0b487c46c802f6bdb4>	
+ERROR	multiple_equivalent_classes	intermediate cell mass of mesoderm increased occurrence cell population proliferation, abnormal [ZP:0100027]	owl:equivalentClass	blank node <6e81e6d26cee49f0867615339ec53603>	
+ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane decreased occurrence, abnormal [ZP:0100028]	owl:equivalentClass	blank node <80bea6e60e827ac69b33b119252e734f>	
+ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane decreased occurrence, abnormal [ZP:0100028]	owl:equivalentClass	blank node <94944a0efa4a9b3c8d3f8daf6d2009fa>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta increased distribution, abnormal [ZP:0100029]	owl:equivalentClass	blank node <60bfde6e93c5b5d8911926948f23192e>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta increased distribution, abnormal [ZP:0100029]	owl:equivalentClass	blank node <fa008d44d155de7845691d9851abad53>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell head kidney increased distribution, abnormal [ZP:0100030]	owl:equivalentClass	blank node <7ef578a8cec50211bf47646936c560c9>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell head kidney increased distribution, abnormal [ZP:0100030]	owl:equivalentClass	blank node <abb91642f70b6c51f8211a0b49df329e>	
+ERROR	multiple_equivalent_classes	T cell thymus increased amount, abnormal [ZP:0100031]	owl:equivalentClass	blank node <0f1cc70c755aa524f07265d809176432>	
+ERROR	multiple_equivalent_classes	T cell thymus increased amount, abnormal [ZP:0100031]	owl:equivalentClass	blank node <be741f4d5f93f5ff6c31a16077b6db44>	
+ERROR	multiple_equivalent_classes	T cell thymus increased distribution, abnormal [ZP:0100032]	owl:equivalentClass	blank node <0c8d2698d475f8cd45a2932379af121d>	
+ERROR	multiple_equivalent_classes	T cell thymus increased distribution, abnormal [ZP:0100032]	owl:equivalentClass	blank node <f74c7c4ace13ceff87447309f756f201>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell increased distribution, abnormal [ZP:0100033]	owl:equivalentClass	blank node <9d1a7773f170cfb62b51abe37872b3d0>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell increased distribution, abnormal [ZP:0100033]	owl:equivalentClass	blank node <fa5bf9a4854af449216b5d4c05b6b416>	
+ERROR	multiple_equivalent_classes	intersegmental vessel amount, abnormal [ZP:0100034]	owl:equivalentClass	blank node <007deaf8725b82e31d15fa9a51b56609>	
+ERROR	multiple_equivalent_classes	intersegmental vessel amount, abnormal [ZP:0100034]	owl:equivalentClass	blank node <7884ea1b40c24daa9135086dc26dacf0>	
+ERROR	multiple_equivalent_classes	macrophage normal amount, abnormal [ZP:0100035]	owl:equivalentClass	blank node <0fbae9d448b34ca161b31617fe51a4cc>	
+ERROR	multiple_equivalent_classes	macrophage normal amount, abnormal [ZP:0100035]	owl:equivalentClass	blank node <60d1cb1d65ef8e46ea7c7fbb676b4fd4>	
+ERROR	multiple_equivalent_classes	Rohon-Beard neuron amount, abnormal [ZP:0100036]	owl:equivalentClass	blank node <59325676a7b6f7077a36321d09d84510>	
+ERROR	multiple_equivalent_classes	Rohon-Beard neuron amount, abnormal [ZP:0100036]	owl:equivalentClass	blank node <f7da7288cbf5a3385ea2eecec062ffae>	
+ERROR	multiple_equivalent_classes	optic vesicle decreased amount, abnormal [ZP:0100037]	owl:equivalentClass	blank node <1202059b4fef7b089c8d4add736b8653>	
+ERROR	multiple_equivalent_classes	optic vesicle decreased amount, abnormal [ZP:0100037]	owl:equivalentClass	blank node <f4e4f591e7dc6fc15a7cd3a882b10337>	
+ERROR	multiple_equivalent_classes	anterior neural plate decreased distribution, abnormal [ZP:0100038]	owl:equivalentClass	blank node <a6388bfd8473840fec70d66c0c5fe2e8>	
+ERROR	multiple_equivalent_classes	anterior neural plate decreased distribution, abnormal [ZP:0100038]	owl:equivalentClass	blank node <e4fb2271d8d7a5aff3469aa2d6f39c8f>	
+ERROR	multiple_equivalent_classes	posterior neural plate increased distribution, abnormal [ZP:0100039]	owl:equivalentClass	blank node <dcf4beb5b333ea96c79437e501b90a5c>	
+ERROR	multiple_equivalent_classes	posterior neural plate increased distribution, abnormal [ZP:0100039]	owl:equivalentClass	blank node <f8fe04efa7bcf3467ae77be89c36ed6a>	
+ERROR	multiple_equivalent_classes	presumptive telencephalon decreased distribution, abnormal [ZP:0100040]	owl:equivalentClass	blank node <06305c748a1681559eca2f4d30161c3b>	
+ERROR	multiple_equivalent_classes	presumptive telencephalon decreased distribution, abnormal [ZP:0100040]	owl:equivalentClass	blank node <fda82ac7d788ae21014f39c6899bf468>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell amount, abnormal [ZP:0100041]	owl:equivalentClass	blank node <a1b89197a6eaa533626a0e1ee567fbcc>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell amount, abnormal [ZP:0100041]	owl:equivalentClass	blank node <d04c87408a0333dd59743d9bac57ebf5>	
+ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has fewer parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100042]	owl:equivalentClass	blank node <295052e89cf738f526527df37a73fc33>	
+ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has fewer parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100042]	owl:equivalentClass	blank node <85f18f6359613bb5a96957257a98662a>	
+ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has extra parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100043]	owl:equivalentClass	blank node <366c02fd418cd5fabfc46a8682a20c91>	
+ERROR	multiple_equivalent_classes	ventral wall of dorsal aorta has extra parts of type hematopoietic multipotent progenitor cell, abnormal [ZP:0100043]	owl:equivalentClass	blank node <cf5e2e9b4b5119a69f8db0ddb0538afc>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta spatial pattern, abnormal [ZP:0100044]	owl:equivalentClass	blank node <1ded5fd363ed2c950bfe915b0491db79>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell ventral wall of dorsal aorta spatial pattern, abnormal [ZP:0100044]	owl:equivalentClass	blank node <464a346cf4ab762332abd7fbf5503a13>	
+ERROR	multiple_equivalent_classes	neutrophil kidney decreased amount, abnormal [ZP:0100045]	owl:equivalentClass	blank node <6152557c9b0a7ef47a4ee4c7cb65bc3e>	
+ERROR	multiple_equivalent_classes	neutrophil kidney decreased amount, abnormal [ZP:0100045]	owl:equivalentClass	blank node <84440671d145e499f867534b22bbb01b>	
+ERROR	multiple_equivalent_classes	myeloid cell normal amount, abnormal [ZP:0100046]	owl:equivalentClass	blank node <be9ad775dbd548b8943b8141806a32ea>	
+ERROR	multiple_equivalent_classes	myeloid cell normal amount, abnormal [ZP:0100046]	owl:equivalentClass	blank node <e898ccbc63be779b60f34c9e723c1320>	
+ERROR	multiple_equivalent_classes	cilium inner ear morphology, abnormal [ZP:0100047]	owl:equivalentClass	blank node <54e0dd06b46723d10a96a68b54716acc>	
+ERROR	multiple_equivalent_classes	cilium inner ear morphology, abnormal [ZP:0100047]	owl:equivalentClass	blank node <f666be73082d1c250b81b35b72241d04>	
+ERROR	multiple_equivalent_classes	photoreceptor connecting cilium photoreceptor cell decreased amount, abnormal [ZP:0100048]	owl:equivalentClass	blank node <316183063f6dc70484f5af32cd3e1e9e>	
+ERROR	multiple_equivalent_classes	photoreceptor connecting cilium photoreceptor cell decreased amount, abnormal [ZP:0100048]	owl:equivalentClass	blank node <8ff644b85df0367d0b5687f691bb67ea>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type somatotropin secreting cell, abnormal [ZP:0100049]	owl:equivalentClass	blank node <2878605bce83c9704fc9d338522a50b0>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type somatotropin secreting cell, abnormal [ZP:0100049]	owl:equivalentClass	blank node <53ce2edc6806f02d4188eade85d0dd03>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has number of thyroid stimulating hormone secreting cell, abnormal [ZP:0100050]	owl:equivalentClass	blank node <0e1d2675568232c2bcb446d48815fc2b>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has number of thyroid stimulating hormone secreting cell, abnormal [ZP:0100050]	owl:equivalentClass	blank node <39ce3f03371d38c882e19f2f6b100c2f>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100051]	owl:equivalentClass	blank node <0adfdc252a1ab9fa1e9db0b28c223ede>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has normal numbers of parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100051]	owl:equivalentClass	blank node <dc266af4374fdff9c1a53d666a47c626>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has extra parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100052]	owl:equivalentClass	blank node <0d20ce71b10cfbad56a6632bcd40c302>	
+ERROR	multiple_equivalent_classes	proximal pars anterior has extra parts of type thyroid stimulating hormone secreting cell, abnormal [ZP:0100052]	owl:equivalentClass	blank node <be3e434472e4a0776ff3b49169795195>	
+ERROR	multiple_equivalent_classes	central region retina increased amount, abnormal [ZP:0100053]	owl:equivalentClass	blank node <acdc3da2cacf47e5bb985f019c85b91e>	
+ERROR	multiple_equivalent_classes	central region retina increased amount, abnormal [ZP:0100053]	owl:equivalentClass	blank node <ca30d4d527af18b881e1a533fde7e507>	
+ERROR	multiple_equivalent_classes	peripheral region retina increased amount, abnormal [ZP:0100054]	owl:equivalentClass	blank node <301d1ad07ef65c255596da3493de7b0e>	
+ERROR	multiple_equivalent_classes	peripheral region retina increased amount, abnormal [ZP:0100054]	owl:equivalentClass	blank node <d14fb588ca3d256f4129cd18487cd789>	
+ERROR	multiple_equivalent_classes	posterior lateral line neuromast normal amount, abnormal [ZP:0100055]	owl:equivalentClass	blank node <0011284807e804ff82f914cc14d16084>	
+ERROR	multiple_equivalent_classes	posterior lateral line neuromast normal amount, abnormal [ZP:0100055]	owl:equivalentClass	blank node <4a7eff704edb6f876c87a2151fd6dfaf>	
+ERROR	multiple_equivalent_classes	thrombocyte normal amount, abnormal [ZP:0100056]	owl:equivalentClass	blank node <133cf8484e1603df0c57c2480d86d0bb>	
+ERROR	multiple_equivalent_classes	thrombocyte normal amount, abnormal [ZP:0100056]	owl:equivalentClass	blank node <31d5634f02e7bc87a15e5a68ef96443d>	
+ERROR	multiple_equivalent_classes	erythroid lineage cell normal amount, abnormal [ZP:0100057]	owl:equivalentClass	blank node <952eafcab4cfe2957a0e534cf4688663>	
+ERROR	multiple_equivalent_classes	erythroid lineage cell normal amount, abnormal [ZP:0100057]	owl:equivalentClass	blank node <d107964969a753ee43f6ee5ae710269e>	
+ERROR	multiple_equivalent_classes	Kupffer\'s vesicle decreased fluid flow, abnormal [ZP:0100058]	owl:equivalentClass	blank node <14bb96804cda16b99613d0aa9acb4a71>	
+ERROR	multiple_equivalent_classes	Kupffer\'s vesicle decreased fluid flow, abnormal [ZP:0100058]	owl:equivalentClass	blank node <628a64ef2a976d06b52426f6bb62f787>	
+ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle amount, abnormal [ZP:0100059]	owl:equivalentClass	blank node <c383a533b3d5811056bf41308a347988>	
+ERROR	multiple_equivalent_classes	motile cilium Kupffer\'s vesicle amount, abnormal [ZP:0100059]	owl:equivalentClass	blank node <dd0da0e3928ed0691290ef4ae525d9bc>	
+ERROR	multiple_equivalent_classes	cell body Muller cell displaced, abnormal [ZP:0100060]	owl:equivalentClass	blank node <8b1202cda25fe73c15d252199620038c>	
+ERROR	multiple_equivalent_classes	cell body Muller cell displaced, abnormal [ZP:0100060]	owl:equivalentClass	blank node <ba2ac575dc0626b6bc9d1129c7137612>	
+ERROR	multiple_equivalent_classes	hepatocyte amount, abnormal [ZP:0100061]	owl:equivalentClass	blank node <2457ce983a09ea0db1a4d2286e896a0f>	
+ERROR	multiple_equivalent_classes	hepatocyte amount, abnormal [ZP:0100061]	owl:equivalentClass	blank node <35a988e7668bfb6a04fbf356d8742f89>	
+ERROR	multiple_equivalent_classes	primordial germ cell aggregated, abnormal [ZP:0100062]	owl:equivalentClass	blank node <020fc15203ee6c574fc65611a38d1d40>	
+ERROR	multiple_equivalent_classes	primordial germ cell aggregated, abnormal [ZP:0100062]	owl:equivalentClass	blank node <e9507c41b998518f47092bf453bbe742>	
+ERROR	multiple_equivalent_classes	calcium carbonate caudal fin increased amount, abnormal [ZP:0100063]	owl:equivalentClass	blank node <45788c7260c8f964bf306796c6dd403b>	
+ERROR	multiple_equivalent_classes	calcium carbonate caudal fin increased amount, abnormal [ZP:0100063]	owl:equivalentClass	blank node <ccab7583226ea9fca8486b57172423bf>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell normal amount, abnormal [ZP:0100064]	owl:equivalentClass	blank node <02a44d191fa6aa9358522ae6d0dae5c5>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell normal amount, abnormal [ZP:0100064]	owl:equivalentClass	blank node <085d1b343cdcf306a37acfd84f6ad260>	
+ERROR	multiple_equivalent_classes	axon retinal neural layer truncated, abnormal [ZP:0100065]	owl:equivalentClass	blank node <211820bd781c39c57de9e10657c76f08>	
+ERROR	multiple_equivalent_classes	axon retinal neural layer truncated, abnormal [ZP:0100065]	owl:equivalentClass	blank node <7743a8fabc7f0c37c6e1f2a4edad7e8e>	
+ERROR	multiple_equivalent_classes	axon retinal neural layer decreased branchiness, abnormal [ZP:0100066]	owl:equivalentClass	blank node <d6d779e1e36e28b9f187aadbc41bb013>	
+ERROR	multiple_equivalent_classes	axon retinal neural layer decreased branchiness, abnormal [ZP:0100066]	owl:equivalentClass	blank node <d95b8e7e962ceb0d902ffc97d9a33dcd>	
+ERROR	multiple_equivalent_classes	heparan sulfate 6-O-sulfotransferase activity process quality, abnormal [ZP:0100067]	owl:equivalentClass	blank node <8f8ded16526eed5657632145654c7258>	
+ERROR	multiple_equivalent_classes	heparan sulfate 6-O-sulfotransferase activity process quality, abnormal [ZP:0100067]	owl:equivalentClass	blank node <d3bb2f7fc83c3cfef85b02cf30e5fbbd>	
+ERROR	multiple_equivalent_classes	inner ear increased occurrence apoptotic process, abnormal [ZP:0100068]	owl:equivalentClass	blank node <3af4b6a7b8ae08adef594e30e6d3eb52>	
+ERROR	multiple_equivalent_classes	inner ear increased occurrence apoptotic process, abnormal [ZP:0100068]	owl:equivalentClass	blank node <bd9eff6a414bf40c4ff06393f5a6764a>	
+ERROR	multiple_equivalent_classes	pectoral fin increased occurrence apoptotic process, abnormal [ZP:0100069]	owl:equivalentClass	blank node <02726ac25fbe8314f2fa2ebbf4efa81c>	
+ERROR	multiple_equivalent_classes	pectoral fin increased occurrence apoptotic process, abnormal [ZP:0100069]	owl:equivalentClass	blank node <3dda835bac2e1f59555449fb8f58116e>	
+ERROR	multiple_equivalent_classes	hair cell neuromast decreased amount, abnormal [ZP:0100070]	owl:equivalentClass	blank node <ad8cfb570e16201dfff653c4abb809de>	
+ERROR	multiple_equivalent_classes	hair cell neuromast decreased amount, abnormal [ZP:0100070]	owl:equivalentClass	blank node <e51588295c7b78df1f3a8bb956225b66>	
+ERROR	multiple_equivalent_classes	otolith development decreased process quality, abnormal [ZP:0100071]	owl:equivalentClass	blank node <cd3c36cbd713171ac58f172ce2e7b398>	
+ERROR	multiple_equivalent_classes	otolith development decreased process quality, abnormal [ZP:0100071]	owl:equivalentClass	blank node <f9e1622afbb72da672187cc08ecfed31>	
+ERROR	multiple_equivalent_classes	neuromast normal amount, abnormal [ZP:0100072]	owl:equivalentClass	blank node <88e01368fd54a57b129fee8782f7faa1>	
+ERROR	multiple_equivalent_classes	neuromast normal amount, abnormal [ZP:0100072]	owl:equivalentClass	blank node <b46abf93150303edb4642b2f2e2cdbfd>	
+ERROR	multiple_equivalent_classes	macrophage amount, abnormal [ZP:0100073]	owl:equivalentClass	blank node <69ae9f6dfd34aea3ce17d5ef856a2e7c>	
+ERROR	multiple_equivalent_classes	macrophage amount, abnormal [ZP:0100073]	owl:equivalentClass	blank node <8dc16950a717eaa5bbe8e0f8495f95cc>	
+ERROR	multiple_equivalent_classes	caudal fin actinotrichium regenerating fin decreased amount, abnormal [ZP:0100074]	owl:equivalentClass	blank node <09b1c8b6544ce22048d5fc4d4db7c3bf>	
+ERROR	multiple_equivalent_classes	caudal fin actinotrichium regenerating fin decreased amount, abnormal [ZP:0100074]	owl:equivalentClass	blank node <592abdfd2417e2cafaf306631312fd79>	
+ERROR	multiple_equivalent_classes	hypochord spatial pattern, abnormal [ZP:0100075]	owl:equivalentClass	blank node <2cde6c02945fb02a66ab62811ee95a58>	
+ERROR	multiple_equivalent_classes	hypochord spatial pattern, abnormal [ZP:0100075]	owl:equivalentClass	blank node <a4b6a3e291993d790d63b7f0230078a1>	
+ERROR	multiple_equivalent_classes	intermediate mesoderm spatial pattern, abnormal [ZP:0100076]	owl:equivalentClass	blank node <44cbc88f9783d518621ddfb05e415ae9>	
+ERROR	multiple_equivalent_classes	intermediate mesoderm spatial pattern, abnormal [ZP:0100076]	owl:equivalentClass	blank node <672640b11c67aaa64555b80b581797e3>	
+ERROR	multiple_equivalent_classes	angioblastic mesenchymal cell spatial pattern, abnormal [ZP:0100077]	owl:equivalentClass	blank node <1a3e7e0909a4cea73fbfa5186f5328f8>	
+ERROR	multiple_equivalent_classes	angioblastic mesenchymal cell spatial pattern, abnormal [ZP:0100077]	owl:equivalentClass	blank node <5f9ccc21b8ccdbfa490e1595c693176c>	
+ERROR	multiple_equivalent_classes	pronephric proximal convoluted tubule has extra parts of type cytoplasm vesicle pronephric proximal convoluted tubule, abnormal [ZP:0100078]	owl:equivalentClass	blank node <10db6056d865e329b419fac5b93e25d6>	
+ERROR	multiple_equivalent_classes	pronephric proximal convoluted tubule has extra parts of type cytoplasm vesicle pronephric proximal convoluted tubule, abnormal [ZP:0100078]	owl:equivalentClass	blank node <91900d41d2e54613e9666c8f812dcbe1>	
+ERROR	multiple_equivalent_classes	pronephric proximal straight tubule has normal numbers of parts of type cytoplasm vesicle pronephric proximal straight tubule, abnormal [ZP:0100079]	owl:equivalentClass	blank node <077e08289d32b653d7f54d5ac460d96a>	
+ERROR	multiple_equivalent_classes	pronephric proximal straight tubule has normal numbers of parts of type cytoplasm vesicle pronephric proximal straight tubule, abnormal [ZP:0100079]	owl:equivalentClass	blank node <0b9e0500f6c49c575ef4fb260094f377>	
+ERROR	multiple_equivalent_classes	proximal convoluted tubule occurrence cell population proliferation, abnormal [ZP:0100080]	owl:equivalentClass	blank node <e3f884b085b4a16d5d21850cc50788dc>	
+ERROR	multiple_equivalent_classes	proximal convoluted tubule occurrence cell population proliferation, abnormal [ZP:0100080]	owl:equivalentClass	blank node <f7c8da2bb02a99b2bafb4247089d2dc1>	
+ERROR	multiple_equivalent_classes	proximal straight tubule occurrence cell population proliferation, abnormal [ZP:0100081]	owl:equivalentClass	blank node <92a25619a372e4ccb83f71c0bd974fcd>	
+ERROR	multiple_equivalent_classes	proximal straight tubule occurrence cell population proliferation, abnormal [ZP:0100081]	owl:equivalentClass	blank node <a06c583d0be04afc69089a1a8c632e44>	
+ERROR	multiple_equivalent_classes	vesicle pronephric proximal convoluted tubule increased variability of size, abnormal [ZP:0100082]	owl:equivalentClass	blank node <420f50d4270b9877c20af4a083965007>	
+ERROR	multiple_equivalent_classes	vesicle pronephric proximal convoluted tubule increased variability of size, abnormal [ZP:0100082]	owl:equivalentClass	blank node <fa171cd169ba01edfd856cead64736cb>	
+ERROR	multiple_equivalent_classes	cell pronephric proximal convoluted tubule botryoidal, abnormal [ZP:0100083]	owl:equivalentClass	blank node <236f5762d941e0e5023897a5d18fe860>	
+ERROR	multiple_equivalent_classes	cell pronephric proximal convoluted tubule botryoidal, abnormal [ZP:0100083]	owl:equivalentClass	blank node <61a25193089908e95d37f85e7bd31612>	
+ERROR	multiple_equivalent_classes	cell pronephric proximal straight tubule botryoidal, abnormal [ZP:0100084]	owl:equivalentClass	blank node <630dcd5e73e4fd78a3bf538342dffe59>	
+ERROR	multiple_equivalent_classes	cell pronephric proximal straight tubule botryoidal, abnormal [ZP:0100084]	owl:equivalentClass	blank node <f6b4289eeaec17e3d0d87a760fd35b87>	
+ERROR	multiple_equivalent_classes	pronephros development decreased process quality, abnormal [ZP:0100085]	owl:equivalentClass	blank node <b69d224e7722ea249d9262bbbf3737a5>	
+ERROR	multiple_equivalent_classes	pronephros development decreased process quality, abnormal [ZP:0100085]	owl:equivalentClass	blank node <f036ed42bc0bfdbfd1da42d75ee39652>	
+ERROR	multiple_equivalent_classes	pronephric podocyte increased amount, abnormal [ZP:0100086]	owl:equivalentClass	blank node <5f49c77415a39c0315ef51efefb43e4c>	
+ERROR	multiple_equivalent_classes	pronephric podocyte increased amount, abnormal [ZP:0100086]	owl:equivalentClass	blank node <ee4c2826317b995205ca505c02fd6c63>	
+ERROR	multiple_equivalent_classes	pronephric capsular space increased width, abnormal [ZP:0100087]	owl:equivalentClass	blank node <1f31effe5341c92ce1f689bbe8912e7f>	
+ERROR	multiple_equivalent_classes	pronephric capsular space increased width, abnormal [ZP:0100087]	owl:equivalentClass	blank node <f271da5991204c03085b043fafb57662>	
+ERROR	multiple_equivalent_classes	capillary loop nephron increased amount, abnormal [ZP:0100088]	owl:equivalentClass	blank node <84bf980faec6f499c66068abf0d915e3>	
+ERROR	multiple_equivalent_classes	capillary loop nephron increased amount, abnormal [ZP:0100088]	owl:equivalentClass	blank node <a324345e4d5272785becbfa003082069>	
+ERROR	multiple_equivalent_classes	capillary loop nephron dilated, abnormal [ZP:0100089]	owl:equivalentClass	blank node <67ebb55576d38ea4bef7e859c540ef32>	
+ERROR	multiple_equivalent_classes	capillary loop nephron dilated, abnormal [ZP:0100089]	owl:equivalentClass	blank node <effc8382a26de5a8572c416f7516df77>	
+ERROR	multiple_equivalent_classes	melanocyte normal amount, abnormal [ZP:0100090]	owl:equivalentClass	blank node <c92f5c7521e573a4281715e916126365>	
+ERROR	multiple_equivalent_classes	melanocyte normal amount, abnormal [ZP:0100090]	owl:equivalentClass	blank node <eff5248337234616f77ca6095d3d087d>	
+ERROR	multiple_equivalent_classes	whole organism increased frequency apoptotic process, abnormal [ZP:0100091]	owl:equivalentClass	blank node <b3129b15f82a3640a113c73124d9d3d0>	
+ERROR	multiple_equivalent_classes	whole organism increased frequency apoptotic process, abnormal [ZP:0100091]	owl:equivalentClass	blank node <b4bfd99b544945302c3d58c5783d285d>	
+ERROR	multiple_equivalent_classes	whole organism decreased frequency apoptotic process, abnormal [ZP:0100092]	owl:equivalentClass	blank node <60c9f14ba26551f0e14e0d352b28a720>	
+ERROR	multiple_equivalent_classes	whole organism decreased frequency apoptotic process, abnormal [ZP:0100092]	owl:equivalentClass	blank node <b3cdcee8500ff561d601fa703571b8cb>	
+ERROR	multiple_equivalent_classes	ventral region pharyngeal arch cartilage amount, abnormal [ZP:0100093]	owl:equivalentClass	blank node <9391d8e544af3457fffe0fc7cf1a8642>	
+ERROR	multiple_equivalent_classes	ventral region pharyngeal arch cartilage amount, abnormal [ZP:0100093]	owl:equivalentClass	blank node <93a0dd9a364eb3978f586b796bb7e0c6>	
+ERROR	multiple_equivalent_classes	ventral region pharyngeal arch 2 size, abnormal [ZP:0100094]	owl:equivalentClass	blank node <318edc67af54fc383856561a1a3d3a28>	
+ERROR	multiple_equivalent_classes	ventral region pharyngeal arch 2 size, abnormal [ZP:0100094]	owl:equivalentClass	blank node <f686c5b911ae45f176ec2cf8cdd3bc2e>	
+ERROR	multiple_equivalent_classes	trunk neural crest cell migration arrested, abnormal [ZP:0100095]	owl:equivalentClass	blank node <01e48c74ed9979244891a5ca6d7d1629>	
+ERROR	multiple_equivalent_classes	trunk neural crest cell migration arrested, abnormal [ZP:0100095]	owl:equivalentClass	blank node <54bd9490f90bedbc9128251d751e819b>	
+ERROR	multiple_equivalent_classes	neural crest separated from dorsal aorta, abnormal [ZP:0100096]	owl:equivalentClass	blank node <4204b1f0154fb2d1f3e6ea73ca51bcdc>	
+ERROR	multiple_equivalent_classes	neural crest separated from dorsal aorta, abnormal [ZP:0100096]	owl:equivalentClass	blank node <a53493c3313a86bb52b7207174bc2607>	
+ERROR	multiple_equivalent_classes	midbrain lacks all parts of type lymph vessel endothelial cell, abnormal [ZP:0100097]	owl:equivalentClass	blank node <b768e89372d6d8dc017a589cacbb976a>	
+ERROR	multiple_equivalent_classes	midbrain lacks all parts of type lymph vessel endothelial cell, abnormal [ZP:0100097]	owl:equivalentClass	blank node <ce45dd750c899b680ed849116a17843b>	
+ERROR	multiple_equivalent_classes	neuromast hair cell amount, abnormal [ZP:0100098]	owl:equivalentClass	blank node <62d10a81f562eecfbff1dad9cb3e6d56>	
+ERROR	multiple_equivalent_classes	neuromast hair cell amount, abnormal [ZP:0100098]	owl:equivalentClass	blank node <80a39e95b4080983e7cb14c0ca63497d>	
+ERROR	multiple_equivalent_classes	dorsal region spinal cord increased amount, abnormal [ZP:0100099]	owl:equivalentClass	blank node <15f00a34ef5c7ab25017e88e010b246f>	
+ERROR	multiple_equivalent_classes	dorsal region spinal cord increased amount, abnormal [ZP:0100099]	owl:equivalentClass	blank node <a0d348ad7ba2235d9ed7e475c99915ff>	
+ERROR	multiple_equivalent_classes	ventral region spinal cord increased amount, abnormal [ZP:0100100]	owl:equivalentClass	blank node <89994c7ae79253f946064670cdcf278e>	
+ERROR	multiple_equivalent_classes	ventral region spinal cord increased amount, abnormal [ZP:0100100]	owl:equivalentClass	blank node <ce0f5ca6d667750cf0a25f347de22320>	
+ERROR	multiple_equivalent_classes	ventricular zone hindbrain increased amount, abnormal [ZP:0100101]	owl:equivalentClass	blank node <414046ae5229c69d3ba3b1d90f9d4bc0>	
+ERROR	multiple_equivalent_classes	ventricular zone hindbrain increased amount, abnormal [ZP:0100101]	owl:equivalentClass	blank node <f130e7c9f9086c3c37b6f2a487384a8b>	
+ERROR	multiple_equivalent_classes	ventricular zone forebrain increased amount, abnormal [ZP:0100102]	owl:equivalentClass	blank node <5f67916e7eb151a3f764b156eab2a206>	
+ERROR	multiple_equivalent_classes	ventricular zone forebrain increased amount, abnormal [ZP:0100102]	owl:equivalentClass	blank node <e9615d24efef50da1f969f8f78d171ca>	
+ERROR	multiple_equivalent_classes	ventricular zone midbrain increased amount, abnormal [ZP:0100103]	owl:equivalentClass	blank node <6d21c13ac2d226977432fdbda5326b66>	
+ERROR	multiple_equivalent_classes	ventricular zone midbrain increased amount, abnormal [ZP:0100103]	owl:equivalentClass	blank node <945f4e2c2f8e3f9e1eaf7f4b9f93f9f7>	
+ERROR	multiple_equivalent_classes	neuronal stem cell increased amount, abnormal [ZP:0100104]	owl:equivalentClass	blank node <cd3b4ebe042d082305f9d1fcf7065a94>	
+ERROR	multiple_equivalent_classes	neuronal stem cell increased amount, abnormal [ZP:0100104]	owl:equivalentClass	blank node <dfe25cc141ddee0c3f8b909dabc8f392>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased length, abnormal [ZP:0100105]	owl:equivalentClass	blank node <2659684a220af61b74d4d9d66b022ab2>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased length, abnormal [ZP:0100105]	owl:equivalentClass	blank node <455e2569c076116ecbb5253604a27f6d>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased length, abnormal [ZP:0100106]	owl:equivalentClass	blank node <0656bf46ad0a9d9044bd446ed36510d1>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased length, abnormal [ZP:0100106]	owl:equivalentClass	blank node <26e47a78dd58b6b89eebc5cb10766a29>	
+ERROR	multiple_equivalent_classes	posterior lateral line primordium spatial pattern, abnormal [ZP:0100107]	owl:equivalentClass	blank node <8cba047cefed950f00f435dbc74d2756>	
+ERROR	multiple_equivalent_classes	posterior lateral line primordium spatial pattern, abnormal [ZP:0100107]	owl:equivalentClass	blank node <d7ac52c63e3016baaafb6f1840132315>	
+ERROR	multiple_equivalent_classes	dorsal-most region somite mislocalised, abnormal [ZP:0100108]	owl:equivalentClass	blank node <30e4becd5ebee1b9b16ce4fc25a76cf3>	
+ERROR	multiple_equivalent_classes	dorsal-most region somite mislocalised, abnormal [ZP:0100108]	owl:equivalentClass	blank node <ac8ad721f379cd3404ba59ebbe24c659>	
+ERROR	multiple_equivalent_classes	anatomical region dorsal aorta decreased amount, abnormal [ZP:0100109]	owl:equivalentClass	blank node <102611c9bbccfc32a4cbad38118b388e>	
+ERROR	multiple_equivalent_classes	anatomical region dorsal aorta decreased amount, abnormal [ZP:0100109]	owl:equivalentClass	blank node <5996c2f462151966c9e8ad3d3aff324c>	
+ERROR	multiple_equivalent_classes	trunk mesenchyme decreased amount, abnormal [ZP:0100110]	owl:equivalentClass	blank node <199ec9595a1b87f2915d4169db62e22b>	
+ERROR	multiple_equivalent_classes	trunk mesenchyme decreased amount, abnormal [ZP:0100110]	owl:equivalentClass	blank node <8ddf356a51f0b874a8e0470ad057bd0d>	
+ERROR	multiple_equivalent_classes	sclerotome increased amount, abnormal [ZP:0100111]	owl:equivalentClass	blank node <21002d8a6586b4b0416f305732720f52>	
+ERROR	multiple_equivalent_classes	sclerotome increased amount, abnormal [ZP:0100111]	owl:equivalentClass	blank node <93bf33dd5c27136073bb585320f60d0b>	
+ERROR	multiple_equivalent_classes	axial vasculature decreased amount, abnormal [ZP:0100112]	owl:equivalentClass	blank node <25c606b983432bab7598f04c7a2743ea>	
+ERROR	multiple_equivalent_classes	axial vasculature decreased amount, abnormal [ZP:0100112]	owl:equivalentClass	blank node <5e757e254cce5bb1e970f4158b50e08f>	
+ERROR	multiple_equivalent_classes	post-vent vasculature increased amount, abnormal [ZP:0100113]	owl:equivalentClass	blank node <62f4fa34b32984119bfdc336a8322502>	
+ERROR	multiple_equivalent_classes	post-vent vasculature increased amount, abnormal [ZP:0100113]	owl:equivalentClass	blank node <d873195e3b78c3d5dd9473582f82d087>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell normal amount, abnormal [ZP:0100114]	owl:equivalentClass	blank node <19c9abf94a2ba6c9f5344a75597476d4>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell normal amount, abnormal [ZP:0100114]	owl:equivalentClass	blank node <55dfc7c2105178790aed32e43914403b>	
+ERROR	multiple_equivalent_classes	paired fin morphology, abnormal [ZP:0100115]	owl:equivalentClass	blank node <0ef16eee0a15e2aa1fe1e1bf2910a2f0>	
+ERROR	multiple_equivalent_classes	paired fin morphology, abnormal [ZP:0100115]	owl:equivalentClass	blank node <f69675f7e398d535bf83dee593dbff7c>	
+ERROR	multiple_equivalent_classes	paired fin absent, abnormal [ZP:0100116]	owl:equivalentClass	blank node <220fdcd4cdb585cf592b75279eeda109>	
+ERROR	multiple_equivalent_classes	paired fin absent, abnormal [ZP:0100116]	owl:equivalentClass	blank node <c55bc1bd5ce25763452dd67cbf9ab089>	
+ERROR	multiple_equivalent_classes	paired fin decreased size, abnormal [ZP:0100117]	owl:equivalentClass	blank node <4b9b619d0d6bd9f56b1dae38a0f07aaa>	
+ERROR	multiple_equivalent_classes	paired fin decreased size, abnormal [ZP:0100117]	owl:equivalentClass	blank node <a01ff3618f1a467819803a0f85f74853>	
+ERROR	multiple_equivalent_classes	thyroid follicle spatial pattern, abnormal [ZP:0100118]	owl:equivalentClass	blank node <70b863e329495ae00831a0ba0373cd10>	
+ERROR	multiple_equivalent_classes	thyroid follicle spatial pattern, abnormal [ZP:0100118]	owl:equivalentClass	blank node <c8c38a55ed41d1c6b35d893a9b27257e>	
+ERROR	multiple_equivalent_classes	aortic arch dysplastic, abnormal [ZP:0100119]	owl:equivalentClass	blank node <c6a4d94e86753f2e9b0661ab9d144fff>	
+ERROR	multiple_equivalent_classes	aortic arch dysplastic, abnormal [ZP:0100119]	owl:equivalentClass	blank node <f9de5d69c4f58f388ddd2adb306a3ae7>	
+ERROR	multiple_equivalent_classes	thyroid follicle decreased diameter, abnormal [ZP:0100120]	owl:equivalentClass	blank node <1be15e207bca2cf55d40f178a38bff6c>	
+ERROR	multiple_equivalent_classes	thyroid follicle decreased diameter, abnormal [ZP:0100120]	owl:equivalentClass	blank node <dc49d5dcad64b39cdcab3f14f1242647>	
+ERROR	multiple_equivalent_classes	thyroid primordium increased amount, abnormal [ZP:0100121]	owl:equivalentClass	blank node <3a94baf42562780b9cf487a3a220159a>	
+ERROR	multiple_equivalent_classes	thyroid primordium increased amount, abnormal [ZP:0100121]	owl:equivalentClass	blank node <4f8bfdb43195858d1c9d815ac9f9cc2b>	
+ERROR	multiple_equivalent_classes	protein localization to plasma membrane disrupted, abnormal [ZP:0100122]	owl:equivalentClass	blank node <09b803f6708580f900835441f819b088>	
+ERROR	multiple_equivalent_classes	protein localization to plasma membrane disrupted, abnormal [ZP:0100122]	owl:equivalentClass	blank node <9c581850c62f48346390a652915a31a6>	
+ERROR	multiple_equivalent_classes	apical side peridermal cell increased amount, abnormal [ZP:0100123]	owl:equivalentClass	blank node <1fb2a515793ed10f4ead62554c52419f>	
+ERROR	multiple_equivalent_classes	apical side peridermal cell increased amount, abnormal [ZP:0100123]	owl:equivalentClass	blank node <d5cd578c2cdf8e98d49e7c61a14879b2>	
+ERROR	multiple_equivalent_classes	apical side peridermal cell decreased amount, abnormal [ZP:0100124]	owl:equivalentClass	blank node <2ee6d84ff6652d565254160f67ef7e5e>	
+ERROR	multiple_equivalent_classes	apical side peridermal cell decreased amount, abnormal [ZP:0100124]	owl:equivalentClass	blank node <a8d7a86ab86ebd4074b011844516279d>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell length, abnormal [ZP:0100125]	owl:equivalentClass	blank node <74329f5a62902fed16fc2621f340fa62>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell length, abnormal [ZP:0100125]	owl:equivalentClass	blank node <75fef0602847ee86317c09e3de81b6f0>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased amount, abnormal [ZP:0100126]	owl:equivalentClass	blank node <c6c93be91e16a8f93632ac500f4a4d67>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell increased amount, abnormal [ZP:0100126]	owl:equivalentClass	blank node <c71027906251fc5caba416ba30f768bf>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased amount, abnormal [ZP:0100127]	owl:equivalentClass	blank node <b16a807ece12774546ef5168a5ef8c28>	
+ERROR	multiple_equivalent_classes	actin-based cell projection peridermal cell decreased amount, abnormal [ZP:0100127]	owl:equivalentClass	blank node <cc90d6085f2816ff0ae62107230aa3cf>	
+ERROR	multiple_equivalent_classes	endothelial cell decreased distribution, abnormal [ZP:0100128]	owl:equivalentClass	blank node <2f906bd27a74931a9c63d9157001dc52>	
+ERROR	multiple_equivalent_classes	endothelial cell decreased distribution, abnormal [ZP:0100128]	owl:equivalentClass	blank node <9199d1b4cd1b79a446390f3974d88019>	
+ERROR	multiple_equivalent_classes	skeletal muscle decreased occurrence skeletal myofibril assembly, abnormal [ZP:0100129]	owl:equivalentClass	blank node <054f6bd2d9a3f552ad5c7b5a21a2b1d0>	
+ERROR	multiple_equivalent_classes	skeletal muscle decreased occurrence skeletal myofibril assembly, abnormal [ZP:0100129]	owl:equivalentClass	blank node <4c6798e807f6d46e0b65f559c3185cef>	
+ERROR	multiple_equivalent_classes	skeletal muscle myofibril skeletal muscle cell decreased amount, abnormal [ZP:0100130]	owl:equivalentClass	blank node <2f0dcbf21fd8610becbb09c2b59d49a0>	
+ERROR	multiple_equivalent_classes	skeletal muscle myofibril skeletal muscle cell decreased amount, abnormal [ZP:0100130]	owl:equivalentClass	blank node <97f6ffe6f0794363281a09e65cdc0b48>	
+ERROR	multiple_equivalent_classes	myotome has fewer parts of type skeletal muscle cell skeletal muscle myofibril skeletal muscle cell, abnormal [ZP:0100131]	owl:equivalentClass	blank node <64ed47a6f4919ac1545fede8e2b7f519>	
+ERROR	multiple_equivalent_classes	myotome has fewer parts of type skeletal muscle cell skeletal muscle myofibril skeletal muscle cell, abnormal [ZP:0100131]	owl:equivalentClass	blank node <c30787929d997ed65be4089229dbd25c>	
+ERROR	multiple_equivalent_classes	chondrocyte ceratohyal cartilage normal amount, abnormal [ZP:0100132]	owl:equivalentClass	blank node <20202fd564cb2816e225ef2592d28f0f>	
+ERROR	multiple_equivalent_classes	chondrocyte ceratohyal cartilage normal amount, abnormal [ZP:0100132]	owl:equivalentClass	blank node <74d6f57d060f1ee4b3097dcef6c135ec>	
+ERROR	multiple_equivalent_classes	melanoma vasculature present, abnormal [ZP:0100133]	owl:equivalentClass	blank node <114ae587820511762762b7d90530f44d>	
+ERROR	multiple_equivalent_classes	melanoma vasculature present, abnormal [ZP:0100133]	owl:equivalentClass	blank node <38a74432b7e6f9a141c5db8ba976c641>	
+ERROR	multiple_equivalent_classes	melanocyte amount, abnormal [ZP:0100134]	owl:equivalentClass	blank node <a0c910cb995edea7f18581ca566d7249>	
+ERROR	multiple_equivalent_classes	melanocyte amount, abnormal [ZP:0100134]	owl:equivalentClass	blank node <b9449fc5685ac6db8614740288072096>	
+ERROR	multiple_equivalent_classes	swim bladder increased occurrence neutrophil chemotaxis, abnormal [ZP:0100135]	owl:equivalentClass	blank node <582b7c26e4dffc629008eb41fa73289e>	
+ERROR	multiple_equivalent_classes	swim bladder increased occurrence neutrophil chemotaxis, abnormal [ZP:0100135]	owl:equivalentClass	blank node <b572d6181457df5872df54280d816ba3>	
+ERROR	multiple_equivalent_classes	dopaminergic neuron diencephalon normal amount, abnormal [ZP:0100136]	owl:equivalentClass	blank node <44c993995c23343dc7dad1485bc3d172>	
+ERROR	multiple_equivalent_classes	dopaminergic neuron diencephalon normal amount, abnormal [ZP:0100136]	owl:equivalentClass	blank node <8d2312a3b686fefccf32af470676c305>	
+ERROR	multiple_equivalent_classes	muscle tendon junction myotome spatial pattern, abnormal [ZP:0100137]	owl:equivalentClass	blank node <9f7faa15fed613cd0b16800e35f9f555>	
+ERROR	multiple_equivalent_classes	muscle tendon junction myotome spatial pattern, abnormal [ZP:0100137]	owl:equivalentClass	blank node <cc7528ca3fe864e2f75f209c8c49af95>	
+ERROR	multiple_equivalent_classes	muscle tendon junction myotome increased amount, abnormal [ZP:0100138]	owl:equivalentClass	blank node <10080ca6369c9cea4f850a041f7553bc>	
+ERROR	multiple_equivalent_classes	muscle tendon junction myotome increased amount, abnormal [ZP:0100138]	owl:equivalentClass	blank node <d97faf2e018344673729037b9b601e9d>	
+ERROR	multiple_equivalent_classes	muscle tendon junction fast muscle cell increased amount, abnormal [ZP:0100139]	owl:equivalentClass	blank node <940f6bf60c2b9293b7f7720a8b4ab626>	
+ERROR	multiple_equivalent_classes	muscle tendon junction fast muscle cell increased amount, abnormal [ZP:0100139]	owl:equivalentClass	blank node <ee36041b410bf358f18204271db4ab52>	
+ERROR	multiple_equivalent_classes	slow muscle cell degenerate, abnormal [ZP:0100140]	owl:equivalentClass	blank node <2288738bdf46500aace6be03272397b5>	
+ERROR	multiple_equivalent_classes	slow muscle cell degenerate, abnormal [ZP:0100140]	owl:equivalentClass	blank node <e363762dd7c7b04ad51f15f5dccbc311>	
+ERROR	multiple_equivalent_classes	slow muscle cell detached from slow muscle cell, abnormal [ZP:0100141]	owl:equivalentClass	blank node <0082e8f324d0c1d77530c54239b82496>	
+ERROR	multiple_equivalent_classes	slow muscle cell detached from slow muscle cell, abnormal [ZP:0100141]	owl:equivalentClass	blank node <04d8dc211741a88a886204207e69cc36>	
+ERROR	multiple_equivalent_classes	muscle tendon junction myotome decreased amount, abnormal [ZP:0100142]	owl:equivalentClass	blank node <09624892423c3946e5ee5176f0560c02>	
+ERROR	multiple_equivalent_classes	muscle tendon junction myotome decreased amount, abnormal [ZP:0100142]	owl:equivalentClass	blank node <fe85cae429a42b15dcc7bde761af676d>	
+ERROR	multiple_equivalent_classes	olfactory pit arrested epithelial cilium movement, abnormal [ZP:0100143]	owl:equivalentClass	blank node <e0240fdac995245a00a3e0aff27a8df2>	
+ERROR	multiple_equivalent_classes	olfactory pit arrested epithelial cilium movement, abnormal [ZP:0100143]	owl:equivalentClass	blank node <fb4121b41a1980f1215943410d85ea12>	
+ERROR	multiple_equivalent_classes	amacrine cell normal amount, abnormal [ZP:0100144]	owl:equivalentClass	blank node <1d3e57465a2d4e15191bfc629665e62d>	
+ERROR	multiple_equivalent_classes	amacrine cell normal amount, abnormal [ZP:0100144]	owl:equivalentClass	blank node <404957b2014a87a461a120763fbbfe52>	
+ERROR	multiple_equivalent_classes	pigment cell normal amount, abnormal [ZP:0100145]	owl:equivalentClass	blank node <5408aa654ecf3e413ec6abee64631308>	
+ERROR	multiple_equivalent_classes	pigment cell normal amount, abnormal [ZP:0100145]	owl:equivalentClass	blank node <f1bacec509d522ad4c8b7d7efe9e6530>	
+ERROR	multiple_equivalent_classes	rhombomere 2 mislocalised, abnormal [ZP:0100146]	owl:equivalentClass	blank node <d12404476de1830ec9e2a121468439c5>	
+ERROR	multiple_equivalent_classes	rhombomere 2 mislocalised, abnormal [ZP:0100146]	owl:equivalentClass	blank node <d375378926bce3e41dd60ea0e0d07457>	
+ERROR	multiple_equivalent_classes	rhombomere 4 mislocalised, abnormal [ZP:0100147]	owl:equivalentClass	blank node <34e10a18fc1e17aed00b82366e201ea9>	
+ERROR	multiple_equivalent_classes	rhombomere 4 mislocalised, abnormal [ZP:0100147]	owl:equivalentClass	blank node <91d779626470c79963825f19da65d034>	
+ERROR	multiple_equivalent_classes	erythroblast premature mitophagy, abnormal [ZP:0100148]	owl:equivalentClass	blank node <5b3b7dedd07e920479a8fffd4822164b>	
+ERROR	multiple_equivalent_classes	erythroblast premature mitophagy, abnormal [ZP:0100148]	owl:equivalentClass	blank node <818ef4bd832c93abbee3e9d56b7cd036>	
+ERROR	multiple_equivalent_classes	erythroblast increased occurrence mitophagy, abnormal [ZP:0100149]	owl:equivalentClass	blank node <8bce779fc92181fb54e43014d73f3d73>	
+ERROR	multiple_equivalent_classes	erythroblast increased occurrence mitophagy, abnormal [ZP:0100149]	owl:equivalentClass	blank node <b48cc325d0b3bcd14f1cf1def9b34ae7>	
+ERROR	multiple_equivalent_classes	nucleus erythroblast size, abnormal [ZP:0100150]	owl:equivalentClass	blank node <36010b77a2c4444ed4102ac7511a4f8b>	
+ERROR	multiple_equivalent_classes	nucleus erythroblast size, abnormal [ZP:0100150]	owl:equivalentClass	blank node <3bc8c3d6b042bcb5dae192eed4ba6fe5>	
+ERROR	multiple_equivalent_classes	mitochondrion erythroblast decreased amount, abnormal [ZP:0100151]	owl:equivalentClass	blank node <18254ac48523b9c82d59dc7f970a6b5f>	
+ERROR	multiple_equivalent_classes	mitochondrion erythroblast decreased amount, abnormal [ZP:0100151]	owl:equivalentClass	blank node <19498484880e8df3851435ddc75088cf>	
+ERROR	multiple_equivalent_classes	erythroblast has extra parts of type lysosome mitochondrion erythroblast, abnormal [ZP:0100152]	owl:equivalentClass	blank node <864e274167434b32424396e7881c1034>	
+ERROR	multiple_equivalent_classes	erythroblast has extra parts of type lysosome mitochondrion erythroblast, abnormal [ZP:0100152]	owl:equivalentClass	blank node <de266179bc6deb555b5ac3e9ae90c04e>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte occurrence hemoglobin biosynthetic process, abnormal [ZP:0100153]	owl:equivalentClass	blank node <18182573b42994d5b23e1d8019e262c6>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte occurrence hemoglobin biosynthetic process, abnormal [ZP:0100153]	owl:equivalentClass	blank node <9fff7d974cb4c28e84e96fe12f3a9f16>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte decreased occurrence hemoglobin biosynthetic process, abnormal [ZP:0100154]	owl:equivalentClass	blank node <8b7c821ab1b77f603fb4db943701f16b>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte decreased occurrence hemoglobin biosynthetic process, abnormal [ZP:0100154]	owl:equivalentClass	blank node <bfd1d30056bf9f89cfa5341d3d21bfeb>	
+ERROR	multiple_equivalent_classes	hemoglobin biosynthetic process occurrence, abnormal [ZP:0100155]	owl:equivalentClass	blank node <86eefe1bce101f2d7f1e0d778dcfc2cd>	
+ERROR	multiple_equivalent_classes	hemoglobin biosynthetic process occurrence, abnormal [ZP:0100155]	owl:equivalentClass	blank node <a2626147e2996cd262093be69e2009f4>	
+ERROR	multiple_equivalent_classes	erythrocyte maturation occurrence, abnormal [ZP:0100156]	owl:equivalentClass	blank node <13d7c5565bf8bd09789a066177b570ae>	
+ERROR	multiple_equivalent_classes	erythrocyte maturation occurrence, abnormal [ZP:0100156]	owl:equivalentClass	blank node <b4dc7990c327b1d3ecbf6616f18325b9>	
+ERROR	multiple_equivalent_classes	neutrophil normal amount, abnormal [ZP:0100157]	owl:equivalentClass	blank node <504ab04dfcd5c8a8b20f8805b7e8516d>	
+ERROR	multiple_equivalent_classes	neutrophil normal amount, abnormal [ZP:0100157]	owl:equivalentClass	blank node <dc36fe4fbd6c554ecc74de4143c7505c>	
+ERROR	multiple_equivalent_classes	otolith amount, abnormal [ZP:0100158]	owl:equivalentClass	blank node <68c4a9d3629a152ca5dc70a33a7625c6>	
+ERROR	multiple_equivalent_classes	otolith amount, abnormal [ZP:0100158]	owl:equivalentClass	blank node <7775fd8b6a44491ab7f5b49f71f32f50>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell amount, abnormal [ZP:0100159]	owl:equivalentClass	blank node <48e1e5631abfc55b56be00162724a32d>	
+ERROR	multiple_equivalent_classes	hematopoietic multipotent progenitor cell amount, abnormal [ZP:0100159]	owl:equivalentClass	blank node <59791fc67e3256e29ee33781e23337aa>	
+ERROR	multiple_equivalent_classes	branchiomotor neuron rhombomere 4 mislocalised anteriorly, abnormal [ZP:0100160]	owl:equivalentClass	blank node <9dd41f3748940adc593d18b75f6db756>	
+ERROR	multiple_equivalent_classes	branchiomotor neuron rhombomere 4 mislocalised anteriorly, abnormal [ZP:0100160]	owl:equivalentClass	blank node <e03952817d285c1a1f9b64f76a364f2d>	
+ERROR	multiple_equivalent_classes	Muller cell amount, abnormal [ZP:0100161]	owl:equivalentClass	blank node <47bdf502ead10009338812d7e4aa847d>	
+ERROR	multiple_equivalent_classes	Muller cell amount, abnormal [ZP:0100161]	owl:equivalentClass	blank node <4a33e0b3d552aa198df3e90a0e26a5f4>	
+ERROR	multiple_equivalent_classes	motor neuron normal amount, abnormal [ZP:0100162]	owl:equivalentClass	blank node <5cc97b42865ac7bd6c99e11a8da8fe73>	
+ERROR	multiple_equivalent_classes	motor neuron normal amount, abnormal [ZP:0100162]	owl:equivalentClass	blank node <9c1afaabdaf16e12ce198a98e31ac339>	
+ERROR	multiple_equivalent_classes	nucleus oocyte stage I localized, abnormal [ZP:0100163]	owl:equivalentClass	blank node <948c8e449b9cd3e697def9d4becdcf37>	
+ERROR	multiple_equivalent_classes	nucleus oocyte stage I localized, abnormal [ZP:0100163]	owl:equivalentClass	blank node <c503d821fbb54818fbb350aee13ac278>	
+ERROR	multiple_equivalent_classes	retinal bipolar neuron normal amount, abnormal [ZP:0100164]	owl:equivalentClass	blank node <e858d0ed1abc54b4183b92704f5780ab>	
+ERROR	multiple_equivalent_classes	retinal bipolar neuron normal amount, abnormal [ZP:0100164]	owl:equivalentClass	blank node <f83d2dfdfa15e3c3dc062ca087833f47>	
+ERROR	multiple_equivalent_classes	myofibril muscle patchy, abnormal [ZP:0100165]	owl:equivalentClass	blank node <db9293abd2085a8975f96af320e3d987>	
+ERROR	multiple_equivalent_classes	myofibril muscle patchy, abnormal [ZP:0100165]	owl:equivalentClass	blank node <e262e8c516a5b766698c2a66c5f72e9d>	
+ERROR	multiple_equivalent_classes	trunk musculature increased duration relaxation of muscle, abnormal [ZP:0100166]	owl:equivalentClass	blank node <50c3e481cc057c4957ddb3370cc2ad2b>	
+ERROR	multiple_equivalent_classes	trunk musculature increased duration relaxation of muscle, abnormal [ZP:0100166]	owl:equivalentClass	blank node <8527f432eea0136c4ea389a1fd031256>	
+ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction increased duration, abnormal [ZP:0100167]	owl:equivalentClass	blank node <605c66f72e51e929271a5000e0ec6c93>	
+ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction increased duration, abnormal [ZP:0100167]	owl:equivalentClass	blank node <9e86fc1ce99c202d5343f59b7e420c27>	
+ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction decreased intensity, abnormal [ZP:0100168]	owl:equivalentClass	blank node <914b833d4930c6d854e6e5712b7355df>	
+ERROR	multiple_equivalent_classes	twitch skeletal muscle contraction decreased intensity, abnormal [ZP:0100168]	owl:equivalentClass	blank node <ae6b04177aee902187b1b85153a10446>	
+ERROR	multiple_equivalent_classes	sarcomere trunk musculature increased diameter, abnormal [ZP:0100169]	owl:equivalentClass	blank node <561b4afecedf5faf038273aadce4779b>	
+ERROR	multiple_equivalent_classes	sarcomere trunk musculature increased diameter, abnormal [ZP:0100169]	owl:equivalentClass	blank node <d1488b6f494bb4b3d98b2ec39cab9784>	
+ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased length, abnormal [ZP:0100170]	owl:equivalentClass	blank node <2c2c60a106b235ffc7069c6e03adf759>	
+ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased length, abnormal [ZP:0100170]	owl:equivalentClass	blank node <cabed8547e0675c97dc92103f99c522a>	
+ERROR	multiple_equivalent_classes	tonic skeletal muscle contraction decreased intensity, abnormal [ZP:0100171]	owl:equivalentClass	blank node <68a838d08839a6a55bef6830ebf048c2>	
+ERROR	multiple_equivalent_classes	tonic skeletal muscle contraction decreased intensity, abnormal [ZP:0100171]	owl:equivalentClass	blank node <f713a671f600b01b2c9521b079914e11>	
+ERROR	multiple_equivalent_classes	skeletal muscle adaptation disrupted, abnormal [ZP:0100172]	owl:equivalentClass	blank node <57be8de678f50718e531eb460330301c>	
+ERROR	multiple_equivalent_classes	skeletal muscle adaptation disrupted, abnormal [ZP:0100172]	owl:equivalentClass	blank node <85bad4d09e67aa36fc9c3de7e0742e00>	
+ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased diameter, abnormal [ZP:0100173]	owl:equivalentClass	blank node <7658db78cbee9a004145afc0414e9a89>	
+ERROR	multiple_equivalent_classes	sarcomere trunk musculature decreased diameter, abnormal [ZP:0100173]	owl:equivalentClass	blank node <ee81a0312e7b32021df4f5f91083b3cf>	
+ERROR	multiple_equivalent_classes	sarcomere myotome malformed, abnormal [ZP:0100174]	owl:equivalentClass	blank node <1c07c4335a43bd2fe1ced53edb3f51f8>	
+ERROR	multiple_equivalent_classes	sarcomere myotome malformed, abnormal [ZP:0100174]	owl:equivalentClass	blank node <6b5b11f747145b2bf89e0712fcfb87fc>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell myotome spatial pattern, abnormal [ZP:0100175]	owl:equivalentClass	blank node <148f18df777102337e39d255db47cefd>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell myotome spatial pattern, abnormal [ZP:0100175]	owl:equivalentClass	blank node <5c5cad465310fc41cc2cc680635f310d>	
+ERROR	multiple_equivalent_classes	whole organism process quality respiratory gaseous exchange, abnormal [ZP:0100176]	owl:equivalentClass	blank node <22ac2c15ff7319c6ca26d3504213f79c>	
+ERROR	multiple_equivalent_classes	whole organism process quality respiratory gaseous exchange, abnormal [ZP:0100176]	owl:equivalentClass	blank node <5ae5b7d7442a2a16a9dd432346b78880>	
+ERROR	multiple_equivalent_classes	mitochondrion slow muscle cell morphology, abnormal [ZP:0100177]	owl:equivalentClass	blank node <3acc3ab1b99426b34c4678265e47b2bb>	
+ERROR	multiple_equivalent_classes	mitochondrion slow muscle cell morphology, abnormal [ZP:0100177]	owl:equivalentClass	blank node <f30d099c4bb5dc50cd2b1f7ccffe0533>	
+ERROR	multiple_equivalent_classes	mitochondrion fast muscle cell swollen, abnormal [ZP:0100178]	owl:equivalentClass	blank node <020053313a9c5156bba9f4ab1b240716>	
+ERROR	multiple_equivalent_classes	mitochondrion fast muscle cell swollen, abnormal [ZP:0100178]	owl:equivalentClass	blank node <99dd9c0bfe6aec244b033c4087c75468>	
+ERROR	multiple_equivalent_classes	mitochondrial matrix muscle decreased mass density, abnormal [ZP:0100179]	owl:equivalentClass	blank node <35181ed0690f07ff79c966e7f66d3830>	
+ERROR	multiple_equivalent_classes	mitochondrial matrix muscle decreased mass density, abnormal [ZP:0100179]	owl:equivalentClass	blank node <cddded814f8c786134ad3d50f922ffea>	
+ERROR	multiple_equivalent_classes	skeletal muscle attachment quality myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100180]	owl:equivalentClass	blank node <6437f6177f4cae41d09dbb69300e6190>	
+ERROR	multiple_equivalent_classes	skeletal muscle attachment quality myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100180]	owl:equivalentClass	blank node <aa346f763c67f62034ee1b366cee6574>	
+ERROR	multiple_equivalent_classes	skeletal muscle detached from myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100181]	owl:equivalentClass	blank node <5bfd762518598d802e74c2624f0f96e1>	
+ERROR	multiple_equivalent_classes	skeletal muscle detached from myofibril muscle tendon junction skeletal muscle, abnormal [ZP:0100181]	owl:equivalentClass	blank node <90ff51e64757b6a139e693b6338a6a4c>	
+ERROR	multiple_equivalent_classes	mitochondrial crista muscle morphology, abnormal [ZP:0100182]	owl:equivalentClass	blank node <57110047b38a558d7617bf0374fb586b>	
+ERROR	multiple_equivalent_classes	mitochondrial crista muscle morphology, abnormal [ZP:0100182]	owl:equivalentClass	blank node <a4b5486d1a6ef7c3ec82ca06cd8ade75>	
+ERROR	multiple_equivalent_classes	mitochondrial crista muscle decreased amount, abnormal [ZP:0100183]	owl:equivalentClass	blank node <a02dbb44eb0732bfd0d05a4145a9bd18>	
+ERROR	multiple_equivalent_classes	mitochondrial crista muscle decreased amount, abnormal [ZP:0100183]	owl:equivalentClass	blank node <ec3d4fd56e2e6a76bd2d37b7429ce2ac>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell damaged, abnormal [ZP:0100184]	owl:equivalentClass	blank node <3acceee4416e02feb30134363be1cf6a>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell damaged, abnormal [ZP:0100184]	owl:equivalentClass	blank node <6a99292b41f844e5507dbd3d886f2a0c>	
+ERROR	multiple_equivalent_classes	choline brain decreased amount, abnormal [ZP:0100185]	owl:equivalentClass	blank node <06aeb415632ebf04cff4d83487e5c728>	
+ERROR	multiple_equivalent_classes	choline brain decreased amount, abnormal [ZP:0100185]	owl:equivalentClass	blank node <0841e6e114824730907c2547238f0b83>	
+ERROR	multiple_equivalent_classes	S-adenosyl-L-methionine brain decreased amount, abnormal [ZP:0100186]	owl:equivalentClass	blank node <e64462ac7fdf46002c4da479cd54e640>	
+ERROR	multiple_equivalent_classes	S-adenosyl-L-methionine brain decreased amount, abnormal [ZP:0100186]	owl:equivalentClass	blank node <e80678dc9912fbb5f95880df58f450ba>	
+ERROR	multiple_equivalent_classes	arachidonic acid brain decreased amount, abnormal [ZP:0100187]	owl:equivalentClass	blank node <b58a909124caf95050aa29c08b764a28>	
+ERROR	multiple_equivalent_classes	arachidonic acid brain decreased amount, abnormal [ZP:0100187]	owl:equivalentClass	blank node <d9c8d85d77f87bd0b3e103df4bb309e6>	
+ERROR	multiple_equivalent_classes	CDP-choline brain decreased amount, abnormal [ZP:0100188]	owl:equivalentClass	blank node <671ced5d1ca2eef9924e45d110501984>	
+ERROR	multiple_equivalent_classes	CDP-choline brain decreased amount, abnormal [ZP:0100188]	owl:equivalentClass	blank node <cee18a52e64089e7fec1fc991917c24b>	
+ERROR	multiple_equivalent_classes	12-HETE brain increased amount, abnormal [ZP:0100189]	owl:equivalentClass	blank node <07d05c0c41d9fc7111df7b76f561ee47>	
+ERROR	multiple_equivalent_classes	12-HETE brain increased amount, abnormal [ZP:0100189]	owl:equivalentClass	blank node <35b85fad01279efb73a05d93dad1077a>	
+ERROR	multiple_equivalent_classes	F4-Neuroprostane (4-series) brain increased amount, abnormal [ZP:0100190]	owl:equivalentClass	blank node <660dc1478ce611004e404fc85d5e38d1>	
+ERROR	multiple_equivalent_classes	F4-Neuroprostane (4-series) brain increased amount, abnormal [ZP:0100190]	owl:equivalentClass	blank node <c0b923e59acd7a9829547f89376e337f>	
+ERROR	multiple_equivalent_classes	docosahexaenoic acid brain decreased amount, abnormal [ZP:0100191]	owl:equivalentClass	blank node <40cc8992f681755e2bc3528c1e2aa087>	
+ERROR	multiple_equivalent_classes	docosahexaenoic acid brain decreased amount, abnormal [ZP:0100191]	owl:equivalentClass	blank node <850feed1c9f20210ed9a6fa31e2cb7f9>	
+ERROR	multiple_equivalent_classes	5-oxo-ETE brain increased amount, abnormal [ZP:0100192]	owl:equivalentClass	blank node <63a90efa01601958aaf01eb3eaf83839>	
+ERROR	multiple_equivalent_classes	5-oxo-ETE brain increased amount, abnormal [ZP:0100192]	owl:equivalentClass	blank node <cb1e8e049a70ca84d928f596d2baa143>	
+ERROR	multiple_equivalent_classes	lysophosphatidylcholine brain decreased amount, abnormal [ZP:0100193]	owl:equivalentClass	blank node <21571dfea36b2b916076126ba33002f3>	
+ERROR	multiple_equivalent_classes	lysophosphatidylcholine brain decreased amount, abnormal [ZP:0100193]	owl:equivalentClass	blank node <8c3e4142bf6bdab883b279c1d03852f2>	
+ERROR	multiple_equivalent_classes	5-HETE brain increased amount, abnormal [ZP:0100194]	owl:equivalentClass	blank node <6f27d58e82507d12f5e19b6cdcc563fb>	
+ERROR	multiple_equivalent_classes	5-HETE brain increased amount, abnormal [ZP:0100194]	owl:equivalentClass	blank node <df8eb5f0a7662e2a0c7039948851d013>	
+ERROR	multiple_equivalent_classes	9-HODE brain increased amount, abnormal [ZP:0100195]	owl:equivalentClass	blank node <045473c7fb0b3c728d9e3f820a04c202>	
+ERROR	multiple_equivalent_classes	9-HODE brain increased amount, abnormal [ZP:0100195]	owl:equivalentClass	blank node <a7d0fba6b3612fc178896e7b02b2565c>	
+ERROR	multiple_equivalent_classes	generation of precursor metabolites and energy disrupted, abnormal [ZP:0100196]	owl:equivalentClass	blank node <1c41b97ba28ecc83787c94a71215975f>	
+ERROR	multiple_equivalent_classes	generation of precursor metabolites and energy disrupted, abnormal [ZP:0100196]	owl:equivalentClass	blank node <21384d023fa163a9c0b5e55a1f4b4d8e>	
+ERROR	multiple_equivalent_classes	associative learning disrupted, abnormal [ZP:0100197]	owl:equivalentClass	blank node <b34cd8cd027090e7eba6720fde6c7918>	
+ERROR	multiple_equivalent_classes	associative learning disrupted, abnormal [ZP:0100197]	owl:equivalentClass	blank node <eb7f5ae507624e32416467814c2010e5>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell increased occurrence inflammatory response, abnormal [ZP:0100198]	owl:equivalentClass	blank node <19ebffb53b6fcd28f1fdf711aabad54d>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell increased occurrence inflammatory response, abnormal [ZP:0100198]	owl:equivalentClass	blank node <378375fc9e7f841d249078f17a903b11>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell increased amount, abnormal [ZP:0100199]	owl:equivalentClass	blank node <0330329a8e68ac48a0989666236483f8>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell increased amount, abnormal [ZP:0100199]	owl:equivalentClass	blank node <1193be66946af2e6e127ebe586e54220>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell detached from skeletal muscle cell, abnormal [ZP:0100200]	owl:equivalentClass	blank node <0e37d4da49d487e6c0f9e59beb5e8868>	
+ERROR	multiple_equivalent_classes	skeletal muscle cell detached from skeletal muscle cell, abnormal [ZP:0100200]	owl:equivalentClass	blank node <2ac565c29b86cafaa6e63b89e28e4064>	
+ERROR	multiple_equivalent_classes	chromosome, telomeric region cell decreased length, abnormal [ZP:0100201]	owl:equivalentClass	blank node <09d4ad71d2977e97caa34f9c11bb874b>	
+ERROR	multiple_equivalent_classes	chromosome, telomeric region cell decreased length, abnormal [ZP:0100201]	owl:equivalentClass	blank node <39b6cb9543964ca7daa3acb5f4ac73e2>	
+ERROR	multiple_equivalent_classes	macrophage activation increased occurrence, abnormal [ZP:0100202]	owl:equivalentClass	blank node <3c68d43cb02eb6febe6bc4d140aa2c75>	
+ERROR	multiple_equivalent_classes	macrophage activation increased occurrence, abnormal [ZP:0100202]	owl:equivalentClass	blank node <54e0df68a344f33261258a651fafa3da>	
+ERROR	multiple_equivalent_classes	macrophage dead, abnormal [ZP:0100203]	owl:equivalentClass	blank node <1498083f40b182f256537a71d334f8f6>	
+ERROR	multiple_equivalent_classes	macrophage dead, abnormal [ZP:0100203]	owl:equivalentClass	blank node <f58e0e6cad1a3484cd216f3999253ab2>	
+ERROR	multiple_equivalent_classes	neuromast amount, abnormal [ZP:0100204]	owl:equivalentClass	blank node <5712d35bf612a61998d8414dedf8a420>	
+ERROR	multiple_equivalent_classes	neuromast amount, abnormal [ZP:0100204]	owl:equivalentClass	blank node <b51b73ed4c345b10266c6e7d752b7365>	
+ERROR	multiple_equivalent_classes	retina increased occurrence Notch signaling pathway, abnormal [ZP:0100205]	owl:equivalentClass	blank node <5a232487cf9a47b046f342990b580e50>	
+ERROR	multiple_equivalent_classes	retina increased occurrence Notch signaling pathway, abnormal [ZP:0100205]	owl:equivalentClass	blank node <e46a9fc7d461bcbb6f9730486aa10b56>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer occurrence cell population proliferation, abnormal [ZP:0100206]	owl:equivalentClass	blank node <206595e3b714615218e543984827e931>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer occurrence cell population proliferation, abnormal [ZP:0100206]	owl:equivalentClass	blank node <395024feb40b1394750e0693bcb19a58>	
+ERROR	multiple_equivalent_classes	retinal inner nuclear layer amount, abnormal [ZP:0100207]	owl:equivalentClass	blank node <90673918b53665a86fb8dc6faf359215>	
+ERROR	multiple_equivalent_classes	retinal inner nuclear layer amount, abnormal [ZP:0100207]	owl:equivalentClass	blank node <afa8e8eb4ddc1487b035a72750943526>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer amount, abnormal [ZP:0100208]	owl:equivalentClass	blank node <b7d0eeb9989f7115fd8693a8589a71be>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer amount, abnormal [ZP:0100208]	owl:equivalentClass	blank node <c1fdff0e6531774f6372c02a0ac762cb>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer increased amount, abnormal [ZP:0100209]	owl:equivalentClass	blank node <75b36c919cad73912d967ded7a235683>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer increased amount, abnormal [ZP:0100209]	owl:equivalentClass	blank node <d143b2e04ffaf624d2bdd22a8fb7e198>	
+ERROR	multiple_equivalent_classes	retinal cone cell decreased occurrence regeneration, abnormal [ZP:0100210]	owl:equivalentClass	blank node <432cb734a6d3a9b5ad6b5c65b7950bf4>	
+ERROR	multiple_equivalent_classes	retinal cone cell decreased occurrence regeneration, abnormal [ZP:0100210]	owl:equivalentClass	blank node <b6b8e1cea6d6eb42fad85ec4b20fcf6d>	
+ERROR	multiple_equivalent_classes	retinal rod cell decreased occurrence regeneration, abnormal [ZP:0100211]	owl:equivalentClass	blank node <0a8766af8f0f13cb09358fced382565b>	
+ERROR	multiple_equivalent_classes	retinal rod cell decreased occurrence regeneration, abnormal [ZP:0100211]	owl:equivalentClass	blank node <280497ccd80d0688ca3f44408e4e8399>	
+ERROR	multiple_equivalent_classes	retinal inner nuclear layer regenerating tissue increased amount, abnormal [ZP:0100212]	owl:equivalentClass	blank node <12ad039410bd0f5b92a47a12f32f7830>	
+ERROR	multiple_equivalent_classes	retinal inner nuclear layer regenerating tissue increased amount, abnormal [ZP:0100212]	owl:equivalentClass	blank node <885fa3c07f67a966db757c3a8c233583>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer regenerating tissue increased amount, abnormal [ZP:0100213]	owl:equivalentClass	blank node <8985dfb09356131b2d308d8cc746099e>	
+ERROR	multiple_equivalent_classes	retinal outer nuclear layer regenerating tissue increased amount, abnormal [ZP:0100213]	owl:equivalentClass	blank node <f0608a86ccd8286bc1f3464563402cb2>	
+ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue amount, abnormal [ZP:0100214]	owl:equivalentClass	blank node <23296f388c43635b51c9c843cb3c37e1>	
+ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue amount, abnormal [ZP:0100214]	owl:equivalentClass	blank node <3fdbeca15ecdfeaf64c8cce8ea0dbdf0>	
+ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue decreased amount, abnormal [ZP:0100215]	owl:equivalentClass	blank node <fa2e588c2cd4e6a42d3273746dad16e4>	
+ERROR	multiple_equivalent_classes	retinal cone cell regenerating tissue decreased amount, abnormal [ZP:0100215]	owl:equivalentClass	blank node <ffb18cd1d4d328734d3906db97c0ece7>	
+ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue amount, abnormal [ZP:0100216]	owl:equivalentClass	blank node <85ea0f10939d7c958a9044af9151ce11>	
+ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue amount, abnormal [ZP:0100216]	owl:equivalentClass	blank node <bb24b769abbc1898b3adc8b35fcc1d8c>	
+ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue decreased amount, abnormal [ZP:0100217]	owl:equivalentClass	blank node <0986c572390a91f964de82188515eec4>	
+ERROR	multiple_equivalent_classes	retinal rod cell regenerating tissue decreased amount, abnormal [ZP:0100217]	owl:equivalentClass	blank node <355d4f8c150c98e64069f557393fae30>	
+ERROR	multiple_equivalent_classes	spinal cord spatial pattern, abnormal [ZP:0100218]	owl:equivalentClass	blank node <05840c124c07ac1725b48304eb4a1580>	
+ERROR	multiple_equivalent_classes	spinal cord spatial pattern, abnormal [ZP:0100218]	owl:equivalentClass	blank node <3edb37f0ec41acc50c8578639b3c9240>	
+ERROR	multiple_equivalent_classes	posterior cardinal vein increased amount, abnormal [ZP:0100219]	owl:equivalentClass	blank node <c98309d3b39a211f7528fd315eabe923>	
+ERROR	multiple_equivalent_classes	posterior cardinal vein increased amount, abnormal [ZP:0100219]	owl:equivalentClass	blank node <d15e863ce766041407458ffed66d3bed>	
+ERROR	multiple_equivalent_classes	primordial hindbrain channel hypoplastic, abnormal [ZP:0100220]	owl:equivalentClass	blank node <98202125e756553657f2add21bc181cc>	
+ERROR	multiple_equivalent_classes	primordial hindbrain channel hypoplastic, abnormal [ZP:0100220]	owl:equivalentClass	blank node <a23e1867219984d69c771d6adf2f33b5>	
+ERROR	multiple_equivalent_classes	optic cup decreased amount, abnormal [ZP:0100221]	owl:equivalentClass	blank node <000e3d134daecbf07f53dbad410f2892>	
+ERROR	multiple_equivalent_classes	optic cup decreased amount, abnormal [ZP:0100221]	owl:equivalentClass	blank node <ab2e6fc8f823b5e3d70796a5b3b2bb2e>	
+ERROR	multiple_equivalent_classes	basement membrane notochord absent, abnormal [ZP:0100222]	owl:equivalentClass	blank node <2e9e7a1d431b27ad2a016c5a311f6ea1>	
+ERROR	multiple_equivalent_classes	basement membrane notochord absent, abnormal [ZP:0100222]	owl:equivalentClass	blank node <a9d53695b77e2fb759dd5a7c7e223e60>	
+ERROR	multiple_equivalent_classes	posterior region neuroectoderm increased distribution, abnormal [ZP:0100223]	owl:equivalentClass	blank node <6ec2bb5f4f9ad00af75a8d4f94421a5a>	
+ERROR	multiple_equivalent_classes	posterior region neuroectoderm increased distribution, abnormal [ZP:0100223]	owl:equivalentClass	blank node <c904c498467f510570919651e419bda1>	
+ERROR	multiple_equivalent_classes	microtubule oocyte stage I structure, abnormal [ZP:0100224]	owl:equivalentClass	blank node <4636570342c1a8db2ce890d5010dc676>	
+ERROR	multiple_equivalent_classes	microtubule oocyte stage I structure, abnormal [ZP:0100224]	owl:equivalentClass	blank node <ed6e6ca14808b816f7b742625dd4a5f1>	
+ERROR	multiple_equivalent_classes	mitochondrial cloud oocyte stage I position, abnormal [ZP:0100225]	owl:equivalentClass	blank node <1d7d6f571e44e43c7ff5dbc28dc364f7>	
+ERROR	multiple_equivalent_classes	mitochondrial cloud oocyte stage I position, abnormal [ZP:0100225]	owl:equivalentClass	blank node <c1236b8a0d8ca19841b7fe7bbbd2c206>	
+ERROR	multiple_equivalent_classes	microtubule depolymerization increased occurrence, abnormal [ZP:0100226]	owl:equivalentClass	blank node <03be8adffc01308d1fce67874933f2d5>	
+ERROR	multiple_equivalent_classes	microtubule depolymerization increased occurrence, abnormal [ZP:0100226]	owl:equivalentClass	blank node <04f7964113d9a74f7d77a80216099a1d>	
+ERROR	multiple_equivalent_classes	posterior region caudal vein fatty, abnormal [ZP:0100227]	owl:equivalentClass	blank node <1d6eff05cfd30095e4cb1a987325a258>	
+ERROR	multiple_equivalent_classes	posterior region caudal vein fatty, abnormal [ZP:0100227]	owl:equivalentClass	blank node <a7f8d076e5ef4b44af37d6fe4bc792c9>	
+ERROR	multiple_equivalent_classes	lipid blood vessel endothelium increased amount, abnormal [ZP:0100228]	owl:equivalentClass	blank node <6034907eee5f4a49617a17988e0a965f>	
+ERROR	multiple_equivalent_classes	lipid blood vessel endothelium increased amount, abnormal [ZP:0100228]	owl:equivalentClass	blank node <65a5b416290d613409591b72f124687f>	
+ERROR	multiple_equivalent_classes	sodium ion export across plasma membrane increased process quality, abnormal [ZP:0100229]	owl:equivalentClass	blank node <0e1b8602b2b58389ba28b5812f32ad08>	
+ERROR	multiple_equivalent_classes	sodium ion export across plasma membrane increased process quality, abnormal [ZP:0100229]	owl:equivalentClass	blank node <a63cba0c93bb5c785348fd0c1dc5701c>	
+ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane increased process quality, abnormal [ZP:0100230]	owl:equivalentClass	blank node <2d6d31a27f245b6a2fb4ac72e0467831>	
+ERROR	multiple_equivalent_classes	sodium ion import across plasma membrane increased process quality, abnormal [ZP:0100230]	owl:equivalentClass	blank node <bc46750b804f042889b1125a2cf1b202>	
+ERROR	multiple_equivalent_classes	integument decreased occurrence proton export across plasma membrane, abnormal [ZP:0100231]	owl:equivalentClass	blank node <a531d1a63db86959b55c6b4267a3d84a>	
+ERROR	multiple_equivalent_classes	integument decreased occurrence proton export across plasma membrane, abnormal [ZP:0100231]	owl:equivalentClass	blank node <d3be0bcd317e0700ba212c9a0a8c57f2>	
+ERROR	multiple_equivalent_classes	proton export across plasma membrane decreased occurrence, abnormal [ZP:0100232]	owl:equivalentClass	blank node <3a3a6a2177e34ee0ffffa12116c18936>	
+ERROR	multiple_equivalent_classes	proton export across plasma membrane decreased occurrence, abnormal [ZP:0100232]	owl:equivalentClass	blank node <6039d539364d40e7b88cd4a45baf8a61>	
+ERROR	multiple_equivalent_classes	neoplasm whole organism decreased size, abnormal [ZP:0100233]	owl:equivalentClass	blank node <0981ae375b4b6a60b37e0125ac03520b>	
+ERROR	multiple_equivalent_classes	neoplasm whole organism decreased size, abnormal [ZP:0100233]	owl:equivalentClass	blank node <47852329ce7b177fb6456f1598b8c731>	
+ERROR	multiple_equivalent_classes	vertebral artery absent, abnormal [ZP:0100234]	owl:equivalentClass	blank node <1d9827fa8c552353bf79d5a26974dad1>	
+ERROR	multiple_equivalent_classes	vertebral artery absent, abnormal [ZP:0100234]	owl:equivalentClass	blank node <6da2140f987dcd1f42ea1801bf69b3f0>	
+ERROR	multiple_equivalent_classes	cardiac ventricle has normal numbers of parts of type cardiac muscle cell, abnormal [ZP:0100235]	owl:equivalentClass	blank node <00297339516d8f3b81a72f660a10dd18>	
+ERROR	multiple_equivalent_classes	cardiac ventricle has normal numbers of parts of type cardiac muscle cell, abnormal [ZP:0100235]	owl:equivalentClass	blank node <c35da1983806cb0e1096b768d744aaed>	
+ERROR	multiple_equivalent_classes	melanoma melanocyte increased amount, abnormal [ZP:0100236]	owl:equivalentClass	blank node <17a542e2d674b346723b40e3ee706ba3>	
+ERROR	multiple_equivalent_classes	melanoma melanocyte increased amount, abnormal [ZP:0100236]	owl:equivalentClass	blank node <3ff34390f83e512de00171e6d0683741>	
+ERROR	multiple_equivalent_classes	interneuron normal amount, abnormal [ZP:0100237]	owl:equivalentClass	blank node <1a1b2a9ed2b0dc4d8402f5f0e79f8b53>	
+ERROR	multiple_equivalent_classes	interneuron normal amount, abnormal [ZP:0100237]	owl:equivalentClass	blank node <3fadd2d36a8b919772a5b93c5b67e339>	
+ERROR	multiple_equivalent_classes	Rohon-Beard neuron normal amount, abnormal [ZP:0100238]	owl:equivalentClass	blank node <3d87d44c166f9f8f39dc0af63d31331b>	
+ERROR	multiple_equivalent_classes	Rohon-Beard neuron normal amount, abnormal [ZP:0100238]	owl:equivalentClass	blank node <f6770880322dc6c3fa754d5983eef0df>	
+ERROR	multiple_equivalent_classes	secondary motor neuron normal amount, abnormal [ZP:0100239]	owl:equivalentClass	blank node <9ea7ac7627d9cfc0d532c4605a4a2d75>	
+ERROR	multiple_equivalent_classes	secondary motor neuron normal amount, abnormal [ZP:0100239]	owl:equivalentClass	blank node <f356286e46eca2a11fe7bc9d9252a52d>	
+ERROR	multiple_equivalent_classes	melanoblast normal amount, abnormal [ZP:0100240]	owl:equivalentClass	blank node <3adaf65c9527c69d536351d043f9fe4e>	
+ERROR	multiple_equivalent_classes	melanoblast normal amount, abnormal [ZP:0100240]	owl:equivalentClass	blank node <c6bc22c6096e33e5d201fea2a7dc6f11>	
+ERROR	multiple_equivalent_classes	goblet cell normal amount, abnormal [ZP:0100241]	owl:equivalentClass	blank node <731dd67da1941f9ab195fe9a17f7fb98>	
+ERROR	multiple_equivalent_classes	goblet cell normal amount, abnormal [ZP:0100241]	owl:equivalentClass	blank node <f4453fefb361af6816a57e0e9939cc9c>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium normal amount, abnormal [ZP:0100242]	owl:equivalentClass	blank node <cb023273b6f19a850cc216b3d5a6359e>	
+ERROR	multiple_equivalent_classes	cardiac muscle cell atrial myocardium normal amount, abnormal [ZP:0100242]	owl:equivalentClass	blank node <cbe812c37ff74108fe3e78883c93bed7>	
+ERROR	multiple_equivalent_classes	neutrophil amount, abnormal [ZP:0100243]	owl:equivalentClass	blank node <5b137c3b3e48c10355067e21ab35ad6f>	
+ERROR	multiple_equivalent_classes	neutrophil amount, abnormal [ZP:0100243]	owl:equivalentClass	blank node <fce977dc5939bad40853587aeda2f6c4>	
+ERROR	multiple_equivalent_classes	pancreatic B cell normal amount, abnormal [ZP:0100244]	owl:equivalentClass	blank node <80200e33a74022335bd69bd6617335c9>	
+ERROR	multiple_equivalent_classes	pancreatic B cell normal amount, abnormal [ZP:0100244]	owl:equivalentClass	blank node <d97010515323bde15f025411f911ef41>	
+ERROR	multiple_equivalent_classes	pancreatic A cell normal amount, abnormal [ZP:0100245]	owl:equivalentClass	blank node <5a7d6a43086be81922c2df4905449a09>	
+ERROR	multiple_equivalent_classes	pancreatic A cell normal amount, abnormal [ZP:0100245]	owl:equivalentClass	blank node <cb4ae69ce61c354403d80e846beeb465>	
+ERROR	multiple_equivalent_classes	determination of digestive tract left/right asymmetry decreased occurrence, abnormal [ZP:0100246]	owl:equivalentClass	blank node <0967f734e1eb935711a59428583f8516>	
+ERROR	multiple_equivalent_classes	determination of digestive tract left/right asymmetry decreased occurrence, abnormal [ZP:0100246]	owl:equivalentClass	blank node <5113ba11e0ef35b65b4b755e5204fb34>	
+ERROR	multiple_equivalent_classes	determination of liver left/right asymmetry decreased occurrence, abnormal [ZP:0100247]	owl:equivalentClass	blank node <a442e6d249f9573428d2f78edef7b1f8>	
+ERROR	multiple_equivalent_classes	determination of liver left/right asymmetry decreased occurrence, abnormal [ZP:0100247]	owl:equivalentClass	blank node <f972c29464b49106b4d701576c9ca221>	
+ERROR	multiple_equivalent_classes	digestive system spatial pattern, abnormal [ZP:0100248]	owl:equivalentClass	blank node <1627832838b37f433cc07a19ec012133>	
+ERROR	multiple_equivalent_classes	digestive system spatial pattern, abnormal [ZP:0100248]	owl:equivalentClass	blank node <e54f8974ff66500eb9ff0fd96207bcb1>	
+ERROR	multiple_equivalent_classes	hypoblast aplastic/hypoplastic, abnormal [ZP:0100249]	owl:equivalentClass	blank node <48074de4a2f82576f5841a00cf60efb8>	
+ERROR	multiple_equivalent_classes	hypoblast aplastic/hypoplastic, abnormal [ZP:0100249]	owl:equivalentClass	blank node <7a6af8c269c3cc9b5ebcf3d1916150b5>	
+ERROR	multiple_equivalent_classes	myofibril slow muscle cell increased length, abnormal [ZP:0100250]	owl:equivalentClass	blank node <3bc64721a911f510e1e8e1a4e5bda045>	
+ERROR	multiple_equivalent_classes	myofibril slow muscle cell increased length, abnormal [ZP:0100250]	owl:equivalentClass	blank node <6998d71559dde0832ecfa526bfd1b2c9>	
+ERROR	multiple_equivalent_classes	myofibril slow muscle cell decreased width, abnormal [ZP:0100251]	owl:equivalentClass	blank node <4c2ac4dc5c8e9a36e55a1a1c8e9e8355>	
+ERROR	multiple_equivalent_classes	myofibril slow muscle cell decreased width, abnormal [ZP:0100251]	owl:equivalentClass	blank node <9f022a7c07032adaf20db6b100fc3d79>	
+ERROR	multiple_equivalent_classes	anterior region whole organism decreased amount, abnormal [ZP:0100252]	owl:equivalentClass	blank node <61774f7786d6f51507f66fdb5d386d88>	
+ERROR	multiple_equivalent_classes	anterior region whole organism decreased amount, abnormal [ZP:0100252]	owl:equivalentClass	blank node <b611a0a399ae808d95a8a5330b19e7a0>	
+ERROR	multiple_equivalent_classes	neural crest increased occurrence apoptotic process, abnormal [ZP:0100253]	owl:equivalentClass	blank node <b905783f6bf888d885b7f140f08bd9b4>	
+ERROR	multiple_equivalent_classes	neural crest increased occurrence apoptotic process, abnormal [ZP:0100253]	owl:equivalentClass	blank node <bae12b729d96125fc96095947e0afd27>	
+ERROR	multiple_equivalent_classes	neural crest decreased occurrence cell population proliferation, abnormal [ZP:0100254]	owl:equivalentClass	blank node <31169e5681cca8c1e80e2d1853c272c6>	
+ERROR	multiple_equivalent_classes	neural crest decreased occurrence cell population proliferation, abnormal [ZP:0100254]	owl:equivalentClass	blank node <801660194a805b522e537d4d3853a01e>	
+ERROR	multiple_equivalent_classes	neural crest cell development decreased occurrence, abnormal [ZP:0100255]	owl:equivalentClass	blank node <8668cd9622c5864c39a4a922886d07f5>	
+ERROR	multiple_equivalent_classes	neural crest cell development decreased occurrence, abnormal [ZP:0100255]	owl:equivalentClass	blank node <9672220edc7e2dbc936e48a7f847cc10>	
+ERROR	multiple_equivalent_classes	neural crest decreased amount, abnormal [ZP:0100256]	owl:equivalentClass	blank node <423210028b6f2659de2915b42a68aea3>	
+ERROR	multiple_equivalent_classes	neural crest decreased amount, abnormal [ZP:0100256]	owl:equivalentClass	blank node <d0bf15175cc0dc1f6ce8f5712b001750>	
+ERROR	multiple_equivalent_classes	pronephric proximal straight tubule increased size, abnormal [ZP:0100257]	owl:equivalentClass	blank node <54a64f794ac8de762d0ed5be585fc8a7>	
+ERROR	multiple_equivalent_classes	pronephric proximal straight tubule increased size, abnormal [ZP:0100257]	owl:equivalentClass	blank node <c21e6249bc48d06a4305a3128dab3115>	
+ERROR	multiple_equivalent_classes	pronephric distal early tubule increased size, abnormal [ZP:0100258]	owl:equivalentClass	blank node <186084d811dce67ec47bc05b4c7d1975>	
+ERROR	multiple_equivalent_classes	pronephric distal early tubule increased size, abnormal [ZP:0100258]	owl:equivalentClass	blank node <dbf8a98f282c26b9c29406f346d62ba3>	
+ERROR	multiple_equivalent_classes	pronephric distal early tubule increased distribution, abnormal [ZP:0100259]	owl:equivalentClass	blank node <1d2bdc8dbe8e89e470980f40580a31fe>	
+ERROR	multiple_equivalent_classes	pronephric distal early tubule increased distribution, abnormal [ZP:0100259]	owl:equivalentClass	blank node <5a618ec640556fb8bfb002a7ba273fb2>	
+ERROR	multiple_equivalent_classes	(3,4-dihydroxyphenyl)acetic acid brain decreased amount, abnormal [ZP:0100260]	owl:equivalentClass	blank node <7f0df2c5d3de89b3a0343c6ae7455e6d>	
+ERROR	multiple_equivalent_classes	(3,4-dihydroxyphenyl)acetic acid brain decreased amount, abnormal [ZP:0100260]	owl:equivalentClass	blank node <836729dff3e3f781c4957a6616ab5d29>	
+ERROR	multiple_equivalent_classes	amyloid-beta polypeptide 42 brain increased amount, abnormal [ZP:0100261]	owl:equivalentClass	blank node <727a41519bc7418f69aba8e0a4bf97b9>	
+ERROR	multiple_equivalent_classes	amyloid-beta polypeptide 42 brain increased amount, abnormal [ZP:0100261]	owl:equivalentClass	blank node <b82e78b9e5bc51924248a6261042fe56>	
+ERROR	multiple_equivalent_classes	telencephalon increased occurrence apoptotic process, abnormal [ZP:0100262]	owl:equivalentClass	blank node <2253ed79c8c73824eec4dd566f91cf10>	
+ERROR	multiple_equivalent_classes	telencephalon increased occurrence apoptotic process, abnormal [ZP:0100262]	owl:equivalentClass	blank node <d28a19865581313bc2104e18245ded94>	
+ERROR	multiple_equivalent_classes	diencephalon increased occurrence apoptotic process, abnormal [ZP:0100263]	owl:equivalentClass	blank node <80ad65bd8a14937bfc12211f28718fcc>	
+ERROR	multiple_equivalent_classes	diencephalon increased occurrence apoptotic process, abnormal [ZP:0100263]	owl:equivalentClass	blank node <9f80eebe11d2cb7665af6786a17fb230>	
+ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased distribution, abnormal [ZP:0100264]	owl:equivalentClass	blank node <0f6acb371fd0fed2a8566899c96628d6>	
+ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased distribution, abnormal [ZP:0100264]	owl:equivalentClass	blank node <fa07f65b2d8ec6ebbe649a587fec1b84>	
+ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased amount, abnormal [ZP:0100265]	owl:equivalentClass	blank node <04e8a2b68c250702ed111c58f31063c1>	
+ERROR	multiple_equivalent_classes	distal region pronephric tubule decreased amount, abnormal [ZP:0100265]	owl:equivalentClass	blank node <394d6866ee6c9e436b4a2fa7b7d4af69>	
+ERROR	multiple_equivalent_classes	pronephric tubule increased distance cell cell pronephric tubule, abnormal [ZP:0100266]	owl:equivalentClass	blank node <182a0e7a478390fce4f13d839dd3b462>	
+ERROR	multiple_equivalent_classes	pronephric tubule increased distance cell cell pronephric tubule, abnormal [ZP:0100266]	owl:equivalentClass	blank node <4be58a95240a53b309b316352acf9261>	
+ERROR	multiple_equivalent_classes	pronephric tubule has fewer parts of type proximal region cell, abnormal [ZP:0100267]	owl:equivalentClass	blank node <27d84e7458c765f146bcb925b4673e72>	
+ERROR	multiple_equivalent_classes	pronephric tubule has fewer parts of type proximal region cell, abnormal [ZP:0100267]	owl:equivalentClass	blank node <dd85e90debbae45c352ec40688d04b01>	
+ERROR	multiple_equivalent_classes	pronephric tubule has extra parts of type proximal region cell, abnormal [ZP:0100268]	owl:equivalentClass	blank node <02156caea992a2f02bbd686526152a88>	
+ERROR	multiple_equivalent_classes	pronephric tubule has extra parts of type proximal region cell, abnormal [ZP:0100268]	owl:equivalentClass	blank node <625a79e32974202f7db7c9c0c7e3aaad>	
+ERROR	multiple_equivalent_classes	pronephric tubule increased occurrence cell population proliferation, abnormal [ZP:0100269]	owl:equivalentClass	blank node <c9348980878f3c1095154c0e7f1a29a8>	
+ERROR	multiple_equivalent_classes	pronephric tubule increased occurrence cell population proliferation, abnormal [ZP:0100269]	owl:equivalentClass	blank node <e95ce90e4bf97b5952dbdbbe89d24337>	
+ERROR	multiple_equivalent_classes	endothelial cell migration process quality, abnormal [ZP:0100270]	owl:equivalentClass	blank node <6e41b2978d9eca57ef58f1396c26e1c8>	
+ERROR	multiple_equivalent_classes	endothelial cell migration process quality, abnormal [ZP:0100270]	owl:equivalentClass	blank node <8b710716e38d9a4b13747ec97b063a41>	
+ERROR	multiple_equivalent_classes	pronephric tubule decreased amount, abnormal [ZP:0100271]	owl:equivalentClass	blank node <2be1c1ada7db8319e6b6e87eba0ce2fe>	
+ERROR	multiple_equivalent_classes	pronephric tubule decreased amount, abnormal [ZP:0100271]	owl:equivalentClass	blank node <84447a1c7e4b4e042239dccaae44048a>	
+ERROR	multiple_equivalent_classes	lactate whole organism decreased amount, abnormal [ZP:0100272]	owl:equivalentClass	blank node <b0de1448c412f37b7c10868ef74ef5f1>	
+ERROR	multiple_equivalent_classes	lactate whole organism decreased amount, abnormal [ZP:0100272]	owl:equivalentClass	blank node <d177fd992472281d5ab50b37a046c1db>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte heart absent, abnormal [ZP:0100273]	owl:equivalentClass	blank node <b4d0af61b1c27949159b0547e661ccd3>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte heart absent, abnormal [ZP:0100273]	owl:equivalentClass	blank node <c0ed656a744ce383cc1c73cd80798bd1>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte heart present, abnormal [ZP:0100274]	owl:equivalentClass	blank node <2cb4a8f2ef8225771bf11c7e87865a73>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte heart present, abnormal [ZP:0100274]	owl:equivalentClass	blank node <ada9cef8bde9378d5228cbde8cb4b0d3>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte accumulation caudal fin vasculature, abnormal [ZP:0100275]	owl:equivalentClass	blank node <90c4957c8db757d1a19d4dd06453ec3b>	
+ERROR	multiple_equivalent_classes	nucleate erythrocyte accumulation caudal fin vasculature, abnormal [ZP:0100275]	owl:equivalentClass	blank node <9fc31bbb02e4ffb570104daf45380058>	
+ERROR	multiple_equivalent_classes	cell cortex oocyte stage I absent, abnormal [ZP:0100276]	owl:equivalentClass	blank node <7de347f88e9a522fe8f2a68682ec94a4>	
+ERROR	multiple_equivalent_classes	cell cortex oocyte stage I absent, abnormal [ZP:0100276]	owl:equivalentClass	blank node <afe46ee116a7d607b8c927c9bb422db3>	
+ERROR	multiple_equivalent_classes	oocyte stage I decreased occurrence organelle disassembly, abnormal [ZP:0100277]	owl:equivalentClass	blank node <57eace569a582e38654a01d01d24e21b>	
+ERROR	multiple_equivalent_classes	oocyte stage I decreased occurrence organelle disassembly, abnormal [ZP:0100277]	owl:equivalentClass	blank node <7ce983b6167fe48ee0bb56c781e0398d>	
 ERROR	missing_label	ZP_0000976 [ZP:0000976]	label [rdfs:label]		
 ERROR	missing_label	ZP_0000979 [ZP:0000979]	label [rdfs:label]		
 ERROR	missing_label	ZP_0006440 [ZP:0006440]	label [rdfs:label]		

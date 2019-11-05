@@ -1,9 +1,9 @@
 Level	Rule Name	Subject	Property	Value
 ERROR	duplicate_definition	UBERON:2001170	IAO:0000115	Vertebra that is posteriorly adjacent to vertebra 5.	
-ERROR	multiple_equivalent_classes	UBERON:0000378	owl:equivalentClass	36b2578e-04c8-479f-a158-7aa23ad857fe	
+ERROR	multiple_equivalent_classes	UBERON:0000378	owl:equivalentClass	14b23a77-703e-48bd-9a2e-84c0ad6ba6cf	
 ERROR	duplicate_label	UBERON:0012285	rdfs:label	vegetal hemisphere	
 ERROR	missing_ontology_license	uberon.owl	dc:license		
-WARN	annotation_whitespace	a3201851-e8e4-4408-af38-0d091e3e26df	oboInOwl:source	PMID:6997222 	
+WARN	annotation_whitespace	0d59a36c-024e-4fbf-9af3-f9ae3cdf52ad	oboInOwl:source	DOI:10.1146/annurev.cellbio.22.010605.093317 Hartenstein V, Blood cells and blood cell development in the animal kingdom. Annual review of cell and developmental biology (2006) 	
 WARN	missing_definition	BFO:0000050	IAO:0000115		
 WARN	duplicate_scoped_synonym	UBERON:0000011	oboInOwl:hasExactSynonym	pars parasympathica divisionis autonomici systematis nervosi	
 WARN	invalid_xref	UBERON:0001572	oboInOwl:hasDbXref	MFMO_0000064	

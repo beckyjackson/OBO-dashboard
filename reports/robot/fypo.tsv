@@ -2,6 +2,7 @@ Level	Rule Name	Subject	Property	Value
 ERROR	missing_ontology_description	fypo.owl	dc11:description		
 ERROR	missing_ontology_license	fypo.owl	dc:license		
 ERROR	missing_ontology_title	fypo.owl	dc11:title		
+WARN	annotation_whitespace	abnormal microtubule cytoskeleton organization [FYPO:0000054]	hasRelatedSynonym [oboInOwl:hasRelatedSynonym]	 disorganized microtubule cytoskeleton	
 WARN	duplicate_exact_synonym	decreased protein localization to prospore membrane [FYPO:0004442]	hasExactSynonym [oboInOwl:hasExactSynonym]	reduced protein localization to prospore membrane	
 WARN	duplicate_exact_synonym	decreased protein localization to ascospore wall [FYPO:0005133]	hasExactSynonym [oboInOwl:hasExactSynonym]	reduced protein localization to prospore membrane	
 WARN	duplicate_exact_synonym	increased phosphatidylinositol-3,4,5-trisphosphate level in plasma membrane [FYPO:0006624]	hasExactSynonym [oboInOwl:hasExactSynonym]	increased plasma membrane phosphatidylinositol-3,4,5-trisphosphate level	
@@ -12,6 +13,8 @@ WARN	duplicate_exact_synonym	delayed onset of stress granule assembly [FYPO:0002
 WARN	duplicate_exact_synonym	delayed onset of stress granule disassembly [FYPO:0002352]	hasExactSynonym [oboInOwl:hasExactSynonym]	delayed onset of cytoplasmic stress granule assembly	
 WARN	duplicate_exact_synonym	decreased level of ubiquitinated protein in cell [FYPO:0005226]	hasExactSynonym [oboInOwl:hasExactSynonym]	decreased ubiquitinated protein level during vegetative growth	
 WARN	duplicate_exact_synonym	decreased filamentous actin level [FYPO:0005476]	hasExactSynonym [oboInOwl:hasExactSynonym]	decreased ubiquitinated protein level during vegetative growth	
+WARN	duplicate_exact_synonym	abnormal mitotic sister chromatid arm separation [FYPO:0005024]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormal mitotic chromosome arm separation	
+WARN	duplicate_exact_synonym	abnormal mitotic chromosome movement towards spindle pole [FYPO:0007128]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormal mitotic chromosome arm separation	
 WARN	duplicate_exact_synonym	abnormal kinetochore disassembly during meiotic prophase I [FYPO:0006770]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormal kinetochore disassembly during prophase of meiosis I	
 WARN	duplicate_exact_synonym	spindle collapse during meiosis I [FYPO:0007103]	hasExactSynonym [oboInOwl:hasExactSynonym]	abnormal kinetochore disassembly during prophase of meiosis I	
 WARN	missing_obsolete_label	invasive growth abolished [FYPO:0000048]	label [rdfs:label]	invasive growth abolished	
@@ -775,6 +778,7 @@ INFO	missing_superclass	GO_0004382 [GO:0004382]	rdfs:subClassOf
 INFO	missing_superclass	GO_0004402 [GO:0004402]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0004407 [GO:0004407]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0004410 [GO:0004410]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0004414 [GO:0004414]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0004420 [GO:0004420]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0004449 [GO:0004449]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0004467 [GO:0004467]	rdfs:subClassOf		
@@ -955,6 +959,7 @@ INFO	missing_superclass	GO_0007050 [GO:0007050]	rdfs:subClassOf
 INFO	missing_superclass	GO_0007059 [GO:0007059]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0007064 [GO:0007064]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0007076 [GO:0007076]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0007079 [GO:0007079]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0007080 [GO:0007080]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0007089 [GO:0007089]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0007091 [GO:0007091]	rdfs:subClassOf		
@@ -1121,6 +1126,7 @@ INFO	missing_superclass	GO_0030995 [GO:0030995]	rdfs:subClassOf
 INFO	missing_superclass	GO_0030998 [GO:0030998]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0030999 [GO:0030999]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0031024 [GO:0031024]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0031028 [GO:0031028]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0031048 [GO:0031048]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0031081 [GO:0031081]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0031087 [GO:0031087]	rdfs:subClassOf		
@@ -1179,6 +1185,7 @@ INFO	missing_superclass	GO_0032878 [GO:0032878]	rdfs:subClassOf
 INFO	missing_superclass	GO_0032934 [GO:0032934]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0032991 [GO:0032991]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0033059 [GO:0033059]	rdfs:subClassOf		
+INFO	missing_superclass	GO_0033108 [GO:0033108]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0033260 [GO:0033260]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0033262 [GO:0033262]	rdfs:subClassOf		
 INFO	missing_superclass	GO_0033313 [GO:0033313]	rdfs:subClassOf		
@@ -1645,6 +1652,7 @@ INFO	missing_superclass	GO_1902319 [GO:1902319]	rdfs:subClassOf
 INFO	missing_superclass	GO_1902368 [GO:1902368]	rdfs:subClassOf		
 INFO	missing_superclass	GO_1902404 [GO:1902404]	rdfs:subClassOf		
 INFO	missing_superclass	GO_1902405 [GO:1902405]	rdfs:subClassOf		
+INFO	missing_superclass	GO_1902406 [GO:1902406]	rdfs:subClassOf		
 INFO	missing_superclass	GO_1902426 [GO:1902426]	rdfs:subClassOf		
 INFO	missing_superclass	GO_1902432 [GO:1902432]	rdfs:subClassOf		
 INFO	missing_superclass	GO_1902434 [GO:1902434]	rdfs:subClassOf		

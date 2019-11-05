@@ -155,7 +155,6 @@ WARN	missing_definition	autosomal recessive spinocerebellar ataxia 26 [DOID:0080
 WARN	missing_definition	autosomal recessive nonsyndromic deafness 106 [DOID:0080261]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	autosomal recessive nonsyndromic deafness 107 [DOID:0080262]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	autosomal recessive nonsyndromic deafness 108 [DOID:0080263]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	exudative vitreoretinopathy 7 [DOID:0080264]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	primary ciliary dyskinesia 37 [DOID:0080266]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	autosomal dominant nonsyndromic deafness 71 [DOID:0080267]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	autosomal dominant nonsyndromic deafness 72 [DOID:0080268]	IAO_0000115 [IAO:0000115]		
@@ -1038,7 +1037,6 @@ WARN	missing_definition	Binder syndrome [DOID:14683]	IAO_0000115 [IAO:0000115]
 WARN	missing_definition	Smith-Lemli-Opitz syndrome [DOID:14692]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	Clouston syndrome [DOID:14693]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	thrombocytopenia-absent radius syndrome [DOID:14699]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	branchiootorenal syndrome [DOID:14702]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	type I Ehlers-Danlos syndrome [DOID:14720]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	autosomal dominant microcephaly [DOID:14725]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	Weaver syndrome [DOID:14731]	IAO_0000115 [IAO:0000115]		
@@ -1487,8 +1485,6 @@ WARN	missing_definition	cerebral arterial disease [DOID:3527]	IAO_0000115 [IAO:0
 WARN	missing_definition	anterior cerebral artery infarction [DOID:3528]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	central core myopathy [DOID:3529]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	chronic wasting disease [DOID:3530]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	Lafora disease [DOID:3534]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	Unverricht-Lundborg syndrome [DOID:3535]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	adult choroid plexus cancer [DOID:3542]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	atypical choroid plexus papilloma [DOID:3544]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	childhood choroid plexus cancer [DOID:3545]	IAO_0000115 [IAO:0000115]		
@@ -1603,7 +1599,6 @@ WARN	missing_definition	adrenal cortex disease [DOID:3952]	IAO_0000115 [IAO:0000
 WARN	missing_definition	trabecular follicular adenocarcinoma [DOID:3964]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	Merkel cell carcinoma [DOID:3965]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	papillary follicular thyroid adenocarcinoma [DOID:3968]	IAO_0000115 [IAO:0000115]		
-WARN	missing_definition	restrictive cardiomyopathy [DOID:397]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	Schneiderian carcinoma [DOID:4003]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	linitis plastica [DOID:4023]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	eosinophilic gastritis [DOID:4030]	IAO_0000115 [IAO:0000115]		
@@ -3645,6 +3640,7 @@ INFO	missing_superclass	SYMP_0000002 [SYMP:0000002]	rdfs:subClassOf
 INFO	missing_superclass	SYMP_0000006 [SYMP:0000006]	rdfs:subClassOf		
 INFO	missing_superclass	SYMP_0000008 [SYMP:0000008]	rdfs:subClassOf		
 INFO	missing_superclass	SYMP_0000016 [SYMP:0000016]	rdfs:subClassOf		
+INFO	missing_superclass	SYMP_0000019 [SYMP:0000019]	rdfs:subClassOf		
 INFO	missing_superclass	SYMP_0000020 [SYMP:0000020]	rdfs:subClassOf		
 INFO	missing_superclass	SYMP_0000024 [SYMP:0000024]	rdfs:subClassOf		
 INFO	missing_superclass	SYMP_0000030 [SYMP:0000030]	rdfs:subClassOf		

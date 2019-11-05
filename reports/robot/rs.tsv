@@ -4699,6 +4699,7 @@ WARN	missing_definition	F344-Trpc4Tn(sb-T2/Bart3)2.192Mcwi+/+ [RS:0004748]	IAO_0
 WARN	missing_definition	F344-Trpc4Tn(sb-T2/Bart3)2.192Mcwi-/- [RS:0004749]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	F344-Trpc4Tn(sb-T2/Bart3)2.192Mcwi-/+ [RS:0004750]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	SD-Cyp3a23/3a1em1Myliu,Cyp3a2em1Myliu [RS:0004751]	IAO_0000115 [IAO:0000115]		
+WARN	missing_definition	SD-Tg(Cx3cr1-cre)3Ottc [RS:0004752]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	ACI.FHH-(rs105487995-rs105373896)/Mcwi [RS:0004753]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	ACI.FHH-(rs105487995-rs106411696)/Mcwi [RS:0004754]	IAO_0000115 [IAO:0000115]		
 WARN	missing_definition	ACI.FHH-(rgdv393055223-rs107095981)/Mcwi [RS:0004755]	IAO_0000115 [IAO:0000115]		

@@ -123,7 +123,7 @@ ERROR	duplicate_definition	577.174353 [MOD:01368]	IAO_0000115 [IAO:0000115]	modi
 ERROR	duplicate_definition	339.161663 [MOD:00470]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 ERROR	duplicate_definition	C 25 H 39 N 5 O 6 S 3 [MOD:00471]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 ERROR	duplicate_definition	15.02 [MOD:00475]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
-ERROR	duplicate_definition	K [MOD:00484]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
+ERROR	duplicate_definition	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 ERROR	duplicate_definition	K [MOD:00485]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 ERROR	duplicate_definition	371.50 [MOD:00486]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 ERROR	duplicate_definition	369.183461 [MOD:00487]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
@@ -751,7 +751,7 @@ WARN	duplicate_exact_synonym	C 0 H -2 N 0 O 0 Se 0 [MOD:01183]	hasExactSynonym [
 WARN	duplicate_exact_synonym	C, C [MOD:01184]	hasExactSynonym [oboInOwl:hasExactSynonym]	bis(alpha-aminopropionic acid)-beta-diselenide	
 WARN	duplicate_exact_synonym	C 34 Fe 1 H 30 N 4 O 4 S 0 [MOD:00271]	hasExactSynonym [oboInOwl:hasExactSynonym]	BINDING Heme (covalent; via 3 links)	
 WARN	duplicate_exact_synonym	C 34 Fe 1 H 30 N 4 O 4 S 0 [MOD:00276]	hasExactSynonym [oboInOwl:hasExactSynonym]	BINDING Heme (covalent; via 3 links)	
-WARN	duplicate_exact_synonym	D, E, M [MOD:00285]	hasExactSynonym [oboInOwl:hasExactSynonym]	BINDING Heme (covalent; via 3 links)	
+WARN	duplicate_exact_synonym	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasExactSynonym [oboInOwl:hasExactSynonym]	BINDING Heme (covalent; via 3 links)	
 WARN	duplicate_exact_synonym	heme-L-cysteine [MOD:00144]	hasExactSynonym [oboInOwl:hasExactSynonym]	BINDING Heme (covalent; via 1 link)	
 WARN	duplicate_exact_synonym	614.48 [MOD:00329]	hasExactSynonym [oboInOwl:hasExactSynonym]	BINDING Heme (covalent; via 1 link)	
 WARN	duplicate_exact_synonym	127.14 [MOD:01396]	hasExactSynonym [oboInOwl:hasExactSynonym]	beta-methyl-delta-hydroxyproline	
@@ -3837,16 +3837,16 @@ WARN	invalid_xref	856.215529 [MOD:00284]	hasDbXref [oboInOwl:hasDbXref]	MassMono
 WARN	invalid_xref	856.215529 [MOD:00284]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	856.215529 [MOD:00284]	hasDbXref [oboInOwl:hasDbXref]	Source:	
 WARN	invalid_xref	856.215529 [MOD:00284]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	FormalCharge:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	Source:	
-WARN	invalid_xref	D, E, M [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	FormalCharge:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	Source:	
+WARN	invalid_xref	C 48 Fe 1 H 50 N 7 O 11 S 1 [MOD:00285]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
 WARN	invalid_xref	C 43 H 52 Mo 1 N 21 O 27 P 4 S 5 [MOD:00286]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
 WARN	invalid_xref	C 43 H 52 Mo 1 N 21 O 27 P 4 S 5 [MOD:00286]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
 WARN	invalid_xref	C 43 H 52 Mo 1 N 21 O 27 P 4 S 5 [MOD:00286]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
@@ -5548,15 +5548,15 @@ WARN	invalid_xref	228.27 [MOD:00483]	hasDbXref [oboInOwl:hasDbXref]	MassMono:
 WARN	invalid_xref	228.27 [MOD:00483]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	228.27 [MOD:00483]	hasDbXref [oboInOwl:hasDbXref]	Source:	
 WARN	invalid_xref	228.27 [MOD:00483]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	Source:	
-WARN	invalid_xref	K [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	Source:	
+WARN	invalid_xref	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
 WARN	invalid_xref	K [MOD:00485]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
 WARN	invalid_xref	K [MOD:00485]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
 WARN	invalid_xref	K [MOD:00485]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
@@ -6627,15 +6627,15 @@ WARN	invalid_xref	cysteinyl mercury [MOD:00610]	hasDbXref [oboInOwl:hasDbXref]	M
 WARN	invalid_xref	cysteinyl mercury [MOD:00610]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	cysteinyl mercury [MOD:00610]	hasDbXref [oboInOwl:hasDbXref]	Source:	
 WARN	invalid_xref	cysteinyl mercury [MOD:00610]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	Source:	
-WARN	invalid_xref	none [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	Source:	
+WARN	invalid_xref	X [MOD:00611]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
 WARN	invalid_xref	C 5 H 7 N 1 O 2 S 1 [MOD:00612]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
 WARN	invalid_xref	C 5 H 7 N 1 O 2 S 1 [MOD:00612]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
 WARN	invalid_xref	C 5 H 7 N 1 O 2 S 1 [MOD:00612]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
@@ -8050,16 +8050,16 @@ WARN	invalid_xref	N6,N6,N6-trimethyl-L-lysine (from L-lysinium residue) [MOD:008
 WARN	invalid_xref	N6,N6,N6-trimethyl-L-lysine (from L-lysinium residue) [MOD:00855]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	N6,N6,N6-trimethyl-L-lysine (from L-lysinium residue) [MOD:00855]	hasDbXref [oboInOwl:hasDbXref]	Source:	
 WARN	invalid_xref	N6,N6,N6-trimethyl-L-lysine (from L-lysinium residue) [MOD:00855]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	FormalCharge:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	Source:	
-WARN	invalid_xref	N-term [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	FormalCharge:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	Source:	
+WARN	invalid_xref	73.052215 [MOD:00856]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
 WARN	invalid_xref	N,N,N-trimethyl-L-alanine (from L-alaninium) [MOD:00857]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
 WARN	invalid_xref	N,N,N-trimethyl-L-alanine (from L-alaninium) [MOD:00857]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
 WARN	invalid_xref	N,N,N-trimethyl-L-alanine (from L-alaninium) [MOD:00857]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
@@ -8371,7 +8371,7 @@ WARN	invalid_xref	N-term [MOD:00900]	hasDbXref [oboInOwl:hasDbXref]	Source:
 WARN	invalid_xref	N-term [MOD:00900]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
 WARN	invalid_xref	modified L-alanine residue [MOD:00901]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	modified L-arginine residue [MOD:00902]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
-WARN	invalid_xref	modified L-asparagine residue [MOD:00903]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
+WARN	invalid_xref	N [MOD:00903]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	D [MOD:00904]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	modified L-cysteine residue [MOD:00905]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	E [MOD:00906]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
@@ -11783,15 +11783,15 @@ WARN	invalid_xref	K [MOD:01314]	hasDbXref [oboInOwl:hasDbXref]	MassMono:
 WARN	invalid_xref	K [MOD:01314]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	K [MOD:01314]	hasDbXref [oboInOwl:hasDbXref]	Source:	
 WARN	invalid_xref	K [MOD:01314]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	Source:	
-WARN	invalid_xref	C 10 (1)H 12 (2)H 4 N 2 O 4 [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	Source:	
+WARN	invalid_xref	K [MOD:01315]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
 WARN	invalid_xref	K [MOD:01316]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
 WARN	invalid_xref	K [MOD:01316]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
 WARN	invalid_xref	K [MOD:01316]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
@@ -14896,15 +14896,15 @@ WARN	invalid_xref	N-term [MOD:01690]	hasDbXref [oboInOwl:hasDbXref]	MassMono:
 WARN	invalid_xref	N-term [MOD:01690]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
 WARN	invalid_xref	N-term [MOD:01690]	hasDbXref [oboInOwl:hasDbXref]	Source:	
 WARN	invalid_xref	N-term [MOD:01690]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	Source:	
-WARN	invalid_xref	328.194640 [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	Formula:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	MassAvg:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	MassMono:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	Origin:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	Source:	
+WARN	invalid_xref	N-term [MOD:01691]	hasDbXref [oboInOwl:hasDbXref]	TermSpec:	
 WARN	invalid_xref	113.12 [MOD:01692]	hasDbXref [oboInOwl:hasDbXref]	DiffAvg:	
 WARN	invalid_xref	113.12 [MOD:01692]	hasDbXref [oboInOwl:hasDbXref]	DiffFormula:	
 WARN	invalid_xref	113.12 [MOD:01692]	hasDbXref [oboInOwl:hasDbXref]	DiffMono:	
@@ -17581,7 +17581,7 @@ INFO	lowercase_definition	K [MOD:00473]	IAO_0000115 [IAO:0000115]	modification f
 INFO	lowercase_definition	15.02 [MOD:00475]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 INFO	lowercase_definition	227.26 [MOD:00480]	IAO_0000115 [IAO:0000115]	modification from UniMod Isotopic label	
 INFO	lowercase_definition	339.17 [MOD:00481]	IAO_0000115 [IAO:0000115]	modification from UniMod Isotopic label	
-INFO	lowercase_definition	K [MOD:00484]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
+INFO	lowercase_definition	C 22 H 38 N 6 O 4 S 1 [MOD:00484]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 INFO	lowercase_definition	K [MOD:00485]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 INFO	lowercase_definition	371.50 [MOD:00486]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	
 INFO	lowercase_definition	369.183461 [MOD:00487]	IAO_0000115 [IAO:0000115]	modification from UniMod Chemical derivative	

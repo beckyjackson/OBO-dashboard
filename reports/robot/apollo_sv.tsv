@@ -1,8 +1,8 @@
 Level	Rule Name	Subject	Property	Value
 ERROR	duplicate_definition	normal distribution [APOLLO:SV:00000036]	IAO_0000600 [IAO:0000600]	A continuous probability distribution in which the parameter μ is the mean or expectation of the distribution and the parameter σ is its standard deviation@en	
 ERROR	duplicate_definition	beta distribution [APOLLO:SV:00000078]	IAO_0000600 [IAO:0000600]	A continuous probability distribution in which the parameter μ is the mean or expectation of the distribution and the parameter σ is its standard deviation@en	
-ERROR	multiple_equivalent_classes	intimate agonism [APOLLO:SV:00000341]	owl:equivalentClass	blank node <024ae654d41f17d68d5b9ada72cf0b56>	
-ERROR	multiple_equivalent_classes	intimate agonism [APOLLO:SV:00000341]	owl:equivalentClass	blank node <e473d9992540f8756ab19cdade5614d7>	
+ERROR	multiple_equivalent_classes	intimate agonism [APOLLO:SV:00000341]	owl:equivalentClass	blank node <a4803383b0f1ed0c8816a084375ea772>	
+ERROR	multiple_equivalent_classes	intimate agonism [APOLLO:SV:00000341]	owl:equivalentClass	blank node <a82400c0989fd6f49a45bf2865bbcd95>	
 ERROR	label_formatting	obsolete_asymptomatic infection fraction
  [APOLLO:SV:00000045]	label [rdfs:label]	obsolete_asymptomatic infection fraction    @en	
 ERROR	missing_ontology_description	apollo:sv.owl	dc11:description		

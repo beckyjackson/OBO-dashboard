@@ -39,20 +39,20 @@ ERROR	duplicate_definition	lake with an anoxic hypolimnion [ENVO:01001073]	IAO_0
 ERROR	duplicate_definition	lake with a hypoxic hypolimnion [ENVO:01001074]	IAO_0000115 [IAO:0000115]	A lake which has a hypolimnion composed primarily of anoxic water.	
 ERROR	duplicate_definition	cloud [ENVO:01000760]	IAO_0000115 [IAO:0000115]	A cloud is a visible mass of aerosolised liquid droplets or frozen crystals suspended in an atmosphere above the surface of a planetary body.	
 ERROR	duplicate_definition	water-based cloud [ENVO:01001428]	IAO_0000115 [IAO:0000115]	A cloud is a visible mass of aerosolised liquid droplets or frozen crystals suspended in an atmosphere above the surface of a planetary body.	
-ERROR	multiple_equivalent_classes	construction [ENVO:00000070]	owl:equivalentClass	blank node <cf84a854efff79a56980230b3a672ad7>	
-ERROR	multiple_equivalent_classes	construction [ENVO:00000070]	owl:equivalentClass	blank node <ee696291e4e6cb2bbf23031bd4ca10e9>	
-ERROR	multiple_equivalent_classes	natural environment [ENVO:01000951]	owl:equivalentClass	blank node <a6dd8d2a02bd05ad5ffefa52b42432c9>	
-ERROR	multiple_equivalent_classes	natural environment [ENVO:01000951]	owl:equivalentClass	blank node <f839e9acee03e727537090ce4fc2be3b>	
-ERROR	multiple_equivalent_classes	anthropisation [ENVO:01000952]	owl:equivalentClass	blank node <b06baf99ace341791be999530f4ed873>	
-ERROR	multiple_equivalent_classes	anthropisation [ENVO:01000952]	owl:equivalentClass	blank node <e11e3ffcc8038044d6370258347a4e55>	
-ERROR	multiple_equivalent_classes	manufacturing process [ENVO:01000993]	owl:equivalentClass	blank node <5a37b7f77084dcba7965b9813572c008>	
-ERROR	multiple_equivalent_classes	manufacturing process [ENVO:01000993]	owl:equivalentClass	blank node <e64956abd2d0c0795fb32ab1bed8dc90>	
-ERROR	multiple_equivalent_classes	construction process [ENVO:01000996]	owl:equivalentClass	blank node <307173e674518b4298c7159fbd3e24b8>	
-ERROR	multiple_equivalent_classes	construction process [ENVO:01000996]	owl:equivalentClass	blank node <401238ec4335f045da3e840f5e9f0f06>	
-ERROR	multiple_equivalent_classes	environment associated with an animal part or small animal [ENVO:01001055]	owl:equivalentClass	blank node <50f045efc49acb0b4d6677f42c7c2766>	
-ERROR	multiple_equivalent_classes	environment associated with an animal part or small animal [ENVO:01001055]	owl:equivalentClass	blank node <c91c69cc72ee1c89f0888ccd82d366f3>	
-ERROR	multiple_equivalent_classes	environment associated with a plant part or small plant [ENVO:01001057]	owl:equivalentClass	blank node <0b1a599c0ec61d6fd832a9486e33a86f>	
-ERROR	multiple_equivalent_classes	environment associated with a plant part or small plant [ENVO:01001057]	owl:equivalentClass	blank node <8d69e4a882a31fc4e8c1602dcc5c8095>	
+ERROR	multiple_equivalent_classes	construction [ENVO:00000070]	owl:equivalentClass	blank node <d60ac4808ad2c28589a3dcecdb7ac8b0>	
+ERROR	multiple_equivalent_classes	construction [ENVO:00000070]	owl:equivalentClass	blank node <f18dd2e75e939b3a31aef8273c235336>	
+ERROR	multiple_equivalent_classes	natural environment [ENVO:01000951]	owl:equivalentClass	blank node <a69abda4c59fa12a547a8a704983133a>	
+ERROR	multiple_equivalent_classes	natural environment [ENVO:01000951]	owl:equivalentClass	blank node <df92c8828a2804c7d1ba581e8789b36d>	
+ERROR	multiple_equivalent_classes	anthropisation [ENVO:01000952]	owl:equivalentClass	blank node <9853928ce8c3fbc1ecbec549da70399a>	
+ERROR	multiple_equivalent_classes	anthropisation [ENVO:01000952]	owl:equivalentClass	blank node <fc52d91439c0bb21566b91c666762615>	
+ERROR	multiple_equivalent_classes	manufacturing process [ENVO:01000993]	owl:equivalentClass	blank node <4808cdb4f56796ff91b03eddd0328899>	
+ERROR	multiple_equivalent_classes	manufacturing process [ENVO:01000993]	owl:equivalentClass	blank node <704059436116931f118415f8d74d5036>	
+ERROR	multiple_equivalent_classes	construction process [ENVO:01000996]	owl:equivalentClass	blank node <1cc2ed72a6b85521ead00ee674dba8c5>	
+ERROR	multiple_equivalent_classes	construction process [ENVO:01000996]	owl:equivalentClass	blank node <ab514fa16add1e9308772e2d46cd5f21>	
+ERROR	multiple_equivalent_classes	environment associated with an animal part or small animal [ENVO:01001055]	owl:equivalentClass	blank node <43daad4c95b99865f65de4e1e667eb29>	
+ERROR	multiple_equivalent_classes	environment associated with an animal part or small animal [ENVO:01001055]	owl:equivalentClass	blank node <9a2c7a3fc23ee226a4f9a18fd4868038>	
+ERROR	multiple_equivalent_classes	environment associated with a plant part or small plant [ENVO:01001057]	owl:equivalentClass	blank node <c18166be6c75b138265f031fd7d56ace>	
+ERROR	multiple_equivalent_classes	environment associated with a plant part or small plant [ENVO:01001057]	owl:equivalentClass	blank node <f41426f0351acfeffa1aece282a2117f>	
 ERROR	missing_ontology_description	envo.owl	dc11:description		
 ERROR	duplicate_label	Bathymodiolus-dominated oceanic mussel bed [ENVO:01001387]	label [rdfs:label]	Bathymodiolus-dominated oceanic mussel bed@en	
 ERROR	duplicate_label	Bathymodiolus-dominated oceanic mussel bed [ENVO:01001390]	label [rdfs:label]	Bathymodiolus-dominated oceanic mussel bed@en	

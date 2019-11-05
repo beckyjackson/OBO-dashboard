@@ -1,8 +1,8 @@
 Level	Rule Name	Subject	Property	Value
 ERROR	duplicate_definition	salpingopharyngeus muscle [MFMO:0000307]	IAO_0000115 [IAO:0000115]	The superior constrictor is a muscle that is an integral part of the pharyngeal tube that is attached to the mandible, pterygomandibular raphe, basioccipital bone, pterygoid process and midline raphe and is innervated by Cranial Nerve X via the pharyngeal plexus.	
 ERROR	duplicate_definition	superior pharyngeal constrictor muscle [MFMO:0000325]	IAO_0000115 [IAO:0000115]	The superior constrictor is a muscle that is an integral part of the pharyngeal tube that is attached to the mandible, pterygomandibular raphe, basioccipital bone, pterygoid process and midline raphe and is innervated by Cranial Nerve X via the pharyngeal plexus.	
-ERROR	multiple_equivalent_classes	salpingopharyngeus muscle [MFMO:0000307]	owl:equivalentClass	blank node <4a5d8d4bb48e1974ba7c1eed89a30064>	
-ERROR	multiple_equivalent_classes	salpingopharyngeus muscle [MFMO:0000307]	owl:equivalentClass	blank node <8b3477aae707795a50b31dcd0157639c>	
+ERROR	multiple_equivalent_classes	salpingopharyngeus muscle [MFMO:0000307]	owl:equivalentClass	blank node <54b647cea318b061da045fc3e9ec5886>	
+ERROR	multiple_equivalent_classes	salpingopharyngeus muscle [MFMO:0000307]	owl:equivalentClass	blank node <64bd421d58c6d39b44901e79dc389c16>	
 ERROR	missing_ontology_description	mfmo.owl	dc11:description		
 ERROR	multiple_definitions	salpingopharyngeus muscle [MFMO:0000307]	IAO_0000115 [IAO:0000115]	Salpingopharyngeus is a muscle that attaches to pharyngotympanic tube and the pharynx and is innervated by pharyngeal plexus of CN X and participates in oral/pharyngeal behaviors    	
 ERROR	multiple_definitions	salpingopharyngeus muscle [MFMO:0000307]	IAO_0000115 [IAO:0000115]	The superior constrictor is a muscle that is an integral part of the pharyngeal tube that is attached to the mandible, pterygomandibular raphe, basioccipital bone, pterygoid process and midline raphe and is innervated by Cranial Nerve X via the pharyngeal plexus.	

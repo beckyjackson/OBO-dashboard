@@ -29,6 +29,7 @@ ERROR	duplicate_label	ampylation assay [MI:1147]	label [rdfs:label]	ampylation a
 ERROR	duplicate_label	ampylation assay [MI:1226]	label [rdfs:label]	ampylation assay	
 ERROR	missing_ontology_license	mi.owl	dc:license		
 ERROR	missing_ontology_title	mi.owl	dc11:title		
+ERROR	label_whitespace	blank node <fd2dfc53af109be941bdf29d3bdc248c>	label [rdfs:label]	 \d+.\d+/[a-zA-Z0-9\.\:]+	
 WARN	annotation_whitespace	myc tag coimmunoprecipitation [MI:0075]	hasExactSynonym [oboInOwl:hasExactSynonym]	myc tag coip 	
 WARN	annotation_whitespace	suppression mutation [MI:0262]	IAO_0000115 [IAO:0000115]	A given (suppressed) mutation phenotype is reverted by a supressor gene mutation.    OBSOLETE: remap to CV intraction type 'suppressive interaction' MI:0793 and genetic experimental form 'mutated gene' MI:0804. 	
 WARN	annotation_whitespace	suppression knockout [MI:0263]	IAO_0000115 [IAO:0000115]	Knocked out gene is the suppressor of a phenotype.    OBSOLETE: remap to CV intraction type 'suppressive interaction' MI:0793 and genetic experimental form 'knock out' MI:0788. 	
@@ -69,8 +70,6 @@ WARN	duplicate_exact_synonym	phosphatase homogeneous time resolved fluorescence 
 WARN	duplicate_exact_synonym	homogeneous time resolved fluorescence [MI:0510]	hasExactSynonym [oboInOwl:hasExactSynonym]	homogeneous time-resolved fluorescence	
 WARN	duplicate_exact_synonym	glycosylation reaction [MI:0559]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycosylation	
 WARN	duplicate_exact_synonym	attached carbohydrate [MI:2308]	hasExactSynonym [oboInOwl:hasExactSynonym]	glycosylation	
-WARN	duplicate_exact_synonym	literature database [MI:0445]	hasExactSynonym [oboInOwl:hasExactSynonym]	experiment xref	
-WARN	duplicate_exact_synonym	experiment database [MI:1336]	hasExactSynonym [oboInOwl:hasExactSynonym]	experiment xref	
 WARN	duplicate_exact_synonym	physiological level [MI:0222]	hasExactSynonym [oboInOwl:hasExactSynonym]	endogenous	
 WARN	duplicate_exact_synonym	naturally occurring [MI:0332]	hasExactSynonym [oboInOwl:hasExactSynonym]	endogenous	
 WARN	duplicate_exact_synonym	deamination assay [MI:0984]	hasExactSynonym [oboInOwl:hasExactSynonym]	deamination	
@@ -175,7 +174,7 @@ WARN	invalid_xref	http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=nucleotide&cm
 WARN	invalid_xref	ENS[A-Z]+[0-9]{11} [MI:0860]	hasDbXref [oboInOwl:hasDbXref]	id-validation-regexp:	
 WARN	invalid_xref	protein modification ontology [MI:0897]	hasDbXref [oboInOwl:hasDbXref]	id-validation-regexp:	
 WARN	invalid_xref	http://matrixdb.univ-lyon1.fr/cgi-bin/current/newPort?type=biomolecule&value=${ac} [MI:0917]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
-WARN	invalid_xref	www.ebi.ac.uk/pdbe/entry/emdb/${ac} [MI:0936]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
+WARN	invalid_xref	https://www.ebi.ac.uk/pdbe/entry/emdb/${ac} [MI:0936]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	invalid_xref	uniprot taxonomy [MI:0942]	hasDbXref [oboInOwl:hasDbXref]	id-validation-regexp:	
 WARN	invalid_xref	uniprot taxonomy [MI:0942]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	invalid_xref	http://www.ebi.ac.uk/chembldb/index.php/compound/inspect/${ac} [MI:0967]	hasDbXref [oboInOwl:hasDbXref]	id-validation-regexp:	
@@ -219,11 +218,16 @@ WARN	invalid_xref	http://arabidopsis.org/servlets/TairObject?type=locus&name=${a
 WARN	invalid_xref	agbase [MI:2180]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	invalid_xref	cacao [MI:2181]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	invalid_xref	micro rna [MI:2204]	hasDbXref [oboInOwl:hasDbXref]	url:	
-WARN	invalid_xref	http://signor.uniroma2.it/relation_result.php?id=${ac}/ [MI:2214]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
+WARN	invalid_xref	http://signor.uniroma2.it/relation_result.php?id=${ac} [MI:2214]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	invalid_xref	http://zinc15.docking.org/substances/${ac} [MI:2225]	hasDbXref [oboInOwl:hasDbXref]	id-validation-regexp:	
 WARN	invalid_xref	http://zinc15.docking.org/substances/${ac} [MI:2225]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	invalid_xref	ceitec [MI:2228]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	invalid_xref	complex portal [MI:2279]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
+WARN	invalid_xref	https://www.rhea-db.org/reaction?id=${ac} [MI:2344]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
+WARN	invalid_xref	biorxiv [MI:2347]	hasDbXref [oboInOwl:hasDbXref]	id-validation-regexp:	
+WARN	invalid_xref	biorxiv [MI:2347]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
+WARN	invalid_xref	clinvar [MI:2349]	hasDbXref [oboInOwl:hasDbXref]	id-validation-regexp:	
+WARN	invalid_xref	clinvar [MI:2349]	hasDbXref [oboInOwl:hasDbXref]	search-url:	
 WARN	missing_obsolete_label	colocalization by fluorescent probes cloning [MI:0021]	label [rdfs:label]	colocalization by fluorescent probes cloning	
 WARN	missing_obsolete_label	colocalization by immunostaining [MI:0022]	label [rdfs:label]	colocalization by immunostaining	
 WARN	missing_obsolete_label	colocalization/visualisation technologies [MI:0023]	label [rdfs:label]	colocalization/visualisation technologies	
@@ -432,4 +436,5 @@ INFO	lowercase_definition	patent number [MI:2024]	IAO_0000115 [IAO:0000115]	numb
 INFO	lowercase_definition	chemical stability [MI:2055]	IAO_0000115 [IAO:0000115]	chemical stability occurs when a substance is in a (dynamic) chemical equilibrium with its environment. In this well-defined state, the substance is expected to persist indefinitely (assuming that the environment does not change).  A substance which is not chemically stable (yet exists) is metastable or kinetically persistent.	
 INFO	lowercase_definition	iclip [MI:2193]	IAO_0000115 [IAO:0000115]	iCLIP allows for the stringent purification of UV cross-linked protein-RNA complexes, using immunoprecipitation followed by SDS-PAGE and membrane transfer. The radiolabelled protein-RNA complexes are then excised from the membrane, and treated with proteinase to release the RNA. This leaves one or two amino acids at the RNA cross-link site. The RNA is then reverse transcribed using barcoded primers. Because reverse transcription stops prematurely at the cross-link site, iCLIP allows RNA-protein interaction sites to be identified at high resolution.    https://en.wikipedia.org/wiki/ICLIP	
 INFO	lowercase_definition	dbsnp [MI:2324]	IAO_0000115 [IAO:0000115]	dbSNP contains human single nucleotide variations, microsatellites, and small-scale insertions and deletions along with publication, population frequency, molecular consequence, and genomic and RefSeq mapping information for both common variations and clinical mutations.	
+INFO	lowercase_definition	biorxiv [MI:2347]	IAO_0000115 [IAO:0000115]	bioRxiv is a free online archive and distribution service for unpublished preprints in the life sciences, operated by Cold Spring Harbor Laboratory. Articles are not peer-reviewed, edited, or typeset before being posted online.    http://biorxiv.org/	
 INFO	missing_superclass	molecular interaction [MI:0000]	rdfs:subClassOf		

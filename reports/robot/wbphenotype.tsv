@@ -3,16 +3,16 @@ ERROR	duplicate_definition	endosome fusion defective [WBPhenotype:0001638]	IAO_0
 ERROR	duplicate_definition	lysosome homeostasis deficient [WBPhenotype:0001784]	IAO_0000115 [IAO:0000115]	Animals are deficient in the formation or disassembly of lysosomes.	
 ERROR	duplicate_definition	neuron physiology variant [WBPhenotype:0000991]	IAO_0000115 [IAO:0000115]	Activity of the neuron varies from that observed for control animals or neurons. In C. elegans neuron activity is often assayed by observing calcium spikes.	
 ERROR	duplicate_definition	neuron activation variant [WBPhenotype:0001818]	IAO_0000115 [IAO:0000115]	Activity of the neuron varies from that observed for control animals or neurons. In C. elegans neuron activity is often assayed by observing calcium spikes.	
-ERROR	multiple_equivalent_classes	ectopic axon outgrowth [WBPhenotype:0002490]	owl:equivalentClass	blank node <599bbf2aa447a42a2169f23986a8e90a>	
-ERROR	multiple_equivalent_classes	ectopic axon outgrowth [WBPhenotype:0002490]	owl:equivalentClass	blank node <f8bdf99d9253d67f65cdc1fe0e70d2a9>	
-ERROR	multiple_equivalent_classes	ectopic cell [WBPhenotype:0002493]	owl:equivalentClass	blank node <70376eaaaab6d536f2f7904fe3b0e94a>	
-ERROR	multiple_equivalent_classes	ectopic cell [WBPhenotype:0002493]	owl:equivalentClass	blank node <f1ae855583a7a692b444e10c3d503f96>	
-ERROR	multiple_equivalent_classes	ectopic neuron [WBPhenotype:0002496]	owl:equivalentClass	blank node <4bf6e06a72d93dfc5ee7ad008d5921d4>	
-ERROR	multiple_equivalent_classes	ectopic neuron [WBPhenotype:0002496]	owl:equivalentClass	blank node <c2ec0d447badd0ce53409bb40b692da8>	
-ERROR	multiple_equivalent_classes	ectopic organ [WBPhenotype:0002498]	owl:equivalentClass	blank node <2614b839ce0f465204714cbec6df08f8>	
-ERROR	multiple_equivalent_classes	ectopic organ [WBPhenotype:0002498]	owl:equivalentClass	blank node <a600fdd926859c17f17513885b5deeda>	
-ERROR	multiple_equivalent_classes	ectopic vulva [WBPhenotype:0002499]	owl:equivalentClass	blank node <504eb77aeafe7650ab5ee7f28e1c94f2>	
-ERROR	multiple_equivalent_classes	ectopic vulva [WBPhenotype:0002499]	owl:equivalentClass	blank node <90e1fafe0c3a70db148380fdc486c1b8>	
+ERROR	multiple_equivalent_classes	ectopic axon outgrowth [WBPhenotype:0002490]	owl:equivalentClass	blank node <0ba5087dde011da2458c47cd0e96a243>	
+ERROR	multiple_equivalent_classes	ectopic axon outgrowth [WBPhenotype:0002490]	owl:equivalentClass	blank node <19d32250b1a7708adab2d72a402bf78d>	
+ERROR	multiple_equivalent_classes	ectopic cell [WBPhenotype:0002493]	owl:equivalentClass	blank node <63c884cf7d0fb2fd5acd60dda971f01e>	
+ERROR	multiple_equivalent_classes	ectopic cell [WBPhenotype:0002493]	owl:equivalentClass	blank node <acd2cab12a92398b931de9a0db762e73>	
+ERROR	multiple_equivalent_classes	ectopic neuron [WBPhenotype:0002496]	owl:equivalentClass	blank node <157a011e359ad8ba55c593616c0d2fd5>	
+ERROR	multiple_equivalent_classes	ectopic neuron [WBPhenotype:0002496]	owl:equivalentClass	blank node <e1de7158b9820828f49160843dc4f1dc>	
+ERROR	multiple_equivalent_classes	ectopic organ [WBPhenotype:0002498]	owl:equivalentClass	blank node <5b2e6f696af7ae2841b9e7d76dab888e>	
+ERROR	multiple_equivalent_classes	ectopic organ [WBPhenotype:0002498]	owl:equivalentClass	blank node <a5fe570cd13d0b03f93daf8720539575>	
+ERROR	multiple_equivalent_classes	ectopic vulva [WBPhenotype:0002499]	owl:equivalentClass	blank node <88ebd1aa31ebf0ddfbf3d3d0983ff530>	
+ERROR	multiple_equivalent_classes	ectopic vulva [WBPhenotype:0002499]	owl:equivalentClass	blank node <920c0a49c003eba15c38880c297d7319>	
 ERROR	missing_ontology_description	wbphenotype.owl	dc11:description		
 ERROR	missing_ontology_license	wbphenotype.owl	dc:license		
 ERROR	missing_ontology_title	wbphenotype.owl	dc11:title		

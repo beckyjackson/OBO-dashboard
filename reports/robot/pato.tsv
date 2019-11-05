@@ -35,3 +35,5 @@ WARN	missing_definition	hypoelliptic [PATO:0002321]	IAO_0000115 [IAO:0000115]
 WARN	missing_definition	hyperelliptic [PATO:0002322]	IAO_0000115 [IAO:0000115]		
 INFO	lowercase_definition	random pattern [PATO:0002401]	IAO_0000115 [IAO:0000115]	characterised by an unidentifiable pattern.	
 INFO	lowercase_definition	stability [PATO:0015026]	IAO_0000115 [IAO:0000115]	quality, state, or degree of being stable.	
+INFO	missing_superclass	BFO_0000019 [BFO:0000019]	rdfs:subClassOf		
+INFO	missing_superclass	BFO_0000020 [BFO:0000020]	rdfs:subClassOf		

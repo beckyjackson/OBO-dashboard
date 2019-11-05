@@ -1,10 +1,10 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_equivalent_classes	block design [STATO:0000046]	owl:equivalentClass	blank node <1d590963a30084fc74e02eaf41199e2a>	
-ERROR	multiple_equivalent_classes	block design [STATO:0000046]	owl:equivalentClass	blank node <254363e6518733f94f9af16b02f23068>	
-ERROR	multiple_equivalent_classes	homoskedasticity test [STATO:0000137]	owl:equivalentClass	blank node <6a348e5ad82d633fe88bf6aa7f980d28>	
-ERROR	multiple_equivalent_classes	homoskedasticity test [STATO:0000137]	owl:equivalentClass	blank node <be3c138a5f1129ae9c6ca476853cff2c>	
-ERROR	multiple_equivalent_classes	variable [STATO:0000258]	owl:equivalentClass	blank node <5f60246df63373dc2ca6060cee706b25>	
-ERROR	multiple_equivalent_classes	variable [STATO:0000258]	owl:equivalentClass	blank node <9ac1092720b53153b82a92728ab8b88a>	
+ERROR	multiple_equivalent_classes	block design [STATO:0000046]	owl:equivalentClass	blank node <c56892166d56624831468175b590d0f1>	
+ERROR	multiple_equivalent_classes	block design [STATO:0000046]	owl:equivalentClass	blank node <f3929db2b4eee2db13b79ff3c3190598>	
+ERROR	multiple_equivalent_classes	homoskedasticity test [STATO:0000137]	owl:equivalentClass	blank node <946e21a204c95dbe1c7705c0da1d6f60>	
+ERROR	multiple_equivalent_classes	homoskedasticity test [STATO:0000137]	owl:equivalentClass	blank node <9b629cdaa1fbf3d39bec7c7edbc569d9>	
+ERROR	multiple_equivalent_classes	variable [STATO:0000258]	owl:equivalentClass	blank node <7248075f253b5e654054e6a429f64779>	
+ERROR	multiple_equivalent_classes	variable [STATO:0000258]	owl:equivalentClass	blank node <df902c231f41f04594a1e21b741b69f0>	
 ERROR	missing_label	OBI_0000674 [OBI:0000674]	label [rdfs:label]		
 ERROR	missing_label	OBI_0000679 [OBI:0000679]	label [rdfs:label]		
 ERROR	missing_label	OBI_0500014 [OBI:0500014]	label [rdfs:label]		

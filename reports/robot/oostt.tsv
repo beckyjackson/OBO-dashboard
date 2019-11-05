@@ -5,7 +5,7 @@ ERROR	duplicate_definition	aggregate of emergency medical services pediatric gro
 ERROR	duplicate_definition	aggregate of emergency medical services pediatric air transportation agencies [OOSTT:00000305]	IAO_0000115 [IAO:0000115]	An aggregate of organization that consists only of emergencny medical service pediatric ground transportation agencies.@en	
 ERROR	duplicate_definition	trauma multidisciplinary peer review committee [OOSTT:00000006]	IAO_0000115 [IAO:0000115]	A committee with members from multiple specialties that engages in case review of trauma cases.@en	
 ERROR	duplicate_definition	trauma peer review committee [OOSTT:00000052]	IAO_0000115 [IAO:0000115]	A committee with members from multiple specialties that engages in case review of trauma cases.@en	
-ERROR	deprecated_class_reference	blank node <cbc9d971693b076db20b9a68dea8fec1>	owl:someValuesFrom	obsolete_anesthesia services availability plan specification [OOSTT:00000133]	
+ERROR	deprecated_class_reference	blank node <7c3e451022ad7caa91ff240ed021cd4b>	owl:someValuesFrom	obsolete_anesthesia services availability plan specification [OOSTT:00000133]	
 ERROR	missing_ontology_description	oostt.owl	dc11:description		
 ERROR	missing_ontology_license	oostt.owl	dc:license		
 WARN	missing_definition	OOSTT user-centered description [OOSTT:00000030]	IAO_0000115 [IAO:0000115]		

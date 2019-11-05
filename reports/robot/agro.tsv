@@ -1,6 +1,6 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_equivalent_classes	percent of experiment area damaged [AGRO:00000348]	owl:equivalentClass	blank node <610e79f557b49861725ae044ea8b0a56>	
-ERROR	multiple_equivalent_classes	percent of experiment area damaged [AGRO:00000348]	owl:equivalentClass	blank node <eceb2eed6d856d921d6b6cc99781fb3b>	
+ERROR	multiple_equivalent_classes	percent of experiment area damaged [AGRO:00000348]	owl:equivalentClass	blank node <dc3e9ee7b8ce2524945dd13a47640eae>	
+ERROR	multiple_equivalent_classes	percent of experiment area damaged [AGRO:00000348]	owl:equivalentClass	blank node <eec87e3c29b266c0e6368dc16942f9e0>	
 ERROR	missing_ontology_description	agro-edit.owl	description [dc11:description]		
 ERROR	multiple_definitions	experiment manager [AGRO:00000381]	IAO_0000115 [IAO:0000115]	A person that has a role of managing the experiment.@en	
 ERROR	multiple_definitions	experiment manager [AGRO:00000381]	IAO_0000115 [IAO:0000115]	Need a better definiton that highlights the differences with the principal investigator.@en	

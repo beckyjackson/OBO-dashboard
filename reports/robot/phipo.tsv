@@ -7,8 +7,8 @@ ERROR	duplicate_definition	sensitive to hydrogen peroxide [PHIPO:0000849]	IAO_00
 ERROR	duplicate_definition	sensitive to hydrogen peroxide [PHIPO:0000943]	IAO_0000115 [IAO:0000115]	A phenotype in which a population of a single-species shows increased sensitivity to hydrogen peroxide, manifested as an affect on the extent of population growth.	
 ERROR	duplicate_definition	pathogen host interaction protein localization phenotype [PHIPO:0000238]	IAO_0000115 [IAO:0000115]	A pathogen host interaction phenotype that affects the localization of a protein in a cell.	
 ERROR	duplicate_definition	abnormal pathogen host interaction protein localization [PHIPO:0000240]	IAO_0000115 [IAO:0000115]	A pathogen host interaction phenotype that affects the localization of a protein in a cell.	
-ERROR	multiple_equivalent_classes	normal pathogen peptidase activity [PHIPO:0000450]	owl:equivalentClass	blank node <14871a8184f3bd731f822ed910906c63>	
-ERROR	multiple_equivalent_classes	normal pathogen peptidase activity [PHIPO:0000450]	owl:equivalentClass	blank node <1d7646a0df72273212513d7a63a064bb>	
+ERROR	multiple_equivalent_classes	normal pathogen peptidase activity [PHIPO:0000450]	owl:equivalentClass	blank node <592da66ccb6a48b473f73f7e7ba803aa>	
+ERROR	multiple_equivalent_classes	normal pathogen peptidase activity [PHIPO:0000450]	owl:equivalentClass	blank node <c123effadf6ff53bc994d9f8ab187ac9>	
 ERROR	missing_ontology_description	phipo.owl	dc11:description		
 ERROR	duplicate_label	sensitive to hydrogen peroxide [PHIPO:0000849]	label [rdfs:label]	sensitive to hydrogen peroxide@en	
 ERROR	duplicate_label	sensitive to hydrogen peroxide [PHIPO:0000943]	label [rdfs:label]	sensitive to hydrogen peroxide@en	

@@ -37,6 +37,20 @@ WARN	missing_obsolete_label	sucker [XAO:0003082]	label [rdfs:label]	sucker
 WARN	missing_obsolete_label	germ line cell [XAO:0003148]	label [rdfs:label]	germ line cell	
 WARN	missing_obsolete_label	fore metapodium [XAO:0003167]	label [rdfs:label]	fore metapodium	
 WARN	missing_obsolete_label	hind mesopodium [XAO:0003168]	label [rdfs:label]	hind mesopodium	
+WARN	missing_obsolete_label	left olfactory pit [XAO:0005252]	label [rdfs:label]	left olfactory pit	
+WARN	missing_obsolete_label	right olfactory pit [XAO:0005253]	label [rdfs:label]	right olfactory pit	
+WARN	missing_obsolete_label	left eye [XAO:0005256]	label [rdfs:label]	left eye	
+WARN	missing_obsolete_label	right eye [XAO:0005257]	label [rdfs:label]	right eye	
+WARN	missing_obsolete_label	left inner ear [XAO:0005258]	label [rdfs:label]	left inner ear	
+WARN	missing_obsolete_label	right inner ear [XAO:0005259]	label [rdfs:label]	right inner ear	
+WARN	missing_obsolete_label	left part of branchial arch skeleton [XAO:0005270]	label [rdfs:label]	left part of branchial arch skeleton	
+WARN	missing_obsolete_label	right part of branchial arch skeleton [XAO:0005271]	label [rdfs:label]	right part of branchial arch skeleton	
+WARN	missing_obsolete_label	left forelimb [XAO:0005272]	label [rdfs:label]	left forelimb	
+WARN	missing_obsolete_label	right forelimb [XAO:0005273]	label [rdfs:label]	right forelimb	
+WARN	missing_obsolete_label	left hindlimb [XAO:0005274]	label [rdfs:label]	left hindlimb	
+WARN	missing_obsolete_label	right hindlimb [XAO:0005275]	label [rdfs:label]	right hindlimb	
+WARN	missing_obsolete_label	left part of brain [XAO:0005278]	label [rdfs:label]	left part of brain	
+WARN	missing_obsolete_label	right part of brain [XAO:0005279]	label [rdfs:label]	right part of brain	
 WARN	missing_obsolete_label	frog [XAO:1000009]	label [rdfs:label]	frog	
 INFO	missing_superclass	Xenopus anatomical entity [XAO:0000000]	rdfs:subClassOf		
 INFO	missing_superclass	Xenopus developmental stage [XAO:1000000]	rdfs:subClassOf		
